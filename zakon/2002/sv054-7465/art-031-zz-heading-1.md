@@ -1,0 +1,1 @@
+# VII. ПРЕСТАНОК HA KOMOPATA
