@@ -1,0 +1,2 @@
+# Фусноти
+МИНИСТЕРСТВО ЗА ТРУД И СОЦИЈАЛНА ПОЛИТИКА Со овој правилник се врши усогласување со COUNCIL DIRECTIVE 93/103/EC of 23 November 1993 concerning the minimum safety and health requirements for work on board fishing vessels (thirteenth individual Directive within the meaning of Article 16 (1) of Directive 89/391/EEC)директивата на Советот 93/103ЕЗ од 23 ноември 1993 година за минималните барања за безбедност и здравје при работа на рибарски бродови (тринаесетта поединечна Директива во смисла на член 16 (1) од Директивата 89/391/ЕЕЗ) CELEX бр.. 31993L0103
