@@ -1,0 +1,2 @@
+# Фусноти
+ОБРАЗЕЦ БР. 1/ FORMULARI NR. 1 СЛУЖБЕНА ЛЕГИТИМАЦИЈА IDENTIFIKIMI ZYRTAR м.п. потпис v.v nenshkrimi РЕПУБЛИКА СЕВЕРНА МАКЕДОНИЈА REPUBLIKA E MAQEDONISE SE VERIUT ВЛАДА НА РЕПУБЛИКА СЕВЕРНА МАКЕДОНИЈА QEVERIA E REPUBLIKES SE MAQEDONISE SE VERIUT АГЕНЦИЈА ЗА УПРАВУВАЊЕ СО ОДЗЕМЕН ИМОТ AGJENSIOINI PER MENAXHIMIN E PASURIS SE KONFISKUAR Датум на раѓање : Datelindja: Место на раѓање: Vendi I lindjes: Живеалиште: Vendbanimi : Архивски број: Numri i arhivit: Датум на издавање: Data e leshimit: Крвна група: Grupa e gjakut:
