@@ -1,0 +1,7 @@
+# Член 14-б
+Доколку поинаку не е утврдено со ЕУ Регулативите од член 3 став (1) на овој правилник, давателот на ATM/ANS услуги треба да ги усогласи методите на работа и оперативните процедури за давање на ATM/ANS услуги во воздушниот простор за кој е надлежен, со:
+- ICAO Doc. 4444 (PANS-ATM), Procedures for Air Navigation Services - Air Traffic Management (Процедури зa услугите на воздухопловната навигација - Управување со воздушниот сообраќај), вклучувајќи ги и сите амандмани заклучно со амандман бр. 14, кој се применува од 26 ноември 2026 година;
+- ICAO Doc. 8168 (PANS-OPS), Procedures for Air Navigation Services - Aircraft Operations (Процедури зa услугите на воздухопловната навигација - Операции co воздухоплови), Volume II - Construction of Visual and Instrument Flight Procedures, вклучувајќи ги и сите амандмани заклучно со амандман бр. 11;
+- ICAO Doc. 10066 (PANS-AIM), Procedures for Air Navigation Services - Aeronautical Information Management, (Процедури зa услугите на воздухопловната навигација - Управување со воздухопловни информации) вклучувајќи ги и сите амандмани заклучно со амандман бр. 5, кој се применува од 26 ноември 2026 година;
+- IСАО Doc. 10199 (PANS-IM), Procedures for Air Navigation Services - Information Management, (Процедури зa услугите на воздухопловната навигација - Управување со информации), прво издание, и
+- ICAO Doc. 10157 (PANS-MET), Procedures for Air Navigation Services - Meteorology, (Процедури зa услугите на воздухопловната навигација - Метеорологија), прво издание.“
