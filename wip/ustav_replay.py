@@ -89,7 +89,7 @@ class Replay:
             content = [p for k in pts for p in points[k]]
             # the instruction must name the numbers we use
             for num, word in ((art, "член"), (stav if not isinstance(stav, tuple) else None, "став"), (al, "алинеја")):
-                if num is not None and kind not in ("add_stav_end",):
+                if num is not None and kind != "add_stav_end" and not (word == "став" and "alinea" in kind and not re.search(r"\bстав", instr)):
                     self._check(re.search(rf"{word}\w*\s+{num}\b|{num}\s+на\s+{word}|\b{num}\b", instr),
                                 f"amendment {am}: instruction lacks {word} {num}: {instr}")
             if kind == "replace_art":

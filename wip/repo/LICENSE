@@ -1,0 +1,15 @@
+The legal texts are official texts of the Republic of North Macedonia (the Constitution of 1991 and its
+amendments), as published in Службен весник на Република Северна Македонија (slvesnik.com.mk, free issues)
+and in the certified copy of the Assembly of the Republic of North Macedonia (sobranie.mk), retrieved
+29 October 2026. Laws, other regulations and official acts are not protected by copyright under the Law on
+Copyright and Related Rights (Закон за авторското право и сродните права).
+
+Changes made by Lexifina: each amendment was applied by code to the provision its own instruction names;
+each version was converted to one Markdown file per provision, one paragraph or alinea per line; spacing
+and dashes were normalised and Latin look-alike letters inside Cyrillic words were made Cyrillic; and the
+versions were arranged as git commits credited to the amendments that made each change. The wording of the
+law was not changed. Neither the Official Gazette nor the Assembly endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
