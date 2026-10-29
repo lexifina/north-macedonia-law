@@ -32,7 +32,7 @@ for i, r in enumerate("I II III IV V VI VII VIII IX X XI XII XIII XIV XV XVI XVI
     ROMAN[r] = i
 
 RE_ART = re.compile(r"^\s*Член\s+(\d+)\s*$")
-RE_HEAD = re.compile(r"^\s*(?:[IVX]+\.\s+[А-ЯЃЌЅЉЊЏЈ]|\d\.\s+[А-ЯЃЌЅЉЊЏЈ][а-яѓќѕљњџј]+\s.*[^.;:,]\s*$)")
+RE_HEAD = re.compile(r"^\s*(?:[IVX]+\.\s+[А-ЯЃЌЅЉЊЏЈ]|\d\.\s+[А-ЯЃЌЅЉЊЏЈ][^.;:]*[^.;:,\s]\s*$)")
 RE_AMHEAD = re.compile(r"^\s*А\s*М\s*А\s*Н\s*Д\s*М\s*А\s*Н\s+([IVX]+)\s*$")
 RE_DECISION = re.compile(r"^\s*Врз основа на член")
 
@@ -42,6 +42,8 @@ def assembly_paragraphs(log):
     ls = pdftext.lines(path)
     for l in ls:
         l["text"] = l["text"].replace("с# ", "сè ")  # one glyph lost in the copy; see decisions
+        # a sentence glued to the next one without a space ("особености.Републиката")
+        l["text"] = re.sub(r"(?<=[а-яѓќѕљњџј][.;])(?=[А-ЯЃЌЅЉЊЏЈ])", " ", l["text"])
     right = max(l["x1"] for l in ls)
     struct = set()
     for i, l in enumerate(ls):
@@ -150,6 +152,58 @@ def parse_base(paras, log):
             amends[curam].append(t)
         j += 1
     return pre, order, arts, heads, amends
+
+
+def _norm_roman(t):
+    return t.replace("Х", "X").replace("І", "I")
+
+
+def gazette_text_paragraphs(fn, pages, vocab, log):
+    """Born-digital gazette pages -> paragraph texts (indented first line starts a paragraph).
+
+    Line-final hyphens join the word halves, except where the hyphenated compound is attested
+    elsewhere in the sources or the second half starts with a capital letter."""
+    gl = pdftext.gazette_paragraphs(fetch.get(GZ % fn), pages)
+    paras = []
+    for l in gl:
+        t = re.sub(r"\s+", " ", l["text"]).strip()
+        if not t:
+            continue
+        head = l["indent"] >= 32 or RE_AMHEAD.match(_norm_roman(t))
+        if not paras or l["start"] or head or paras[-1]["head"] or re.match(r"^[-–—] ", t):
+            paras.append({"text": t, "head": bool(head)})
+            continue
+        prev = paras[-1]["text"]
+        m = re.search(r"(\S+)-$", prev)
+        if m and re.search(r"\w-$", prev):
+            first = t.split()[0]
+            both = (m.group(1) + "-" + first).lower().strip(".,;:")
+            if first[:1].isupper() or both in vocab:
+                paras[-1]["text"] = prev + t
+                log.append(f"ustav: kept hyphen {m.group(1)}-{first}")
+            else:
+                paras[-1]["text"] = prev[:-1] + t
+        else:
+            paras[-1]["text"] = prev + " " + t
+    return [p["text"] for p in paras]
+
+
+def gazette_amendments(fn, pages, vocab, log):
+    """{amendment number: [paragraph texts]} from a born-digital gazette issue."""
+    out, cur = {}, None
+    for t in gazette_text_paragraphs(fn, pages, vocab, log):
+        m = RE_AMHEAD.match(_norm_roman(t))
+        if m:
+            cur = ROMAN[m.group(1)]; out[cur] = []; continue
+        if cur is None:
+            continue
+        if RE_DECISION.match(t) or t.startswith(("__", "СОБРАНИЕ НА", "О Д Л У К А")) or re.match(r"^\d+\.$", t):
+            cur = None; continue
+        out[cur].append(t)
+        if re.match(r"^\d+\. Со (овој амандман|точката)", t):  # the instruction point closes the amendment
+            out[cur][-1] = re.sub(r"\s+\d+\.$", "", t)
+            cur = None
+    return out
 
 
 def english_counts():

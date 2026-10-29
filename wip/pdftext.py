@@ -63,11 +63,13 @@ def gazette_paragraphs(path, pages, header_y=58, cols=2):
             continue
         merged.append(dict(l))
     for i, l in enumerate(merged):
-        near = [m["x0"] for m in merged if m["page"] == l["page"] and m["col"] == l["col"] and abs(m["y0"] - l["y0"]) < 90]
-        base = min(near)
+        # skewed scans: compare with the few full-width lines just above and below
+        near = [m["x0"] for m in merged if m["page"] == l["page"] and m["col"] == l["col"]
+                and abs(m["y0"] - l["y0"]) < 32 and m["x1"] - m["x0"] > 15 and not m["text"].strip().isdigit()]
+        base = min(near) if near else l["x0"]
         off = l["x0"] - base
         l["indent"] = off
-        l["start"] = 6 < off < 40
+        l["start"] = 9 < off < 32
     return merged
 
 
