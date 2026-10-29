@@ -1,0 +1,4 @@
+.cache/
+.tmp-*/
+.scaffold/
+__pycache__/
