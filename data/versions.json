@@ -1,0 +1,93 @@
+{
+ "country": "MK",
+ "acts": [
+  {
+   "slug": "ustav",
+   "short": "Устав",
+   "title": "Устав на Република Северна Македонија",
+   "url": "https://www.sobranie.mk/ustav-na-rm.nspx",
+   "versions": [
+    {
+     "from": "1991-11-17",
+     "units": 153,
+     "source_url": "https://www.sobranie.mk/WBStorage/Files/UstavnaRmizmeni.pdf",
+     "sha256": "8b14b8efa8a8e307255eb06c9336478435d2292ce9ff4dbe70614236dc3d0c77"
+    },
+    {
+     "from": "1992-01-06",
+     "units": 153,
+     "source_url": "https://www.sobranie.mk/WBStorage/Files/UstavnaRmizmeni.pdf",
+     "sha256": "8b14b8efa8a8e307255eb06c9336478435d2292ce9ff4dbe70614236dc3d0c77"
+    },
+    {
+     "from": "1998-07-01",
+     "units": 153,
+     "source_url": "https://www.sobranie.mk/WBStorage/Files/UstavnaRmizmeni.pdf",
+     "sha256": "8b14b8efa8a8e307255eb06c9336478435d2292ce9ff4dbe70614236dc3d0c77"
+    },
+    {
+     "from": "2001-11-16",
+     "units": 153,
+     "source_url": "https://www.sobranie.mk/WBStorage/Files/UstavnaRmizmeni.pdf",
+     "sha256": "8b14b8efa8a8e307255eb06c9336478435d2292ce9ff4dbe70614236dc3d0c77"
+    },
+    {
+     "from": "2003-12-26",
+     "units": 153,
+     "source_url": "https://slvesnik.com.mk/Issues/472A2EE4E20F2A47B337802CC8EFD4EB.pdf",
+     "sha256": "7f330dc933a5cfbbf5b3a536befe0740e6e71b78691b2e3aaf44a3fe8184d2c6"
+    },
+    {
+     "from": "2005-12-07",
+     "units": 152,
+     "source_url": "https://slvesnik.com.mk/Issues/8B3E1432BAD3E94093DF8D80D5959D92.pdf",
+     "sha256": "f6de5826b07f2eca056b2e8e9f2340c2e4fc2858de5335d342e288a44fd34693"
+    },
+    {
+     "from": "2009-01-09",
+     "units": 152,
+     "source_url": "https://slvesnik.com.mk/Issues/5AB84E6DEF83584C847BD8AACF735678.pdf",
+     "sha256": "513c4d411d871977ee7fd13827f71e2c2e703b9a2296e271f04bd68f34df03c2"
+    },
+    {
+     "from": "2011-04-12",
+     "units": 152,
+     "source_url": "https://slvesnik.com.mk/Issues/D51AC5D691C31243B94EFFEBBDA61E05.pdf",
+     "sha256": "8126486a7327473d6d9389120116a07914a14ba8fcf6ec8529b30c7bd996dfa5"
+    },
+    {
+     "from": "2019-02-12",
+     "units": 152,
+     "source_url": "https://slvesnik.com.mk/Issues/46e75d0202104cb8ba5b2786583518bb.pdf",
+     "sha256": "38a558febd072ffd9e924e647f46ffc6a41f6261ee311d0b2f0407d34d44109c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-za-zastita-na-licnite-podatoci",
+   "short": "ЗЗЛП",
+   "title": "Закон за заштита на личните податоци",
+   "url": "https://slvesnik.com.mk/Issues/606043d405e847ee92c7eaed5c8bd389.pdf",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 150,
+     "source_url": "https://slvesnik.com.mk/Issues/606043d405e847ee92c7eaed5c8bd389.pdf",
+     "sha256": "f4e06d64bd6b155ee5199648201ad7b7bcbed66752abf47a7556a5e14ae4dd17"
+    },
+    {
+     "from": "2022-01-04",
+     "units": 150,
+     "source_url": "https://slvesnik.com.mk/Issues/347ca6fd31344c17b804dab7b326c226.pdf",
+     "sha256": "e92dd4cb171e436f73049e1d0f3d14aba8b0acbb96080681cf927d8e4fae9eb1"
+    },
+    {
+     "from": "2025-05-21",
+     "units": 150,
+     "source_url": "https://slvesnik.com.mk/Issues/79b13c08eee04e138a6886642e4b0730.pdf",
+     "sha256": "f40219e435460bcb30b1ba7f268b49847258ea39688aef12becef3da218b0042"
+    }
+   ]
+  }
+ ]
+}
