@@ -473,6 +473,13 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     for a in c['acts']:
         a['_credit_fixes'] = fixes_by_act.get(a['slug'], [])  # shown in the act's README
     sub, based = to_append({**c, 'acts': [a for a in c['acts'] if a['slug'] not in unapproved]}, state, docs_date)
+    # Batch cap: at most GITLAW_MAX_NEW_ACTS new acts per append (in slug order; new versions of acts main already holds
+    # always go through), so a large backlog streams out in many short, fully checked pushes instead of one huge one.
+    max_new = int(os.environ.get('GITLAW_MAX_NEW_ACTS', '0') or 0)
+    if max_new:
+        new_slugs = sorted(a['slug'] for a in sub['acts'] if a['slug'] not in state)
+        keep_new = set(new_slugs[:max_new])
+        sub = {**sub, 'acts': [a for a in sub['acts'] if a['slug'] in state or a['slug'] in keep_new]}
     commits = B.plan(sub) if sub['acts'] else []
     commits = [x for x in commits if not (x['kind'] == 'start' and x['act']['slug'] in based)]
     existing_tags = set(git(repo, 'tag', '--list').split())

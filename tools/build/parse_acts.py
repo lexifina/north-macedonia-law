@@ -15,12 +15,22 @@ What becomes an act here: a law (Закон) whose text is the law as published,
 database gives, checked against the law's own final clause where that clause can be read. The promulgation decree
 (Указ) above the law is not part of it and is cut.
 
+An act the database marks no longer valid (Неактивен, with an end-of-validity day) gets a second version: no units, from
+that day. LDBIS records as the end of validity the day the repealing act enters into force (the first day the act is
+no longer valid), so the day is used only when an act the database links to it enters into force on that very day
+(its LDBIS in-force day, agreeing with its own final clause where that can be read) and no other linked act enters
+into force the day before or after. The removal is credited to that act when its text says the act ceases to be
+valid and cites the act's gazette number in the same article; otherwise to the publisher, as unexplained. An amending
+act gets the second version only with such a text: LDBIS also marks earlier amending acts no longer valid when a later
+amendment takes effect.
+
 An act is held back, not published (the reason is written to the report), when:
 - it is a principal law and the database links a later act to it (an amendment, a consolidated text, a court
-  decision, a replacing law): its text today may differ from the text as published;
+  decision, a replacing law): its text today may differ from the text as published; for an act no longer valid,
+  any linked act published before its end of validity other than the repealing act;
 - it is an amending law and a later linked act amends that amending law, or a Constitutional Court decision follows it;
 - a correction (Исправка) names it;
-- the database gives it an end-of-validity day (repealed or temporary);
+- the database gives it an end-of-validity day that is still to come, or one that no linked act explains as above;
 - its in-force day is missing, or its own final clause names a different day;
 - its text does not split cleanly into articles, or the PDF has no usable text layer.
 """
@@ -70,6 +80,9 @@ IN_FORCE = re.compile(r"(?:(?:Овој|Оваа|Ова|Овоj)\s+(?i:закон
 AMENDING = re.compile(r"^(?:Закон|Правилник|Уредба|Упатство|Наредба|Статут|Деловник)\s+за\s+(?:изменување|дополнување|изменувања|дополнувања)", re.I)
 COURT = re.compile(r"Уставен\s+суд|Уставниот\s+суд", re.I)
 CORRECTION = re.compile(r"^Исправка\s+на\s+(.+)$")
+REPEAL = re.compile(r"престанува(?:ат)?\s+да\s+(?:важ(?:и|ат)|се\s+применува(?:ат)?)|престануваат\s+да\s+важат"
+                    r"|престанува\s+со\s+важење|се\s+става(?:ат)?\s+вон\s+сила|престанаа\s+да\s+важат", re.I)
+RUNNING_HEAD = re.compile(r"\s*(?:Службен весник на (?:РСМ|РМ|Република)[^.]{0,80}?бр\.\s*\d+ од [\d.]+ ?година|\d+\s+од\s+\d+|\d{1,4})\s*")
 # Laws held elsewhere in this corpus (hand-built acts in corpus.json): never published twice.
 BUILT_ELSEWHERE = {("Закон за заштита на личните податоци", 42, 2020)}
 
@@ -327,6 +340,73 @@ def own_in_force(units: dict, published: str) -> tuple[str | None, str]:
     return None, "unreadable:" + c[:100]
 
 
+def flat_text(src: Path, i: int) -> str | None:
+    """An act's whole PDF text on one line (running heads and page numbers left out), or None without a text file."""
+    raw = src / "raw" / str(i // 1000) / f"{i}.json.gz"
+    if not raw.exists():
+        return None
+    data = json.loads(gzip.decompress(raw.read_bytes()).decode("utf-8"))
+    lines = sorted(data["lines"], key=lambda l: (l[0], round(l[4] / 3), l[2]))
+    return norm(" ".join(l[-1] for l in lines if not RUNNING_HEAD.fullmatch(norm(l[-1]))))
+
+
+def cites_repeal(text: str, issue: str, published: str) -> bool:
+    """The text says an act ceases to be valid and cites, next to that, the gazette number of the act published in
+    issue `issue` on `published` ("број 80/12", "бр. 80/2012", "број 142 од 13 ноември 2012 година")."""
+    y = published[:4]
+    d = date.fromisoformat(published)
+    month = [m for m, n in MONTHS.items() if n == d.month][0]
+    cite = re.compile(r"(?<![\d/.])" + re.escape(issue) + r"\s*/\s*(?:" + y + "|" + y[2:] + r")(?!\d)"
+                      r"|(?:број|бр\.)\s*" + re.escape(issue) + r"\s+од\s+(?:" + str(d.day) + r"\s+" + month + r"\s+" + y
+                      + r"|0?" + str(d.day) + r"\.\s?0?" + str(d.month) + r"\.\s?" + y + r")")
+    reps = [(m.start(), m.end()) for m in REPEAL.finditer(text)]
+    if not reps:
+        return False
+    # In the same article: the citation follows the phrase ("престанува да важи Законот за ... (број 14/06, 80/12)")
+    # or just precedes it, with no article heading in between.
+    art = re.compile(r"Член\s+\d")
+    for m in cite.finditer(text):
+        for s, e in reps:
+            if 0 <= m.start() - e <= 1500 and not art.search(text, e, m.start()):
+                return True
+            if 0 <= s - m.end() <= 400 and not art.search(text, m.end(), s):
+                return True
+    return False
+
+
+def gazette_name(pub: str) -> str:
+    return "Службен весник на Република Северна Македонија" if pub >= "2019-02-12" else "Службен весник на Република Македонија"
+
+
+def kind_slug(kind: str) -> str:
+    if kind in KINDS:
+        return KINDS[kind][0]
+    word = re.split(r"[\s(]", kind.strip().lower())[0]
+    return re.sub(r"[^a-z]", "", "".join(LAT.get(c, c) for c in word)) or "akt"
+
+
+def act_key(i: int, r: dict) -> str | None:
+    """The law key (and, for an act published here, the act slug) of an LDBIS record: <kind>-<year>-sv<issue>-<id>."""
+    pub = dmy(r.get("published"))
+    if not pub or not str(r.get("issue") or "").isdigit():
+        return None
+    return f"{kind_slug(r.get('kind') or '')}-{int(pub[:4])}-sv{int(r['issue']):03d}-{i}"
+
+
+def law_entry(i: int, r: dict, adopted: str | None) -> dict:
+    title = norm(r.get("title") or "")
+    pub = dmy(r["published"])
+    if r.get("kind") in KINDS:
+        lkind = KINDS[r["kind"]][2]
+    elif COURT.search(title):
+        lkind = "court"
+    else:
+        lkind = "law" if (r.get("kind") or "").endswith("акон") else "decree"
+    return {"label": f"{title} („{gazette_name(pub)}“ бр. {int(r['issue'])}/{pub[:4]})", "title": title, "kind": lkind,
+            "enacted": adopted, "published": pub, "url": PAGE_URL.format(id=i), "temporary_until": None,
+            "restores": None, "note": None}
+
+
 def subject(title: str) -> str:
     t = re.sub(r"\s+", " ", title.lower()).strip(" .")
     t = re.sub(r"\(пречистен текст\)", "", t).strip()
@@ -385,10 +465,97 @@ def main():
     laws = {i: r for i, r in recs.items() if r.get("kind") in KINDS and (r.get("text") or {}).get("sha256")}
     parts: dict[tuple, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
+
+    def split_of(i: int, title: str) -> dict | None:
+        """The split result of a law's text file (cached by file and title), or None without a text file."""
+        raw = src / "raw" / str(i // 1000) / f"{i}.json.gz"
+        if not raw.exists():
+            return None
+        st = raw.stat()
+        ck = f"{i}:{st.st_size}:{st.st_mtime_ns}:{title}"
+        hit = new_cache.get(ck) or cache.get(ck)
+        if hit is None:
+            data = json.loads(gzip.decompress(raw.read_bytes()).decode("utf-8"))
+            try:
+                if sum(len(x[-1]) for x in data["lines"]) < 200:
+                    raise Hold("no_text_layer")
+                hit = {"ok": split(paragraphs(merge_rows(data["lines"])), title, KINDS[recs[i]["kind"]][1]), "meta": data["meta"]}
+            except Hold as h:
+                hit = {"hold": str(h)}
+        new_cache[ck] = hit
+        return hit
+
+    def adopted_of(i: int) -> str | None:
+        """The adoption day read from a law's text, when it is consistent with its publication (else None)."""
+        r = recs[i]
+        if r.get("kind") not in KINDS or not (r.get("text") or {}).get("sha256"):
+            return None
+        hit = split_of(i, norm(r.get("title") or ""))
+        if not hit or "ok" not in hit:
+            return None
+        adopted, pub = hit["ok"][2], dmy(r["published"])
+        if adopted and adopted <= pub <= (date.fromisoformat(adopted) + timedelta(days=60)).isoformat():
+            return adopted
+        return None
+
+    def in_force_of(cid: int) -> str | None:
+        return dmy((recs.get(cid) or {}).get("in_force"))
+
+    def repeal_of(i: int, r: dict, ended: str, later: list, amending: bool) -> tuple[str, int, bool]:
+        """(end day, repealing act's id, whether its text names this act) for an act LDBIS marks no longer valid."""
+        end = dmy(ended)
+        if not end or not ended.endswith("Неактивен"):
+            raise Hold("end_of_validity_scheduled:" + ended)
+        e = date.fromisoformat(end)
+        around = {(e - timedelta(days=1)).isoformat(), (e + timedelta(days=1)).isoformat()}
+        on_day = [c for c in later if in_force_of(c[1]) == end]
+        if not on_day:
+            near = [c[1] for c in later if in_force_of(c[1]) in around]
+            raise Hold(("end_of_validity_off_by_one:" if near else "end_of_validity_unexplained:") + end
+                       + ("" if not near else " vs " + ",".join(map(str, near[:5]))))
+        named = []
+        for ct, cid, cday in on_day:
+            t = flat_text(src, cid)
+            if t is not None and cites_repeal(t, str(r["issue"]), dmy(r["published"])):
+                named.append(cid)
+        if len(named) == 1:
+            rep, is_named = named[0], True
+        elif len(on_day) == 1 and not named:
+            if amending:
+                # LDBIS also marks earlier amending acts no longer valid when a later amendment of the same act
+                # takes effect: without a text that repeals it, the day says nothing about the amending act itself.
+                raise Hold(f"end_of_validity_amending_not_named:{end} {on_day[0][1]}")
+            rep, is_named = on_day[0][1], False
+            rv = recs[rep]
+            if rv.get("version") == "Пречистена верзија" or AMENDING.match(norm(rv.get("title") or "")):
+                # an amendment or a consolidated text taking effect that day does not end the act
+                raise Hold(f"end_of_validity_linked_act_amends:{end} {rep}")
+            near = [c[1] for c in later if in_force_of(c[1]) in around]
+            if near:
+                raise Hold(f"end_of_validity_off_by_one:{end} vs " + ",".join(map(str, near[:5])))
+        else:
+            raise Hold("end_of_validity_repealer_ambiguous:" + ",".join(str(c[1]) for c in on_day[:5]))
+        rr = recs[rep]
+        rpub = dmy(rr.get("published"))
+        if not rpub or rpub > end:
+            raise Hold(f"end_of_validity_repealer_published_after:{rep}")
+        t = flat_text(src, rep)
+        if t is not None:
+            own, _how = own_in_force({"art-000": {"text": t}}, rpub)
+            if own and own != end:
+                raise Hold(f"end_of_validity_repealer_own_clause:{rep} ldbis {end} vs own clause {own}")
+        if not amending:
+            # A principal act: no linked act published before its end may have changed it in between.
+            before = [c[1] for c in later if c[1] != rep and c[2] < end]
+            if before:
+                raise Hold("end_of_validity_amended_before:" + ",".join(map(str, before[:5])))
+        return end, rep, is_named
+
     for i in sorted(laws):
         r = laws[i]
         title = norm(r.get("title") or "")
         pub = dmy(r.get("published"))
+        repeal = None
         try:
             if str(i) in rejects:
                 raise Hold("rejected:" + str(rejects[str(i)])[:200])
@@ -400,8 +567,6 @@ def main():
             if (title, iss, year) in BUILT_ELSEWHERE:
                 raise Hold("built_elsewhere")
             ended = (r.get("ended") or "").strip()
-            if ended and not ended.startswith(("Активен", "Нов")):
-                raise Hold("end_of_validity:" + ended)
             amending = r.get("version") == "Текст измена/дополна" or bool(AMENDING.match(title))
             later = []
             for ct, ciss, cday, cid in r.get("chain") or []:
@@ -409,34 +574,22 @@ def main():
                     continue
                 d = dmy(cday) or ""
                 if d > pub or (d == pub and cid > i):
-                    later.append((ct, cid))
-            if not amending and later:
-                raise Hold("later_linked_act:" + ",".join(str(c) for _, c in later[:5]))
+                    later.append((ct, cid, d))
+            if ended and not ended.startswith(("Активен", "Нов")):
+                repeal = repeal_of(i, r, ended, later, amending)
+            if not amending and later and repeal is None:
+                raise Hold("later_linked_act:" + ",".join(str(c[1]) for c in later[:5]))
             if amending:
-                bad = [c for ct, c in later if COURT.search(ct) or re.search(r"на\s+Законот\s+за\s+(?:изменување|дополнување)", ct)]
+                bad = [c for ct, c, _ in later if COURT.search(ct) or re.search(r"на\s+Законот\s+за\s+(?:изменување|дополнување)", ct)]
                 if bad:
                     raise Hold("amending_law_amended_or_ruled:" + ",".join(map(str, bad[:5])))
             for d, cid in corrections.get(subject(title), []):
                 if d >= pub:
                     raise Hold(f"correction:{cid}")
-            raw = src / "raw" / str(i // 1000) / f"{i}.json.gz"
-            if not raw.exists():
-                raise Hold("no_text_file")
             kslug, word, lkind = KINDS[r["kind"]]
-            st = raw.stat()
-            ck = f"{i}:{st.st_size}:{st.st_mtime_ns}:{title}"
-            hit = cache.get(ck)
+            hit = split_of(i, title)
             if hit is None:
-                data = json.loads(gzip.decompress(raw.read_bytes()).decode("utf-8"))
-                try:
-                    if sum(len(x[-1]) for x in data["lines"]) < 200:
-                        raise Hold("no_text_layer")
-                    hit = {"ok": split(paragraphs(merge_rows(data["lines"])), title, word), "meta": data["meta"]}
-                except Hold as h:
-                    hit = {"hold": str(h)}
-                new_cache[ck] = hit
-            else:
-                new_cache[ck] = hit
+                raise Hold("no_text_file")
             if "hold" in hit:
                 raise Hold(hit["hold"])
             data = {"meta": hit["meta"]}
@@ -453,6 +606,12 @@ def main():
                 raise Hold(f"in_force_before_publication:{day}")
             if adopted and not (adopted <= pub <= (date.fromisoformat(adopted) + timedelta(days=60)).isoformat()):
                 raise Hold(f"adoption_day_inconsistent:{adopted}")
+            if repeal:
+                if repeal[0] <= day:
+                    raise Hold(f"end_of_validity_not_after_in_force:{repeal[0]}")
+                ret = data["meta"].get("retrieved") or a.retrieved
+                if not ret or repeal[0] > ret:
+                    raise Hold(f"end_of_validity_after_retrieval:{repeal[0]}")
         except Hold as h:
             holds.append({"id": i, "sv": f"{r.get('issue')}/{(pub or '')[:4]}", "title": title[:160], "reason": str(h)})
             continue
@@ -467,11 +626,23 @@ def main():
         parts[(pk, year)]["laws"][slug] = {"label": label, "title": title, "kind": lkind, "enacted": adopted, "published": pub,
                                      "url": PAGE_URL.format(id=i), "temporary_until": None, "restores": None, "note": None}
         parts[(pk, year)].setdefault("_retrieved", set()).add(data["meta"].get("retrieved") or a.retrieved)
+        versions = [{"from": day, "source_url": PAGE_URL.format(id=i), "sha256": data["meta"]["sha256"],
+                     "units": units, "credits": {}, **({"note": note} if note else {})}]
+        if repeal:
+            end, rep, is_named = repeal
+            rkey = act_key(rep, recs[rep]) if is_named else None
+            if rkey:
+                parts[(pk, year)]["laws"].setdefault(rkey, law_entry(rep, recs[rep], adopted_of(rep)))
+                versions.append({"from": end, "source_url": PAGE_URL.format(id=rep),
+                                 **({"sha256": recs[rep]["text"]["sha256"]} if (recs[rep].get("text") or {}).get("sha256") else {}),
+                                 "units": {}, "credits": {k: [rkey] for k in units}})
+            else:
+                versions.append({"from": end, "source_url": PAGE_URL.format(id=i), "units": {}, "credits": {},
+                                 "note": "По базата LDBIS, актот престанува да важи на овој ден; прописот со кој "
+                                         "престанува да важи не е утврден."})
         parts[(pk, year)]["acts"].append({
             "slug": slug, "short": title, "title": title, "url": PAGE_URL.format(id=i), "first_law": slug,
-            "earlier_laws": [],
-            "versions": [{"from": day, "source_url": PAGE_URL.format(id=i), "sha256": data["meta"]["sha256"],
-                          "units": units, "credits": {}, **({"note": note} if note else {})}]})
+            "earlier_laws": [], "versions": versions})
     parts_dir = Path(a.out) if a.out else PARTS
     parts_dir.mkdir(exist_ok=True)
     written = []
@@ -491,7 +662,14 @@ def main():
             "day, the two must agree or the law is held back. A different application day is noted on the version.",
             "A principal law is published only when LDBIS links no later act to it (no amendment, consolidated text, "
             "court decision or replacing law); an amending law only when no later act amends it and no Constitutional "
-            "Court decision follows it; never when a correction names it or LDBIS records an end of validity.",
+            "Court decision follows it; never when a correction names it.",
+            "A law LDBIS marks no longer valid gets a second version with no text, from its end-of-validity day, which "
+            "LDBIS records as the day the repealing act enters into force. It is published only when a linked act "
+            "enters into force on that very day (by LDBIS, and by its own final article where that can be read), no "
+            "other linked act enters into force the day before or after, and, for a principal law, no other linked act "
+            "was published before that day. The removal is credited to that act when its text says the law ceases to "
+            "be valid and cites its gazette number in the same article; otherwise to the publisher, as unexplained. An "
+            "amending law gets this version only when such a text names it.",
             "Paragraphs follow the PDF's layout (a new block, an indented first line or a centred line starts one); a "
             "centred line just above an article is its caption, other centred lines are headings."]
         p["ai_use"] = ["none"]
@@ -504,8 +682,9 @@ def main():
         pub_f = f.with_suffix(".PUBLISH")
         if not pub_f.exists():
             pub_f.write_text("Parsed from LDBIS records and the Official Gazette text of each law; one version, as "
-                             "published; in-force day from LDBIS checked against the law's own clause; held back: laws "
-                             "with later linked acts, corrections or an end of validity (parse_acts.py).\n",
+                             "published; in-force day from LDBIS checked against the law's own clause; laws no longer "
+                             "valid end with an empty version on the repealing act's in-force day; held back: laws "
+                             "with later linked acts, corrections or an unexplained end of validity (parse_acts.py).\n",
                              encoding="utf-8", newline="\n")
         written.append((f.name, len(p["acts"])))
     # Parts of years that no longer hold any act (all held back now) are removed, so a stale part is never read.
