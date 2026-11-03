@@ -1,0 +1,28 @@
+# Уредба за начинот на идентификација на областите и подобластите и видовите субјекти заради утврдување на деталната листа на области и видови на субјекти од областите со висока критичност и деталната листа на подобласти и видови на субјекти во другите критични области, начинот на класификација на деталната листа на суштински субјекти и деталната листа на важни субјекти, формата и содржината на деталната листа на области и видови на субјекти од областите со висока критичност, деталната листа на подобласти и видови на субјекти во другите критични области, деталната листа на суштински субјекти и деталната листа на важни субјекти, како и формата, содржината и начинот на водење на регистарот на области со висока критичност, регистарот на други критични области, регистарот на суштински субјекти и регистарот на важни субјекти
+
+Уредба за начинот на идентификација на областите и подобластите и видовите субјекти заради утврдување на деталната листа на области и видови на субјекти од областите со висока критичност и деталната листа на подобласти и видови на субјекти во другите критични области, начинот на класификација на деталната листа на суштински субјекти и деталната листа на важни субјекти, формата и содржината на деталната листа на области и видови на субјекти од областите со висока критичност, деталната листа на подобласти и видови на субјекти во другите критични области, деталната листа на суштински субјекти и деталната листа на важни субјекти, како и формата, содржината и начинот на водење на регистарот на области со висока критичност, регистарот на други критични области, регистарот на суштински субјекти и регистарот на важни субјекти · 1 versions, from 2026-06-19 (latest in force: 2026-06-19) · <https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74052>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Член 1 | [art-001.md](art-001.md) | 0 |  |
+| Член 2 | [art-002.md](art-002.md) | 0 |  |
+| Член 3 | [art-003.md](art-003.md) | 0 |  |
+| Член 4 | [art-004.md](art-004.md) | 0 |  |
+| Формата и содржината на деталната листа на области и видови на субјекти од областите со висока критичност и деталната листа на подобласти и видови на | [art-004-zz-heading-1.md](art-004-zz-heading-1.md) | 0 |  |
+| Член 5 | [art-005.md](art-005.md) | 0 |  |
+| Формата и содржината на деталната листа на суштински субјекти и деталната | [art-005-zz-heading-1.md](art-005-zz-heading-1.md) | 0 |  |
+| Член 6 | [art-006.md](art-006.md) | 0 |  |
+| Член 7 | [art-007.md](art-007.md) | 0 |  |
+| Форма, содржина и начин на водење на регистарот на суштински субјекти и | [art-007-zz-heading-1.md](art-007-zz-heading-1.md) | 0 |  |
+| Член 8 | [art-008.md](art-008.md) | 0 |  |
+| Член 9 | [art-009.md](art-009.md) | 0 |  |
+| Вовед | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `uredba-2026-sv133-74052` (tags `uredba-2026-sv133-74052/<day>`; `python tools/on.py <day> uredba-2026-sv133-74052`).
+
+## Decisions made by hand
+
+- A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.
+- Its one version takes effect on the in-force day LDBIS records; where the law's own final article names its day, the two must agree or the law is held back. A different application day is noted on the version.
+- A principal law is published only when LDBIS links no later act to it (no amendment, consolidated text, court decision or replacing law); an amending law only when no later act amends it and no Constitutional Court decision follows it; never when a correction names it or LDBIS records an end of validity.
+- Paragraphs follow the PDF's layout (a new block, an indented first line or a centred line starts one); a centred line just above an article is its caption, other centred lines are headings.

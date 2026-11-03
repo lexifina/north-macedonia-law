@@ -1,0 +1,44 @@
+# Правилник за начинот на пресметка на годишниот надоместок за користење на радиофреквенции
+
+Правилник за начинот на пресметка на годишниот надоместок за користење на радиофреквенции · 1 versions, from 2026-06-01 (latest in force: 2026-06-01) · <https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73879>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| I. ОПШТИ ОДРЕДБИ | [0-heading-1.md](0-heading-1.md) | 0 |  |
+| Член 1 | [art-001.md](art-001.md) | 0 |  |
+| Член 2 | [art-002.md](art-002.md) | 0 |  |
+| Член 3 | [art-003.md](art-003.md) | 0 |  |
+| III. КОПНЕНА МОБИЛНА СЛУЖБА | [art-003-zz-heading-1.md](art-003-zz-heading-1.md) | 0 |  |
+| Член 4 | [art-004.md](art-004.md) | 0 |  |
+| IV. РАДИОДИФУЗНА СЛУЖБА | [art-004-zz-heading-1.md](art-004-zz-heading-1.md) | 0 |  |
+| Член 5 | [art-005.md](art-005.md) | 0 |  |
+| V. САТЕЛИТСКА СЛУЖБА | [art-005-zz-heading-1.md](art-005-zz-heading-1.md) | 0 |  |
+| Член 6 | [art-006.md](art-006.md) | 0 |  |
+| - за VЅАТ терминал 87 - за SNG сателитска станица 350 | [art-006-zz-heading-1.md](art-006-zz-heading-1.md) | 0 |  |
+| VI. ВОЗДУХОПЛОВНА СЛУЖБА, РАДИОНАВИГАЦИСКА СЛУЖБА И ВНАТРЕШНА | [art-006-zz-heading-2.md](art-006-zz-heading-2.md) | 0 |  |
+| ПЛОВИДБА | [art-006-zz-heading-3.md](art-006-zz-heading-3.md) | 0 |  |
+| Член 7 | [art-007.md](art-007.md) | 0 |  |
+| VII. СЛУЖБИ ЗА ПОСЕБНА НАМЕНА | [art-007-zz-heading-1.md](art-007-zz-heading-1.md) | 0 |  |
+| Член 8 | [art-008.md](art-008.md) | 0 |  |
+| VIII. ПРЕНЕСУВАЊЕ ИЛИ ИЗДАВАЊЕ НА ПРАВОТО НА КОРИСТЕЊЕ НА | [art-008-zz-heading-1.md](art-008-zz-heading-1.md) | 0 |  |
+| РАДИОФРЕКВЕНЦИИ | [art-008-zz-heading-2.md](art-008-zz-heading-2.md) | 0 |  |
+| Член 9 | [art-009.md](art-009.md) | 0 |  |
+| IX. ИЗМЕНА НА ОДОБРЕНИЕТО ЗА КОРИСТЕЊЕ НА РАДИОФРЕКВЕНЦИИ | [art-009-zz-heading-1.md](art-009-zz-heading-1.md) | 0 |  |
+| Член 10 | [art-010.md](art-010.md) | 0 |  |
+| X. ПРИВРЕМЕНО КОРИСТЕЊЕ НА РАДИОФРЕКВЕНЦИИ | [art-010-zz-heading-1.md](art-010-zz-heading-1.md) | 0 |  |
+| Член 11 | [art-011.md](art-011.md) | 0 |  |
+| XI. НАЧИН НА ПЛАЌАЊЕ | [art-011-zz-heading-1.md](art-011-zz-heading-1.md) | 0 |  |
+| Член 12 | [art-012.md](art-012.md) | 0 |  |
+| XII. ЗАВРШНИ ОДРЕДБИ | [art-012-zz-heading-1.md](art-012-zz-heading-1.md) | 0 |  |
+| Член 13 | [art-013.md](art-013.md) | 0 |  |
+| Член 14 | [art-014.md](art-014.md) | 0 |  |
+| Вовед | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `pravilnik-2026-sv116-73879` (tags `pravilnik-2026-sv116-73879/<day>`; `python tools/on.py <day> pravilnik-2026-sv116-73879`).
+
+## Decisions made by hand
+
+- A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.
+- Its one version takes effect on the in-force day LDBIS records; where the law's own final article names its day, the two must agree or the law is held back. A different application day is noted on the version.
+- A principal law is published only when LDBIS links no later act to it (no amendment, consolidated text, court decision or replacing law); an amending law only when no later act amends it and no Constitutional Court decision follows it; never when a correction names it or LDBIS records an end of validity.
+- Paragraphs follow the PDF's layout (a new block, an indented first line or a centred line starts one); a centred line just above an article is its caption, other centred lines are headings.
