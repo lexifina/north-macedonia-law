@@ -1,6 +1,6 @@
 # Every act in this repository
 
-575 acts, 585 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+583 acts, 593 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ustav (1)
 
@@ -8,10 +8,18 @@
 | --- | --- | --- | ---: | --- | --- |
 | Устав на Република Северна Македонија | [`ustav/`](ustav/) | in force | 9 | 1991-11-17 | 2019-02-12 |
 
-## zakon (573, of which 462 amending acts)
+## zakon (581, of which 467 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Закон за изменување и дополнување на Законот за извршување | [`zakon/2023/sv154-63684/`](zakon/2023/sv154-63684/) | amending act | 1 | 2023-07-20 | 2023-07-20 |
+| Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги | [`zakon/2023/sv154-63685/`](zakon/2023/sv154-63685/) | amending act | 1 | 2023-07-28 | 2023-07-28 |
+| Закон за гаранција на Република Северна Македонија на обврските по Договорот за заем за финансирање на Проектот за поддршка на ликвидноста на АД ЕСМ - Скопје во услови на енергетска криза, кој ќе се склучи меѓу Европската банка за обнова и развој и Акционерското друштво за производство на електрична енергија Електрани на Северна Македонија, во државна сопственост, Скопје | [`zakon/2023/sv154-63686/`](zakon/2023/sv154-63686/) | in force | 1 | 2023-07-20 | 2023-07-20 |
+| Закон за изменување и дополнување на Законот за следење на комуникациите | [`zakon/2023/sv154-63687/`](zakon/2023/sv154-63687/) | amending act | 1 | 2023-07-28 | 2023-07-28 |
+| Закон за изменување и дополнување на Законот за финансиските друштва | [`zakon/2023/sv154-63689/`](zakon/2023/sv154-63689/) | amending act | 1 | 2023-07-28 | 2023-07-28 |
+| Закон за изменување на Законот за здравственото осигурување | [`zakon/2023/sv154-63690/`](zakon/2023/sv154-63690/) | amending act | 1 | 2023-07-20 | 2023-07-20 |
+| Закон за ратификација на Спогодбата за соработка во областа на ветеринарството, безбедноста на храна и на добиточна храна и фитосанитарна област во Западен Балкан | [`zakon/2023/sv155-63693/`](zakon/2023/sv155-63693/) | in force | 1 | 2023-07-29 | 2023-07-29 |
+| Закон за ратификација на Договорот за правниот статус на мисиите и претставниците на трети држави при Организацијата на Северноатлантскиот договор | [`zakon/2023/sv155-63696/`](zakon/2023/sv155-63696/) | in force | 1 | 2023-07-29 | 2023-07-29 |
 | Закон за дополнување на Законот за семенски и саден материјал за земјоделски растенија | [`zakon/2023/sv199-64236/`](zakon/2023/sv199-64236/) | in force | 1 | 2023-10-03 | 2023-10-03 |
 | Закон за изменување и дополнување на Законот за семејството | [`zakon/2023/sv199-64238/`](zakon/2023/sv199-64238/) | amending act | 1 | 2023-10-03 | 2023-10-03 |
 | Закон за изменување на Законот за здравствената заштита | [`zakon/2023/sv199-64240/`](zakon/2023/sv199-64240/) | amending act | 1 | 2023-09-25 | 2023-09-25 |
