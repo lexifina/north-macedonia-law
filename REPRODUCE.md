@@ -70,6 +70,15 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
 | ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
 | ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -77,21 +86,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 4163 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 4173 | |
+| 4741 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 4751 | |
 
-The build made 4201 commits:
+The build made 4779 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4163 | first version of an act |
+| 4741 | first version of an act |
 | 38 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `idno`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 4201 laws in the record.
-- 8374 tags.
+- 4779 laws in the record.
+- 9530 tags.
 
 ## Dates
 
@@ -103,7 +112,7 @@ When a law gives no date of its own, the default rule applies: Устав чл. 
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `4add64016cd539f6e190560a4f33be8fcf3c300316bc0ddbd070a537baff020d` (58009856 bytes).
+- Corpus: sha256 `15f51efa3ff5b5e6c59b27bef488fee47c5bcb9abdf914f952bb8b2304b14a54` (63112551 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -115,7 +124,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (269 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (305 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -127,6 +136,15 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model produced or edited any text or data; parsing is rule-based Python.
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
+- none
 - none
 - none
 - none
