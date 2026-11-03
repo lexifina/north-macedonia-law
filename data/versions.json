@@ -92,6 +92,141 @@
    ]
   },
   {
+   "slug": "zakon-2023-sv060-62454",
+   "path": "zakon/2023/sv060-62454",
+   "short": "Закон за дополнување на Законот за лековите и медицинските средства",
+   "title": "Закон за дополнување на Законот за лековите и медицинските средства",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62454",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62454",
+     "sha256": "677bb816eacb9b0d1a0fa1ae97dba92db22c22ec7d595ce1ebb4e7a7fdb3d1f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv065-62570",
+   "path": "zakon/2023/sv065-62570",
+   "short": "Закон за изменување и дополнување на Законот за Собранието на Република Македонија",
+   "title": "Закон за изменување и дополнување на Законот за Собранието на Република Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62570",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62570",
+     "sha256": "e3c5cf23128f7726cc76b4f43d2111063b6c142d7d8c456333fc43b43b0ec60e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv065-62571",
+   "path": "zakon/2023/sv065-62571",
+   "short": "Закон за амнестија",
+   "title": "Закон за амнестија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62571",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62571",
+     "sha256": "e3bc182e79e3df13cfcba087194a4812057c8308a90c6915c67956f412a80c2e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv065-62572",
+   "path": "zakon/2023/sv065-62572",
+   "short": "Закон за изменување на Законот за враќање на дел од данокот на додадена вредност на физичките лица",
+   "title": "Закон за изменување на Законот за враќање на дел од данокот на додадена вредност на физичките лица",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62572",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62572",
+     "sha256": "f9541c92743c310160f88c22532d9fc539438d28c72705379772e950e9ee262b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv065-62573",
+   "path": "zakon/2023/sv065-62573",
+   "short": "Закон за дополнување на Законот за концесии и јавно приватно партнерство",
+   "title": "Закон за дополнување на Законот за концесии и јавно приватно партнерство",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62573",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62573",
+     "sha256": "fe1cd2dd737e34dc364ad4aaab2e53a2318080a475713e6c81b3342c1c055bbb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv065-62574",
+   "path": "zakon/2023/sv065-62574",
+   "short": "Закон за дополнување на Законот за патните исправи на државјаните на Република Северна Македонија",
+   "title": "Закон за дополнување на Законот за патните исправи на државјаните на Република Северна Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62574",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62574",
+     "sha256": "c564434e881c2a69b55a52793f19ab0ec9b83c0d8e70609f8790c36092cf9d8a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv065-62575",
+   "path": "zakon/2023/sv065-62575",
+   "short": "Закон за изменување на Законот за социјалната заштита",
+   "title": "Закон за изменување на Законот за социјалната заштита",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62575",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62575",
+     "sha256": "b19d9adb368aa39248d9ea958f1f6960e99d607238f9bc455a274185522b1b26"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv065-62577",
+   "path": "zakon/2023/sv065-62577",
+   "short": "Закон за изменување на Законот за земјоделство и рурален развој",
+   "title": "Закон за изменување на Законот за земјоделство и рурален развој",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62577",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62577",
+     "sha256": "a58afe02f121e1e9208880944908b7eefc3655bde770d1793c02c6da38496079"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv065-62578",
+   "path": "zakon/2023/sv065-62578",
+   "short": "Закон за дополнување на Законот за служба во Армијата на Република Северна Македонија",
+   "title": "Закон за дополнување на Законот за служба во Армијата на Република Северна Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62578",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62578",
+     "sha256": "22847cdab5b26f888fce25cddc3df9392d89e52d567d5755513a6918571859e3"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2023-sv066-62589",
    "path": "zakon/2023/sv066-62589",
    "short": "Закон за ратификација на Протоколот 16 кон Европската конвенција за заштита на човековите права и основните слободи",
@@ -9392,6 +9527,81 @@
    ]
   },
   {
+   "slug": "pravilnik-2023-sv052-62346",
+   "path": "pravilnik/2023/sv052-62346",
+   "short": "Правилник за изменување и дополнување на Правилникот за одржување на катастарот на недвижностите",
+   "title": "Правилник за изменување и дополнување на Правилникот за одржување на катастарот на недвижностите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62346",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62346",
+     "sha256": "4de444b179e9d2ef721bd3b941307c900bb5a6f86792ebf910336ec5052748b0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sv052-62347",
+   "path": "pravilnik/2023/sv052-62347",
+   "short": "Правилник за изменување и дополнување на Правилникот за геодетски работи за посебни намени",
+   "title": "Правилник за изменување и дополнување на Правилникот за геодетски работи за посебни намени",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62347",
+   "versions": [
+    {
+     "from": "2023-03-10",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62347",
+     "sha256": "8b2eb1cf8f779963213de3919b9b4dadec23cb29e717d2cf65b3cc35f1103ad7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sv052-62348",
+   "path": "pravilnik/2023/sv052-62348",
+   "short": "Правилник за изменување и дополнување на Правилникот за премер на недвижности",
+   "title": "Правилник за изменување и дополнување на Правилникот за премер на недвижности",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62348",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62348",
+     "sha256": "ab08360ca6f1ffddd222cb040f1edea170c7d5fcf10de9a5d9be6f64f5ce3823"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sv054-62355",
+   "path": "pravilnik/2023/sv054-62355",
+   "short": "Правилник за изменување на Правилникот за формата и содржината на образецот на барањето за издавање лиценца за продажба на алкохолни пијалaци, формата и содржината на образецот на лиценцата за продажба на алкохолни пијалaци и формата, содржината и начинот на водење на регистарот за издадени и одземени лиценци",
+   "title": "Правилник за изменување на Правилникот за формата и содржината на образецот на барањето за издавање лиценца за продажба на алкохолни пијалaци, формата и содржината на образецот на лиценцата за продажба на алкохолни пијалaци и формата, содржината и начинот на водење на регистарот за издадени и одземени лиценци",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62355",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62355",
+     "sha256": "59184fb878b68c982284fa850aed910038829e5dc1c0e822e941ace2143b2ce0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sv065-62586",
+   "path": "pravilnik/2023/sv065-62586",
+   "short": "Правилник за изменување и дополнување на Правилникот за составот, квалитетот и кројот на униформата и ознаките на униформата на Полицијата",
+   "title": "Правилник за изменување и дополнување на Правилникот за составот, квалитетот и кројот на униформата и ознаките на униформата на Полицијата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62586",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62586",
+     "sha256": "066c7a41e5a3bad8cf1a8cfdb65dedcd46c392a04efaedd88e20b99e6d69679e"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2023-sv065-62587",
    "path": "pravilnik/2023/sv065-62587",
    "short": "Правилник за изменување на Правилникот за носењето, времето на траење и распределбата на униформата и ознаките на униформата на Полицијата",
@@ -9433,6 +9643,21 @@
      "units": 7,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62632",
      "sha256": "5e99bd81aa83e601acff5a17fec3b4632bdd83fca6de1990bf50f1ca1ba9617e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2023-sv071-62633",
+   "path": "pravilnik/2023/sv071-62633",
+   "short": "Правилник за сметковниот план, формата и содржината на основните финансиски извештаи и дополнителните извештаи за задолжителните и доброволните пензиски фондови",
+   "title": "Правилник за сметковниот план, формата и содржината на основните финансиски извештаи и дополнителните извештаи за задолжителните и доброволните пензиски фондови",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62633",
+   "versions": [
+    {
+     "from": "2023-04-04",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62633",
+     "sha256": "3e48913f78196b0bf028053d155d8059c8848b7e95ab107cdcb3d52d74aa133d"
     }
    ]
   },
@@ -19472,6 +19697,21 @@
    ]
   },
   {
+   "slug": "upatstvo-2023-sv075-62669",
+   "path": "upatstvo/2023/sv075-62669",
+   "short": "Упатство за семејно планирање",
+   "title": "Упатство за семејно планирање",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62669",
+   "versions": [
+    {
+     "from": "2023-04-08",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62669",
+     "sha256": "1be04e2dbda5952ace64d499a2177c1d66706c0381949328f7a189db7b04a7db"
+    }
+   ]
+  },
+  {
    "slug": "upatstvo-2024-sv233-68310",
    "path": "upatstvo/2024/sv233-68310",
    "short": "Упатство за начинот на бришење на податоците во евиденциите што ги води полицијата",
@@ -19768,6 +20008,21 @@
      "units": 6,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74814",
      "sha256": "0110e4db5902f1037ee049880e82e808a51797bd3612a2caf4174e8dad78b013"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-sv065-62580",
+   "path": "uredba/2023/sv065-62580",
+   "short": "Уредба за изменување на Уредбата за униформата и ознаките на униформата на полицијата",
+   "title": "Уредба за изменување на Уредбата за униформата и ознаките на униформата на полицијата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62580",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62580",
+     "sha256": "910b34849911b06c991eae72378d914f07bc841a8d9d32eb4b1ef53f90c382fe"
     }
    ]
   },
