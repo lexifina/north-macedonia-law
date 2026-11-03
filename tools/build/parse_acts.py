@@ -24,10 +24,15 @@ valid and cites the act's gazette number in the same article; otherwise to the p
 act gets the second version only with such a text: LDBIS also marks earlier amending acts no longer valid when a later
 amendment takes effect.
 
+An act with no numbered articles at all (an instruction or order made of points or paragraphs) is one unit, the text
+from its title to its signature, when its own in-force clause is there and agrees and the text is clean. Acts released
+by this rule, or by the citing-acts exception below, go to parts of their own (60-<kind>-<year>.json).
+
 An act is held back, not published (the reason is written to the report), when:
 - it is a principal law and the database links a later act to it (an amendment, a consolidated text, a court
-  decision, a replacing law): its text today may differ from the text as published; for an act no longer valid,
-  any linked act published before its end of validity other than the repealing act;
+  decision, a replacing law): its text today may differ from the text as published; unless every later linked act
+  is an original bylaw whose text cites the act only in its enacting formula or in articles that change nothing;
+  for an act no longer valid, any linked act published before its end of validity other than the repealing act;
 - it is an amending law and a later linked act amends that amending law, or a Constitutional Court decision follows it;
 - a correction (Исправка) names it;
 - the database gives it an end-of-validity day that is still to come, or one that no linked act explains as above;
@@ -340,6 +345,138 @@ def own_in_force(units: dict, published: str) -> tuple[str | None, str]:
     return None, "unreadable:" + c[:100]
 
 
+CYR_UP, CYR_LO = "А-ШЃЌЅЈЉЊЏЀЍ", "а-шѓќѕјљњџѐѝ"
+UNCLEAN = [
+    ("odd_character", re.compile(r"[^\sA-Za-z0-9" + CYR_UP + CYR_LO + r".,;:!?()\[\]/%+*=§№°<>&@#_'\"„“”‚‘«»…\-]")),
+    ("doubled_capital", re.compile(r"(?<![" + CYR_UP + r"])([" + CYR_UP + r"])\1[" + CYR_LO + r"]")),
+    ("glued_words", re.compile(r"[" + CYR_LO + r"][" + CYR_UP + r"]")),
+    ("glued_number", re.compile(r"\d[" + CYR_LO + r"]{3,}")),
+    ("mixed_script", re.compile(r"[A-Za-z][" + CYR_UP + CYR_LO + r"]|[" + CYR_UP + CYR_LO + r"][A-Za-z]")),
+    ("long_token", re.compile(r"[" + CYR_UP + CYR_LO + r"]{31,}")),
+    # short words typed in Latin letters that look Cyrillic ("a ce упатени"): the wrong letters, though they look right
+    # (Roman numerals, "I." "II." "X.", are not words)
+    ("latin_lookalike", re.compile(r"(?<![A-Za-z])(?![IVXLCDM]+(?![A-Za-z]))[aceojpxyiACEOJPXYKMTHBI]{1,3}(?![A-Za-z])")),
+]
+
+
+def flat_split(paras: list[dict], db_title: str, word: str) -> tuple[dict, str, None]:
+    """(units, title, None) for an act with no numbered articles at all (a short instruction or order made of points
+    or paragraphs): the enacting formula as the preamble and the whole text, up to the signature, as one unit.
+    Raises Hold unless the text is clean: no stray characters, no words run together, no letters doubled by a font
+    mapping (the Gazette's quotes extracted as letters)."""
+    if word == "ЗАКОН":
+        raise Hold("no_articles")  # a law always has articles: none found means the text did not extract cleanly
+    if any(p.get("foot") for p in paras):
+        raise Hold("no_articles")
+    texts = [p["text"] for p in paras]
+    if any(re.match(r"^Член\s*\d", t) for t in texts):
+        raise Hold("no_articles")  # articles there but not laid out as headings: not one text
+    starter = title_start(word)
+    start = next((i for i, t in enumerate(texts) if starter.match(t) and t == t.upper()), None)
+    if start is None:
+        raise Hold("no_title_line")
+    k0 = next((j for j, t in enumerate(texts[:start]) if t.startswith(("Врз основа", "Согласно", "Врз основ"))), None)
+    if k0 is None:
+        raise Hold("no_enacting_formula")
+    preamble = texts[k0:start]
+    title = starter.sub(word + " ", texts[start], count=1).strip()
+    k = start + 1
+    while k < len(texts) and texts[k] == texts[k].upper() and not HEAD_WORDS.match(texts[k]) \
+            and len(title) < len(db_title) - 2 and re.search(r"[А-Ш]", texts[k]):
+        title += " " + texts[k]
+        k += 1
+    body = texts[k:]
+    cut = next((j for j in range(1, len(body)) if SIGNATURE.match(body[j])), None)
+    if cut is None or sum(len(x) for x in body[cut:]) > 400:
+        raise Hold("no_signature")
+    while cut > 1 and len(body[cut - 1]) < 60 and not re.search(r"[.,;:“”\"]$", body[cut - 1]):
+        cut -= 1
+    body = body[:cut]
+    if sum(len(x) for x in body) < 100:
+        raise Hold("flat_text_too_short")
+    for name, rx in UNCLEAN:
+        for t in [title] + preamble + body:
+            if rx.search(t):
+                raise Hold(f"flat_text_unclean:{name}:{rx.search(t).group(0)}")
+    # a word split at a line end with its hyphen left in ("лабора-ториски", "си-те"); real compounds ("жиро-сметка")
+    # cannot be told apart from these without a dictionary, so any hyphen between two lower-case letters holds the act
+    for t in [title] + preamble + body:
+        m = re.search(r"[" + CYR_LO + r"]-[" + CYR_LO + r"]", t)
+        if m:
+            raise Hold(f"flat_text_unclean:hyphen_in_word:{t[max(0, m.start() - 8):m.end() + 8]}")
+    # a paragraph broken in the middle of a sentence: a line ending in a word or a comma and the next one going on in
+    # lower case
+    for a_, b_ in zip(preamble + body, (preamble + body)[1:]):
+        if re.search(r"[" + CYR_LO + CYR_UP + r",]$", a_) and re.match(r"[" + CYR_LO + r"]", b_):
+            raise Hold(f"flat_text_unclean:broken_paragraph:{a_[-20:]}")
+    # forms and tables come out of the PDF as runs of short cells and column numbers, not as text
+    if any(re.fullmatch(r"(?:\d+\s+){3,}\d+|_{3,}.*|.*_{5,}.*", t) for t in body) \
+            or sum(1 for t in body if len(t) < 30) > max(2, len(body) // 5):
+        raise Hold("flat_text_unclean:table_layout")
+    units = {"uvod": {"label": "Вовед", "kind": "preamble", "text": "\n".join(preamble) + "\n"},
+             "tekst": {"label": "Текст", "kind": "text", "text": "\n".join(body) + "\n"}}
+    return units, norm(title), None
+
+
+LINK_AMEND_WORDS = re.compile(
+    r"се\s+(?:менува|менуваат|изменува|изменуваат|дополнува|дополнуваат|брише|бришат|заменува|заменуваат|додава|додаваат)"
+    r"|изменување|дополнување|престанува|престануваат|престанаа|вон\s+сила|се\s+укинува|се\s+укинуваат"
+    r"|не\s+се\s+применува", re.I)
+
+
+def gazette_cite(issue: str, published: str) -> re.Pattern:
+    y = published[:4]
+    d = date.fromisoformat(published)
+    month = [m for m, n in MONTHS.items() if n == d.month][0]
+    return re.compile(r"(?<![\d/.])" + re.escape(issue) + r"\s*/\s*(?:" + y + "|" + y[2:] + r")(?!\d)"
+                      r"|(?:број|бр\.)\s*" + re.escape(issue) + r"\s+од\s+(?:" + str(d.day) + r"\s+" + month + r"\s+" + y
+                      + r"|0?" + str(d.day) + r"\.\s?0?" + str(d.month) + r"\.\s?" + y + r")")
+
+
+def only_cites(src: Path, a: dict, lrec: dict | None, lid: int) -> bool:
+    """True when a later act linked to act `a` is, by its title and text, an original act (not a correction, a court
+    decision, a consolidated text, an amendment or a repeal) that cites the act's gazette number only in its enacting
+    formula ("Врз основа на член 5 од Законот за ... (бр. 12/05) ... донесе ПРАВИЛНИК ЗА ..."), so it changes nothing
+    in it. Any other case, or a text that cannot be read, is False."""
+    if not lrec or lrec.get("version") != "Изворен текст":
+        return False
+    lt = norm(lrec.get("title") or "")
+    if (lrec.get("kind") or "").startswith("Исправка") or lt.startswith("Исправка") or AMENDING.match(lt) \
+            or COURT.search(lt) or re.search(r"пречистен|изменување|дополнување|престанување|укинување|вон\s+сила", lt, re.I):
+        return False
+    if lrec.get("kind") not in KINDS or lrec["kind"] == "Закон":
+        return False  # a law's text has no enacting formula to cite from
+    t = flat_text(src, lid)
+    if t is None or len(t) < 300:
+        return False
+    if REPEAL.search(t) and cites_repeal(t, str(a["issue"]), dmy(a["published"])):
+        return False
+    hits = list(gazette_cite(str(a["issue"]), dmy(a["published"])).finditer(t))
+    if not hits:
+        return False
+    word = KINDS[lrec["kind"]][1]
+    tstart = re.search(r"\s?".join(word) + r"\s+(?:ЗА|НА)\s", t)
+    if not tstart:
+        return False
+    f = re.search(r"Врз\s+основ|Согласно", t[:tstart.start()])
+    if not f or f.start() >= 300 or LINK_AMEND_WORDS.search(t[:tstart.start()]):
+        return False
+    art = re.compile(r"Член\s*\d")
+    for m in hits:
+        if m.end() <= tstart.start():
+            continue
+        # cited in the act's own text: only where the same article, around the citation, says nothing of changing
+        # or ending anything (a definition, a reference)
+        s, e = max(tstart.start(), m.start() - 400), min(len(t), m.end() + 400)
+        b = [x.end() for x in art.finditer(t, s, m.start())]
+        s = b[-1] if b else s
+        n = art.search(t, m.end(), e)
+        e = n.start() if n else e
+        if LINK_AMEND_WORDS.search(t[s:e]):
+            return False
+    return True
+
+
 def flat_text(src: Path, i: int) -> str | None:
     """An act's whole PDF text on one line (running heads and page numbers left out), or None without a text file."""
     raw = src / "raw" / str(i // 1000) / f"{i}.json.gz"
@@ -479,7 +616,14 @@ def main():
             try:
                 if sum(len(x[-1]) for x in data["lines"]) < 200:
                     raise Hold("no_text_layer")
-                hit = {"ok": split(paragraphs(merge_rows(data["lines"])), title, KINDS[recs[i]["kind"]][1]), "meta": data["meta"]}
+                paras = paragraphs(merge_rows(data["lines"]))
+                try:
+                    hit = {"ok": split(paras, title, KINDS[recs[i]["kind"]][1]), "meta": data["meta"]}
+                except Hold as h:
+                    if str(h) != "no_articles":
+                        raise
+                    # no numbered articles at all: the whole text as one unit, when it is clean
+                    hit = {"ok": flat_split(paras, title, KINDS[recs[i]["kind"]][1]), "meta": data["meta"], "flat": True}
             except Hold as h:
                 hit = {"hold": str(h)}
         new_cache[ck] = hit
@@ -577,8 +721,11 @@ def main():
                     later.append((ct, cid, d))
             if ended and not ended.startswith(("Активен", "Нов")):
                 repeal = repeal_of(i, r, ended, later, amending)
+            cited_only = False
             if not amending and later and repeal is None:
-                raise Hold("later_linked_act:" + ",".join(str(c[1]) for c in later[:5]))
+                if not all(only_cites(src, r, recs.get(c[1]), c[1]) for c in later):
+                    raise Hold("later_linked_act:" + ",".join(str(c[1]) for c in later[:5]))
+                cited_only = True  # every later linked act only cites it (bylaws made under it)
             if amending:
                 bad = [c for ct, c, _ in later if COURT.search(ct) or re.search(r"на\s+Законот\s+за\s+(?:изменување|дополнување)", ct)]
                 if bad:
@@ -602,6 +749,14 @@ def main():
                 raise Hold("in_force_missing")
             if own and own != day:
                 raise Hold(f"in_force_mismatch:ldbis {day} vs own clause {own}")
+            if hit.get("flat"):
+                # one text with no articles: its own in-force clause must be there and agree, which also shows the
+                # text runs to its end
+                own, how = own_in_force({"art-000": units["tekst"]}, pub)
+                if not own:
+                    raise Hold("flat_text_no_own_clause:" + how[:80])
+                if own != day:
+                    raise Hold(f"in_force_mismatch:ldbis {day} vs own clause {own}")
             if day < pub:
                 raise Hold(f"in_force_before_publication:{day}")
             if adopted and not (adopted <= pub <= (date.fromisoformat(adopted) + timedelta(days=60)).isoformat()):
@@ -617,6 +772,8 @@ def main():
             continue
         slug = f"{kslug}-{year}-sv{iss:03d}-{i}"
         pk = (40, "zakoni") if kslug == "zakon" else (50, kslug)
+        if hit.get("flat") or cited_only:
+            pk = (60, kslug)  # released by the one-text or the citing-acts rule: parts of their own
         gaz = "Службен весник на Република Северна Македонија" if pub >= "2019-02-12" else "Службен весник на Република Македонија"
         label = f"{title} („{gaz}“ бр. {iss}/{year})"
         applies = dmy(r.get("applies"))
@@ -672,6 +829,18 @@ def main():
             "amending law gets this version only when such a text names it.",
             "Paragraphs follow the PDF's layout (a new block, an indented first line or a centred line starts one); a "
             "centred line just above an article is its caption, other centred lines are headings."]
+        if pk[0] == 60:
+            p["decisions"] += [
+                "An act with no numbered articles at all (an instruction or order made of points or paragraphs) is one "
+                "unit, the whole text from its title to its signature, with the enacting formula as the preamble. It is "
+                "published only when its own final provision names its in-force day and that agrees with LDBIS, and the "
+                "text is clean: no characters outside the alphabets and ordinary punctuation, no words run together, no "
+                "letters doubled by the PDF's font mapping, no Latin and Cyrillic letters in one word.",
+                "A principal act that LDBIS links to later acts is published as published only when every one of them is "
+                "an original act (not an amendment, consolidated text, correction, court decision or repeal, by its title) "
+                "whose text cites the act's gazette number only in its enacting formula or, in its own text, where the "
+                "article says nothing of amending, replacing or ending anything: a bylaw made under the act, which "
+                "changes nothing in it."]
         p["ai_use"] = ["none"]
         f = parts_dir / f"{pk[0]}-{pk[1]}-{year}.json"
         body = json.dumps(p, ensure_ascii=False, indent=1) + "\n"
@@ -680,7 +849,13 @@ def main():
             tmp.write_text(body, encoding="utf-8", newline="\n")
             tmp.replace(f)
         pub_f = f.with_suffix(".PUBLISH")
-        if not pub_f.exists():
+        if pk[0] == 60 and not pub_f.exists():
+            pub_f.write_text("Parsed from LDBIS records and the Official Gazette text of each act; one version, as "
+                             "published; acts with no numbered articles as one clean text whose own in-force clause "
+                             "agrees with LDBIS; acts whose later linked acts only cite them in their enacting formula "
+                             "(checked in the linked acts' titles and texts) (parse_acts.py).\n",
+                             encoding="utf-8", newline="\n")
+        elif not pub_f.exists():
             pub_f.write_text("Parsed from LDBIS records and the Official Gazette text of each law; one version, as "
                              "published; in-force day from LDBIS checked against the law's own clause; laws no longer "
                              "valid end with an empty version on the repealing act's in-force day; held back: laws "
@@ -689,7 +864,7 @@ def main():
         written.append((f.name, len(p["acts"])))
     # Parts of years that no longer hold any act (all held back now) are removed, so a stale part is never read.
     keep = {n for n, _ in written}
-    for old in [*parts_dir.glob("40-zakoni-*.json"), *parts_dir.glob("50-*.json")]:
+    for old in [*parts_dir.glob("40-zakoni-*.json"), *parts_dir.glob("50-*.json"), *parts_dir.glob("60-*.json")]:
         if old.name not in keep:
             old.unlink()
             old.with_suffix(".PUBLISH").unlink(missing_ok=True)
