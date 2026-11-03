@@ -92,6 +92,666 @@
    ]
   },
   {
+   "slug": "zakon-2019-sv275-51384",
+   "path": "zakon/2019/sv275-51384",
+   "short": "Закон за изменување и дополнување на Законот за јавните претпријатија",
+   "title": "Закон за изменување и дополнување на Законот за јавните претпријатија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51384",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51384",
+     "sha256": "e939f57a88fa7ce7a4c8f3cebda41b7e5570fe24873e96a16663396eda46a8bc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51387",
+   "path": "zakon/2019/sv275-51387",
+   "short": "Закон за изменување и дополнување на Законот за филмската дејност",
+   "title": "Закон за изменување и дополнување на Законот за филмската дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51387",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51387",
+     "sha256": "51b69d292e69634fe85449d537c68d2c5c7221fb1fac87efddc64ff1ae09323b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51389",
+   "path": "zakon/2019/sv275-51389",
+   "short": "Закон за изменување и дополнување на Законот за данокот на личен доход",
+   "title": "Закон за изменување и дополнување на Законот за данокот на личен доход",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51389",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 26,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51389",
+     "sha256": "a1a693bcf03aa306548f2a78b5be9a45993f2a366a5fd6d53d69cf03d9697679"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51392",
+   "path": "zakon/2019/sv275-51392",
+   "short": "Закон за изменување и дополнување на Законот за здравственото осигурување",
+   "title": "Закон за изменување и дополнување на Законот за здравственото осигурување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51392",
+   "versions": [
+    {
+     "from": "2020-01-04",
+     "units": 15,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51392",
+     "sha256": "07d8d13e1e444991c43bf19481f5ce17a28e5fbb755dee145832e8321370cf0b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51393",
+   "path": "zakon/2019/sv275-51393",
+   "short": "Закон за изменување на Законот за поштенските услуги",
+   "title": "Закон за изменување на Законот за поштенските услуги",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51393",
+   "versions": [
+    {
+     "from": "2020-01-04",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51393",
+     "sha256": "cafdc673887c4354c8e8f97ca63f793a83468cbb77723d4cb11f332526fa2ef4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51394",
+   "path": "zakon/2019/sv275-51394",
+   "short": "Закон за изменување и дополнување на Законот за данокот на додадена вредност",
+   "title": "Закон за изменување и дополнување на Законот за данокот на додадена вредност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51394",
+   "versions": [
+    {
+     "from": "2020-01-04",
+     "units": 15,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51394",
+     "sha256": "b074db0f19180061310b641aaff8fda91a4f13f9e9754e855960a4f3d5cdfd50"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51395",
+   "path": "zakon/2019/sv275-51395",
+   "short": "Закон за изменување и дополнување на Законот за данокот на добивка",
+   "title": "Закон за изменување и дополнување на Законот за данокот на добивка",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51395",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 16,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51395",
+     "sha256": "8067febfb8e9de1f79a589b38899c7a3dc13e40c12a7d303b6285cb656f60f56"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51397",
+   "path": "zakon/2019/sv275-51397",
+   "short": "Закон за изменување и дополнување на Законот за акцизите",
+   "title": "Закон за изменување и дополнување на Законот за акцизите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51397",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 15,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51397",
+     "sha256": "2eef0051e4416dc9651b4ca345e1a378169768e4110f45bf8e1fe37182f210df"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51401",
+   "path": "zakon/2019/sv275-51401",
+   "short": "Закон за дополнување на Законот за користење и располагање со стварите во државна сопственост и со стварите во општинска сопственост",
+   "title": "Закон за дополнување на Законот за користење и располагање со стварите во државна сопственост и со стварите во општинска сопственост",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51401",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51401",
+     "sha256": "f71bfa98a9c51c26497489fc1676dcd045124c7f57b53689723cfe122dc21d14"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51402",
+   "path": "zakon/2019/sv275-51402",
+   "short": "Закон за изменување и дополнување на Законот за пензиското и инвалидското осигурување",
+   "title": "Закон за изменување и дополнување на Законот за пензиското и инвалидското осигурување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51402",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51402",
+     "sha256": "894a6900ef201da2a422a16dc9622c82b887bfd1223f8f0a4d9a2ee9f6a4b641"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51403",
+   "path": "zakon/2019/sv275-51403",
+   "short": "Закон за дополнување на Законот за даночна постапка",
+   "title": "Закон за дополнување на Законот за даночна постапка",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51403",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51403",
+     "sha256": "823e5eadb5214821a126031bfda7f18e1d68362dec258913d201e7ad6f03723a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51406",
+   "path": "zakon/2019/sv275-51406",
+   "short": "Закон за изменување и дополнување на Законот за здравствената заштита",
+   "title": "Закон за изменување и дополнување на Законот за здравствената заштита",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51406",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 41,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51406",
+     "sha256": "e0690c87b55ad72108cad8d2eccd8411aed9f55a6c9d33980b83d1e1d7899b2a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51409",
+   "path": "zakon/2019/sv275-51409",
+   "short": "Закон за изменување на Законот за задолжителни нафтени резерви",
+   "title": "Закон за изменување на Законот за задолжителни нафтени резерви",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51409",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51409",
+     "sha256": "26df1b1518ce296d8a86229e756db884430afc3ec05e1c603ac628144a9d68e3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51411",
+   "path": "zakon/2019/sv275-51411",
+   "short": "Закон за дополнување на Законот за земјоделство и рурален развој",
+   "title": "Закон за дополнување на Законот за земјоделство и рурален развој",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51411",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51411",
+     "sha256": "7b4797cff8d6446ba37d23094b36e6e8d8cf058a6877cba79962f477198171eb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51413",
+   "path": "zakon/2019/sv275-51413",
+   "short": "Закон за изменување и дополнување на Законот за електронски документи, електронска идентификација и доверливи услуги",
+   "title": "Закон за изменување и дополнување на Законот за електронски документи, електронска идентификација и доверливи услуги",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51413",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51413",
+     "sha256": "48ff98e21f798a1453458ff9ba8da187f87d3dced396e03d921188beed3a063a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv010-51711",
+   "path": "zakon/2020/sv010-51711",
+   "short": "Закон за младинско учество и младински политики",
+   "title": "Закон за младинско учество и младински политики",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51711",
+   "versions": [
+    {
+     "from": "2020-01-24",
+     "units": 47,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51711",
+     "sha256": "37d3bafae608146ff8de653d0e23c6fb8c5dd20586bf57f62f27a5d81448d9bc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv014-51720",
+   "path": "zakon/2020/sv014-51720",
+   "short": "Закон за изменување и дополнување на Законот за Собранието на Република Македонија",
+   "title": "Закон за изменување и дополнување на Законот за Собранието на Република Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51720",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51720",
+     "sha256": "1882e924ba4b092fa657d9bf0f7e6feeeb17c46d190991a9779332e3c7278e5c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv014-51723",
+   "path": "zakon/2020/sv014-51723",
+   "short": "Закон за изменување и дополнување на Законот за служба во Армијата на Република Македонија",
+   "title": "Закон за изменување и дополнување на Законот за служба во Армијата на Република Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51723",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 68,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51723",
+     "sha256": "923d3e68e1bac6a0c68c5587d48ad7557effe56fed58dcea31d1e2604d10d5ea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv014-51725",
+   "path": "zakon/2020/sv014-51725",
+   "short": "Закон за стратешки инвестиции во Република Северна Македонија",
+   "title": "Закон за стратешки инвестиции во Република Северна Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51725",
+   "versions": [
+    {
+     "from": "2020-01-20",
+     "units": 27,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51725",
+     "sha256": "b0f537be6bc7aac7c4ccbc7166d7d1bb6e73deb2dbc356b86db5ddb5e00e3606"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv018-51802",
+   "path": "zakon/2020/sv018-51802",
+   "short": "Закон за изменување и дополнување на Законот за приватните агенции за вработување",
+   "title": "Закон за изменување и дополнување на Законот за приватните агенции за вработување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51802",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 17,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51802",
+     "sha256": "30cfde21996d1f34756ccceca84a0ce2a196594388fabaeb8ea087e5a5b73343"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv018-51804",
+   "path": "zakon/2020/sv018-51804",
+   "short": "Закон за изменување и дополнување на Законот за безбедност и здравје при работа",
+   "title": "Закон за изменување и дополнување на Законот за безбедност и здравје при работа",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51804",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 15,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51804",
+     "sha256": "e0277475751cfe1ab6d26830fa51a2f48ac9aaff8eb7c6a01ebe59860aaa4c78"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv018-51805",
+   "path": "zakon/2020/sv018-51805",
+   "short": "Закон за изменување и дополнување на Законот за забрана и спречување на вршење на нерегистрирана дејност",
+   "title": "Закон за изменување и дополнување на Законот за забрана и спречување на вршење на нерегистрирана дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51805",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 13,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51805",
+     "sha256": "a5ded1c7b52b332eced238d620c5c60c86435afd2b74ab62ac8a9e07e7965c4c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv018-51806",
+   "path": "zakon/2020/sv018-51806",
+   "short": "Закон за изменување на Законот за евиденциите од областа на трудот",
+   "title": "Закон за изменување на Законот за евиденциите од областа на трудот",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51806",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51806",
+     "sha256": "74a3a9cb355fdac9c2eebf1470b55d41091445d0109dbc8708c6983fbd2b9b51"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv022-51845",
+   "path": "zakon/2020/sv022-51845",
+   "short": "Закон за дополнување на Законот за реализација на инфраструктурни проекти за изградба на патна делница Миладиновци - Штип и патна делница Кичево - Охрид",
+   "title": "Закон за дополнување на Законот за реализација на инфраструктурни проекти за изградба на патна делница Миладиновци - Штип и патна делница Кичево - Охрид",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51845",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51845",
+     "sha256": "afdafdaa4d657b1a9941fce179bfcd2eddc1fc848a2a5590800eb0f03d6ff36b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv022-51847",
+   "path": "zakon/2020/sv022-51847",
+   "short": "Закон за изменување и дополнување на Законот за сигурност во железничкиот систем",
+   "title": "Закон за изменување и дополнување на Законот за сигурност во железничкиот систем",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51847",
+   "versions": [
+    {
+     "from": "2020-02-08",
+     "units": 14,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51847",
+     "sha256": "4357dd33eefc7030eb9ccab600e27ca97d0eac3ca1b5fec69329ce12dbec07d2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv027-51925",
+   "path": "zakon/2020/sv027-51925",
+   "short": "Закон за изменување и дополнување на Законот за тутун, производи од тутун и сродни производи",
+   "title": "Закон за изменување и дополнување на Законот за тутун, производи од тутун и сродни производи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51925",
+   "versions": [
+    {
+     "from": "2020-02-06",
+     "units": 20,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51925",
+     "sha256": "8d0fec5e6af9045ec2f58b44e58b4448c05fda853a7407ab30b253a491ac0a1b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv031-51986",
+   "path": "zakon/2020/sv031-51986",
+   "short": "Закон за изменување на Законот за таксата за привремен престој",
+   "title": "Закон за изменување на Законот за таксата за привремен престој",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51986",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51986",
+     "sha256": "11ca922259f923221beb2a50c6b35ddb5a42f16a454ef172e32b9ed4143f773c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv031-51987",
+   "path": "zakon/2020/sv031-51987",
+   "short": "Закон за изменување и дополнување на Законот за туристичката дејност",
+   "title": "Закон за изменување и дополнување на Законот за туристичката дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51987",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 12,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51987",
+     "sha256": "8d82f18c2e1eabf7675e9fa4f55ae0e86cfb5e10c242b892b94556234cc494b3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv031-51988",
+   "path": "zakon/2020/sv031-51988",
+   "short": "Закон за изменување и дополнување на Законот за хартии од вредност",
+   "title": "Закон за изменување и дополнување на Законот за хартии од вредност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51988",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 33,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51988",
+     "sha256": "0833a894b5a21be9619db971f62480317995b14a6f3ff59647572c8bf6adcd2a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv031-51989",
+   "path": "zakon/2020/sv031-51989",
+   "short": "Закон за изменување на Законот за угостителска дејност",
+   "title": "Закон за изменување на Законот за угостителска дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51989",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 12,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51989",
+     "sha256": "e167fbb9b5d35b27fe743c21d6ee59fd0573caf2d872ff310f8114aee3dfbf98"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv031-51991",
+   "path": "zakon/2020/sv031-51991",
+   "short": "Закон за изменување и дополнување на Законот за државната статистика",
+   "title": "Закон за изменување и дополнување на Законот за државната статистика",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51991",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 12,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51991",
+     "sha256": "ee3aa8d6a6971faf70aa5f15b06112111caa893bdb9018aef33d71942b3b81b9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv031-51992",
+   "path": "zakon/2020/sv031-51992",
+   "short": "Закон за отпис на камати и репрограмирање на долгови и трошоци на физички лица",
+   "title": "Закон за отпис на камати и репрограмирање на долгови и трошоци на физички лица",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51992",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 14,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51992",
+     "sha256": "1f87529b0a6c6762b469690af645a37faa5901f57dbd3f0b9de4285151ae34e9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv031-51993",
+   "path": "zakon/2020/sv031-51993",
+   "short": "Закон за изменување и дополнување на Законот за преземање на акционерските друштва",
+   "title": "Закон за изменување и дополнување на Законот за преземање на акционерските друштва",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51993",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 13,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51993",
+     "sha256": "f73eb81ad4b425923e5ce3dd3d90318faf5bdb1e7fa26ac74c6c28009a8d2f7c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv031-51997",
+   "path": "zakon/2020/sv031-51997",
+   "short": "Закон за дополнување на Законот за пензиското и инвалидското осигурување",
+   "title": "Закон за дополнување на Законот за пензиското и инвалидското осигурување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51997",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51997",
+     "sha256": "2b7a018cc192f5c4e4007cfbfc1eea6976e1c9c7445baf4f26e0427c637f8049"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv031-52000",
+   "path": "zakon/2020/sv031-52000",
+   "short": "Закон за изменување на Законот за супервизија на осигурување",
+   "title": "Закон за изменување на Законот за супервизија на осигурување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52000",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 32,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52000",
+     "sha256": "3428f990d7c10c0ff638e5799122d4c136a4eb69e6af7ea047fe256ae1e7f848"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv031-52001",
+   "path": "zakon/2020/sv031-52001",
+   "short": "Закон за изменување и дополнување на Законот за електронска трговија",
+   "title": "Закон за изменување и дополнување на Законот за електронска трговија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52001",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52001",
+     "sha256": "57050e1dc3ae2f76fde81f8b72f7e0bd998b672291dd6c8bbf557325b1923771"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv031-52002",
+   "path": "zakon/2020/sv031-52002",
+   "short": "Закон за изменување на Законот за јавните собири",
+   "title": "Закон за изменување на Законот за јавните собири",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52002",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52002",
+     "sha256": "0887f7d4916695c7c33fee4051954beeaa33b053960c32711646ab4ca72d0ccf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv032-52009",
+   "path": "zakon/2020/sv032-52009",
+   "short": "Закон за меѓународно приватно право",
+   "title": "Закон за меѓународно приватно право",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52009",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 293,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52009",
+     "sha256": "aa9ab99c2250a7fe93cd4f72a74b1540cea533e2fb861ba9beca4e4ffaea01f5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv034-52014",
+   "path": "zakon/2020/sv034-52014",
+   "short": "Закон за ратификација на Амандманот кон Монтреалскиот протокол за супстанциите што ја осиромашуваат озонската обвивка",
+   "title": "Закон за ратификација на Амандманот кон Монтреалскиот протокол за супстанциите што ја осиромашуваат озонската обвивка",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52014",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52014",
+     "sha256": "7695a4fb09fe07365809e146c442bad18436c2c53dc7fc03d91e383eaa7fd57a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv042-52048",
+   "path": "zakon/2020/sv042-52048",
+   "short": "Закон за изменување и дополнување на Изборниот законик",
+   "title": "Закон за изменување и дополнување на Изборниот законик",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52048",
+   "versions": [
+    {
+     "from": "2020-02-16",
+     "units": 60,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52048",
+     "sha256": "8a2e92c266e906c6df7ef75b637c2a996ec7f2171f1c230ae114ea537d3fbc36"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv042-52049",
+   "path": "zakon/2020/sv042-52049",
+   "short": "Закон за изменување и дополнување на Законот за Инспекторат за употреба на јазиците",
+   "title": "Закон за изменување и дополнување на Законот за Инспекторат за употреба на јазиците",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52049",
+   "versions": [
+    {
+     "from": "2020-02-16",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52049",
+     "sha256": "dc1ee07d9e02b5878d4c640de0eff49c4544a76364fd17bc8b65169c6449e094"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv042-52050",
+   "path": "zakon/2020/sv042-52050",
+   "short": "Закон за изменување и дополнување на Законот за урбано зеленило",
+   "title": "Закон за изменување и дополнување на Законот за урбано зеленило",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52050",
+   "versions": [
+    {
+     "from": "2020-02-16",
+     "units": 16,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52050",
+     "sha256": "a6f202e9b238114c6095b2fcee4e0d05a00f000235ed36ad859902dc9a4c73bf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv042-52052",
+   "path": "zakon/2020/sv042-52052",
+   "short": "Закон за изменување и дополнување на Законот за одбрана",
+   "title": "Закон за изменување и дополнување на Законот за одбрана",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52052",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 48,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52052",
+     "sha256": "28bc0a91340dd41d9c1ad7211d1578bb11a6b05ef314fc691f97a0caa6610718"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv042-52055",
+   "path": "zakon/2020/sv042-52055",
+   "short": "Закон за јавното обвинителство",
+   "title": "Закон за јавното обвинителство",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52055",
+   "versions": [
+    {
+     "from": "2020-02-16",
+     "units": 138,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52055",
+     "sha256": "8a24b7efa3943913a52990bf2c4ff5abc29664d313b5d8f8b9b3bcfbff082c74"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2020-sv229-53787",
    "path": "zakon/2020/sv229-53787",
    "short": "Закон за изменување и дополнување на Законот за основното образование",
@@ -13772,6 +14432,711 @@
    ]
   },
   {
+   "slug": "pravilnik-2019-sv274-51373",
+   "path": "pravilnik/2019/sv274-51373",
+   "short": "Правилник за изменување на Правилникот за формата и содржината на обрасците на сообраќајната дозвола и на потврдата за пробно возење, како и начинот и постапката за нивно издавање",
+   "title": "Правилник за изменување на Правилникот за формата и содржината на обрасците на сообраќајната дозвола и на потврдата за пробно возење, како и начинот и постапката за нивно издавање",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51373",
+   "versions": [
+    {
+     "from": "2019-12-28",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51373",
+     "sha256": "068a9d779cfd73b7739d8a4a3668fc3a5094508d4694a77b65fe0e4373e3e62c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv274-51374",
+   "path": "pravilnik/2019/sv274-51374",
+   "short": "Правилник за утврдување на најнискиот износ од осигурувањето од евентуалната штета предизвикана од издавачот и минималниот износ или видот на покритието на осигурување од ризикот од одговорност за штета причинета од страна на давателот на квалификувана доверлива услуга",
+   "title": "Правилник за утврдување на најнискиот износ од осигурувањето од евентуалната штета предизвикана од издавачот и минималниот износ или видот на покритието на осигурување од ризикот од одговорност за штета причинета од страна на давателот на квалификувана доверлива услуга",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51374",
+   "versions": [
+    {
+     "from": "2019-12-28",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51374",
+     "sha256": "6e0f7ac99cc48bd51aad0351e7d24350006e9a3045e0466647e1f8d9b790e802"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv275-51423",
+   "path": "pravilnik/2019/sv275-51423",
+   "short": "Правилник за определување на додаток на плата за посебни услови за работа и за работа изложена на ризик",
+   "title": "Правилник за определување на додаток на плата за посебни услови за работа и за работа изложена на ризик",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51423",
+   "versions": [
+    {
+     "from": "2019-12-28",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51423",
+     "sha256": "ad830b8fc07cd5917f53cea053e4d30dae2a17784945fbbd6e589344e1c64d5b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv275-51426",
+   "path": "pravilnik/2019/sv275-51426",
+   "short": "Правилник за начинот на оданочување со акциза на алкохол и алкохолни пијалаци и тутунски производи",
+   "title": "Правилник за начинот на оданочување со акциза на алкохол и алкохолни пијалаци и тутунски производи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51426",
+   "versions": [
+    {
+     "from": "2019-12-28",
+     "units": 46,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51426",
+     "sha256": "ea7d7dff3d50ae97e9d6983a82e9f5cac61fcf4b2045bfa2279884210610b8e1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv275-51428",
+   "path": "pravilnik/2019/sv275-51428",
+   "short": "Правилник за содржината на електронскиот регистар на акцизни обврзници",
+   "title": "Правилник за содржината на електронскиот регистар на акцизни обврзници",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51428",
+   "versions": [
+    {
+     "from": "2019-12-28",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51428",
+     "sha256": "6bfe2fc90b975017d0122c3d2bad6a8f118eb57f3f3db5acfd8e1d0b46bf2fdd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv275-51430",
+   "path": "pravilnik/2019/sv275-51430",
+   "short": "Правилник за висината на трошоците за извршување на стручните работи за безбедност при работа",
+   "title": "Правилник за висината на трошоците за извршување на стручните работи за безбедност при работа",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51430",
+   "versions": [
+    {
+     "from": "2019-12-28",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51430",
+     "sha256": "9fb21d03b085c9b5d064f4da65ad19291211338fc5cd805b69a5c610911bcb32"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv279-51553",
+   "path": "pravilnik/2019/sv279-51553",
+   "short": "Правилник за формата и содржината на месечниот извештај",
+   "title": "Правилник за формата и содржината на месечниот извештај",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51553",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51553",
+     "sha256": "8cc79a525ea8e720131672624e0d5d7d651680871d0a4e638e27e76c0ee51dfb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv279-51555",
+   "path": "pravilnik/2019/sv279-51555",
+   "short": "Правилник за содржината, начинот на пополнување и поднесување на пријавата за плаќање на данокот за моторни возила",
+   "title": "Правилник за содржината, начинот на пополнување и поднесување на пријавата за плаќање на данокот за моторни возила",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51555",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51555",
+     "sha256": "f665559fa2ab4697d699c09bf83725d1c7547a555fb0d34a767db0e1471bbeb9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv279-51556",
+   "path": "pravilnik/2019/sv279-51556",
+   "short": "Правилник за начинот на ослободување од плаќање на данокот на моторни возила, формата и содржината на потврдата за ослободување од плаќање данок на моторни возила и на барањето за ослободување од данок на моторни возила и потребната документација",
+   "title": "Правилник за начинот на ослободување од плаќање на данокот на моторни возила, формата и содржината на потврдата за ослободување од плаќање данок на моторни возила и на барањето за ослободување од данок на моторни возила и потребната документација",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51556",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51556",
+     "sha256": "43fd8af2f29a0a343b000e3578b422c44721a3b90d3f8dd96d89593fe5ba8898"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv279-51557",
+   "path": "pravilnik/2019/sv279-51557",
+   "short": "Правилник за формата и содржината на барањето за враќање на данок на извезени моторни возила",
+   "title": "Правилник за формата и содржината на барањето за враќање на данок на извезени моторни возила",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51557",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51557",
+     "sha256": "3da459fe1ea29b708db17220bb60e13ef7978fab237671d48a8d3da1531e731e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv279-51558",
+   "path": "pravilnik/2019/sv279-51558",
+   "short": "Правилник за формата и содржината на барањето за враќање на данок на моторни возила во посебни случаи",
+   "title": "Правилник за формата и содржината на барањето за враќање на данок на моторни возила во посебни случаи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51558",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51558",
+     "sha256": "a859c008871d0feaf51054f812b71fdef7278e2967713de611833299fa62ff27"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv279-51559",
+   "path": "pravilnik/2019/sv279-51559",
+   "short": "Правилник за содржината на Регистарот на производители и трговци со моторни возила, формата и содржината на пријавата за упис во Регистарот и потребната документација",
+   "title": "Правилник за содржината на Регистарот на производители и трговци со моторни возила, формата и содржината на пријавата за упис во Регистарот и потребната документација",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51559",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51559",
+     "sha256": "7007baa335e486231f0707182e387afff0be5f662e12fd30a131aecdb1325f33"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv279-51562",
+   "path": "pravilnik/2019/sv279-51562",
+   "short": "Правилник за формата и содржината на пријавата за регистрација за данокот на додадена вредност",
+   "title": "Правилник за формата и содржината на пријавата за регистрација за данокот на додадена вредност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51562",
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51562",
+     "sha256": "21a6870e3c35bceb4d7e57f66b9280d5b30e9187faeea563807f0f0b9da8cb5f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv279-51564",
+   "path": "pravilnik/2019/sv279-51564",
+   "short": "Правилник за начинот на ослободување од данокот или враќање на платениот данок на моторни возила, содржината на барањето за враќање на платениот данок на моторни возила за дипломатски и конзуларни претставништва и за меѓународни организации и потребната документација",
+   "title": "Правилник за начинот на ослободување од данокот или враќање на платениот данок на моторни возила, содржината на барањето за враќање на платениот данок на моторни возила за дипломатски и конзуларни претставништва и за меѓународни организации и потребната документација",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51564",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51564",
+     "sha256": "1f3d8ae80d2594d25ffaf718767b013d6ec0e1294951731162a3a770abcd6ef4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv279-51600",
+   "path": "pravilnik/2019/sv279-51600",
+   "short": "Правилник за формата и содржината на барањето за издавање на потврда за платени увозни давачки за оцаринето моторно возило и формата и содржината на потврдата за платени увозни давачки за оцаринето моторно возило и потребната документација",
+   "title": "Правилник за формата и содржината на барањето за издавање на потврда за платени увозни давачки за оцаринето моторно возило и формата и содржината на потврдата за платени увозни давачки за оцаринето моторно возило и потребната документација",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51600",
+   "versions": [
+    {
+     "from": "2019-12-31",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51600",
+     "sha256": "fb2bfe0c3b74bcaa98e8ab6ecc9db0067cbdd60220decb6e5cd54956b5eedfea"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv004-51651",
+   "path": "pravilnik/2020/sv004-51651",
+   "short": "Правилник за за содржината и начинот на водење на регистарот на овластувања и проверката на валидноста на овластувањата",
+   "title": "Правилник за за содржината и начинот на водење на регистарот на овластувања и проверката на валидноста на овластувањата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51651",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51651",
+     "sha256": "5e1be04b4bfe40bf2b5dd7f0e729f1acb4c316a753b2f21707a9d212621881e1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv006-51672",
+   "path": "pravilnik/2020/sv006-51672",
+   "short": "Правилник за изменување и дополнување на Правилникот за начинот на пресметување и уплатување на данокот на добивка и начинот на одбегнување на двојното ослободување или двојното оданочување",
+   "title": "Правилник за изменување и дополнување на Правилникот за начинот на пресметување и уплатување на данокот на добивка и начинот на одбегнување на двојното ослободување или двојното оданочување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51672",
+   "versions": [
+    {
+     "from": "2020-01-11",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51672",
+     "sha256": "399726482c039873798d91c27522ce83bab8b5b724ef8927af833d5ff98552cd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv008-51692",
+   "path": "pravilnik/2020/sv008-51692",
+   "short": "Правилник за изменување и дополнување на Правилникот за начинот на остварување на меѓународна соработка, спроведување на консултантски услуги и обуки и за начинот на распределбата и користењето на приходите",
+   "title": "Правилник за изменување и дополнување на Правилникот за начинот на остварување на меѓународна соработка, спроведување на консултантски услуги и обуки и за начинот на распределбата и користењето на приходите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51692",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 18,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51692",
+     "sha256": "83734cfce42c71e57350f62a7192b680828c07382490bd280e4ad100ed23b740"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv009-51701",
+   "path": "pravilnik/2020/sv009-51701",
+   "short": "Правилник за изменување и дополнување на Правилникот за начинот на водење евиденција за државјаните на Република Македонија и за обрасците што се применуваат односно издаваат",
+   "title": "Правилник за изменување и дополнување на Правилникот за начинот на водење евиденција за државјаните на Република Македонија и за обрасците што се применуваат односно издаваат",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51701",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51701",
+     "sha256": "f281f88c7be5e2c69e2dc9d5ea8cf0741eed1eb3abbe8bd02296c3aa335ec157"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv010-51706",
+   "path": "pravilnik/2020/sv010-51706",
+   "short": "Правилник за видот на казнено-поправните установи",
+   "title": "Правилник за видот на казнено-поправните установи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51706",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 20,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51706",
+     "sha256": "d1ae688cfd592df026685df13d05bb55e94a10e7053919bcb8989cd826703f44"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv010-51707",
+   "path": "pravilnik/2020/sv010-51707",
+   "short": "Правилник за нормативите за подготвување на храна на осудените лица во казнено-поправните установи",
+   "title": "Правилник за нормативите за подготвување на храна на осудените лица во казнено-поправните установи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51707",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 14,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51707",
+     "sha256": "5d5ec285bb6ffd925403de743afa6251a3e557d314cdf8258299fce2fa3f0e0f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv010-51712",
+   "path": "pravilnik/2020/sv010-51712",
+   "short": "Правилник за определување на надоместокот и наградата за работа на осудените лица како и за лицата кои без своја вина не работат",
+   "title": "Правилник за определување на надоместокот и наградата за работа на осудените лица како и за лицата кои без своја вина не работат",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51712",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51712",
+     "sha256": "2b7f26e8e58659fab270829bf1666d48c2c9646385c010aef003ecd86ab4b90f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv010-51714",
+   "path": "pravilnik/2020/sv010-51714",
+   "short": "Правилник за начинот на вршење на стручниот надзор врз работата на казнено-поправните и воспитно-поправните установи",
+   "title": "Правилник за начинот на вршење на стручниот надзор врз работата на казнено-поправните и воспитно-поправните установи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51714",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51714",
+     "sha256": "257f549af3164ce9050e5f612f07af53fd2bcef09ef5e7dcbe0e1dd24e6d576a"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv012-51718",
+   "path": "pravilnik/2020/sv012-51718",
+   "short": "Правилник за формата и содржината на барањето за издавање на одобрение за намалување на пресметаниот данок на доход по основ на воведување на фискален систем на опрема, односно фискална апаратура и интегриран автоматски систем за управување",
+   "title": "Правилник за формата и содржината на барањето за издавање на одобрение за намалување на пресметаниот данок на доход по основ на воведување на фискален систем на опрема, односно фискална апаратура и интегриран автоматски систем за управување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51718",
+   "versions": [
+    {
+     "from": "2020-01-18",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51718",
+     "sha256": "87a9c6d09578afdeef481f412e9ed9f5d0d337579dc4e2b6cdcc378b81c3fdda"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv013-51753",
+   "path": "pravilnik/2020/sv013-51753",
+   "short": "Правилник за формата, содржината, начинот на издавање и на одземање на службената легитимација на даночните инспектори, даночните контролори и даночните извршители",
+   "title": "Правилник за формата, содржината, начинот на издавање и на одземање на службената легитимација на даночните инспектори, даночните контролори и даночните извршители",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51753",
+   "versions": [
+    {
+     "from": "2020-01-18",
+     "units": 12,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51753",
+     "sha256": "ab345b6426d2c53b896a641c0149c8d3ed878de25fb7ad62efeb6b911b4c82dd"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv014-51729",
+   "path": "pravilnik/2020/sv014-51729",
+   "short": "Правилник за изменување и дополнување на Правилникот за формата и содржината на обрасците на барањата и одобренијата за превоз и набавка на експлозивни материи",
+   "title": "Правилник за изменување и дополнување на Правилникот за формата и содржината на обрасците на барањата и одобренијата за превоз и набавка на експлозивни материи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51729",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 9,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51729",
+     "sha256": "5217691f41b6b637debdb573510951a38ca7b87994cbcc22f80130c4819e466d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv016-51770",
+   "path": "pravilnik/2020/sv016-51770",
+   "short": "Правилник за доделувањето на плакети, значки, награди и пофалници на воениот и цивилниот персонал на служба во Армијата на Република Северна Македонија",
+   "title": "Правилник за доделувањето на плакети, значки, награди и пофалници на воениот и цивилниот персонал на служба во Армијата на Република Северна Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51770",
+   "versions": [
+    {
+     "from": "2020-01-23",
+     "units": 44,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51770",
+     "sha256": "7cda5b077abc735b865a96a488db3b30a210fc7c1fb7ddf7a71c964b3f09e9a4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv017-51784",
+   "path": "pravilnik/2020/sv017-51784",
+   "short": "Правилник за изменување и дополнување на Правилникот за обрасците на барањата и одобренијата за превоз на оружје и муниција при увоз, за превоз на оружје и муниција при извоз, за пренесување (трансфер) на оружје и муниција при увоз, за пренесување (трансфер) на оружје и муниција при извоз, за пренесување (трансфер) на оружје и муниција при транзит и за превоз на оружје и муниција при транзит што се издаваат по електронски пат",
+   "title": "Правилник за изменување и дополнување на Правилникот за обрасците на барањата и одобренијата за превоз на оружје и муниција при увоз, за превоз на оружје и муниција при извоз, за пренесување (трансфер) на оружје и муниција при увоз, за пренесување (трансфер) на оружје и муниција при извоз, за пренесување (трансфер) на оружје и муниција при транзит и за превоз на оружје и муниција при транзит што се издаваат по електронски пат",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51784",
+   "versions": [
+    {
+     "from": "2020-02-01",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51784",
+     "sha256": "6ce3a2201acbe84b2ebb60be5c7a06ab9513c9f52571c13c47a51f6e0a55ab58"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv018-51793",
+   "path": "pravilnik/2020/sv018-51793",
+   "short": "Правилник за начинот на работа на Комисијата во постапките по распишани јавни огласи и постапките со прибирање на понуди за давање под закуп на земјоделско земјиште во државна сопственост",
+   "title": "Правилник за начинот на работа на Комисијата во постапките по распишани јавни огласи и постапките со прибирање на понуди за давање под закуп на земјоделско земјиште во државна сопственост",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51793",
+   "versions": [
+    {
+     "from": "2020-01-27",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51793",
+     "sha256": "80cafed3f967a49e5597e2be3c3ab3cff69526b26626273d1602eb4246c10011"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv021-51840",
+   "path": "pravilnik/2020/sv021-51840",
+   "short": "Правилник за формата и содржината на деловните книги, начинот на нивното водење и искажувањето на финансискиот резултат на даночните обврзници што вршат самостојна дејност",
+   "title": "Правилник за формата и содржината на деловните книги, начинот на нивното водење и искажувањето на финансискиот резултат на даночните обврзници што вршат самостојна дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51840",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 9,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51840",
+     "sha256": "8c207dc0acfe6d45fc13e5f7466a7c3b89b6f77d06091bd588711d7c82b306ee"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv022-51863",
+   "path": "pravilnik/2020/sv022-51863",
+   "short": "Правилник за рамката на општи компетенции за припадниците на затворската полиција",
+   "title": "Правилник за рамката на општи компетенции за припадниците на затворската полиција",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51863",
+   "versions": [
+    {
+     "from": "2020-02-01",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51863",
+     "sha256": "e448baea0a34e32462962b950b567cf1d63c8070e1b0eba30191a42fa5a3f6bb"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv022-51864",
+   "path": "pravilnik/2020/sv022-51864",
+   "short": "Правилник за начинот на спроведување на полугодишното интервју и оценувањето на давателите на јавни услуги во јавните установи за социјална заштита, како и образецот на извештајот за полугодишното интервју и образецот за оценување",
+   "title": "Правилник за начинот на спроведување на полугодишното интервју и оценувањето на давателите на јавни услуги во јавните установи за социјална заштита, како и образецот на извештајот за полугодишното интервју и образецот за оценување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51864",
+   "versions": [
+    {
+     "from": "2020-02-01",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51864",
+     "sha256": "5aa705ec884e5ae74a6bcdce2d19f38a07376ad10f56b14554d3bb2e861e2a65"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv023-51873",
+   "path": "pravilnik/2020/sv023-51873",
+   "short": "Правилник за формата и содржинаta на барањето за вклучување на експерти во листата на националната платформа, поблиските критериуми за избор и висината на надоместок за работа на учесниците во националната платформа",
+   "title": "Правилник за формата и содржинаta на барањето за вклучување на експерти во листата на националната платформа, поблиските критериуми за избор и висината на надоместок за работа на учесниците во националната платформа",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51873",
+   "versions": [
+    {
+     "from": "2020-02-11",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51873",
+     "sha256": "5622ae403a2c03d98b242c994216c94e4585d35343fb1d77f4468ee989fd1cd7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv024-51900",
+   "path": "pravilnik/2020/sv024-51900",
+   "short": "Правилник за формата и содржината на образецот на пресметката на данок на добивка на ревалоризациони резерви (ревалоризациони вишоци) при пренос во акумулирана добивка",
+   "title": "Правилник за формата и содржината на образецот на пресметката на данок на добивка на ревалоризациони резерви (ревалоризациони вишоци) при пренос во акумулирана добивка",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51900",
+   "versions": [
+    {
+     "from": "2020-02-05",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51900",
+     "sha256": "4846c27c797be7e0306bfc34845a255f09b54ef8c948d0e1b34780e9c63b7b5c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv024-51901",
+   "path": "pravilnik/2020/sv024-51901",
+   "short": "Правилник за дополнување на Правилникот за поблиските критериуми за избор на корисници по мерките за рурален развој",
+   "title": "Правилник за дополнување на Правилникот за поблиските критериуми за избор на корисници по мерките за рурален развој",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51901",
+   "versions": [
+    {
+     "from": "2020-02-05",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51901",
+     "sha256": "100ceb18dcf95d354c7f50191ed6b82f4f8e2e72c29962aec31139d2e5121b17"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv028-51961",
+   "path": "pravilnik/2020/sv028-51961",
+   "short": "Правилник за исклучоци од општите барања за здравствена заштита на животните при преработка на производи од животинско потекло во случај на ограничувања од аспект на здравјето на животните",
+   "title": "Правилник за исклучоци од општите барања за здравствена заштита на животните при преработка на производи од животинско потекло во случај на ограничувања од аспект на здравјето на животните",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51961",
+   "versions": [
+    {
+     "from": "2020-02-08",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51961",
+     "sha256": "70eef6985cbf2dd8d38a27dcea9ffb07e004302a37dbd6e342bb57c09d229a7f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv030-51984",
+   "path": "pravilnik/2020/sv030-51984",
+   "short": "Правилник за формата и содржината на образецот на барањето за остварување на правото на младински додаток",
+   "title": "Правилник за формата и содржината на образецот на барањето за остварување на правото на младински додаток",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51984",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51984",
+     "sha256": "5f3754a4566fc9f334ada6955914147d7b55fc2aa67b39317309ae3f557dbc33"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv030-51985",
+   "path": "pravilnik/2020/sv030-51985",
+   "short": "Правилник за изменување на Правилникот за должностите, одговорностите и стручното оспособување на советникот за безбедност при превоз на опасни материи, поблиските услови за правните лица кои вршат стручно оспособување и содржината и формата на образецот на сертификатот и уверението за стручно оспособување на советникот",
+   "title": "Правилник за изменување на Правилникот за должностите, одговорностите и стручното оспособување на советникот за безбедност при превоз на опасни материи, поблиските услови за правните лица кои вршат стручно оспособување и содржината и формата на образецот на сертификатот и уверението за стручно оспособување на советникот",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51985",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51985",
+     "sha256": "b54f60d093221364930ea17f8109be74e27ab27f17a505acc6f53ec3ed7105e4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv035-52025",
+   "path": "pravilnik/2020/sv035-52025",
+   "short": "Правилник за дополнување на Правилникот за поблиските услови за упис во регистарот на увозници на одделни земјоделски производи",
+   "title": "Правилник за дополнување на Правилникот за поблиските услови за упис во регистарот на увозници на одделни земјоделски производи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52025",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52025",
+     "sha256": "52c6427f2dec574d01dfa62afbd3cfdefa8ebb6224654e26954c4ea3033112b6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv035-52046",
+   "path": "pravilnik/2020/sv035-52046",
+   "short": "Правилник за изменување и дополнување на правилникот за начинот, постапката и условите за спроведување на обука и полагање на стручен испит за вршење осигурително брокерски работи",
+   "title": "Правилник за изменување и дополнување на правилникот за начинот, постапката и условите за спроведување на обука и полагање на стручен испит за вршење осигурително брокерски работи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52046",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52046",
+     "sha256": "b4bde968751a5e44e06ea0e803126964ab752b6566840bf45f177effc0b3f6b0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv037-52038",
+   "path": "pravilnik/2020/sv037-52038",
+   "short": "Правилник за формата, содржината и начинот на водењето на евиденцијата за полагање на правосуден испит",
+   "title": "Правилник за формата, содржината и начинот на водењето на евиденцијата за полагање на правосуден испит",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52038",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52038",
+     "sha256": "f21f046b0a70ef6002282cd6d8254c685009934ed6a730af6584bca363acd365"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv038-52071",
+   "path": "pravilnik/2020/sv038-52071",
+   "short": "Правилник за изменување на Правилникот за начинот на запишување, промената, бришењето, потребната придружна документација за запишување, начинот за ракување, употребата, објавувањето и чувањето на податоците од информативниот систем за евиденција на тутун",
+   "title": "Правилник за изменување на Правилникот за начинот на запишување, промената, бришењето, потребната придружна документација за запишување, начинот за ракување, употребата, објавувањето и чувањето на податоците од информативниот систем за евиденција на тутун",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52071",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52071",
+     "sha256": "d483383dfb34c60b8602aedac129157b43fbb6adc5a14d3c02ada12b64dc19e0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv047-52159",
+   "path": "pravilnik/2020/sv047-52159",
+   "short": "Правилник за содржината и начинот на водење на регистарот на даватели на доверливи услуги и на шеми за електронска идентификација, начинот на поднесување на барањето за регистрација, потребната документација како прилог кон барањето, образецот на барањето и начинот на објавување на податоците од регистарот",
+   "title": "Правилник за содржината и начинот на водење на регистарот на даватели на доверливи услуги и на шеми за електронска идентификација, начинот на поднесување на барањето за регистрација, потребната документација како прилог кон барањето, образецот на барањето и начинот на објавување на податоците од регистарот",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52159",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52159",
+     "sha256": "793d0304b52b9ad73b5d5acdac8851fa830c66cffa97a29f6512a0ffb3c3fcae"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv048-52133",
+   "path": "pravilnik/2020/sv048-52133",
+   "short": "Правилник за формата и содржината на барањето за одјавување на дејноста",
+   "title": "Правилник за формата и содржината на барањето за одјавување на дејноста",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52133",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52133",
+     "sha256": "6836c218416460a26b14bb98426d58e6d7192376596086a03c390821b68b92f7"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv048-52134",
+   "path": "pravilnik/2020/sv048-52134",
+   "short": "Правилник за формата и содржината на решението за времено вршење на занаетчиска дејност",
+   "title": "Правилник за формата и содржината на решението за времено вршење на занаетчиска дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52134",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52134",
+     "sha256": "95f0ab20416d84ad5e02d27a36f88991f131da960f99ab972586f3257d89a35e"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv048-52135",
+   "path": "pravilnik/2020/sv048-52135",
+   "short": "Правилник за формата и содржината на решението за привремено запирање на вршење на занаетчиска дејност",
+   "title": "Правилник за формата и содржината на решението за привремено запирање на вршење на занаетчиска дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52135",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52135",
+     "sha256": "107a2e0434bf0a1a646947d46b3b839f9e9d732d53e896db71c5b2dcb2a0c1fa"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv048-52136",
+   "path": "pravilnik/2020/sv048-52136",
+   "short": "Правилник за формата и содржината на Решението за одјавување на дејноста",
+   "title": "Правилник за формата и содржината на Решението за одјавување на дејноста",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52136",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52136",
+     "sha256": "165b5cf0d3a9d75300cb73bff7a729a862c815ba745fd3e1f8bc61166299c469"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2020-sv048-52137",
    "path": "pravilnik/2020/sv048-52137",
    "short": "Правилник за формата и содржината на барањето за привремено запирање на вршење на дејноста",
@@ -13783,6 +15148,36 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52137",
      "sha256": "3d6d1aeb7db1ff046c3b7730b0e7a696d1c98bfcb8ffd04ccaac2fb40551702b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv048-52138",
+   "path": "pravilnik/2020/sv048-52138",
+   "short": "Правилник за формата и содржината на барањето за издавање на решение за времено вршење на занаетчиска дејност",
+   "title": "Правилник за формата и содржината на барањето за издавање на решение за времено вршење на занаетчиска дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52138",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52138",
+     "sha256": "f3cd3b2c645c1a1029819d4cc40259579795f033336bee556577349ce5524191"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2020-sv048-52149",
+   "path": "pravilnik/2020/sv048-52149",
+   "short": "Правилник за начинот на издавање на изводи од матичната евиденција со електронски потпис",
+   "title": "Правилник за начинот на издавање на изводи од матичната евиденција со електронски потпис",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52149",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 9,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52149",
+     "sha256": "9f8d78d6c6236265308adca5c6317a74c3d605476397446c3d2c2d17fc45755d"
     }
    ]
   },
@@ -32143,6 +33538,66 @@
      "units": 6,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74814",
      "sha256": "0110e4db5902f1037ee049880e82e808a51797bd3612a2caf4174e8dad78b013"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2019-sv276-51410",
+   "path": "uredba/2019/sv276-51410",
+   "short": "Уредба за изменување на Уредбата за класификација на површинските води",
+   "title": "Уредба за изменување на Уредбата за класификација на површинските води",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51410",
+   "versions": [
+    {
+     "from": "2019-12-29",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51410",
+     "sha256": "5f088578981e0d58dc2b78a4e7295149937d4ebb156d61734d49168d358ff81d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2019-sv278-51503",
+   "path": "uredba/2019/sv278-51503",
+   "short": "Уредба за изменување и дополнување на Уредбата за мерките за поддршка на производството на електрична енергија од обновливи извори на енергија",
+   "title": "Уредба за изменување и дополнување на Уредбата за мерките за поддршка на производството на електрична енергија од обновливи извори на енергија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51503",
+   "versions": [
+    {
+     "from": "2019-12-28",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51503",
+     "sha256": "29d1624e80a99cfb909afc722d29fbf2bacb440cb8b564f27eef879b4fdf7466"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2019-sv278-51504",
+   "path": "uredba/2019/sv278-51504",
+   "short": "Уредба за методологија за распределба на наменски дотации за плати и додатоци на плати за вработените во територијалните противпожарни единици за 2020 година",
+   "title": "Уредба за методологија за распределба на наменски дотации за плати и додатоци на плати за вработените во територијалните противпожарни единици за 2020 година",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51504",
+   "versions": [
+    {
+     "from": "2019-12-29",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51504",
+     "sha256": "0b09e1471a5cbadec706eb5828fcdb22f7fcefce45a680db856c7e362e055ef9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-sv024-51882",
+   "path": "uredba/2020/sv024-51882",
+   "short": "Уредба за изменување на Уредбата за мрежата на здравствени установи",
+   "title": "Уредба за изменување на Уредбата за мрежата на здравствени установи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51882",
+   "versions": [
+    {
+     "from": "2020-02-05",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51882",
+     "sha256": "d7614b079d4aa24e3519552a696cb113a8b9d821bd9f5e3b5323a77286d01131"
     }
    ]
   },
