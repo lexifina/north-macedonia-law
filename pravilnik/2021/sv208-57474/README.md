@@ -1,0 +1,57 @@
+# Правилник за формата и содржината на документот со клучните информации за инвеститорите во отворениот инвестициски фонд
+
+Правилник за формата и содржината на документот со клучните информации за инвеститорите во отворениот инвестициски фонд · 1 versions, from 2021-09-06 (latest in force: 2021-09-06) · <https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57474>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Член 1 | [art-001.md](art-001.md) | 0 |  |
+| Член 2 | [art-002.md](art-002.md) | 0 |  |
+| Форма и приказ на документот со клучни информации за инвеститорите за | [art-002-zz-heading-1.md](art-002-zz-heading-1.md) | 0 |  |
+| отворен инвестициски фонд | [art-002-zz-heading-2.md](art-002-zz-heading-2.md) | 0 |  |
+| Член 3 | [art-003.md](art-003.md) | 0 |  |
+| Член 4 | [art-004.md](art-004.md) | 0 |  |
+| Оддел 1 Цели и инвестициска политика Краток опис на инвестициската политика и целите на инвестицискиот фонд | [art-004-zz-heading-1.md](art-004-zz-heading-1.md) | 0 |  |
+| Член 5 | [art-005.md](art-005.md) | 0 |  |
+| Оддел 2 Профил на ризичност и успешност Објаснување на можните ризици и придобивки, вклучувајќи и користење на | [art-005-zz-heading-1.md](art-005-zz-heading-1.md) | 0 |  |
+| Член 6 | [art-006.md](art-006.md) | 0 |  |
+| Оддел 3 Трошоци | [art-006-zz-heading-1.md](art-006-zz-heading-1.md) | 0 |  |
+| Член 7 | [art-007.md](art-007.md) | 0 |  |
+| Член 8 | [art-008.md](art-008.md) | 0 |  |
+| Член 9 | [art-009.md](art-009.md) | 0 |  |
+| Член 10 | [art-010.md](art-010.md) | 0 |  |
+| Член 11 | [art-011.md](art-011.md) | 0 |  |
+| Оддел 4 Историски приноси | [art-011-zz-heading-1.md](art-011-zz-heading-1.md) | 0 |  |
+| Член 12 | [art-012.md](art-012.md) | 0 |  |
+| Член 13 | [art-013.md](art-013.md) | 0 |  |
+| Член 14 | [art-014.md](art-014.md) | 0 |  |
+| Користење на репери покрај историските | [art-014-zz-heading-1.md](art-014-zz-heading-1.md) | 0 |  |
+| Член 15 | [art-015.md](art-015.md) | 0 |  |
+| Користење на симулирани податоци за историски | [art-015-zz-heading-1.md](art-015-zz-heading-1.md) | 0 |  |
+| Член 16 | [art-016.md](art-016.md) | 0 |  |
+| Оддел 5 Практични информации | [art-016-zz-heading-1.md](art-016-zz-heading-1.md) | 0 |  |
+| Член 17 | [art-017.md](art-017.md) | 0 |  |
+| фонд | [art-017-zz-heading-1.md](art-017-zz-heading-1.md) | 0 |  |
+| Опис на инвестициската политика и целите | [art-017-zz-heading-2.md](art-017-zz-heading-2.md) | 0 |  |
+| Член 18 | [art-018.md](art-018.md) | 0 |  |
+| Член 19 | [art-019.md](art-019.md) | 0 |  |
+| Член 20 | [art-020.md](art-020.md) | 0 |  |
+| Оддел 7 Документ за клучни информации на инвестициски фонд-напојувач | [art-020-zz-heading-1.md](art-020-zz-heading-1.md) | 0 |  |
+| Член 21 | [art-021.md](art-021.md) | 0 |  |
+| Член 22 | [art-022.md](art-022.md) | 0 |  |
+| Член 23 | [art-023.md](art-023.md) | 0 |  |
+| Член 24 | [art-024.md](art-024.md) | 0 |  |
+| Член 25 | [art-025.md](art-025.md) | 0 |  |
+| Член 26 | [art-026.md](art-026.md) | 0 |  |
+| Член 27 | [art-027.md](art-027.md) | 0 |  |
+| Член 28 | [art-028.md](art-028.md) | 0 |  |
+| Член 29 | [art-029.md](art-029.md) | 0 |  |
+| Вовед | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `pravilnik-2021-sv208-57474` (tags `pravilnik-2021-sv208-57474/<day>`; `python tools/on.py <day> pravilnik-2021-sv208-57474`).
+
+## Decisions made by hand
+
+- A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.
+- Its one version takes effect on the in-force day LDBIS records; where the law's own final article names its day, the two must agree or the law is held back. A different application day is noted on the version.
+- A principal law is published only when LDBIS links no later act to it (no amendment, consolidated text, court decision or replacing law); an amending law only when no later act amends it and no Constitutional Court decision follows it; never when a correction names it or LDBIS records an end of validity.
+- Paragraphs follow the PDF's layout (a new block, an indented first line or a centred line starts one); a centred line just above an article is its caption, other centred lines are headings.

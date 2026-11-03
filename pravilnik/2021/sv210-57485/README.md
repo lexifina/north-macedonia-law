@@ -1,0 +1,46 @@
+# Правилник за начинот на проценка на ризик од сериозна опасност по животот и физичкиот и психичкиот интегритет на жртвата и членовите на нејзиното семејство и на ризикот од повторување на насилството, соодветното управување со ризикот, образецот на полицискиот извештај и на предлогот за изрекување на итна мерка за заштита - отстранување на сторителот од домот и забрана за приближување до домот
+
+Правилник за начинот на проценка на ризик од сериозна опасност по животот и физичкиот и психичкиот интегритет на жртвата и членовите на нејзиното семејство и на ризикот од повторување на насилството, соодветното управување со ризикот, образецот на полицискиот извештај и на предлогот за изрекување на итна мерка за заштита - отстранување на сторителот од домот и забрана за приближување до домот · 1 versions, from 2021-09-17 (latest in force: 2021-09-17) · <https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57485>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| I. ОПШТИ ОДРЕДБИ | [0-heading-1.md](0-heading-1.md) | 0 |  |
+| Член 1 | [art-001.md](art-001.md) | 0 |  |
+| Член 2 | [art-002.md](art-002.md) | 0 |  |
+| II. НАЧЕЛА НА ПОСТАПУВАЊЕ | [art-002-zz-heading-1.md](art-002-zz-heading-1.md) | 0 |  |
+| Член 3 | [art-003.md](art-003.md) | 0 |  |
+| Член 4 | [art-004.md](art-004.md) | 0 |  |
+| Член 5 | [art-005.md](art-005.md) | 0 |  |
+| Член 6 | [art-006.md](art-006.md) | 0 |  |
+| III. ПОСТАПУВАЊЕ НА ПОЛИЦИЈАТА | [art-006-zz-heading-1.md](art-006-zz-heading-1.md) | 0 |  |
+| Член 7 | [art-007.md](art-007.md) | 0 |  |
+| Член 8 | [art-008.md](art-008.md) | 0 |  |
+| Член 9 | [art-009.md](art-009.md) | 0 |  |
+| IV. ИДЕНТИФИКАЦИЈА НА РИЗИК | [art-009-zz-heading-1.md](art-009-zz-heading-1.md) | 0 |  |
+| Член 10 | [art-010.md](art-010.md) | 0 |  |
+| V. ПРОЦЕНКА НА РИЗИК | [art-010-zz-heading-1.md](art-010-zz-heading-1.md) | 0 |  |
+| Член 11 | [art-011.md](art-011.md) | 0 |  |
+| Член 12 | [art-012.md](art-012.md) | 0 |  |
+| Член 13 | [art-013.md](art-013.md) | 0 |  |
+| VI.ПОЛИЦИСКИ ИЗВЕШТАЈ | [art-013-zz-heading-1.md](art-013-zz-heading-1.md) | 0 |  |
+| Член 14 | [art-014.md](art-014.md) | 0 |  |
+| Член 15 | [art-015.md](art-015.md) | 0 |  |
+| Член 16 | [art-016.md](art-016.md) | 0 |  |
+| VII. МЕРКИ ЗА УПРАВУВАЊЕ СО РИЗИК | [art-016-zz-heading-1.md](art-016-zz-heading-1.md) | 0 |  |
+| И ЗАШТИТА НА ЖРТВАТА | [art-016-zz-heading-2.md](art-016-zz-heading-2.md) | 0 |  |
+| Член 17 | [art-017.md](art-017.md) | 0 |  |
+| Член 18 | [art-018.md](art-018.md) | 0 |  |
+| Член 19 | [art-019.md](art-019.md) | 0 |  |
+| VIII. ПРЕОДНИ И ЗАВРШНИ ОДРЕДБИ | [art-019-zz-heading-1.md](art-019-zz-heading-1.md) | 0 |  |
+| Член 20 | [art-020.md](art-020.md) | 0 |  |
+| Член 21 | [art-021.md](art-021.md) | 0 |  |
+| Вовед | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `pravilnik-2021-sv210-57485` (tags `pravilnik-2021-sv210-57485/<day>`; `python tools/on.py <day> pravilnik-2021-sv210-57485`).
+
+## Decisions made by hand
+
+- A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.
+- Its one version takes effect on the in-force day LDBIS records; where the law's own final article names its day, the two must agree or the law is held back. A different application day is noted on the version.
+- A principal law is published only when LDBIS links no later act to it (no amendment, consolidated text, court decision or replacing law); an amending law only when no later act amends it and no Constitutional Court decision follows it; never when a correction names it or LDBIS records an end of validity.
+- Paragraphs follow the PDF's layout (a new block, an indented first line or a centred line starts one); a centred line just above an article is its caption, other centred lines are headings.
