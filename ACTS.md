@@ -1,6 +1,6 @@
 # Every act in this repository
 
-491 acts, 501 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+500 acts, 510 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ustav (1)
 
@@ -8,10 +8,19 @@
 | --- | --- | --- | ---: | --- | --- |
 | Устав на Република Северна Македонија | [`ustav/`](ustav/) | in force | 9 | 1991-11-17 | 2019-02-12 |
 
-## zakon (489, of which 410 amending acts)
+## zakon (498, of which 418 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Закон за изменување и дополнување на Законот за енергетска ефикасност | [`zakon/2024/sv147-67295/`](zakon/2024/sv147-67295/) | amending act | 1 | 2024-07-15 | 2024-07-15 |
+| Закон за изменување и дополнување на Законот за техничката инспекција | [`zakon/2024/sv147-67296/`](zakon/2024/sv147-67296/) | amending act | 1 | 2024-07-15 | 2024-07-15 |
+| Закон за изменување и дополнување на Законот за минерални суровини | [`zakon/2024/sv147-67297/`](zakon/2024/sv147-67297/) | amending act | 1 | 2024-07-15 | 2024-07-15 |
+| Закон за изменување и дополнување на Законот за задолжителни нафтени резерви | [`zakon/2024/sv147-67298/`](zakon/2024/sv147-67298/) | amending act | 1 | 2024-07-15 | 2024-07-15 |
+| Закон за изменување и дополнување на Законот за контрола на предметите од скапоцени метали | [`zakon/2024/sv147-67299/`](zakon/2024/sv147-67299/) | amending act | 1 | 2024-07-15 | 2024-07-15 |
+| Закон за изменување и дополнување на Законот за Геолошкиот завод на Република Македонија | [`zakon/2024/sv147-67300/`](zakon/2024/sv147-67300/) | amending act | 1 | 2024-07-15 | 2024-07-15 |
+| Закон за изменување и дополнување на Законот за концесии и јавно приватно партнерство | [`zakon/2024/sv147-67301/`](zakon/2024/sv147-67301/) | amending act | 1 | 2024-07-15 | 2024-07-15 |
+| Закон за изменување и дополнување на Законот за метрологијата | [`zakon/2024/sv147-67303/`](zakon/2024/sv147-67303/) | amending act | 1 | 2024-07-15 | 2024-07-15 |
+| Закон за престанување на важењето на Законот за основање на Агенција за енергетика на Република Северна Македонија | [`zakon/2024/sv147-67304/`](zakon/2024/sv147-67304/) | in force | 1 | 2024-07-15 | 2024-07-15 |
 | Закон за дополнување на Законот за катастар на недвижности | [`zakon/2024/sv155-67388/`](zakon/2024/sv155-67388/) | in force | 1 | 2024-08-02 | 2024-08-02 |
 | Закон за изменување и дополнување на Законот за извршување на Буџетот на Република Северна Македонија за 2024 година | [`zakon/2024/sv169-67508/`](zakon/2024/sv169-67508/) | amending act | 1 | 2024-08-15 | 2024-08-15 |
 | Закон за дополнување на Законот за финансирање на единиците на локалната самоуправа | [`zakon/2024/sv170-67512/`](zakon/2024/sv170-67512/) | in force | 1 | 2024-08-15 | 2024-08-15 |

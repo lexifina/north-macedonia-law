@@ -92,6 +92,141 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv147-67295",
+   "path": "zakon/2024/sv147-67295",
+   "short": "Закон за изменување и дополнување на Законот за енергетска ефикасност",
+   "title": "Закон за изменување и дополнување на Законот за енергетска ефикасност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67295",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 31,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67295",
+     "sha256": "e0c1261630e9de380614d15bf4170fb4b6a15ac034181c7a613cc0fa902e40c7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv147-67296",
+   "path": "zakon/2024/sv147-67296",
+   "short": "Закон за изменување и дополнување на Законот за техничката инспекција",
+   "title": "Закон за изменување и дополнување на Законот за техничката инспекција",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67296",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 27,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67296",
+     "sha256": "7ac1d8286588c98a2364f3defa3b243683c502a750886b6a7ca29eff07241b63"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv147-67297",
+   "path": "zakon/2024/sv147-67297",
+   "short": "Закон за изменување и дополнување на Законот за минерални суровини",
+   "title": "Закон за изменување и дополнување на Законот за минерални суровини",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67297",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 46,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67297",
+     "sha256": "3d977dc0e7dc9b674a8e0412face7b184391b7c2aeef91d481c24ec66af13815"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv147-67298",
+   "path": "zakon/2024/sv147-67298",
+   "short": "Закон за изменување и дополнување на Законот за задолжителни нафтени резерви",
+   "title": "Закон за изменување и дополнување на Законот за задолжителни нафтени резерви",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67298",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 12,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67298",
+     "sha256": "29981ce422f132c49c250d9d3d07487da2cc036900c923922e600bcdd492c1c0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv147-67299",
+   "path": "zakon/2024/sv147-67299",
+   "short": "Закон за изменување и дополнување на Законот за контрола на предметите од скапоцени метали",
+   "title": "Закон за изменување и дополнување на Законот за контрола на предметите од скапоцени метали",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67299",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67299",
+     "sha256": "7f10e63d0c88d3a79bbf7ef075020bd2dfd0edfaa84978110e3c505a9b06073d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv147-67300",
+   "path": "zakon/2024/sv147-67300",
+   "short": "Закон за изменување и дополнување на Законот за Геолошкиот завод на Република Македонија",
+   "title": "Закон за изменување и дополнување на Законот за Геолошкиот завод на Република Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67300",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67300",
+     "sha256": "03d5a92caf1e60c7da4675ab8006c2f42e7fe232f8b0e0d215eaa82e0a36c11d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv147-67301",
+   "path": "zakon/2024/sv147-67301",
+   "short": "Закон за изменување и дополнување на Законот за концесии и јавно приватно партнерство",
+   "title": "Закон за изменување и дополнување на Законот за концесии и јавно приватно партнерство",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67301",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67301",
+     "sha256": "056f26399134d8a940b3993986fd5a6c104441378a60f16d43394938985277ab"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv147-67303",
+   "path": "zakon/2024/sv147-67303",
+   "short": "Закон за изменување и дополнување на Законот за метрологијата",
+   "title": "Закон за изменување и дополнување на Законот за метрологијата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67303",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 36,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67303",
+     "sha256": "37e54663d04f916251bad5f919f5a3409dbcb6f723155301be044294ee94b5b8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv147-67304",
+   "path": "zakon/2024/sv147-67304",
+   "short": "Закон за престанување на важењето на Законот за основање на Агенција за енергетика на Република Северна Македонија",
+   "title": "Закон за престанување на важењето на Законот за основање на Агенција за енергетика на Република Северна Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67304",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67304",
+     "sha256": "05347e627cc0b12352fa7f115b84c2b7f300a2251e8817e15fb4af5dfa5a3518"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv155-67388",
    "path": "zakon/2024/sv155-67388",
    "short": "Закон за дополнување на Законот за катастар на недвижности",
