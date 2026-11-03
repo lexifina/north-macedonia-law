@@ -92,6 +92,921 @@
    ]
   },
   {
+   "slug": "zakon-2021-sv077-55645",
+   "path": "zakon/2021/sv077-55645",
+   "short": "Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на Проектот за унапредување на основното образование",
+   "title": "Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на Проектот за унапредување на основното образование",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55645",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55645",
+     "sha256": "fb1211c46008bc804309b33394ca79f62d55a5d12105dfa2ae7590df05f3fe98"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv077-55647",
+   "path": "zakon/2021/sv077-55647",
+   "short": "Закон за изменување и дополнување на Законот за здравственото осигурување",
+   "title": "Закон за изменување и дополнување на Законот за здравственото осигурување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55647",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 16,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55647",
+     "sha256": "202d853c560be0c63993d95eb4ae7282f005f38d5315f9ab9a6d8f65a652e5f1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv077-55650",
+   "path": "zakon/2021/sv077-55650",
+   "short": "Закон за изменување на Законот за задолжница",
+   "title": "Закон за изменување на Законот за задолжница",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55650",
+   "versions": [
+    {
+     "from": "2021-04-14",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55650",
+     "sha256": "34995c15b0137474c4ec79edea791e61d37c849800ae8860ef60cc6098318f54"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv077-55651",
+   "path": "zakon/2021/sv077-55651",
+   "short": "Закон за меѓународна соработка во кривичната материја (*)",
+   "title": "Закон за меѓународна соработка во кривичната материја (*)",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55651",
+   "versions": [
+    {
+     "from": "2021-04-14",
+     "units": 165,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55651",
+     "sha256": "f7f6e5c19fac86211901234b13244c5086cac209f5b51375ca702749c37a3d22"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv077-55652",
+   "path": "zakon/2021/sv077-55652",
+   "short": "Закон за дополнување на Законот за финансирање на единиците на локалната самоуправа",
+   "title": "Закон за дополнување на Законот за финансирање на единиците на локалната самоуправа",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55652",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55652",
+     "sha256": "f6675b3a691125574cd481abced425c70e44390baa39401c7aa9d6e3ddcce68e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv077-55654",
+   "path": "zakon/2021/sv077-55654",
+   "short": "Закон за задолжување на Република Северна Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за финансирање на Проектот „Воведување на брз автобуски превоз во Град Скопје“",
+   "title": "Закон за задолжување на Република Северна Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за финансирање на Проектот „Воведување на брз автобуски превоз во Град Скопје“",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55654",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55654",
+     "sha256": "c51b30f32912556e3eaf175803978297e334a4bcd32d72c3d1ef3f139c3d4372"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv077-55655",
+   "path": "zakon/2021/sv077-55655",
+   "short": "Закон за изменување и дополнување на Законот за здравствената заштита",
+   "title": "Закон за изменување и дополнување на Законот за здравствената заштита",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55655",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 23,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55655",
+     "sha256": "14d29993746f3ea924f077f07588238d799ccf64739ff5f197d704d6231fe81f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv085-55740",
+   "path": "zakon/2021/sv085-55740",
+   "short": "Закон за финансиска поддршка на работодавачите погодени од здравствено-економската криза предизвикана од вирусот COVID-19, заради исплата на платите за месеците февруари и март 2021 година",
+   "title": "Закон за финансиска поддршка на работодавачите погодени од здравствено-економската криза предизвикана од вирусот COVID-19, заради исплата на платите за месеците февруари и март 2021 година",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55740",
+   "versions": [
+    {
+     "from": "2021-04-18",
+     "units": 15,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55740",
+     "sha256": "22bdc7834e1d6c1ca1243dceb5a187860725bef7ac7bd3cf26433655cf3c315a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv085-55741",
+   "path": "zakon/2021/sv085-55741",
+   "short": "Закон за финансиска поддршка на физички лица кои вршат самостојна дејност погодени од здравствено-економската криза предизвикана од вирусот COVID-19, за месеците февруари и март 2021 година",
+   "title": "Закон за финансиска поддршка на физички лица кои вршат самостојна дејност погодени од здравствено-економската криза предизвикана од вирусот COVID-19, за месеците февруари и март 2021 година",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55741",
+   "versions": [
+    {
+     "from": "2021-04-18",
+     "units": 12,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55741",
+     "sha256": "e406d38a86e46ca00b31deb6c3ba73182e8ec8d4b8b067188f53f19a0ed75a9a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv085-55742",
+   "path": "zakon/2021/sv085-55742",
+   "short": "Закон за изменување на Законот за данокот на личен доход",
+   "title": "Закон за изменување на Законот за данокот на личен доход",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55742",
+   "versions": [
+    {
+     "from": "2021-04-18",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55742",
+     "sha256": "624a026bb1582c5843dff741c01d2a0522be3b24671a57804149dace7b12a97b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv087-55787",
+   "path": "zakon/2021/sv087-55787",
+   "short": "Закон за дополнување на Законот за јавните набавки",
+   "title": "Закон за дополнување на Законот за јавните набавки",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55787",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55787",
+     "sha256": "640cf705faf4b5f760906d4f0ea2dfc5d8ff010182644c43426bac6acfdd8de8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv092-55819",
+   "path": "zakon/2021/sv092-55819",
+   "short": "Закон за дополнување на Законот за финансиска поддршка на граѓани со низок доход, корисници на пензија, корисници на право на социјална сигурност на стари лица, млади лица, самохрани родители, деца без родители и родителска грижа, уметници и други лица кои вршат дејност во културата, филмски работници и естрадни уметници",
+   "title": "Закон за дополнување на Законот за финансиска поддршка на граѓани со низок доход, корисници на пензија, корисници на право на социјална сигурност на стари лица, млади лица, самохрани родители, деца без родители и родителска грижа, уметници и други лица кои вршат дејност во културата, филмски работници и естрадни уметници",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55819",
+   "versions": [
+    {
+     "from": "2021-04-26",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55819",
+     "sha256": "16e97ab23179a801fe8382416e9fbaed3d1badd17ffb744c261e17b5c5cb9806"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55865",
+   "path": "zakon/2021/sv103-55865",
+   "short": "Закон за ратификација на Договорот меѓу страните на Северноатлантскиот Договор за безбедност на информации",
+   "title": "Закон за ратификација на Договорот меѓу страните на Северноатлантскиот Договор за безбедност на информации",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55865",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55865",
+     "sha256": "5a453d06e918600a107c502f2e7fa66e302decf532b3bb5320ea3761f3020709"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55867",
+   "path": "zakon/2021/sv103-55867",
+   "short": "Закон за изменување на Законот за употреба на знаковниот јазик",
+   "title": "Закон за изменување на Законот за употреба на знаковниот јазик",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55867",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55867",
+     "sha256": "44b78af2e909ee5e00b23d7a1d96280e5b71c15b4e1aa093e6240a4cd5927665"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55868",
+   "path": "zakon/2021/sv103-55868",
+   "short": "Закон за изменување и дополнување на Законот за задолжително капитално финансирано пензиско осигурување",
+   "title": "Закон за изменување и дополнување на Законот за задолжително капитално финансирано пензиско осигурување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55868",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 29,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55868",
+     "sha256": "e4ee4c42a0a9dc3d60270e3034f49fb392c71eaf41dc3d325d59c0638e5bff00"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55869",
+   "path": "zakon/2021/sv103-55869",
+   "short": "Закон за изменување на Законот за практиканство",
+   "title": "Закон за изменување на Законот за практиканство",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55869",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55869",
+     "sha256": "b7b6de18670a612d4247c4577cda935a3efa70bf0416836f1e605276051b8aa1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55870",
+   "path": "zakon/2021/sv103-55870",
+   "short": "Закон за изменување и дополнување на Законот за доброволно капитално финансирано пензиско осигурување",
+   "title": "Закон за изменување и дополнување на Законот за доброволно капитално финансирано пензиско осигурување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55870",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 23,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55870",
+     "sha256": "5cf8a7e8ce08f6b29c28cee961b876fc9ceaeeaf361b63c3e885ba7bcb1cd036"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55871",
+   "path": "zakon/2021/sv103-55871",
+   "short": "Закон за изменување и дополнување на Законот за заштита од вознемирување на работно место",
+   "title": "Закон за изменување и дополнување на Законот за заштита од вознемирување на работно место",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55871",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55871",
+     "sha256": "b27a0e21df4e6d9e9700cf3aebc4c935c88282674aafec1ded8101df2214899a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55872",
+   "path": "zakon/2021/sv103-55872",
+   "short": "Закон за изменување и дополнување на Законот за исплата на пензии и пензиски надоместоци од капитално финансирано пензиско осигурување",
+   "title": "Закон за изменување и дополнување на Законот за исплата на пензии и пензиски надоместоци од капитално финансирано пензиско осигурување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55872",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 12,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55872",
+     "sha256": "a3c306e8deecbb058f7346eba90c479116d840c64abcc32444142ac7f5917a72"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55874",
+   "path": "zakon/2021/sv103-55874",
+   "short": "Закон за изменување и дополнување на Законот за вработувањето и осигурување во случај на невработеност",
+   "title": "Закон за изменување и дополнување на Законот за вработувањето и осигурување во случај на невработеност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55874",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 9,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55874",
+     "sha256": "62d70f5510340f125fc0e9caf751f501f90c3dfff1fba252667da422e652ecae"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55875",
+   "path": "zakon/2021/sv103-55875",
+   "short": "Закон за изменување и дополнување на Законот за аудиовизуелните добра",
+   "title": "Закон за изменување и дополнување на Законот за аудиовизуелните добра",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55875",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 9,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55875",
+     "sha256": "6b8eb54c0e691f99606fd7ae03439ce46eba0992d9c936b18e89dc904db313aa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55876",
+   "path": "zakon/2021/sv103-55876",
+   "short": "Закон за изменување и дополнување на Законот за меморијалните споменици и спомен обележјата",
+   "title": "Закон за изменување и дополнување на Законот за меморијалните споменици и спомен обележјата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55876",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55876",
+     "sha256": "734f6c495553e637272ba6353eac3ad6da4c1e4446d262198174dc5ea02c7d60"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55877",
+   "path": "zakon/2021/sv103-55877",
+   "short": "Закон за изменување и дополнување на Законот за управната инспекција",
+   "title": "Закон за изменување и дополнување на Законот за управната инспекција",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55877",
+   "versions": [
+    {
+     "from": "2021-05-18",
+     "units": 15,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55877",
+     "sha256": "7e17cfe991eebf9d62e91d230f024fbc8ea962df227344b4944adf111058892a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55878",
+   "path": "zakon/2021/sv103-55878",
+   "short": "Закон за изменување и дополнување на Законот за финансиска поддршка за намалување на последиците предизвикани од Корона вирусот COVID-19 врз производството, откупот на грозје и винската индустрија",
+   "title": "Закон за изменување и дополнување на Законот за финансиска поддршка за намалување на последиците предизвикани од Корона вирусот COVID-19 врз производството, откупот на грозје и винската индустрија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55878",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55878",
+     "sha256": "b9324f855d94b9bdb606dc194ecf3a31ad46a591f6ff3137e7be552d4daf3280"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55879",
+   "path": "zakon/2021/sv103-55879",
+   "short": "Закон за изменување и дополнување на Законот за издавачката дејност",
+   "title": "Закон за изменување и дополнување на Законот за издавачката дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55879",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55879",
+     "sha256": "f01ad42fb2763bdaa8cd232ecbf5ffe32f54b67a571b03431c10b911bd456ca8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv103-55880",
+   "path": "zakon/2021/sv103-55880",
+   "short": "Закон за изменување и дополнување на Законот за музеите",
+   "title": "Закон за изменување и дополнување на Законот за музеите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55880",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55880",
+     "sha256": "880fcab540fafab0285a4bdeaa7e00c5324f526edbb5bbf1d545098395648054"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv107-55942",
+   "path": "zakon/2021/sv107-55942",
+   "short": "Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по договорот за заем за финансирање на проектот за модернизација на земјоделството",
+   "title": "Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по договорот за заем за финансирање на проектот за модернизација на земјоделството",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55942",
+   "versions": [
+    {
+     "from": "2021-05-14",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55942",
+     "sha256": "fdd0c33c0176481e8b0affebe36678b057b656a3912490fbfc51404be8ea8cba"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv110-55990",
+   "path": "zakon/2021/sv110-55990",
+   "short": "Закон за дополнување на Законот за земјоделство и рурален развој",
+   "title": "Закон за дополнување на Законот за земјоделство и рурален развој",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55990",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55990",
+     "sha256": "87e07a67c0c7b839c040008d04e449331447671dc33e009203790b63e701889a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv110-55991",
+   "path": "zakon/2021/sv110-55991",
+   "short": "Закон за изменување на Законот за вршење земјоделска дејност",
+   "title": "Закон за изменување на Законот за вршење земјоделска дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55991",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55991",
+     "sha256": "1f7a5d4300d2d0fff4e138f00d0d6977ae947b94d7c7d399e5c071a02455f000"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv110-55995",
+   "path": "zakon/2021/sv110-55995",
+   "short": "Закон за изменување на Законот за царински мерки за спроведување на заштита на правата од интелектуална сопственост",
+   "title": "Закон за изменување на Законот за царински мерки за спроведување на заштита на правата од интелектуална сопственост",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55995",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55995",
+     "sha256": "28de882a7d1383f39494911c69f0bcfe5e9edf8813d2762555ccbd792089fe6f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv110-55996",
+   "path": "zakon/2021/sv110-55996",
+   "short": "Закон за изменување и дополнување на Законот за девизното работење",
+   "title": "Закон за изменување и дополнување на Законот за девизното работење",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55996",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 18,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55996",
+     "sha256": "6e2be34d2a60aa4656711c11c0e1e56bcf5955326041ce5b2366df31d0518c70"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv110-55998",
+   "path": "zakon/2021/sv110-55998",
+   "short": "Закон за изменување на Законот за енергетска ефикасност",
+   "title": "Закон за изменување на Законот за енергетска ефикасност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55998",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55998",
+     "sha256": "23599ad2701897a16e9bd6bdbd1af04ef31ed2ed22edbdb35d981215b0f9cdb3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv110-55999",
+   "path": "zakon/2021/sv110-55999",
+   "short": "Закон за изменување на Законот за пасиштата",
+   "title": "Закон за изменување на Законот за пасиштата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55999",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55999",
+     "sha256": "8c5fff71851859779fd5bf6b72a4aa2d64b8bae9acd034a2ab02ce4c95e4b4e0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv111-55984",
+   "path": "zakon/2021/sv111-55984",
+   "short": "Закон за ратификација на Договорот меѓу Советот на министри на Босна и Херцеговина и Владите на другите страни на Иницијативата за подготвеност и превенција во случај на катастрофи во Југоисточна Европа за аранжманите со земјата- домаќин за Секретаријатот на Иницијативата за подготвеност и превенција во случај на катастрофи во Југоисточна Европа",
+   "title": "Закон за ратификација на Договорот меѓу Советот на министри на Босна и Херцеговина и Владите на другите страни на Иницијативата за подготвеност и превенција во случај на катастрофи во Југоисточна Европа за аранжманите со земјата- домаќин за Секретаријатот на Иницијативата за подготвеност и превенција во случај на катастрофи во Југоисточна Европа",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55984",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55984",
+     "sha256": "7cf50dc56c43d5bd0347cf6885f883e73630ec9c215d856d33b169a9e6167861"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56264",
+   "path": "zakon/2021/sv122-56264",
+   "short": "Закон за лобирање",
+   "title": "Закон за лобирање",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56264",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 50,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56264",
+     "sha256": "930d5c3de1f421e8a78bfaa3a024e65b30d0aa353eade2bb914637224b7a0bdf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56265",
+   "path": "zakon/2021/sv122-56265",
+   "short": "Закон за изменување и дополнување на Законот за патните исправи на државјаните на Република Македонија",
+   "title": "Закон за изменување и дополнување на Законот за патните исправи на државјаните на Република Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56265",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56265",
+     "sha256": "d2402c4f6522c736a70fa5dfc1cd26b0637ba7029a7b487e5fc3f361cddf3227"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56268",
+   "path": "zakon/2021/sv122-56268",
+   "short": "Закон за изменување и дополнување на Законот за библиотеките",
+   "title": "Закон за изменување и дополнување на Законот за библиотеките",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56268",
+   "versions": [
+    {
+     "from": "2021-06-03",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56268",
+     "sha256": "34bc16033e8984dd4532bbb6a7b43a79d087c237854ca63f23ab1d43009ec326"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56270",
+   "path": "zakon/2021/sv122-56270",
+   "short": "Закон за изменување и дополнување на Законот за комплементарна и алтернативна медицина",
+   "title": "Закон за изменување и дополнување на Законот за комплементарна и алтернативна медицина",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56270",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56270",
+     "sha256": "1bc1c756732b9df280a27e57560da709f1a80e2e59d4584f147514f63fed548a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56271",
+   "path": "zakon/2021/sv122-56271",
+   "short": "Закон за изменување и дополнување на Законот за лековите и медицинските средства",
+   "title": "Закон за изменување и дополнување на Законот за лековите и медицинските средства",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56271",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 17,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56271",
+     "sha256": "4176ba84acb12e35773f7d312b4501525fb0519d8c55e507d444895a8be4f1d8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56274",
+   "path": "zakon/2021/sv122-56274",
+   "short": "Закон за изменување на Законот за прекурзори",
+   "title": "Закон за изменување на Законот за прекурзори",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56274",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56274",
+     "sha256": "72e2401d8ba193d0eb4742ae497d957195b50006bdacf99f0bae53c8ac0fb41d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56277",
+   "path": "zakon/2021/sv122-56277",
+   "short": "Закон за изменување на Законот за заштита на правата на пациентите",
+   "title": "Закон за изменување на Законот за заштита на правата на пациентите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56277",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56277",
+     "sha256": "4f42567446e528e09a8fef24ebb3e70db9a6e6bc5a2f83e2a2d7707394065ddd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56278",
+   "path": "zakon/2021/sv122-56278",
+   "short": "Закон за изменување и дополнување на Законот за консолидација на земјоделско земјиште",
+   "title": "Закон за изменување и дополнување на Законот за консолидација на земјоделско земјиште",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56278",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 14,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56278",
+     "sha256": "639f8d069125ce39951821abbcd896c1bcbe9b212bc1189b7d9641be17b510a7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56279",
+   "path": "zakon/2021/sv122-56279",
+   "short": "Закон за изменување и дополнување на Законот за Царинската управа",
+   "title": "Закон за изменување и дополнување на Законот за Царинската управа",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56279",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 16,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56279",
+     "sha256": "d1d1b95296e6d8b5c73ee4c8e2d205f8251db13f15db6f0ea80c2a46c8ac7cb1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56280",
+   "path": "zakon/2021/sv122-56280",
+   "short": "Закон за изменување на Законот за селекционерски права",
+   "title": "Закон за изменување на Законот за селекционерски права",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56280",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 18,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56280",
+     "sha256": "968b97a56bd98829e81ee9ef5e06a52d187dc2bd36f887e44496fa336cbf3a64"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56281",
+   "path": "zakon/2021/sv122-56281",
+   "short": "Закон за изменување и дополнување на Законот за едношалтерскиот систем и за водење на трговскиот регистар и регистар на други правни лица",
+   "title": "Закон за изменување и дополнување на Законот за едношалтерскиот систем и за водење на трговскиот регистар и регистар на други правни лица",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56281",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56281",
+     "sha256": "f60000c179613ce45815e8b3b9f4dde27de351b078fa4ebefad88d36a4e52714"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56282",
+   "path": "zakon/2021/sv122-56282",
+   "short": "Закон за изменување на Законот за давање на финансиски услуги на далечина",
+   "title": "Закон за изменување на Законот за давање на финансиски услуги на далечина",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56282",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56282",
+     "sha256": "dc14fd8098de81581c40855d873f620a7b65f6013398e43322fecbf8f4ab3e72"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56283",
+   "path": "zakon/2021/sv122-56283",
+   "short": "Закон за изменување на Законот за чек",
+   "title": "Закон за изменување на Законот за чек",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56283",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56283",
+     "sha256": "0c6f989cd851e669e31f7d09a367e99c6d1670db93fdaf39a26b49d8891a9ccb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56285",
+   "path": "zakon/2021/sv122-56285",
+   "short": "Закон за изменување и дополнување на Законот за сметководството за буџетите и буџетските корисници",
+   "title": "Закон за изменување и дополнување на Законот за сметководството за буџетите и буџетските корисници",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56285",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56285",
+     "sha256": "8ae58d0e851640b380272e680ae30f4d8d89456a5fe43b0c20171954eea13295"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56286",
+   "path": "zakon/2021/sv122-56286",
+   "short": "Закон за изменување на Законот за сметководството за непрофитните организации",
+   "title": "Закон за изменување на Законот за сметководството за непрофитните организации",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56286",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56286",
+     "sha256": "a102e3d925285ab33b253d90fb7ea5175e53af8a287fd3df313499373b33c6ff"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56287",
+   "path": "zakon/2021/sv122-56287",
+   "short": "Закон за изменување и дополнување на Законот за ревизија",
+   "title": "Закон за изменување и дополнување на Законот за ревизија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56287",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56287",
+     "sha256": "a5789374cf42629553cb61bb8d183a7f3face51faa0d8f9a5006f64c22666ea4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56289",
+   "path": "zakon/2021/sv122-56289",
+   "short": "Закон за изменување на Законот за приватизација и закуп на градежно земјиште во државна сопственост",
+   "title": "Закон за изменување на Законот за приватизација и закуп на градежно земјиште во државна сопственост",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56289",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56289",
+     "sha256": "3fe94521e94ec1dd73069dca4f99d2c4d138f6558d549d7d13f2513afcc1b981"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56290",
+   "path": "zakon/2021/sv122-56290",
+   "short": "Закон за изменување и дополнување на Законот за банките",
+   "title": "Закон за изменување и дополнување на Законот за банките",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56290",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 20,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56290",
+     "sha256": "c07ac4cdac7756eac6068979dc03917cd77ae684dd7eca89de4b8c336aaa85fb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56292",
+   "path": "zakon/2021/sv122-56292",
+   "short": "Закон за изменување на Законот за користење и располагање со стварите во државна сопственост и со стварите во општинска сопственост",
+   "title": "Закон за изменување на Законот за користење и располагање со стварите во државна сопственост и со стварите во општинска сопственост",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56292",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56292",
+     "sha256": "90931c7e7462ba18f43f8f533bc8c67da159add30d45591d38433789af149017"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56293",
+   "path": "zakon/2021/sv122-56293",
+   "short": "Закон за изменување на Законот за сточарството",
+   "title": "Закон за изменување на Законот за сточарството",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56293",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 22,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56293",
+     "sha256": "9b856ca8a4db87dabfa557d5300c67a1d290b1c41c49909b12d093b6bcecb957"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56294",
+   "path": "zakon/2021/sv122-56294",
+   "short": "Закон за гаранција на Република Северна Македонија на обврските по финансискиот договор, КОВИД-19 одговор на Северна Македонија - Развојната банка на Северна Македонија АД Скопје наменет за финансирање на мали и средни претпријатија и средно пазарно капитализирани претпријатија, кој ќе се склучи меѓу Европската инвестициона банка и Развојната банка на Северна Македонија АД Скопје",
+   "title": "Закон за гаранција на Република Северна Македонија на обврските по финансискиот договор, КОВИД-19 одговор на Северна Македонија - Развојната банка на Северна Македонија АД Скопје наменет за финансирање на мали и средни претпријатија и средно пазарно капитализирани претпријатија, кој ќе се склучи меѓу Европската инвестициона банка и Развојната банка на Северна Македонија АД Скопје",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56294",
+   "versions": [
+    {
+     "from": "2021-06-03",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56294",
+     "sha256": "2ee38f24fd3920b7bd54da485b444dcbc77f27c1de46085472ec94d73594bbff"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56295",
+   "path": "zakon/2021/sv122-56295",
+   "short": "Закон за изменување и дополнување на Законот за финансиска дисциплина",
+   "title": "Закон за изменување и дополнување на Законот за финансиска дисциплина",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56295",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56295",
+     "sha256": "d9656d857d9efd7eb5e29e18de1d8e507dba20ea4fca45000f80e0661d79cb12"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56296",
+   "path": "zakon/2021/sv122-56296",
+   "short": "Закон за изменување на Законот за пријавување и евиденција на обврски",
+   "title": "Закон за изменување на Законот за пријавување и евиденција на обврски",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56296",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56296",
+     "sha256": "fbaca7a61b22674e957798ffd6e3151349415369846d72c2b20cbd647efd920d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56297",
+   "path": "zakon/2021/sv122-56297",
+   "short": "Закон за изменување на Законот за експропријација",
+   "title": "Закон за изменување на Законот за експропријација",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56297",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56297",
+     "sha256": "7a535b582007e1c23a9200fe213ae97374c8f04bc5ba16483fcb190ac367555a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv122-56299",
+   "path": "zakon/2021/sv122-56299",
+   "short": "Закон за изменување и дополнување на Законот за внатрешната пловидба",
+   "title": "Закон за изменување и дополнување на Законот за внатрешната пловидба",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56299",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 23,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56299",
+     "sha256": "3372edf01244a0d314049fdf19bb4ba39d88b62c712c3c567327814d5d2c7054"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv150-56588",
+   "path": "zakon/2021/sv150-56588",
+   "short": "Закон за изменување и дополнување на Законот за субвенциониран студентски оброк",
+   "title": "Закон за изменување и дополнување на Законот за субвенциониран студентски оброк",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56588",
+   "versions": [
+    {
+     "from": "2021-07-05",
+     "units": 12,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56588",
+     "sha256": "9105a272b6f52486479a40e94d4b088b3bda005a507597c709ab908252b437e7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv150-56590",
+   "path": "zakon/2021/sv150-56590",
+   "short": "Закон за изменување на Законот за квалитетот на земјоделските производи",
+   "title": "Закон за изменување на Законот за квалитетот на земјоделските производи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56590",
+   "versions": [
+    {
+     "from": "2021-07-13",
+     "units": 40,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56590",
+     "sha256": "6718b2ecee17a9670f61e50f33f64d6eabdce22d5ce2325cf693a5a961d0e8f8"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-sv150-56591",
    "path": "zakon/2021/sv150-56591",
    "short": "Закон за изменување на Законот за квалитет и безбедност на ѓубриња, биостимулатори и подобрувачи на својствата на почвата",
@@ -122,6 +1037,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-sv150-56594",
+   "path": "zakon/2021/sv150-56594",
+   "short": "Закон за изменување на Законот за здравјето на растенијата",
+   "title": "Закон за изменување на Законот за здравјето на растенијата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56594",
+   "versions": [
+    {
+     "from": "2021-07-13",
+     "units": 45,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56594",
+     "sha256": "d38c1e172862999bb4303cc7d24711f08afd516434b62821443e394bbff01830"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-sv150-56595",
    "path": "zakon/2021/sv150-56595",
    "short": "Закон за изменување на Законот за спречување на насилството и недостојното однесување на спортските натпревари",
@@ -133,6 +1063,21 @@
      "units": 6,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56595",
      "sha256": "d30992d3b2d5d7343f9fe79f78dbacf4644cf879ae3d8ecde7eb647142eea44d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv150-56596",
+   "path": "zakon/2021/sv150-56596",
+   "short": "Закон за изменување и дополнување на Законот за репродуктивен материјал од шумски видови дрвја",
+   "title": "Закон за изменување и дополнување на Законот за репродуктивен материјал од шумски видови дрвја",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56596",
+   "versions": [
+    {
+     "from": "2021-07-13",
+     "units": 13,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56596",
+     "sha256": "e59ce81a63f0892f6df558449cad420b99ffcd4e27e55a54cfa00f837e333ad1"
     }
    ]
   },
@@ -238,6 +1183,21 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56610",
      "sha256": "1b4b09ee6f0d4474016602cf63bfcb1b0fca2238af65da1b37f1d1a8d17c782a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv151-56611",
+   "path": "zakon/2021/sv151-56611",
+   "short": "Закон за изменување и дополнување на Законот за квалитет на амбиентниот воздух",
+   "title": "Закон за изменување и дополнување на Законот за квалитет на амбиентниот воздух",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56611",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 29,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56611",
+     "sha256": "d6b247afb83fdbe1946b9fb737bce5f2ffea7e1a03388705d1f032c9e6c3c74c"
     }
    ]
   },
@@ -392,6 +1352,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-sv152-56704",
+   "path": "zakon/2021/sv152-56704",
+   "short": "Закон за ратификација на Договорот на НАТО за соопштување на техничките информации во одбранбени цели",
+   "title": "Закон за ратификација на Договорот на НАТО за соопштување на техничките информации во одбранбени цели",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56704",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56704",
+     "sha256": "0d4b7e771357d73a09f8b26d83d4a9ef189cd5c96be5b978580810cd8d2115bb"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-sv152-56705",
    "path": "zakon/2021/sv152-56705",
    "short": "Закон за ратификација на Меморандумот за разбирање помеѓу Владата на Република Северна Македонија и Владата на Република Грција во врска со формирање на Управувачки комитет за економска соработка",
@@ -403,6 +1378,81 @@
      "units": 3,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56705",
      "sha256": "2dd4a6f6e654cb419a56b21a5c8501f6e5bf9cff7d83bb6ed38e1835eb01ddfc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv152-56706",
+   "path": "zakon/2021/sv152-56706",
+   "short": "Закон за ратификација на Договорот меѓу Владата на Република Северна Македонија и Владата на Република Грција за заемна заштита на разменетите класифицирани информации",
+   "title": "Закон за ратификација на Договорот меѓу Владата на Република Северна Македонија и Владата на Република Грција за заемна заштита на разменетите класифицирани информации",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56706",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56706",
+     "sha256": "2f45d21af97111883b4961e51e0734af0c66452c0cb8d8ae9f9f533f018dc4a5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv152-56707",
+   "path": "zakon/2021/sv152-56707",
+   "short": "Закон за ратификација на Договорот за заемна заштита на тајноста на пронајдоците кои се однесуваат на одбраната и за кои се поднесени барања за патентирање",
+   "title": "Закон за ратификација на Договорот за заемна заштита на тајноста на пронајдоците кои се однесуваат на одбраната и за кои се поднесени барања за патентирање",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56707",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56707",
+     "sha256": "b54eeafad4104481e7c12a60afb206d42283e11330f68be9114c9da3613ca4fa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv152-56708",
+   "path": "zakon/2021/sv152-56708",
+   "short": "Закон за ратификација на Договорот меѓу Владата на Република Северна Македонија и Владата на Обединетите Арапски Емирати за поттикнување и заемна заштита на инвестиции",
+   "title": "Закон за ратификација на Договорот меѓу Владата на Република Северна Македонија и Владата на Обединетите Арапски Емирати за поттикнување и заемна заштита на инвестиции",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56708",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56708",
+     "sha256": "9abd7f811508f61b403ec1d7c6719c0586a396f0445733ddc7ba11fb19d24a76"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv152-56709",
+   "path": "zakon/2021/sv152-56709",
+   "short": "Закон за ратификација на Протоколот за измена на Конвенцијата за заштита на лица во однос на автоматска обработка на лични податоци",
+   "title": "Закон за ратификација на Протоколот за измена на Конвенцијата за заштита на лица во однос на автоматска обработка на лични податоци",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56709",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56709",
+     "sha256": "c5b169044303872c9620b8b432bdf7056a5b5eed250da5d993023042f7c38bd2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv152-56710",
+   "path": "zakon/2021/sv152-56710",
+   "short": "Закон за ратификација на Договорот помеѓу Владата на Република Северна Македонија и Владата на Француската Република кој се однесува на основањето и на активностите на Француската Агенција за развој, на Пропарко и на Експертиза Франција во Република Северна Македонија",
+   "title": "Закон за ратификација на Договорот помеѓу Владата на Република Северна Македонија и Владата на Француската Република кој се однесува на основањето и на активностите на Француската Агенција за развој, на Пропарко и на Експертиза Франција во Република Северна Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56710",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56710",
+     "sha256": "e32ef6e2e6d9eec9ad20ed9b609745c8586e17f8db83bc8a4828f65dfe610a36"
     }
    ]
   },
@@ -973,6 +2023,21 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58219",
      "sha256": "230d00512994e91ce63e1deea625a81d4d25f142cc2e31f4eae9159176aa1f4f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv279-58220",
+   "path": "zakon/2021/sv279-58220",
+   "short": "Закон за ратификација на измените и дополнувањата на Договорот за слободна трговија меѓу Република Македонија и ЕФТА државите",
+   "title": "Закон за ратификација на измените и дополнувањата на Договорот за слободна трговија меѓу Република Македонија и ЕФТА државите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58220",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58220",
+     "sha256": "47965a0e979c8e7890748aef12dd81f3ba8c76da08036427f5b1bc66113c90d5"
     }
    ]
   },
@@ -11762,6 +12827,36 @@
    ]
   },
   {
+   "slug": "naredba-2021-sv111-55987",
+   "path": "naredba/2021/sv111-55987",
+   "short": "Наредба за забрана на прометот на хлорофлуоројаглеводороди (HCFCs)",
+   "title": "Наредба за забрана на прометот на хлорофлуоројаглеводороди (HCFCs)",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55987",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55987",
+     "sha256": "d7be1784ef6197e075a4129519b1f0d8e0e15038ef61e6342439336cdadb0440"
+    }
+   ]
+  },
+  {
+   "slug": "naredba-2021-sv111-55988",
+   "path": "naredba/2021/sv111-55988",
+   "short": "Наредба за ограничување на увозот на супстанциите кои ја осиромашуваат озонската обвивка",
+   "title": "Наредба за ограничување на увозот на супстанциите кои ја осиромашуваат озонската обвивка",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55988",
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55988",
+     "sha256": "e7355cce044c9a127435add83431d4324465f095635cf1762ed7e425e0762355"
+    }
+   ]
+  },
+  {
    "slug": "naredba-2021-sv201-57422",
    "path": "naredba/2021/sv201-57422",
    "short": "Наредба за ограничување на собирање на растителниот вид arctostaphylos uva ursi (мечкино грозје) заради користење и трговија",
@@ -11863,6 +12958,561 @@
      "units": 3,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64352",
      "sha256": "7da144b6f2670125f4b31623572da563e8f0b83a873a6db6495b7d6478391f94"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv075-55634",
+   "path": "pravilnik/2021/sv075-55634",
+   "short": "Правилник за дополнување на Правилникот за класификација на расходите",
+   "title": "Правилник за дополнување на Правилникот за класификација на расходите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55634",
+   "versions": [
+    {
+     "from": "2021-04-05",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55634",
+     "sha256": "785835446932af2ca10e03a6ccb94c849324222f18ccfbf467f7a46e5d149529"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv078-55661",
+   "path": "pravilnik/2021/sv078-55661",
+   "short": "Правилник за начинот на водењето на постапката за утврдување на материјална одговорност на припадникот на затворска полиција, како и формата и содржината на решението за надомест на штета",
+   "title": "Правилник за начинот на водењето на постапката за утврдување на материјална одговорност на припадникот на затворска полиција, како и формата и содржината на решението за надомест на штета",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55661",
+   "versions": [
+    {
+     "from": "2021-04-08",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55661",
+     "sha256": "0a2464006a8057f88da6cd4a9be9585c4b866dd70d5d6f2048a1bf671b0176fc"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv082-55729",
+   "path": "pravilnik/2021/sv082-55729",
+   "short": "Правилник за изменување и дополнување на Правилникот за составот, квалитетот и кројот на униформата и ознаките на униформата на Полицијата",
+   "title": "Правилник за изменување и дополнување на Правилникот за составот, квалитетот и кројот на униформата и ознаките на униформата на Полицијата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55729",
+   "versions": [
+    {
+     "from": "2021-04-14",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55729",
+     "sha256": "212c35f2dc5acd5151f93ac7d09dd411d0f85f2c2346082b3db524c944c584d2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv083-55726",
+   "path": "pravilnik/2021/sv083-55726",
+   "short": "Правилник за дополнување на Правилникот за премер на недвижности",
+   "title": "Правилник за дополнување на Правилникот за премер на недвижности",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55726",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55726",
+     "sha256": "4676e7c740938aed3312ade068f14021c7ae892e604b2ba2d82d1956e743a72f"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv087-55790",
+   "path": "pravilnik/2021/sv087-55790",
+   "short": "Правилник за формата и содржината на барањето за финансиска поддршка за исплата на финансиски средства на физички лица кои вршат самостојна дејност",
+   "title": "Правилник за формата и содржината на барањето за финансиска поддршка за исплата на финансиски средства на физички лица кои вршат самостојна дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55790",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55790",
+     "sha256": "0edecf9e170d554169e707b7a18fcf668ca416f7b6fa6ff8d6d650fedf26609d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv087-55791",
+   "path": "pravilnik/2021/sv087-55791",
+   "short": "Правилник за формата и содржината на барањето за финансиска поддршка за исплата на плати на работниците",
+   "title": "Правилник за формата и содржината на барањето за финансиска поддршка за исплата на плати на работниците",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55791",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55791",
+     "sha256": "fd63ae045d4108c87004fd4a5c78d8f3e966c28ee12d8cdf911d1fea297249a5"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv088-55811",
+   "path": "pravilnik/2021/sv088-55811",
+   "short": "Правилник за дополнување на Правилникот за начинот на финансирањето на организација на научни собири и учество на домашни научни истражувачи на меѓународни научни собири и студиски престои во странство",
+   "title": "Правилник за дополнување на Правилникот за начинот на финансирањето на организација на научни собири и учество на домашни научни истражувачи на меѓународни научни собири и студиски престои во странство",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55811",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55811",
+     "sha256": "709ff25aab65a313b49332aaedbbdb5b3b77e8319abbd08e2b0ffa7cf14bc48c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv088-55816",
+   "path": "pravilnik/2021/sv088-55816",
+   "short": "Правилник за изменување и дополнување на Правилникот за одржување на катастарот на недвижностите",
+   "title": "Правилник за изменување и дополнување на Правилникот за одржување на катастарот на недвижностите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55816",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55816",
+     "sha256": "ca61546ca50a11ab6c6f53ed1c293a91af9576b562c89b33deb01491813f162b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv090-56089",
+   "path": "pravilnik/2021/sv090-56089",
+   "short": "Правилник за изменување и дополнување на Правилникот за формата и содржината на барањето за ослободување од плаќање на месечните аконтации на данокот на личен доход остварен од вршење на самостојна дејност",
+   "title": "Правилник за изменување и дополнување на Правилникот за формата и содржината на барањето за ослободување од плаќање на месечните аконтации на данокот на личен доход остварен од вршење на самостојна дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56089",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56089",
+     "sha256": "1ecc36804c3184a0ec2af90ee3be0b111f135ec39b61e152ccfdd5acd652468b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv090-56092",
+   "path": "pravilnik/2021/sv090-56092",
+   "short": "Правилник за изменување и дополнување на Правилникот за утврдување на категориите на сопствени средства и начинот на пресметување на износот и структурата на влоговите при основање и средствата од активата на овластено правно лице со кои треба да располага и во континуитет",
+   "title": "Правилник за изменување и дополнување на Правилникот за утврдување на категориите на сопствени средства и начинот на пресметување на износот и структурата на влоговите при основање и средствата од активата на овластено правно лице со кои треба да располага и во континуитет",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56092",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56092",
+     "sha256": "b7d90c3ed80dd66de799709e3f1306599ad395183a4334e8d149fd6477f678d0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv090-56107",
+   "path": "pravilnik/2021/sv090-56107",
+   "short": "Правилник за изменување и дополнување на Правилникот за формата и содржината на првичниот извештај за сопственост на акционер, извештајот за промена на сопственост на акционер и конечниот извештај за промена на сопственост на акционер",
+   "title": "Правилник за изменување и дополнување на Правилникот за формата и содржината на првичниот извештај за сопственост на акционер, извештајот за промена на сопственост на акционер и конечниот извештај за промена на сопственост на акционер",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56107",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56107",
+     "sha256": "0aff10d097fe3133d17bae93067bc143f92d42a169f7f38d78fa89b59c2d106b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv090-56108",
+   "path": "pravilnik/2021/sv090-56108",
+   "short": "Правилник за изменување и дополнување на Правилникот за известувањето од страна на акционерско друштво со посебни обврски за известување за стекнати, односно оттуѓени хартии од вредност на правни и физички лица",
+   "title": "Правилник за изменување и дополнување на Правилникот за известувањето од страна на акционерско друштво со посебни обврски за известување за стекнати, односно оттуѓени хартии од вредност на правни и физички лица",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56108",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56108",
+     "sha256": "91ea6a209e8529c309630bcb545469afb10ca42467c62c9fa4cdc2ef9d1921d1"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv091-56114",
+   "path": "pravilnik/2021/sv091-56114",
+   "short": "Правилник за нивото и начинот на пресметка на оперативните резерви",
+   "title": "Правилник за нивото и начинот на пресметка на оперативните резерви",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56114",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56114",
+     "sha256": "1fd79e6da0bb15cc6cc3b591b5c6d553739fa10ad4dbd8b36a38a79066bad351"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv091-56116",
+   "path": "pravilnik/2021/sv091-56116",
+   "short": "Правилник за начинот, обемот, нормативите и стандардите за давање на социјалнaта услугa за привремен престој и за простор, средства, кадри и потребната документација за центар за привремен престој",
+   "title": "Правилник за начинот, обемот, нормативите и стандардите за давање на социјалнaта услугa за привремен престој и за простор, средства, кадри и потребната документација за центар за привремен престој",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56116",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 63,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56116",
+     "sha256": "8b4ca34b8ec4c43da7a21b1b155a383178da5aace139b6c78046ff30ca3b81b0"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv091-56117",
+   "path": "pravilnik/2021/sv091-56117",
+   "short": "Правилник за формата и содржината на прекршочниот платен налог",
+   "title": "Правилник за формата и содржината на прекршочниот платен налог",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56117",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56117",
+     "sha256": "1de4d4dfeaa3dfa65e03cf3eace2bf1f96bfcafeb7395fc7fd1f4a5f4153ebb2"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv091-56119",
+   "path": "pravilnik/2021/sv091-56119",
+   "short": "Правилник за изменување на Правилникот за содржината и формата на мислењето што овластениот ревизор го дава во постапката за одобрување на зделка со заинтересирана страна кај акционерското друштво чии хартии од вредност котираат на берза",
+   "title": "Правилник за изменување на Правилникот за содржината и формата на мислењето што овластениот ревизор го дава во постапката за одобрување на зделка со заинтересирана страна кај акционерското друштво чии хартии од вредност котираат на берза",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56119",
+   "versions": [
+    {
+     "from": "2021-04-26",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56119",
+     "sha256": "ede9353f5f434a2a673d1897f31363ad1efff891403622951dfc099b039ef785"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv091-56120",
+   "path": "pravilnik/2021/sv091-56120",
+   "short": "Правилник за изменување и дополнување на Правилникот за формата и содржината на годишните, полугодишните и тековните извештаи, материјали за акционерски собранија и извештај за сопственост на акционерските друштва со посебни обврски за известување кои се водат во Регистарот на Комисијата за хартии од вредност на Република Македонија",
+   "title": "Правилник за изменување и дополнување на Правилникот за формата и содржината на годишните, полугодишните и тековните извештаи, материјали за акционерски собранија и извештај за сопственост на акционерските друштва со посебни обврски за известување кои се водат во Регистарот на Комисијата за хартии од вредност на Република Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56120",
+   "versions": [
+    {
+     "from": "2021-04-26",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56120",
+     "sha256": "fb3ef6517bb87959c26619466935550ca2e4d1b7c67f3940c416783b580d9431"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv093-56141",
+   "path": "pravilnik/2021/sv093-56141",
+   "short": "Правилник за изменување и дополнување на Правилникот за повластени производители коишто користат повластена тарифа",
+   "title": "Правилник за изменување и дополнување на Правилникот за повластени производители коишто користат повластена тарифа",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56141",
+   "versions": [
+    {
+     "from": "2021-04-27",
+     "units": 24,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56141",
+     "sha256": "d6478b7ab745cfeac9e68a3d8931474969cf1020da8a777f434ebf3e29d2bd7b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv094-55840",
+   "path": "pravilnik/2021/sv094-55840",
+   "short": "Правилник за методите и процедурите за пресметка на просечните дневни нето увози и просечната дневна домашна потрошувачка",
+   "title": "Правилник за методите и процедурите за пресметка на просечните дневни нето увози и просечната дневна домашна потрошувачка",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55840",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55840",
+     "sha256": "bdad7ea73c8df14ce4d54fa7937a5a9f07391f7eac744a4ac97eae47fcdd5998"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv094-55841",
+   "path": "pravilnik/2021/sv094-55841",
+   "short": "Правилник за методите и процедурите за пресметка на нивото на задолжителни резерви",
+   "title": "Правилник за методите и процедурите за пресметка на нивото на задолжителни резерви",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55841",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55841",
+     "sha256": "74249a46380762ee0e547c8e1cd219870865a28f1e37bc08ac167209636e8b88"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv096-56143",
+   "path": "pravilnik/2021/sv096-56143",
+   "short": "Правилник за изменување на Правилникот за поблиските критериуми за избор на корисници по мерките за рурален развој",
+   "title": "Правилник за изменување на Правилникот за поблиските критериуми за избор на корисници по мерките за рурален развој",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56143",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56143",
+     "sha256": "2ad69e36e204bed219140e09f51075725cff2e29c87c041bb6026ac522e98819"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv096-56149",
+   "path": "pravilnik/2021/sv096-56149",
+   "short": "Правилник за изменување и дополнување на Правилникот за постапката и условите за достапност на податоци од издавач на хартии од вредност и од акционерските друштва со посебни обврски за известување",
+   "title": "Правилник за изменување и дополнување на Правилникот за постапката и условите за достапност на податоци од издавач на хартии од вредност и од акционерските друштва со посебни обврски за известување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56149",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 9,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56149",
+     "sha256": "1add4d97f799555b9379c7fbc1be4c4619bf5959929266b0bc37c8a237a46d3c"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv096-56150",
+   "path": "pravilnik/2021/sv096-56150",
+   "short": "Правилник за формата и содржината на барањето за добивање дозвола за понуда за преземање и на документацијата што се поднесува кон барањето",
+   "title": "Правилник за формата и содржината на барањето за добивање дозвола за понуда за преземање и на документацијата што се поднесува кон барањето",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56150",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 12,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56150",
+     "sha256": "c4ef37813dd4a611e795587063b369ca5f74a60e2d9810e85324eb1299859509"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv097-56186",
+   "path": "pravilnik/2021/sv097-56186",
+   "short": "Правилник за случаите на примената на утврдените дополнителни критериуми и определувањето на соодветни дипломи за запишување на учениците во прва година на образование во јавните средни училишта",
+   "title": "Правилник за случаите на примената на утврдените дополнителни критериуми и определувањето на соодветни дипломи за запишување на учениците во прва година на образование во јавните средни училишта",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56186",
+   "versions": [
+    {
+     "from": "2021-04-30",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56186",
+     "sha256": "106f1396f4b5796b9b90a9559029a9f302cef337a1897eb75b6cfd37f7b44d76"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv098-56216",
+   "path": "pravilnik/2021/sv098-56216",
+   "short": "Правилник за измена и дополнување на Правилникот за лиценцирање на пензиски друштва",
+   "title": "Правилник за измена и дополнување на Правилникот за лиценцирање на пензиски друштва",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56216",
+   "versions": [
+    {
+     "from": "2021-05-05",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56216",
+     "sha256": "5e99a6ec62be6ec4e8afa901eff2e29e9c59584189f39a0d83f27d09fc3e85c8"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv102-55907",
+   "path": "pravilnik/2021/sv102-55907",
+   "short": "Правилник за поблиските критериуми за формирање и работа на советувалиштето за деца и родители во јавна детска градинка/јавен центар за ран детски развој",
+   "title": "Правилник за поблиските критериуми за формирање и работа на советувалиштето за деца и родители во јавна детска градинка/јавен центар за ран детски развој",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55907",
+   "versions": [
+    {
+     "from": "2021-05-08",
+     "units": 13,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55907",
+     "sha256": "d794b4512336696eef3367770d1a8a796cc0b1dd4617d1dbb80925b71fa83711"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv105-55891",
+   "path": "pravilnik/2021/sv105-55891",
+   "short": "Правилник за изменување и дополнување на Правилникот за обука во Министерството за внатрешни работи",
+   "title": "Правилник за изменување и дополнување на Правилникот за обука во Министерството за внатрешни работи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55891",
+   "versions": [
+    {
+     "from": "2021-05-19",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55891",
+     "sha256": "f5e7e58828aab2eee31a975534076f660f2d0790040b7bba63e13f3172a86467"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv109-55913",
+   "path": "pravilnik/2021/sv109-55913",
+   "short": "Правилник за начинот на спроведување и содржината на обуката за сопствениците на опасни кучиња",
+   "title": "Правилник за начинот на спроведување и содржината на обуката за сопствениците на опасни кучиња",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55913",
+   "versions": [
+    {
+     "from": "2021-05-26",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55913",
+     "sha256": "2130562fa623c46381cfb369ac420015612e4f8cdcba1308cd0b1b475b8c8c15"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv113-56028",
+   "path": "pravilnik/2021/sv113-56028",
+   "short": "Правилник за содржината и методологијата за изработка на заштитно - конзерваторските основи за културното наследство",
+   "title": "Правилник за содржината и методологијата за изработка на заштитно - конзерваторските основи за културното наследство",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56028",
+   "versions": [
+    {
+     "from": "2021-06-02",
+     "units": 34,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56028",
+     "sha256": "42da85d60516dee2d40636de747f8b86ca7b6adb99e830dd6737c8a1542a6f77"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv114-56018",
+   "path": "pravilnik/2021/sv114-56018",
+   "short": "Правилник за изменување и дополнување на Правилникот образецот за утврдување на податоци за производители на винско грозје, образецот за утврдување податоци за извезено вино и образецот за утврдување податоци за извезено винско грозје",
+   "title": "Правилник за изменување и дополнување на Правилникот образецот за утврдување на податоци за производители на винско грозје, образецот за утврдување податоци за извезено вино и образецот за утврдување податоци за извезено винско грозје",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56018",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56018",
+     "sha256": "27fc00c0353f79336057b7715e48ad619d6e837e0cf29da366aa7d738d914c50"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv117-56095",
+   "path": "pravilnik/2021/sv117-56095",
+   "short": "Правилник за начинот и постапката за спроведување на поддршката за помош за вршење на земјоделска дејност за заштита и унапредување на животната средина",
+   "title": "Правилник за начинот и постапката за спроведување на поддршката за помош за вршење на земјоделска дејност за заштита и унапредување на животната средина",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56095",
+   "versions": [
+    {
+     "from": "2021-06-01",
+     "units": 9,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56095",
+     "sha256": "d05c26d8388580ade60f7fa8ce770c16b18189b4e7567d300c41704589277374"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv121-56354",
+   "path": "pravilnik/2021/sv121-56354",
+   "short": "Правилник за формата и содржината на интерниот оглас, формата и содржината на образецот на пријавата и начинот на поднесување на документите и доказите за исполнување на условите содржани во огласот, начинот на спроведување на административната селекција и интервјуто, како и начинот на нивно бодување и максималниот број на бодови од постапката на селекција, во зависност од категоријата на работното место за кое е објавен интерниот оглас за унапредување на припадник на затворската полиција",
+   "title": "Правилник за формата и содржината на интерниот оглас, формата и содржината на образецот на пријавата и начинот на поднесување на документите и доказите за исполнување на условите содржани во огласот, начинот на спроведување на административната селекција и интервјуто, како и начинот на нивно бодување и максималниот број на бодови од постапката на селекција, во зависност од категоријата на работното место за кое е објавен интерниот оглас за унапредување на припадник на затворската полиција",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56354",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 9,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56354",
+     "sha256": "f781376236f66f3388eb85f2c4c3ee61b95ce2120d6e0269e53a14cc5feeeda6"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv124-56373",
+   "path": "pravilnik/2021/sv124-56373",
+   "short": "Правилник за изменување на Правилникот за формата и содржината на образецот на барањето за издавање на дозволата за вршење на дејност со извори на јонизирачко зрачење, формата и содржината на образецот на дозволата и за начинот и постапката за издавање на дозволата",
+   "title": "Правилник за изменување на Правилникот за формата и содржината на образецот на барањето за издавање на дозволата за вршење на дејност со извори на јонизирачко зрачење, формата и содржината на образецот на дозволата и за начинот и постапката за издавање на дозволата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56373",
+   "versions": [
+    {
+     "from": "2021-06-08",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56373",
+     "sha256": "7a36fdb63de90d9df644cef98f727af382e0491166efdfd1a56205837ffd1017"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv129-56500",
+   "path": "pravilnik/2021/sv129-56500",
+   "short": "Правилник за составот и начинот на работа на Советот за координирање на информатичко-комуникациска технологија во правосудните органи",
+   "title": "Правилник за составот и начинот на работа на Советот за координирање на информатичко-комуникациска технологија во правосудните органи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56500",
+   "versions": [
+    {
+     "from": "2021-06-12",
+     "units": 13,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56500",
+     "sha256": "245441600f5f6d174643e2b92467ede594ee43666ee54906b0c5b0b5a7535f12"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv134-56517",
+   "path": "pravilnik/2021/sv134-56517",
+   "short": "Правилник за изменување на Правилникот за формата, содржината и начинот на издавање на службената легитимација на заменик директор на казнено- поправна и воспитно-поправна установа",
+   "title": "Правилник за изменување на Правилникот за формата, содржината и начинот на издавање на службената легитимација на заменик директор на казнено- поправна и воспитно-поправна установа",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56517",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56517",
+     "sha256": "5d45572fa58ad034e3e14dcb00d4616d07de61db830107ec21d2a47636aec53b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv134-56518",
+   "path": "pravilnik/2021/sv134-56518",
+   "short": "Правилник за изменување на Правилникот за формата, содржината и начинот на издавање на службената легитимација на директор на казнено-поправна и воспитно-поправна установа",
+   "title": "Правилник за изменување на Правилникот за формата, содржината и начинот на издавање на службената легитимација на директор на казнено-поправна и воспитно-поправна установа",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56518",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56518",
+     "sha256": "0d8f0de70f522a8abaf44ca9cd2f71c989c96a9acce3a68562d9428995ab3b53"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv134-56520",
+   "path": "pravilnik/2021/sv134-56520",
+   "short": "Правилник за изменување на Правилникот за формата, содржината и начинот на издавање на службената легитимација на директорот на Управата за извршување на санкциите",
+   "title": "Правилник за изменување на Правилникот за формата, содржината и начинот на издавање на службената легитимација на директорот на Управата за извршување на санкциите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56520",
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56520",
+     "sha256": "bc896c24541485612ad35df341866403250480270937a707aa648724556638ed"
     }
    ]
   },
@@ -11987,6 +13637,51 @@
    ]
   },
   {
+   "slug": "pravilnik-2021-sv147-56399",
+   "path": "pravilnik/2021/sv147-56399",
+   "short": "Правилник за начинот на одржување и проверка на физичката способност за служба во Армијата на Република Северна Македонија, како и начинот на работа на комисиите за проверка на физичката способност",
+   "title": "Правилник за начинот на одржување и проверка на физичката способност за служба во Армијата на Република Северна Македонија, како и начинот на работа на комисиите за проверка на физичката способност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56399",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 40,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56399",
+     "sha256": "e5874734600e5e1ab0fc6ae2f4bbba6fcd16c4e93b80b2f36a0e3daab7376a4d"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv147-56400",
+   "path": "pravilnik/2021/sv147-56400",
+   "short": "Правилник за престанување на важењето на Правилникот за формата и содржината на барањето за донесување на решение од министерот за труд и социјална политика",
+   "title": "Правилник за престанување на важењето на Правилникот за формата и содржината на барањето за донесување на решение од министерот за труд и социјална политика",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56400",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56400",
+     "sha256": "0b3cf3523f97e7759848a5e81d640d32843e9e6ebc10876aea4f85c44d1dfaad"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv147-56401",
+   "path": "pravilnik/2021/sv147-56401",
+   "short": "Правилник за престанување на важењето на Правилникот за формата и содржината на барањето за донесување на решение од директорот на Центарот за социјална работа",
+   "title": "Правилник за престанување на важењето на Правилникот за формата и содржината на барањето за донесување на решение од директорот на Центарот за социјална работа",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56401",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56401",
+     "sha256": "f0e4466547f05588e09eb55ee90a2a06fc8bc501187c769dcb0fa16382cc43e0"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2021-sv151-56625",
    "path": "pravilnik/2021/sv151-56625",
    "short": "Правилник за формата и содржината на прекршочниот платен налог",
@@ -12062,6 +13757,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2021-sv156-56769",
+   "path": "pravilnik/2021/sv156-56769",
+   "short": "Правилник за начинот на службено оценување на активниот воен персонал, активниот резервен персонал и за офицерите, односно подофицерите и војниците во резервниот состав на Армијата на Република Северна Македонија, начинот на водење на евиденција потребна за службено оценување и видовите на обрасците на оценувачкиот лист",
+   "title": "Правилник за начинот на службено оценување на активниот воен персонал, активниот резервен персонал и за офицерите, односно подофицерите и војниците во резервниот состав на Армијата на Република Северна Македонија, начинот на водење на евиденција потребна за службено оценување и видовите на обрасците на оценувачкиот лист",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56769",
+   "versions": [
+    {
+     "from": "2021-07-17",
+     "units": 23,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56769",
+     "sha256": "35bc3926ef223057389348acd25018c73428c63666928ca28ebfb3f8a1aed589"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2021-sv160-56824",
    "path": "pravilnik/2021/sv160-56824",
    "short": "Правилник за именување и дополнување на Правилникот за начинот и постапката за давање на одобрениja на измените на документите поднесени при лиценцирање",
@@ -12088,6 +13798,21 @@
      "units": 3,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56825",
      "sha256": "349e0fff1dd6ef2662004c9ad31f46e3dfe11a75c89645b03ce3c75fe221df58"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2021-sv161-56827",
+   "path": "pravilnik/2021/sv161-56827",
+   "short": "Правилник за изменување и дополнување на Правилникот за обрасците на патните исправи и визи на државјаните на Република Македонија, за начинот на фотографирање и земање на потпис за патните исправи и за водење на евиденција",
+   "title": "Правилник за изменување и дополнување на Правилникот за обрасците на патните исправи и визи на државјаните на Република Македонија, за начинот на фотографирање и земање на потпис за патните исправи и за водење на евиденција",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56827",
+   "versions": [
+    {
+     "from": "2021-07-16",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56827",
+     "sha256": "a9426b26c48e4c2f8098bce4bf13636bce8f0e421eab59ad98e3cffef605b776"
     }
    ]
   },
@@ -25832,6 +27557,21 @@
    ]
   },
   {
+   "slug": "upatstvo-2021-sv136-56557",
+   "path": "upatstvo/2021/sv136-56557",
+   "short": "Упатство за третман на хипертензивни нарушувања во бременост",
+   "title": "Упатство за третман на хипертензивни нарушувања во бременост",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56557",
+   "versions": [
+    {
+     "from": "2021-06-22",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56557",
+     "sha256": "457c9889bf877de32f12306827fc278a7688d7f9dd09780570e00fe89e55616a"
+    }
+   ]
+  },
+  {
    "slug": "upatstvo-2021-sv185-57238",
    "path": "upatstvo/2021/sv185-57238",
    "short": "Упатство за изменување на Упатството за начинот на издавање на пасош и заеднички пасош на државјаните на Република Македонија како и постапката за издавање на визи на тие пасоши",
@@ -26192,6 +27932,96 @@
    ]
   },
   {
+   "slug": "uredba-2021-sv090-56080",
+   "path": "uredba/2021/sv090-56080",
+   "short": "Уредба за изменување и дополнување на Уредбата за утврдување на меѓусебните односи на органите и структурите во рамките на системот за индиректно управување со инструментот за претпристапна помош (ИПА II)",
+   "title": "Уредба за изменување и дополнување на Уредбата за утврдување на меѓусебните односи на органите и структурите во рамките на системот за индиректно управување со инструментот за претпристапна помош (ИПА II)",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56080",
+   "versions": [
+    {
+     "from": "2021-04-24",
+     "units": 21,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56080",
+     "sha256": "fcc79326db98c17d7b66720d725dbea45c7c8907f51fb3ca37c6e5b3eeccf040"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-sv090-56081",
+   "path": "uredba/2021/sv090-56081",
+   "short": "Уредба за изменување и дополнување на Уредбата за утврдување на меѓусебните односи на органите и структурите на децентрализирано управување со првите четири компоненти од Инструментот за претпристапна помош (ИПА) на Европската Унија",
+   "title": "Уредба за изменување и дополнување на Уредбата за утврдување на меѓусебните односи на органите и структурите на децентрализирано управување со првите четири компоненти од Инструментот за претпристапна помош (ИПА) на Европската Унија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56081",
+   "versions": [
+    {
+     "from": "2021-04-24",
+     "units": 12,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56081",
+     "sha256": "5145de0500a296b09c067da9c799d141e06306ac9d6db21fa0cb17aba7ed1611"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-sv116-56069",
+   "path": "uredba/2021/sv116-56069",
+   "short": "Уредба за изменување на Уредбата за поблиските критериуми за директните плаќања, корисниците на средствата, максималните износи и начинот на директните плаќања за 2021 година",
+   "title": "Уредба за изменување на Уредбата за поблиските критериуми за директните плаќања, корисниците на средствата, максималните износи и начинот на директните плаќања за 2021 година",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56069",
+   "versions": [
+    {
+     "from": "2021-05-29",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56069",
+     "sha256": "8addacc0c8bc0cb24883df19ed643924f4e33df7344d0dc909411c15767548f5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-sv118-56124",
+   "path": "uredba/2021/sv118-56124",
+   "short": "Уредба за изменување на Уредбата за методологија за распределба на приходите од данокот на додадена вредност по општини за 2021 година",
+   "title": "Уредба за изменување на Уредбата за методологија за распределба на приходите од данокот на додадена вредност по општини за 2021 година",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56124",
+   "versions": [
+    {
+     "from": "2021-06-09",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56124",
+     "sha256": "c91a3b26852304a7dcce42840697bc983faa7720b096e20e6e6d364af6118200"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-sv129-56452",
+   "path": "uredba/2021/sv129-56452",
+   "short": "Уредба за изменување на Уредбата за висината на цената на градежното земјиште сопственост на Република Македонија и висината на посебните трошоци за спроведување на постапките за отуѓување, давање под закуп и за засновањето на право на стварна службеност",
+   "title": "Уредба за изменување на Уредбата за висината на цената на градежното земјиште сопственост на Република Македонија и висината на посебните трошоци за спроведување на постапките за отуѓување, давање под закуп и за засновањето на право на стварна службеност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56452",
+   "versions": [
+    {
+     "from": "2021-06-12",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56452",
+     "sha256": "ec110f0d4f935eda5ab6cd3b2ca73fd282760cb917ff39986f6bcc103a98f3c5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-sv135-56522",
+   "path": "uredba/2021/sv135-56522",
+   "short": "Уредба за изменување и дополнување на Уредбата за распоредувањето на одредени стоки во Комбинираната номенклатура согласно со регулативите на Европската Комисија",
+   "title": "Уредба за изменување и дополнување на Уредбата за распоредувањето на одредени стоки во Комбинираната номенклатура согласно со регулативите на Европската Комисија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56522",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56522",
+     "sha256": "c632414a5c59055ffae2356575230d3f9750e9136b84abe7bab30b575d3d216a"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2021-sv162-56840",
    "path": "uredba/2021/sv162-56840",
    "short": "Уредба за методологија за утврдување на критериумите за распределба на блок дотации од областа на културата во 2022 година",
@@ -26248,6 +28078,21 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57054",
      "sha256": "bc2bf4c5caac12852e98a93f2d5285b4105d3470d4ac19c44128e34772707225"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-sv179-57147",
+   "path": "uredba/2021/sv179-57147",
+   "short": "Уредба за изменување на Уредбата за спроведување на Царинскиот закон",
+   "title": "Уредба за изменување на Уредбата за спроведување на Царинскиот закон",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57147",
+   "versions": [
+    {
+     "from": "2021-08-12",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57147",
+     "sha256": "2c1e2e361d75c2337aabab2019c5234326420b91143b8193170339b55e87520c"
     }
    ]
   },
