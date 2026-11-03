@@ -223,6 +223,23 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67508"
 },
 {
+"slug": "zakon-2024-sv170-67510",
+"path": "zakon/2024/sv170-67510",
+"kind": "zakon",
+"year": "2024",
+"number": "sv170-67510",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за ратификација на Меѓународната спогодба за размена на податоци за проверка на изјави за имотна состојба",
+"short": "Закон за ратификација на Меѓународната спогодба за размена на податоци за проверка на изјави за имотна состојба",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-08-23",
+"latest": "2024-08-23",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67510"
+},
+{
 "slug": "zakon-2024-sv170-67512",
 "path": "zakon/2024/sv170-67512",
 "kind": "zakon",
