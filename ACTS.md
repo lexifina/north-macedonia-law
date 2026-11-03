@@ -1,6 +1,6 @@
 # Every act in this repository
 
-558 acts, 568 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+560 acts, 570 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ustav (1)
 
@@ -8,7 +8,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Устав на Република Северна Македонија | [`ustav/`](ustav/) | in force | 9 | 1991-11-17 | 2019-02-12 |
 
-## zakon (556, of which 450 amending acts)
+## zakon (558, of which 450 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -23,6 +23,8 @@
 | Закон за советодавен систем за земјоделството и руралниот развој | [`zakon/2023/sv263-65012/`](zakon/2023/sv263-65012/) | in force | 1 | 2023-12-20 | 2023-12-20 |
 | Закон за изменување на Законот за здравствената заштита | [`zakon/2023/sv263-65014/`](zakon/2023/sv263-65014/) | amending act | 1 | 2023-12-12 | 2023-12-12 |
 | Закон за ратификација на амандманите на Договорот за основање на Европската банка за обнова и развој | [`zakon/2023/sv263-65015/`](zakon/2023/sv263-65015/) | in force | 1 | 2023-12-20 | 2023-12-20 |
+| Закон за ратификација на Договорот за културна соработка меѓу Владата на Република Северна Македонија и Владата на Република Турција | [`zakon/2023/sv263-65016/`](zakon/2023/sv263-65016/) | in force | 1 | 2023-12-12 | 2023-12-12 |
+| Закон за ратификација на Договорот за техничка соработка меѓу Владата на Република Северна Македонија и Владата на Јапонија | [`zakon/2023/sv263-65017/`](zakon/2023/sv263-65017/) | in force | 1 | 2023-12-20 | 2023-12-20 |
 | Закон за за задолжување на Република Северна Македонија со заем кај Фондот за меѓународен развој на организацијата на земјите извознички на нафта по договорот за заем за програмата за одржливост и отпорност | [`zakon/2023/sv266-65038/`](zakon/2023/sv266-65038/) | in force | 1 | 2023-12-13 | 2023-12-13 |
 | Закон за задолжување на Република Северна Македонија со заем кај Кредитната банка за обнова - КФВ по Договор за заем заснован на политики за Северна Македонија | [`zakon/2023/sv266-65039/`](zakon/2023/sv266-65039/) | in force | 1 | 2023-12-13 | 2023-12-13 |
 | Закон за задолжување на Република Северна Македонија со заем кај Европската Унија по Договор за заем за макрофинансиска поддршка на Република Северна Македонија | [`zakon/2023/sv266-65040/`](zakon/2023/sv266-65040/) | in force | 1 | 2023-12-13 | 2023-12-13 |
