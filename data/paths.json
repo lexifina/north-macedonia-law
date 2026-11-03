@@ -1,0 +1,9 @@
+{
+"layout": "<kind>/<year>/dv<issue>-<id>",
+"since": "2026-11-03",
+"note": "Act folders before the layout move were named by slug; tools/on.py reads both.",
+"paths": {
+"ustav": "ustav",
+"zakon-za-zastita-na-licnite-podatoci": "zakon-za-zastita-na-licnite-podatoci"
+}
+}
