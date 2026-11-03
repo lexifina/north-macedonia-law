@@ -41,7 +41,7 @@ PAGE_URL = "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id={id}"
 
 MONTHS = {m: i for i, m in enumerate(["јануари", "февруари", "март", "април", "мај", "јуни", "јули", "август",
                                        "септември", "октомври", "ноември", "декември"], 1)}
-ORD = {"првиот": 1, "вториот": 2, "третиот": 3, "четвртиот": 4, "петтиот": 5, "шестиот": 6, "седмиот": 7, "осмиот": 8,
+ORD = {"наредниот": 1, "следниот": 1, "првиот": 1, "вториот": 2, "третиот": 3, "четвртиот": 4, "петтиот": 5, "шестиот": 6, "седмиот": 7, "осмиот": 8,
        "деветтиот": 9, "десеттиот": 10, "петнаесеттиот": 15, "дваесеттиот": 20, "триесеттиот": 30}
 LAT = {"а": "a", "б": "b", "в": "v", "г": "g", "д": "d", "ѓ": "gj", "е": "e", "ж": "zh", "з": "z", "ѕ": "dz", "и": "i",
        "ј": "j", "к": "k", "л": "l", "љ": "lj", "м": "m", "н": "n", "њ": "nj", "о": "o", "п": "p", "р": "r", "с": "s",
@@ -49,11 +49,24 @@ LAT = {"а": "a", "б": "b", "в": "v", "г": "g", "д": "d", "ѓ": "gj", "е": 
 ART = re.compile(r"^Член\s+(\d+)\s*(?:-?\s*([а-ш]{1,2}))?\s*\.?$")
 HEAD_WORDS = re.compile(r"^(?:Глава|ГЛАВА|Дел|ДЕЛ|Оддел|ОДДЕЛ|Поглавје|ПОГЛАВЈЕ|Подглава|[IVXLC]+\.?\s)")
 ANNEX = re.compile(r"^(?:Прилог|ПРИЛОГ)(?:\s+(?:бр\.\s*)?\S{1,6})?\.?$")
-TITLE_START = re.compile(r"^З\s?А\s?К\s?О\s?Н(?:\s+|$)")
+# LDBIS kind -> (slug kind, title word, law kind for the commit). Laws carry a promulgation decree above them;
+# the others (Government decrees, ministers' rulebooks, ...) carry an enacting formula above and a signature below.
+KINDS = {"Закон": ("zakon", "ЗАКОН", "law"), "Правилник": ("pravilnik", "ПРАВИЛНИК", "decree"),
+         "Уредба": ("uredba", "УРЕДБА", "decree"), "Упатство": ("upatstvo", "УПАТСТВО", "decree"),
+         "Наредба": ("naredba", "НАРЕДБА", "decree"), "Статут": ("statut", "СТАТУТ", "decree"),
+         "Деловник": ("delovnik", "ДЕЛОВНИК", "decree")}
+
+
+def title_start(word: str) -> re.Pattern:
+    return re.compile("^" + r"\s?".join(word) + r"(?:\s+|$)")
+
+
+TITLE_START = title_start("ЗАКОН")
+SIGNATURE = re.compile(r"^(?:Бр\.|Број)\s*:?\s*\d")
 PAGE_NO = re.compile(r"^\s*\d+\s+од\s+\d+\s*$")
 OPEN_Q, CLOSE_Q = "„", "“”"
-IN_FORCE = re.compile(r"(?:Овој\s+закон|Законот)\s+влегува\s+во\s+сила\s+([^.]*?)(?:\.|,\s*а\s|$)", re.S)
-AMENDING = re.compile(r"^Закон\s+за\s+(?:изменување|дополнување|изменувања|дополнувања)", re.I)
+IN_FORCE = re.compile(r"(?:(?:Овој|Оваа|Ова|Овоj)\s+(?i:закон|правилник|уредба|упатство|наредба|статут|деловник)|Законот)\s+влегува\s+во\s+сила\s+([^.]*?)(?:\.|,\s*а\s|$)", re.S)
+AMENDING = re.compile(r"^(?:Закон|Правилник|Уредба|Упатство|Наредба|Статут|Деловник)\s+за\s+(?:изменување|дополнување|изменувања|дополнувања)", re.I)
 COURT = re.compile(r"Уставен\s+суд|Уставниот\s+суд", re.I)
 CORRECTION = re.compile(r"^Исправка\s+на\s+(.+)$")
 # Laws held elsewhere in this corpus (hand-built acts in corpus.json): never published twice.
@@ -152,10 +165,14 @@ def suffix_key(s: str) -> str:
     return "".join(LAT.get(c, c) for c in s)
 
 
-def split(paras: list[dict], db_title: str = "") -> tuple[dict, str, str | None]:
+def split(paras: list[dict], db_title: str = "", word: str = "ЗАКОН") -> tuple[dict, str, str | None]:
     """(units, title, adoption day). The law starts at its upper-case title after the decree."""
     feet = [p["text"] for p in paras if p.get("foot")]
+    if len(feet) > 6:
+        raise Hold("small_print_tables")  # forms and tables printed small: not split reliably
     paras = [p for p in paras if not p.get("foot")]
+    is_law = word == "ЗАКОН"
+    starter = title_start(word)
     texts = [p["text"] for p in paras]
     first_art = next((i for i, p in enumerate(paras) if p["centred"] and ART.match(p["text"])), None)
     if first_art is None:
@@ -163,17 +180,24 @@ def split(paras: list[dict], db_title: str = "") -> tuple[dict, str, str | None]
     start = None
     for i in range(first_art - 1, -1, -1):
         t = texts[i]
-        if TITLE_START.match(t) and t == t.upper():
+        if starter.match(t) and t == t.upper():
             start = i
             break
     if start is None:
         raise Hold("no_title_line")
-    if not any(re.match(r"^У\s*К\s*А\s*З", t) for t in texts[:start]):
+    if is_law and not any(re.match(r"^У\s*К\s*А\s*З", t) for t in texts[:start]):
         raise Hold("no_decree")
     decree = " ".join(texts[:start])
-    m = re.search(r"го\s+донесе\s+на\s+седницата\s+одржана\s+на\s+(\d{1,2})\s+(" + "|".join(MONTHS) + r")\s+(\d{4})", decree)
+    m = re.search(r"(?:го\s+донесе\s+на\s+седницата|на\s+седницата)\s+одржана\s+на\s+(\d{1,2})\s+(" + "|".join(MONTHS) + r")\s+(\d{4})", decree)
     adopted = date(int(m.group(3)), MONTHS[m.group(2)], int(m.group(1))).isoformat() if m else None
-    title = TITLE_START.sub("ЗАКОН ", texts[start], count=1).strip()
+    title = starter.sub(word + " ", texts[start], count=1).strip()
+    preamble = [] if is_law else texts[:start]
+    if not is_law:
+        # the enacting formula above the title, after the issuing body's name: "Врз основа на член ... донесе"
+        k0 = next((j for j, t in enumerate(preamble) if t.startswith(("Врз основа", "Согласно", "Врз основ"))), None)
+        if k0 is None:
+            raise Hold("no_enacting_formula")
+        preamble = preamble[k0:]
     k = start + 1
     while k < first_art and texts[k] == texts[k].upper() and not HEAD_WORDS.match(texts[k]) \
             and len(title) < len(db_title) - 2 and re.search(r"[А-Ш]", texts[k]):
@@ -186,7 +210,7 @@ def split(paras: list[dict], db_title: str = "") -> tuple[dict, str, str | None]
     cur = None
     depth = 0
     last_num = 0
-    pre: list[str] = []
+    pre: list[str] = list(preamble)
 
     def heading_units(after: str | None):
         for j, h in enumerate(pending, 1):
@@ -227,7 +251,7 @@ def split(paras: list[dict], db_title: str = "") -> tuple[dict, str, str | None]
             units[key] = {"label": t, "kind": "annex", "lines": [f"# {t}"]}
             order.append(key)
             cur = key
-        elif depth == 0 and p["centred"] and len(t) < 250 and (cur is not None or not pre):
+        elif depth == 0 and p["centred"] and len(t) < 250 and (cur is not None or not pre or not is_law):
             pending.append(t)
         else:
             if pending:
@@ -246,6 +270,23 @@ def split(paras: list[dict], db_title: str = "") -> tuple[dict, str, str | None]
         if cur is None:
             raise Hold("trailing_headings")
         units[cur]["lines"].extend(pending)
+    if not is_law:
+        # The signature below the text (number, day, place, office, name) is not part of the act: cut from the last
+        # article, from its first line that starts with the act's number ("Бр. 12-345/1").
+        arts_order = [k for k in order if units[k]["kind"] == "art"]
+        if not arts_order:
+            raise Hold("no_articles")
+        last = units[arts_order[-1]]["lines"]
+        cut = next((j for j in range(1, len(last)) if SIGNATURE.match(last[j])), None)
+        if cut is None or sum(len(x) for x in last[cut:]) > 400:
+            raise Hold("no_signature")
+        # the office printed beside it may start a line or two higher ("Претседател на комисија и"): short lines
+        # that do not end a sentence or item, right above the number
+        while cut > 1 and len(last[cut - 1]) < 60 and not re.search(r"[.,;:“”\"]$", last[cut - 1]):
+            cut -= 1
+        del last[cut:]
+        if any(units[k]["kind"] not in ("annex", "heading") for k in order[order.index(arts_order[-1]) + 1:]):
+            raise Hold("text_after_signature")
     out = {}
     if pre:
         out["uvod"] = {"label": "Вовед", "kind": "preamble", "text": "\n".join(pre) + "\n"}
@@ -331,8 +372,8 @@ def main():
         m = CORRECTION.match(r.get("title") or "")
         if m and r.get("published"):
             corrections[subject(m.group(1))].append((dmy(r["published"]) or "", i))
-    laws = {i: r for i, r in recs.items() if r.get("kind") == "Закон" and (r.get("text") or {}).get("sha256")}
-    parts: dict[int, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
+    laws = {i: r for i, r in recs.items() if r.get("kind") in KINDS and (r.get("text") or {}).get("sha256")}
+    parts: dict[tuple, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
     for i in sorted(laws):
         r = laws[i]
@@ -374,7 +415,8 @@ def main():
             data = json.loads(gzip.decompress(raw.read_bytes()).decode("utf-8"))
             if sum(len(x[-1]) for x in data["lines"]) < 200:
                 raise Hold("no_text_layer")
-            units, text_title, adopted = split(paragraphs(merge_rows(data["lines"])), title)
+            kslug, word, lkind = KINDS[r["kind"]]
+            units, text_title, adopted = split(paragraphs(merge_rows(data["lines"])), title, word)
             if not same_title(text_title, title):
                 raise Hold("title_mismatch:" + text_title[:100])
             day = dmy(r.get("in_force"))
@@ -390,17 +432,18 @@ def main():
         except Hold as h:
             holds.append({"id": i, "sv": f"{r.get('issue')}/{(pub or '')[:4]}", "title": title[:160], "reason": str(h)})
             continue
-        slug = f"zakon-{year}-sv{iss:03d}-{i}"
+        slug = f"{kslug}-{year}-sv{iss:03d}-{i}"
+        pk = (40, "zakoni") if kslug == "zakon" else (50, kslug)
         gaz = "Службен весник на Република Северна Македонија" if pub >= "2019-02-12" else "Службен весник на Република Македонија"
         label = f"{title} („{gaz}“ бр. {iss}/{year})"
         applies = dmy(r.get("applies"))
         note = None
         if applies and applies != day:
             note = f"По базата LDBIS, законот почнува да се применува на {applies}."
-        parts[year]["laws"][slug] = {"label": label, "title": title, "kind": "law", "enacted": adopted, "published": pub,
+        parts[(pk, year)]["laws"][slug] = {"label": label, "title": title, "kind": lkind, "enacted": adopted, "published": pub,
                                      "url": PAGE_URL.format(id=i), "temporary_until": None, "restores": None, "note": None}
-        parts[year].setdefault("_retrieved", set()).add(data["meta"].get("retrieved") or a.retrieved)
-        parts[year]["acts"].append({
+        parts[(pk, year)].setdefault("_retrieved", set()).add(data["meta"].get("retrieved") or a.retrieved)
+        parts[(pk, year)]["acts"].append({
             "slug": slug, "short": title, "title": title, "url": PAGE_URL.format(id=i), "first_law": slug,
             "earlier_laws": [],
             "versions": [{"from": day, "source_url": PAGE_URL.format(id=i), "sha256": data["meta"]["sha256"],
@@ -408,8 +451,8 @@ def main():
     parts_dir = Path(a.out) if a.out else PARTS
     parts_dir.mkdir(exist_ok=True)
     written = []
-    for year in sorted(parts):
-        p = parts[year]
+    for pk, year in sorted(parts):
+        p = parts[(pk, year)]
         p["acts"].sort(key=lambda x: x["slug"])
         ret = p.pop("_retrieved", set())
         p["sources"] = [{"name": "ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk)",
@@ -428,7 +471,7 @@ def main():
             "Paragraphs follow the PDF's layout (a new block, an indented first line or a centred line starts one); a "
             "centred line just above an article is its caption, other centred lines are headings."]
         p["ai_use"] = ["none"]
-        f = parts_dir / f"40-zakoni-{year}.json"
+        f = parts_dir / f"{pk[0]}-{pk[1]}-{year}.json"
         body = json.dumps(p, ensure_ascii=False, indent=1) + "\n"
         if not f.exists() or f.read_text(encoding="utf-8") != body:
             tmp = f.with_suffix(".tmp")
@@ -441,6 +484,12 @@ def main():
                              "with later linked acts, corrections or an end of validity (parse_acts.py).\n",
                              encoding="utf-8", newline="\n")
         written.append((f.name, len(p["acts"])))
+    # Parts of years that no longer hold any act (all held back now) are removed, so a stale part is never read.
+    keep = {n for n, _ in written}
+    for old in [*parts_dir.glob("40-zakoni-*.json"), *parts_dir.glob("50-*.json")]:
+        if old.name not in keep:
+            old.unlink()
+            old.with_suffix(".PUBLISH").unlink(missing_ok=True)
     if a.report:
         Path(a.report).write_text("".join(json.dumps(h, ensure_ascii=False) + "\n" for h in holds), encoding="utf-8")
     reasons = defaultdict(int)
