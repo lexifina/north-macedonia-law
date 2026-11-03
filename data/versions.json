@@ -92,6 +92,126 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv155-67388",
+   "path": "zakon/2024/sv155-67388",
+   "short": "Закон за дополнување на Законот за катастар на недвижности",
+   "title": "Закон за дополнување на Законот за катастар на недвижности",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67388",
+   "versions": [
+    {
+     "from": "2024-08-02",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67388",
+     "sha256": "793eff52aafc672523335bf631f7b2fffeeb1e94689677ac702ed80aa16484a2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv169-67508",
+   "path": "zakon/2024/sv169-67508",
+   "short": "Закон за изменување и дополнување на Законот за извршување на Буџетот на Република Северна Македонија за 2024 година",
+   "title": "Закон за изменување и дополнување на Законот за извршување на Буџетот на Република Северна Македонија за 2024 година",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67508",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 19,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67508",
+     "sha256": "67acfdac27d2a3581bb09524f11cc62c858d07557cb58e1db0f90fc262d7b745"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv170-67512",
+   "path": "zakon/2024/sv170-67512",
+   "short": "Закон за дополнување на Законот за финансирање на единиците на локалната самоуправа",
+   "title": "Закон за дополнување на Законот за финансирање на единиците на локалната самоуправа",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67512",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67512",
+     "sha256": "597b09f0f5c3b54dc5a4fa4019f1f332458d50966a17316e0e04577dc9bb5387"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv170-67513",
+   "path": "zakon/2024/sv170-67513",
+   "short": "Закон за изменување на Законот за превоз на опасни материи во патниот и железничкиот сообраќај",
+   "title": "Закон за изменување на Законот за превоз на опасни материи во патниот и железничкиот сообраќај",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67513",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67513",
+     "sha256": "fa9716dcc3592f4cb9dce5c2c6e822943800b5a6900105cb4ecb22cb2fc8c03d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv170-67514",
+   "path": "zakon/2024/sv170-67514",
+   "short": "Закон за изменување на Законот за превоз во патниот сообраќај",
+   "title": "Закон за изменување на Законот за превоз во патниот сообраќај",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67514",
+   "versions": [
+    {
+     "from": "2024-08-16",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67514",
+     "sha256": "5bdab11a4be6eed1a0d4e6ee9fda29f4e6a5f98b371114142459183152e76647"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv170-67516",
+   "path": "zakon/2024/sv170-67516",
+   "short": "Закон за изменување и дополнување на Законот за спортот",
+   "title": "Закон за изменување и дополнување на Законот за спортот",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67516",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 15,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67516",
+     "sha256": "b2f68b6ff00ef9669202143194b897b2f7bc381d3303e0f6569a43e4ce7c7019"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv170-67517",
+   "path": "zakon/2024/sv170-67517",
+   "short": "Закон за изменување на Законот за здравствената заштита",
+   "title": "Закон за изменување на Законот за здравствената заштита",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67517",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 21,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67517",
+     "sha256": "13561207f30740110da7612bdf57a19ac19511191fc7cabb59ac6e6b3dd66256"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv171-67525",
+   "path": "zakon/2024/sv171-67525",
+   "short": "Закон за изменување и дополнување на Законот за урбанистичко планирање",
+   "title": "Закон за изменување и дополнување на Законот за урбанистичко планирање",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67525",
+   "versions": [
+    {
+     "from": "2024-08-16",
+     "units": 21,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67525",
+     "sha256": "807eae1a6b1fada4275f2bc9807c917925ea7fc2b376a0b60b9bcea2b4194e88"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv187-67709",
    "path": "zakon/2024/sv187-67709",
    "short": "Закон за дополнување на Законот за реализација на инфраструктурни проекти за изградба на патна делница Миладиновци - Штип и патна делница Кичево - Охрид",

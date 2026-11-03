@@ -1,6 +1,6 @@
 # Every act in this repository
 
-483 acts, 493 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+491 acts, 501 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ustav (1)
 
@@ -8,10 +8,18 @@
 | --- | --- | --- | ---: | --- | --- |
 | Устав на Република Северна Македонија | [`ustav/`](ustav/) | in force | 9 | 1991-11-17 | 2019-02-12 |
 
-## zakon (481, of which 404 amending acts)
+## zakon (489, of which 410 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Закон за дополнување на Законот за катастар на недвижности | [`zakon/2024/sv155-67388/`](zakon/2024/sv155-67388/) | in force | 1 | 2024-08-02 | 2024-08-02 |
+| Закон за изменување и дополнување на Законот за извршување на Буџетот на Република Северна Македонија за 2024 година | [`zakon/2024/sv169-67508/`](zakon/2024/sv169-67508/) | amending act | 1 | 2024-08-15 | 2024-08-15 |
+| Закон за дополнување на Законот за финансирање на единиците на локалната самоуправа | [`zakon/2024/sv170-67512/`](zakon/2024/sv170-67512/) | in force | 1 | 2024-08-15 | 2024-08-15 |
+| Закон за изменување на Законот за превоз на опасни материи во патниот и железничкиот сообраќај | [`zakon/2024/sv170-67513/`](zakon/2024/sv170-67513/) | amending act | 1 | 2024-08-15 | 2024-08-15 |
+| Закон за изменување на Законот за превоз во патниот сообраќај | [`zakon/2024/sv170-67514/`](zakon/2024/sv170-67514/) | amending act | 1 | 2024-08-16 | 2024-08-16 |
+| Закон за изменување и дополнување на Законот за спортот | [`zakon/2024/sv170-67516/`](zakon/2024/sv170-67516/) | amending act | 1 | 2024-08-15 | 2024-08-15 |
+| Закон за изменување на Законот за здравствената заштита | [`zakon/2024/sv170-67517/`](zakon/2024/sv170-67517/) | amending act | 1 | 2024-08-15 | 2024-08-15 |
+| Закон за изменување и дополнување на Законот за урбанистичко планирање | [`zakon/2024/sv171-67525/`](zakon/2024/sv171-67525/) | amending act | 1 | 2024-08-16 | 2024-08-16 |
 | Закон за дополнување на Законот за реализација на инфраструктурни проекти за изградба на патна делница Миладиновци - Штип и патна делница Кичево - Охрид | [`zakon/2024/sv187-67709/`](zakon/2024/sv187-67709/) | in force | 1 | 2024-09-06 | 2024-09-06 |
 | Закон за изменување на Законот за користење на податоците од јавниот сектор | [`zakon/2024/sv193-67774/`](zakon/2024/sv193-67774/) | amending act | 1 | 2024-09-18 | 2024-09-18 |
 | Закон за изменување и дополнување на Законот за пензиското и инвалидското осигурување | [`zakon/2024/sv193-67775/`](zakon/2024/sv193-67775/) | amending act | 1 | 2024-09-18 | 2024-09-18 |
