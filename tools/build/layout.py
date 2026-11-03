@@ -116,7 +116,8 @@ def acts_md(c: dict) -> str:
     esc = lambda s: (s or '').replace('|', '/')  # noqa: E731
     out = ['# Every act in this repository', '',
            f'{len(rows)} acts, {sum(r["versions"] for r in rows):,} versions. Each act lives in a folder named by its '
-           'official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md '
+           'kind, year and identifier, `<kind>/<year>/<identifier>/` (acts published before that layout keep their '
+           'own folder, listed in data/paths.json); its README.md '
            'lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; '
            'the same list is in [data/acts.json](data/acts.json).', '']
     codes = [r for r in rows if r['code']]
