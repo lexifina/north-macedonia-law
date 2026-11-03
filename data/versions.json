@@ -92,6 +92,81 @@
    ]
   },
   {
+   "slug": "zakon-2023-sv199-64236",
+   "path": "zakon/2023/sv199-64236",
+   "short": "Закон за дополнување на Законот за семенски и саден материјал за земјоделски растенија",
+   "title": "Закон за дополнување на Законот за семенски и саден материјал за земјоделски растенија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64236",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64236",
+     "sha256": "c89f5a82a5c14f0b5633396034ae58f0f5489d1afb4841b3b10faeb43b870674"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv199-64238",
+   "path": "zakon/2023/sv199-64238",
+   "short": "Закон за изменување и дополнување на Законот за семејството",
+   "title": "Закон за изменување и дополнување на Законот за семејството",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64238",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64238",
+     "sha256": "5ddaa60e353e6aa4e6ba2f829c19a30c5779a800e36fc6d89dfbce47825df43d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv199-64240",
+   "path": "zakon/2023/sv199-64240",
+   "short": "Закон за изменување на Законот за здравствената заштита",
+   "title": "Закон за изменување на Законот за здравствената заштита",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64240",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64240",
+     "sha256": "11f947baf9f1bafe6fb10093dead41fade96f2398eddaaf458aa1446b2895316"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv199-64241",
+   "path": "zakon/2023/sv199-64241",
+   "short": "Закон за изменување и дополнување на Законот за данокот на добивка",
+   "title": "Закон за изменување и дополнување на Законот за данокот на добивка",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64241",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 15,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64241",
+     "sha256": "6232c55f6be0b4cb15ae90070043af6365a0518d67743ce73a5575b1ae2241ca"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv199-64242",
+   "path": "zakon/2023/sv199-64242",
+   "short": "Закон за изменување и дополнување на Законот за данокот на додадена вредност",
+   "title": "Закон за изменување и дополнување на Законот за данокот на додадена вредност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64242",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 25,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64242",
+     "sha256": "4e1b1e1ed921a75ec528be89d809150c84a1076e001ca96c8ae581ab960fc560"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2023-sv209-64361",
    "path": "zakon/2023/sv209-64361",
    "short": "Закон за изменување и дополнување на Законот за личната карта",

@@ -1,6 +1,6 @@
 # Every act in this repository
 
-570 acts, 580 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+575 acts, 585 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ustav (1)
 
@@ -8,10 +8,15 @@
 | --- | --- | --- | ---: | --- | --- |
 | Устав на Република Северна Македонија | [`ustav/`](ustav/) | in force | 9 | 1991-11-17 | 2019-02-12 |
 
-## zakon (568, of which 458 amending acts)
+## zakon (573, of which 462 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Закон за дополнување на Законот за семенски и саден материјал за земјоделски растенија | [`zakon/2023/sv199-64236/`](zakon/2023/sv199-64236/) | in force | 1 | 2023-10-03 | 2023-10-03 |
+| Закон за изменување и дополнување на Законот за семејството | [`zakon/2023/sv199-64238/`](zakon/2023/sv199-64238/) | amending act | 1 | 2023-10-03 | 2023-10-03 |
+| Закон за изменување на Законот за здравствената заштита | [`zakon/2023/sv199-64240/`](zakon/2023/sv199-64240/) | amending act | 1 | 2023-09-25 | 2023-09-25 |
+| Закон за изменување и дополнување на Законот за данокот на добивка | [`zakon/2023/sv199-64241/`](zakon/2023/sv199-64241/) | amending act | 1 | 2023-09-25 | 2023-09-25 |
+| Закон за изменување и дополнување на Законот за данокот на додадена вредност | [`zakon/2023/sv199-64242/`](zakon/2023/sv199-64242/) | amending act | 1 | 2023-09-25 | 2023-09-25 |
 | Закон за изменување и дополнување на Законот за личната карта | [`zakon/2023/sv209-64361/`](zakon/2023/sv209-64361/) | amending act | 1 | 2023-10-13 | 2023-10-13 |
 | Закон за изменување и дополнување на Законот за безбедност на храната | [`zakon/2023/sv209-64362/`](zakon/2023/sv209-64362/) | amending act | 1 | 2023-10-13 | 2023-10-13 |
 | Закон за изменување и дополнување на Законот за Развојната банка на Северна Македонија | [`zakon/2023/sv209-64363/`](zakon/2023/sv209-64363/) | amending act | 1 | 2023-10-13 | 2023-10-13 |
