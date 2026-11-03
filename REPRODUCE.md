@@ -57,6 +57,8 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
 | ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
 | ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -64,21 +66,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 3028 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 3038 | |
+| 3072 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 3082 | |
 
-The build made 3066 commits:
+The build made 3110 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 3028 | first version of an act |
+| 3072 | first version of an act |
 | 38 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `idno`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 3066 laws in the record.
-- 6104 tags.
+- 3110 laws in the record.
+- 6192 tags.
 
 ## Dates
 
@@ -90,7 +92,7 @@ When a law gives no date of its own, the default rule applies: Устав чл. 
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `1887144fba9e262e8679e116a5ee117b686b303147e35bc3b1606a31f19ddf22` (46775597 bytes).
+- Corpus: sha256 `ce127c84b8895b162d3674c0696d4e9036c132cce7e4ebaf6d92e0d25401e1a0` (47109274 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -102,7 +104,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (217 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (225 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -114,6 +116,8 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model produced or edited any text or data; parsing is rule-based Python.
+- none
+- none
 - none
 - none
 - none
