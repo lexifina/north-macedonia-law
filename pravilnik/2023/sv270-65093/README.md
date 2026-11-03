@@ -1,0 +1,19 @@
+# Правилник за изменување на Правилникoт за формата и содржината на извештајот за пресметка на данок на додадена вредност во постапка на присилна наплата и присилно извршување, во случаите кога доверителот е стeкнувач на доброто
+
+Правилник за изменување на Правилникoт за формата и содржината на извештајот за пресметка на данок на додадена вредност во постапка на присилна наплата и присилно извршување, во случаите кога доверителот е стeкнувач на доброто · 1 versions, from 2023-12-20 (latest in force: 2023-12-20) · <https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65093>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Член 1 | [art-001.md](art-001.md) | 0 |  |
+| Член 2 | [art-002.md](art-002.md) | 0 |  |
+| Член 3 | [art-003.md](art-003.md) | 0 |  |
+| Вовед | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `pravilnik-2023-sv270-65093` (tags `pravilnik-2023-sv270-65093/<day>`; `python tools/on.py <day> pravilnik-2023-sv270-65093`).
+
+## Decisions made by hand
+
+- A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.
+- Its one version takes effect on the in-force day LDBIS records; where the law's own final article names its day, the two must agree or the law is held back. A different application day is noted on the version.
+- A principal law is published only when LDBIS links no later act to it (no amendment, consolidated text, court decision or replacing law); an amending law only when no later act amends it and no Constitutional Court decision follows it; never when a correction names it or LDBIS records an end of validity.
+- Paragraphs follow the PDF's layout (a new block, an indented first line or a centred line starts one); a centred line just above an article is its caption, other centred lines are headings.
