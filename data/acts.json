@@ -240,6 +240,23 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67508"
 },
 {
+"slug": "zakon-2024-sv170-67509",
+"path": "zakon/2024/sv170-67509",
+"kind": "zakon",
+"year": "2024",
+"number": "sv170-67509",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за ратификација на Конвенцијата за договорите за избор на надлежен суд",
+"short": "Закон за ратификација на Конвенцијата за договорите за избор на надлежен суд",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-08-23",
+"latest": "2024-08-23",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67509"
+},
+{
 "slug": "zakon-2024-sv170-67510",
 "path": "zakon/2024/sv170-67510",
 "kind": "zakon",
