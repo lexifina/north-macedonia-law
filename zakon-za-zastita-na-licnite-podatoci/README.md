@@ -154,3 +154,5 @@
 | IX. СУПЕРВИЗИЈА НАД ЗАШТИТА НА ЛИЧНИТЕ ПОДАТОЦИ | [glava-24.md](glava-24.md) | 0 |  |
 | X. ПРЕКРШОЧНИ ОДРЕДБИ | [glava-25.md](glava-25.md) | 0 |  |
 | XI. ПРЕОДНИ И ЗАВРШНИ ОДРЕДБИ | [glava-26.md](glava-26.md) | 0 |  |
+
+Act id: `zakon-za-zastita-na-licnite-podatoci` (tags `zakon-za-zastita-na-licnite-podatoci/<day>`; `python tools/on.py <day> zakon-za-zastita-na-licnite-podatoci`).

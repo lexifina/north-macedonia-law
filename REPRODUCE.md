@@ -1,6 +1,6 @@
 # How this repository was made (North Macedonia)
 
-This file is written by the build on 2026-10-29, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
@@ -8,6 +8,9 @@ This file is written by the build on 2026-10-29, the day the source data was ret
 | --- | --- | --- | --- |
 | Службен весник на Република Северна Македонија (free issues) | <https://slvesnik.com.mk/besplaten-pristap-do-izdanija.nspx> | 2026-10-29 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
 | Собрание на Република Северна Македонија: Устав | <https://www.sobranie.mk/ustav-na-rm.nspx> | 2026-10-29 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
+| ЛДБИС: база на закони и прописи (Министерство за правда, ldbis.pravda.gov.mk) | <https://ldbis.pravda.gov.mk/> | 2026-11-03 | Official texts, not protected by copyright (Закон за авторското право и сродните права) |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -15,22 +18,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| `ustav` | Устав на Република Северна Македонија | 9 | 1991-11-17 to 2019-02-12 |
-| `zakon-za-zastita-na-licnite-podatoci` | Закон за заштита на личните податоци | 3 | 2020-02-24 to 2025-05-21 |
+| 482 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) | 492 | |
 
-The build made 40 commits:
+The build made 520 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 2 | first version of an act |
+| 482 | first version of an act |
 | 38 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `idno`: laws not yet in force on 2026-10-29.
+- 0 commits on the branch `idno`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 40 laws in the record.
-- 52 tags.
+- 520 laws in the record.
+- 1012 tags.
 
 ## Dates
 
@@ -40,41 +42,21 @@ When a law gives no date of its own, the default rule applies: Устав чл. 
 
 ## How the history is built
 
-`tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
+`tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `8da3a10c48acd4b74c95f8c3ce21a5929bd4f617ee0737309b39e4336e0a2e70` (2276018 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `926eb3972e7c0373228bd9f6bb0146a64b96b98401d5febd3dabbe5ab8e7973a` (11105381 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `6a75a05e2f381deb50fb7cb6ad297cc3fe964a71`, `check.py` `d36188b60926167ff377bd58f0b03f30cc9a1a52`, `on.py` `55bf92027127e36254521d114abde53cfefbb67d`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-12 versions of 2 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- There is no official consolidated text of the Constitution: officially it is the 1991 text plus Amendments I-XXXVI, each 'a constituent part of the Constitution'. The history here applies each amendment, by its own instruction point, to the provisions it names.
-- Words of the 1991 text and of Amendments I-XVIII come from the Assembly's certified copy (UstavnaRmizmeni.pdf), whose text layer is clean; the gazette issues of 1991-2001 are scans whose publisher-made OCR layer has errors (e.g. 'делот' for 'денот').
-- The Assembly copy merges some paragraphs (Art. 3 and 4 show 2 paragraphs where the gazette has 3, and Amendment XXXII replaces 'став 2' of Art. 4). Paragraph breaks are therefore taken from the gazette layout (an indented first line), aligned word by word with the Assembly copy, plus the copy's own line-final breaks and dash alineas.
-- Amendments XIX-XXXVI are read from the born-digital gazette issues (84/2003, 107/2005, 3/2009, 49/2011, 6/2019); for XIX-XXXII the words were compared with the Assembly copy.
-- One glyph is lost in the Assembly copy ('с#' in Amendment IV's preamble); it is read as 'сè', the word in that phrase ('зачувување и развој на сè што е вредно').
-- Latin look-alike letters inside Cyrillic words (typesetting) are mapped to Cyrillic.
-- Articles are files clen-NNN.md with the article heading as the first line; one paragraph (став) or alinea per line. Chapter and section headings are their own files (glava-NN, glava-NN-NN).
-- Amendment I point 1, XX and XXXV 'supplement' (се дополнува) an article without saying where: their text is added as new paragraphs at the end of the article.
-- Amendments II, XIII and XIV supplement a paragraph (став) with a sentence: the sentence is appended to that paragraph, verbatim, after one space.
-- Amendment VI supplements alinea 2 of Article 8 with a phrase that is not a sentence of that alinea: it is inserted verbatim as its own line right after that alinea; no words are composed.
-- Amendment XI point 2 'supplements' Article 77(2) but restates the whole paragraph with the new sentence; it replaces that paragraph, so the old wording is not duplicated.
-- Amendment XVIII adds 'a new paragraph 4' to Article 131: inserted as paragraph 4, the old paragraph 4 becoming 5 (later decisions cite 'член 131 став 5' for promulgation, which confirms it).
-- Amendment XXXIV's edits to the Preamble (as replaced by Amendment IV) are applied as the exact string deletions, replacement and insertion it quotes; double spaces left by a deletion collapse to one.
-- Amendment XXXIII renames 'Република Македонија' to 'Република Северна Македонија' and 'Македонија' to 'Северна Македонија' everywhere except Article 36, in headings too (upper-case forms included).
-- Amendments XXXIII-XXXVI were adopted on 2019-01-11 and published on 2019-01-12 but took effect on 2019-02-12 (Government notice, Службен весник 36/2019, no. 623); they are dated 2019-02-12.
-- Every other amendment says it takes effect on the day of its promulgation, and the 1991 Constitution (Art. 134) on the day the Assembly promulgated it (1991-11-17).
-- Закон за заштита на личните податоци: in force on the eighth day after publication (its Art. 124): published 2020-02-16, in force 2020-02-24. Arts. 119-121 give controllers and regulations 18 months to conform; that is not a separate commencement of any provision.
-- Сл. весник 294/2021 takes effect on the eighth day after publication (its Art. 6): published 2021-12-27, in force 2022-01-04. Сл. весник 101/2025 takes effect on publication (its Art. 4): 2025-05-21.
-- 101/2025 quotes 'Европската Унија' with a capital У; the 2020 text writes 'Европската унија' in Art. 48(3) and Art. 56 (and 'Унија' in Art. 48(2)). The insertion points are matched ignoring the case of that one letter; the words of the law are not recased.
-- 101/2025 says 'a comma is added and the words ... are added' after the quoted words: that is a comma, a space and the quoted words. In Art. 48(3) the quoted anchor already ends in a comma, so the insertion is a space, the quoted words and their own closing comma.
-- Article titles are kept as a second line ('## title'); an article without its own title (Arts. 76 and 82) falls under the title before it in the gazette.
+- Every act's decisions made by hand (33 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -86,3 +68,6 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none: no model produced or edited any text or data; parsing is rule-based Python.
+- none
+- none
+- none

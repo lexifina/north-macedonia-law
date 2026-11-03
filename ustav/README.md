@@ -156,3 +156,5 @@
 | VIII. ИЗМЕНА НА УСТАВОТ | [glava-08.md](glava-08.md) | 0 |  |
 | IX. ПРЕОДНИ И ЗАВРШНИ ОДРЕДБИ | [glava-09.md](glava-09.md) | 0 |  |
 | Преамбула | [preambula.md](preambula.md) | 2 | 2019-02-12 |
+
+Act id: `ustav` (tags `ustav/<day>`; `python tools/on.py <day> ustav`).
