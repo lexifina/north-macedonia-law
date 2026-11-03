@@ -1,6 +1,6 @@
 # Every act in this repository
 
-504 acts, 514 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+511 acts, 521 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ustav (1)
 
@@ -8,10 +8,17 @@
 | --- | --- | --- | ---: | --- | --- |
 | Устав на Република Северна Македонија | [`ustav/`](ustav/) | in force | 9 | 1991-11-17 | 2019-02-12 |
 
-## zakon (502, of which 419 amending acts)
+## zakon (509, of which 423 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Закон за изменување и дополнување на Законот за здравствената заштита | [`zakon/2024/sv074-66472/`](zakon/2024/sv074-66472/) | amending act | 1 | 2024-04-02 | 2024-04-02 |
+| Закон за гаранција на Република Северна Македонија на обврските по Договорот за заем за дополнително финансирање на проектот за надградба и развој на патишта, кој ќе се склучи меѓу Меѓународната банка за обнова и развој - Светска банка и Јавното претпријатие за државни патишта | [`zakon/2024/sv074-66474/`](zakon/2024/sv074-66474/) | in force | 1 | 2024-04-02 | 2024-04-02 |
+| Закон за гаранција на Република Северна Македонија на обврските по Рамковниот договор за заем кој ќе се склучи меѓу Банката за развој при Советот на Европа и Развојната банка на Северна Македонија АД Скопје за програмски заем на Развојната банка на Северна Македонија АД Скопје за креирање на работни места во микро, мали и средни претпријатија во Северна Македонија | [`zakon/2024/sv074-66475/`](zakon/2024/sv074-66475/) | in force | 1 | 2024-04-02 | 2024-04-02 |
+| Закон за дополнување на Законот за спортот | [`zakon/2024/sv074-66478/`](zakon/2024/sv074-66478/) | in force | 1 | 2024-04-02 | 2024-04-02 |
+| Закон за изменување на Законот за издавање на обврзници на Република Македонија за денационализација | [`zakon/2024/sv074-66479/`](zakon/2024/sv074-66479/) | amending act | 1 | 2024-04-02 | 2024-04-02 |
+| Закон за изменување и дополнување на Законот за буџетите | [`zakon/2024/sv076-66496/`](zakon/2024/sv076-66496/) | amending act | 1 | 2024-04-03 | 2024-04-03 |
+| Закон за изменување и дополнување на Изборниот законик | [`zakon/2024/sv076-66497/`](zakon/2024/sv076-66497/) | amending act | 1 | 2024-04-03 | 2024-04-03 |
 | Закон за изменување и дополнување на Законот за организација и работа на органите на државната управа | [`zakon/2024/sv121-67027/`](zakon/2024/sv121-67027/) | amending act | 1 | 2024-06-10 | 2024-06-10 |
 | Закон за изменување и дополнување на Законот за енергетска ефикасност | [`zakon/2024/sv147-67295/`](zakon/2024/sv147-67295/) | amending act | 1 | 2024-07-15 | 2024-07-15 |
 | Закон за изменување и дополнување на Законот за техничката инспекција | [`zakon/2024/sv147-67296/`](zakon/2024/sv147-67296/) | amending act | 1 | 2024-07-15 | 2024-07-15 |
