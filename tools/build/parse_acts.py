@@ -28,6 +28,7 @@ from __future__ import annotations
 
 import argparse
 import gzip
+import hashlib
 import json
 import re
 import statistics
@@ -362,10 +363,19 @@ def main():
                                          "recorded in the text files of the part's acts")
     ap.add_argument("--report")
     ap.add_argument("--out", help="folder for the parts (default corpus.d beside this script)")
+    ap.add_argument("--cache", help="file to keep split results in between runs (same text file and parser = same result)")
     ap.add_argument("--rejects", help="JSON {id: reason}: acts held back by hand or by a failed read-back check")
     a = ap.parse_args()
     src = Path(a.src)
     recs = load(src)
+    me = hashlib.sha256(Path(__file__).read_bytes()).hexdigest()
+    cache, new_cache = {}, {}
+    if a.cache and Path(a.cache).exists():
+        try:
+            c = json.loads(gzip.decompress(Path(a.cache).read_bytes()).decode("utf-8"))
+            cache = c["entries"] if c.get("parser") == me else {}
+        except Exception:
+            cache = {}
     rejects = json.loads(Path(a.rejects).read_text(encoding="utf-8")) if a.rejects and Path(a.rejects).exists() else {}
     corrections: dict[str, list[tuple[str, int]]] = defaultdict(list)
     for i, r in recs.items():
@@ -412,11 +422,25 @@ def main():
             raw = src / "raw" / str(i // 1000) / f"{i}.json.gz"
             if not raw.exists():
                 raise Hold("no_text_file")
-            data = json.loads(gzip.decompress(raw.read_bytes()).decode("utf-8"))
-            if sum(len(x[-1]) for x in data["lines"]) < 200:
-                raise Hold("no_text_layer")
             kslug, word, lkind = KINDS[r["kind"]]
-            units, text_title, adopted = split(paragraphs(merge_rows(data["lines"])), title, word)
+            st = raw.stat()
+            ck = f"{i}:{st.st_size}:{st.st_mtime_ns}:{title}"
+            hit = cache.get(ck)
+            if hit is None:
+                data = json.loads(gzip.decompress(raw.read_bytes()).decode("utf-8"))
+                try:
+                    if sum(len(x[-1]) for x in data["lines"]) < 200:
+                        raise Hold("no_text_layer")
+                    hit = {"ok": split(paragraphs(merge_rows(data["lines"])), title, word), "meta": data["meta"]}
+                except Hold as h:
+                    hit = {"hold": str(h)}
+                new_cache[ck] = hit
+            else:
+                new_cache[ck] = hit
+            if "hold" in hit:
+                raise Hold(hit["hold"])
+            data = {"meta": hit["meta"]}
+            units, text_title, adopted = hit["ok"]
             if not same_title(text_title, title):
                 raise Hold("title_mismatch:" + text_title[:100])
             day = dmy(r.get("in_force"))
@@ -490,6 +514,10 @@ def main():
         if old.name not in keep:
             old.unlink()
             old.with_suffix(".PUBLISH").unlink(missing_ok=True)
+    if a.cache:
+        tmp = Path(a.cache + ".tmp")
+        tmp.write_bytes(gzip.compress(json.dumps({"parser": me, "entries": new_cache}, ensure_ascii=False).encode("utf-8"), 1))
+        tmp.replace(a.cache)
     if a.report:
         Path(a.report).write_text("".join(json.dumps(h, ensure_ascii=False) + "\n" for h in holds), encoding="utf-8")
     reasons = defaultdict(int)
