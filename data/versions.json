@@ -92,6 +92,51 @@
    ]
   },
   {
+   "slug": "zakon-2023-sv253-64877",
+   "path": "zakon/2023/sv253-64877",
+   "short": "Закон за изменување и дополнување на Законот за прекршоците",
+   "title": "Закон за изменување и дополнување на Законот за прекршоците",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64877",
+   "versions": [
+    {
+     "from": "2023-12-01",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64877",
+     "sha256": "10635a0cbd31cb074dd15d42edd5d4ca7134c54f6f45e45e45b8d65cee5ab1d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv253-64878",
+   "path": "zakon/2023/sv253-64878",
+   "short": "Закон за дополнување на Законот за јавните патишта",
+   "title": "Закон за дополнување на Законот за јавните патишта",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64878",
+   "versions": [
+    {
+     "from": "2023-12-01",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64878",
+     "sha256": "809fa1fedd755912ec959120a95e01f1c5d7a696c51a17567a80a73ad5587874"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv253-64880",
+   "path": "zakon/2023/sv253-64880",
+   "short": "Закон за дополнување на Законот за минерални суровини",
+   "title": "Закон за дополнување на Законот за минерални суровини",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64880",
+   "versions": [
+    {
+     "from": "2023-12-09",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64880",
+     "sha256": "3a14e4b23444c27a75ca6e0d7bf136c5cdd8ccc02a0ef980499ee72c7305993d"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2023-sv262-65005",
    "path": "zakon/2023/sv262-65005",
    "short": "Закон за задолжување на Република Северна Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за финансирање на Проектот за заеднички железнички граничен премин - Табановце",

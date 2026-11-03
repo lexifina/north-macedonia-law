@@ -1,6 +1,6 @@
 # Every act in this repository
 
-555 acts, 565 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+558 acts, 568 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ustav (1)
 
@@ -8,10 +8,13 @@
 | --- | --- | --- | ---: | --- | --- |
 | Устав на Република Северна Македонија | [`ustav/`](ustav/) | in force | 9 | 1991-11-17 | 2019-02-12 |
 
-## zakon (553, of which 449 amending acts)
+## zakon (556, of which 450 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Закон за изменување и дополнување на Законот за прекршоците | [`zakon/2023/sv253-64877/`](zakon/2023/sv253-64877/) | amending act | 1 | 2023-12-01 | 2023-12-01 |
+| Закон за дополнување на Законот за јавните патишта | [`zakon/2023/sv253-64878/`](zakon/2023/sv253-64878/) | in force | 1 | 2023-12-01 | 2023-12-01 |
+| Закон за дополнување на Законот за минерални суровини | [`zakon/2023/sv253-64880/`](zakon/2023/sv253-64880/) | in force | 1 | 2023-12-09 | 2023-12-09 |
 | Закон за задолжување на Република Северна Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за финансирање на Проектот за заеднички железнички граничен премин - Табановце | [`zakon/2023/sv262-65005/`](zakon/2023/sv262-65005/) | in force | 1 | 2023-12-11 | 2023-12-11 |
 | Закон за изменување и дополнување на Закон за ревизија на инструментот за претпристапна помош (ИПА) | [`zakon/2023/sv262-65006/`](zakon/2023/sv262-65006/) | amending act | 1 | 2023-12-19 | 2023-12-19 |
 | Закон за гаранција на Република Северна Македонија на обврските по Договорот за заем кој ќе се склучи меѓу Француската агенција за развој и Развојната банка на Северна Македонија АД Скопје, за заем на Развојната банка на Северна Македонија АД Скопје за финансирање на зелени и општествено одговорни инвестиции | [`zakon/2023/sv262-65007/`](zakon/2023/sv262-65007/) | in force | 1 | 2023-12-11 | 2023-12-11 |
