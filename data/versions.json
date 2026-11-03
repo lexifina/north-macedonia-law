@@ -92,6 +92,51 @@
    ]
   },
   {
+   "slug": "zakon-2023-sv284-65291",
+   "path": "zakon/2023/sv284-65291",
+   "short": "Закон за ратификација на Спогодбата за дополнување на Спогодбата за партнерство, трговија и соработка меѓу Република Северна Македонија и Обединетото Кралство на Велика Британија и Северна Ирска",
+   "title": "Закон за ратификација на Спогодбата за дополнување на Спогодбата за партнерство, трговија и соработка меѓу Република Северна Македонија и Обединетото Кралство на Велика Британија и Северна Ирска",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65291",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65291",
+     "sha256": "59660ee7643bc373f6ee2d71551bde88a81b6ae34928f523324fce9faa8031c2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv284-65292",
+   "path": "zakon/2023/sv284-65292",
+   "short": "Закон за изменување на Законот за поштенските услуги",
+   "title": "Закон за изменување на Законот за поштенските услуги",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65292",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65292",
+     "sha256": "520a141c029ec26e6e90c91fbbbb60e667c136ff7c68dca259dabdd3a2817309"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv284-65293",
+   "path": "zakon/2023/sv284-65293",
+   "short": "Закон за дополнување на Законот за странците",
+   "title": "Закон за дополнување на Законот за странците",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65293",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65293",
+     "sha256": "b60226a5638246395304711a7928fdfea6a810c5901a399c0bf4cc9ac381899e"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv014-65647",
    "path": "zakon/2024/sv014-65647",
    "short": "Закон за изменување на Законот за служба во Армијата на Република Северна Македонија",
