@@ -1,6 +1,6 @@
 # Every act in this repository
 
-564 acts, 574 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+570 acts, 580 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ustav (1)
 
@@ -8,10 +8,16 @@
 | --- | --- | --- | ---: | --- | --- |
 | Устав на Република Северна Македонија | [`ustav/`](ustav/) | in force | 9 | 1991-11-17 | 2019-02-12 |
 
-## zakon (562, of which 452 amending acts)
+## zakon (568, of which 458 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Закон за изменување и дополнување на Законот за личната карта | [`zakon/2023/sv209-64361/`](zakon/2023/sv209-64361/) | amending act | 1 | 2023-10-13 | 2023-10-13 |
+| Закон за изменување и дополнување на Законот за безбедност на храната | [`zakon/2023/sv209-64362/`](zakon/2023/sv209-64362/) | amending act | 1 | 2023-10-13 | 2023-10-13 |
+| Закон за изменување и дополнување на Законот за Развојната банка на Северна Македонија | [`zakon/2023/sv209-64363/`](zakon/2023/sv209-64363/) | amending act | 1 | 2023-10-13 | 2023-10-13 |
+| Закон за изменување и дополнување на Законот за акцизите | [`zakon/2023/sv209-64366/`](zakon/2023/sv209-64366/) | amending act | 1 | 2023-10-13 | 2023-10-13 |
+| Закон за изменување и дополнување на Законот за здравственото осигурување | [`zakon/2023/sv209-64368/`](zakon/2023/sv209-64368/) | amending act | 1 | 2023-10-05 | 2023-10-05 |
+| Закон за изменување и дополнување на Законот за пријавување на живеалиштето и престојувалиштето на граѓаните | [`zakon/2023/sv209-64369/`](zakon/2023/sv209-64369/) | amending act | 1 | 2023-10-13 | 2023-10-13 |
 | Закон за изменување и дополнување на Законот за здравствената заштита | [`zakon/2023/sv236-64703/`](zakon/2023/sv236-64703/) | amending act | 1 | 2023-11-08 | 2023-11-08 |
 | Закон за ратификација на Спогодбата помеѓу Советот на министри на Босна и Херцеговина, Владата на Република Бугарија, Владата на Република Хрватска, Владата на Унгарија, Владата на Република Северна Македонија, Владата на Црна Гора, Владата на Република Србија, Владата на Словачката Република и Владата на Република Словенија за соработка и координација на потрагата и спасувањето во областа на воздухопловството | [`zakon/2023/sv237-64707/`](zakon/2023/sv237-64707/) | in force | 1 | 2023-11-17 | 2023-11-17 |
 | Закон за ратификација на Протоколот меѓу Владата на Република Северна Македонија и Швајцарскиот Федерален Совет за изменување на Спогодбата од 14 април 2000 година помеѓу Македонската Влада и Швајцарскиот Федерален Совет за одбегнување на двојното оданочување по однос на данокот на доход и данокот на капитал | [`zakon/2023/sv237-64708/`](zakon/2023/sv237-64708/) | amending act | 1 | 2023-11-17 | 2023-11-17 |

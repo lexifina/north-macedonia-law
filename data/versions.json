@@ -92,6 +92,96 @@
    ]
   },
   {
+   "slug": "zakon-2023-sv209-64361",
+   "path": "zakon/2023/sv209-64361",
+   "short": "Закон за изменување и дополнување на Законот за личната карта",
+   "title": "Закон за изменување и дополнување на Законот за личната карта",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64361",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64361",
+     "sha256": "43d4335def01a894eb31f1a1a3924b5564b475b175093165c37e73a5588c288c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv209-64362",
+   "path": "zakon/2023/sv209-64362",
+   "short": "Закон за изменување и дополнување на Законот за безбедност на храната",
+   "title": "Закон за изменување и дополнување на Законот за безбедност на храната",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64362",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 110,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64362",
+     "sha256": "32b17a988ce7e7e8ab0ea0fcf0bbc21e72b71b10bd952737663375ed1fca8885"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv209-64363",
+   "path": "zakon/2023/sv209-64363",
+   "short": "Закон за изменување и дополнување на Законот за Развојната банка на Северна Македонија",
+   "title": "Закон за изменување и дополнување на Законот за Развојната банка на Северна Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64363",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 9,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64363",
+     "sha256": "004fcbcf8e91f36912c5e583e1e5de1a35363e677fa57a6e1264194022407f06"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv209-64366",
+   "path": "zakon/2023/sv209-64366",
+   "short": "Закон за изменување и дополнување на Законот за акцизите",
+   "title": "Закон за изменување и дополнување на Законот за акцизите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64366",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 28,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64366",
+     "sha256": "90deecf3b4abf5d50d07ecac85069e65a46a841245fe345512f9887282e8474e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv209-64368",
+   "path": "zakon/2023/sv209-64368",
+   "short": "Закон за изменување и дополнување на Законот за здравственото осигурување",
+   "title": "Закон за изменување и дополнување на Законот за здравственото осигурување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64368",
+   "versions": [
+    {
+     "from": "2023-10-05",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64368",
+     "sha256": "ff247d14f68f25c3439b12b5bf9b38d7792843c1dc667c4c516d57675c42cac9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv209-64369",
+   "path": "zakon/2023/sv209-64369",
+   "short": "Закон за изменување и дополнување на Законот за пријавување на живеалиштето и престојувалиштето на граѓаните",
+   "title": "Закон за изменување и дополнување на Законот за пријавување на живеалиштето и престојувалиштето на граѓаните",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64369",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64369",
+     "sha256": "1c8d5882f15b2e4eb1817a79e3ff45edc7aec755ad8602737e7ac5ebb3fbe94a"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2023-sv236-64703",
    "path": "zakon/2023/sv236-64703",
    "short": "Закон за изменување и дополнување на Законот за здравствената заштита",
