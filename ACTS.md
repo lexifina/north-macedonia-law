@@ -1,6 +1,6 @@
 # Every act in this repository
 
-560 acts, 570 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+564 acts, 574 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ustav (1)
 
@@ -8,10 +8,14 @@
 | --- | --- | --- | ---: | --- | --- |
 | Устав на Република Северна Македонија | [`ustav/`](ustav/) | in force | 9 | 1991-11-17 | 2019-02-12 |
 
-## zakon (558, of which 450 amending acts)
+## zakon (562, of which 452 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Закон за изменување и дополнување на Законот за здравствената заштита | [`zakon/2023/sv236-64703/`](zakon/2023/sv236-64703/) | amending act | 1 | 2023-11-08 | 2023-11-08 |
+| Закон за ратификација на Спогодбата помеѓу Советот на министри на Босна и Херцеговина, Владата на Република Бугарија, Владата на Република Хрватска, Владата на Унгарија, Владата на Република Северна Македонија, Владата на Црна Гора, Владата на Република Србија, Владата на Словачката Република и Владата на Република Словенија за соработка и координација на потрагата и спасувањето во областа на воздухопловството | [`zakon/2023/sv237-64707/`](zakon/2023/sv237-64707/) | in force | 1 | 2023-11-17 | 2023-11-17 |
+| Закон за ратификација на Протоколот меѓу Владата на Република Северна Македонија и Швајцарскиот Федерален Совет за изменување на Спогодбата од 14 април 2000 година помеѓу Македонската Влада и Швајцарскиот Федерален Совет за одбегнување на двојното оданочување по однос на данокот на доход и данокот на капитал | [`zakon/2023/sv237-64708/`](zakon/2023/sv237-64708/) | amending act | 1 | 2023-11-17 | 2023-11-17 |
+| Закон за ратификација на Договорот меѓу Владата на Република Северна Македонија и Владата на Романија за зајакнување на соработката во областа на внатрешната контрола и спречување и борба против корупцијата | [`zakon/2023/sv237-64709/`](zakon/2023/sv237-64709/) | in force | 1 | 2023-11-17 | 2023-11-17 |
 | Закон за изменување и дополнување на Законот за прекршоците | [`zakon/2023/sv253-64877/`](zakon/2023/sv253-64877/) | amending act | 1 | 2023-12-01 | 2023-12-01 |
 | Закон за дополнување на Законот за јавните патишта | [`zakon/2023/sv253-64878/`](zakon/2023/sv253-64878/) | in force | 1 | 2023-12-01 | 2023-12-01 |
 | Закон за дополнување на Законот за минерални суровини | [`zakon/2023/sv253-64880/`](zakon/2023/sv253-64880/) | in force | 1 | 2023-12-09 | 2023-12-09 |
