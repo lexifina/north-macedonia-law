@@ -1,6 +1,6 @@
 # Every act in this repository
 
-482 acts, 492 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+483 acts, 493 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ustav (1)
 
@@ -8,10 +8,11 @@
 | --- | --- | --- | ---: | --- | --- |
 | Устав на Република Северна Македонија | [`ustav/`](ustav/) | in force | 9 | 1991-11-17 | 2019-02-12 |
 
-## zakon (480, of which 404 amending acts)
+## zakon (481, of which 404 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Закон за дополнување на Законот за реализација на инфраструктурни проекти за изградба на патна делница Миладиновци - Штип и патна делница Кичево - Охрид | [`zakon/2024/sv187-67709/`](zakon/2024/sv187-67709/) | in force | 1 | 2024-09-06 | 2024-09-06 |
 | Закон за изменување на Законот за користење на податоците од јавниот сектор | [`zakon/2024/sv193-67774/`](zakon/2024/sv193-67774/) | amending act | 1 | 2024-09-18 | 2024-09-18 |
 | Закон за изменување и дополнување на Законот за пензиското и инвалидското осигурување | [`zakon/2024/sv193-67775/`](zakon/2024/sv193-67775/) | amending act | 1 | 2024-09-18 | 2024-09-18 |
 | Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги | [`zakon/2024/sv193-67776/`](zakon/2024/sv193-67776/) | amending act | 1 | 2024-09-18 | 2024-09-18 |
