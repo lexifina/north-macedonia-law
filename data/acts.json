@@ -36,6 +36,23 @@
 "portal": "https://slvesnik.com.mk/Issues/606043d405e847ee92c7eaed5c8bd389.pdf"
 },
 {
+"slug": "zakon-2024-sv121-67027",
+"path": "zakon/2024/sv121-67027",
+"kind": "zakon",
+"year": "2024",
+"number": "sv121-67027",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за организација и работа на органите на државната управа",
+"short": "Закон за изменување и дополнување на Законот за организација и работа на органите на државната управа",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2024-06-10",
+"latest": "2024-06-10",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67027"
+},
+{
 "slug": "zakon-2024-sv147-67295",
 "path": "zakon/2024/sv147-67295",
 "kind": "zakon",
@@ -238,6 +255,23 @@
 "from": "2024-08-23",
 "latest": "2024-08-23",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67510"
+},
+{
+"slug": "zakon-2024-sv170-67511",
+"path": "zakon/2024/sv170-67511",
+"kind": "zakon",
+"year": "2024",
+"number": "sv170-67511",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за ратификација на Конвенцијата на Советот на Европа за пристап до официјални документи",
+"short": "Закон за ратификација на Конвенцијата на Советот на Европа за пристап до официјални документи",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2024-08-23",
+"latest": "2024-08-23",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67511"
 },
 {
 "slug": "zakon-2024-sv170-67512",

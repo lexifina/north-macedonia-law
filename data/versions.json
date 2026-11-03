@@ -92,6 +92,21 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv121-67027",
+   "path": "zakon/2024/sv121-67027",
+   "short": "Закон за изменување и дополнување на Законот за организација и работа на органите на државната управа",
+   "title": "Закон за изменување и дополнување на Законот за организација и работа на органите на државната управа",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67027",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 32,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67027",
+     "sha256": "5e0aabf5ebdff2c6798dbc125263fa23ee2f7ee381ff9cf11edc11a5b5098771"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv147-67295",
    "path": "zakon/2024/sv147-67295",
    "short": "Закон за изменување и дополнување на Законот за енергетска ефикасност",
@@ -268,6 +283,21 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67510",
      "sha256": "92aeae358e5072745a4d0083e6a89d80b1c2b323ff24398707cbed1cd2ade8e2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv170-67511",
+   "path": "zakon/2024/sv170-67511",
+   "short": "Закон за ратификација на Конвенцијата на Советот на Европа за пристап до официјални документи",
+   "title": "Закон за ратификација на Конвенцијата на Советот на Европа за пристап до официјални документи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67511",
+   "versions": [
+    {
+     "from": "2024-08-23",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67511",
+     "sha256": "c64deffbd4a65ae2395cf68e01827c6163209a7aefebccc561c8c139ec272986"
     }
    ]
   },

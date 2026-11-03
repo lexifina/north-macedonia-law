@@ -4,6 +4,7 @@
 "note": "Act folders before the layout move were named by slug; tools/on.py reads both.",
 "paths": {
 "ustav": "ustav",
+"zakon-2024-sv121-67027": "zakon/2024/sv121-67027",
 "zakon-2024-sv147-67295": "zakon/2024/sv147-67295",
 "zakon-2024-sv147-67296": "zakon/2024/sv147-67296",
 "zakon-2024-sv147-67297": "zakon/2024/sv147-67297",
@@ -16,6 +17,7 @@
 "zakon-2024-sv155-67388": "zakon/2024/sv155-67388",
 "zakon-2024-sv169-67508": "zakon/2024/sv169-67508",
 "zakon-2024-sv170-67510": "zakon/2024/sv170-67510",
+"zakon-2024-sv170-67511": "zakon/2024/sv170-67511",
 "zakon-2024-sv170-67512": "zakon/2024/sv170-67512",
 "zakon-2024-sv170-67513": "zakon/2024/sv170-67513",
 "zakon-2024-sv170-67514": "zakon/2024/sv170-67514",
