@@ -1,6 +1,6 @@
 # Every act in this repository
 
-1448 acts, 1,458 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+1450 acts, 1,460 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## delovnik (4)
 
@@ -18,7 +18,7 @@
 | Наредба за изменување на Годишната наредба за здравствена заштита на животните во 2024 година | [`naredba/2024/sv128-67109/`](naredba/2024/sv128-67109/) | amending act | 1 | 2024-06-18 | 2024-06-18 |
 | Наредба за изменување на Годишната наредба за здравствена заштита на животните во 2025 година | [`naredba/2025/sv211-71828/`](naredba/2025/sv211-71828/) | amending act | 1 | 2025-10-15 | 2025-10-15 |
 
-## pravilnik (684, of which 205 amending acts)
+## pravilnik (686, of which 206 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -28,6 +28,8 @@
 | Правилник за изменување на Правилникот за поблиски услови за доделување на средства, образецот за бодовна скала, начинот на доделување на средства на здруженија и други приватни даватели на социјални услуги за давање социјални услуги | [`pravilnik/2022/sv269-65058/`](pravilnik/2022/sv269-65058/) | amending act | 1 | 2022-12-15 | 2022-12-15 |
 | Правилник за изменување на Правилникот за поблиските услови за доделување на средства, образецот за бодовна скала и начинот на обезбедување на социјални услуги од општините | [`pravilnik/2022/sv269-65059/`](pravilnik/2022/sv269-65059/) | amending act | 1 | 2022-12-15 | 2022-12-15 |
 | Правилник за измена на Правилникот за постапка за избор на домашни правни лица за вршење на услуги со хартии од вредност | [`pravilnik/2022/sv269-65060/`](pravilnik/2022/sv269-65060/) | amending act | 1 | 2022-12-15 | 2022-12-15 |
+| Правилник за практицирање на судиската/јавнообвинителската функција | [`pravilnik/2023/sv046-62270/`](pravilnik/2023/sv046-62270/) | in force | 1 | 2023-03-02 | 2023-03-02 |
+| Правилник за изменување и дополнување на Правилникот за начинот, обемот, нормативите и стандардите за давање на социјалните услуги на дневен престој, рехабилитација и реинтеграција и ресоцијализација и за простор, средства, кадри и потребната документација за центар за дневен престој, центар за рехабилитација и центар за ресоцијализација | [`pravilnik/2023/sv047-62301/`](pravilnik/2023/sv047-62301/) | amending act | 1 | 2023-03-04 | 2023-03-04 |
 | Правилник за изменување и дополнување на Правилникот за одржување на катастарот на недвижностите | [`pravilnik/2023/sv052-62346/`](pravilnik/2023/sv052-62346/) | amending act | 1 | 2023-03-24 | 2023-03-24 |
 | Правилник за изменување и дополнување на Правилникот за геодетски работи за посебни намени | [`pravilnik/2023/sv052-62347/`](pravilnik/2023/sv052-62347/) | amending act | 1 | 2023-03-10 | 2023-03-10 |
 | Правилник за изменување и дополнување на Правилникот за премер на недвижности | [`pravilnik/2023/sv052-62348/`](pravilnik/2023/sv052-62348/) | amending act | 1 | 2023-03-17 | 2023-03-17 |
