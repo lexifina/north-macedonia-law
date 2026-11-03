@@ -92,6 +92,141 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv063-66369",
+   "path": "zakon/2024/sv063-66369",
+   "short": "Закон за изменување и дополнување на Законот за медиуми",
+   "title": "Закон за изменување и дополнување на Законот за медиуми",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66369",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66369",
+     "sha256": "c9c88f8fff7531a5eaed772ca837be5f881b2af1fd6ba13daec045b7a7d56088"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv064-66375",
+   "path": "zakon/2024/sv064-66375",
+   "short": "Закон за дополнување на Законот за научно-истражувачката дејност",
+   "title": "Закон за дополнување на Законот за научно-истражувачката дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66375",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66375",
+     "sha256": "c6a9f2d37f89ab8bce7cdf83c76ad6f19697a0b5b50d0d99750b0a0c7eec74ad"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv064-66377",
+   "path": "zakon/2024/sv064-66377",
+   "short": "Закон за гаранција на Република Северна Македонија на обврските по Договорот за заем за финансирање на Проектот за регионална гасификација, кој ќе се склучи меѓу Акционерското друштво за вршење на енергетска дејност пренос на природен гас НОМАГАС Скопје во државна сопственост и Европската банка за обнова и развој",
+   "title": "Закон за гаранција на Република Северна Македонија на обврските по Договорот за заем за финансирање на Проектот за регионална гасификација, кој ќе се склучи меѓу Акционерското друштво за вршење на енергетска дејност пренос на природен гас НОМАГАС Скопје во државна сопственост и Европската банка за обнова и развој",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66377",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66377",
+     "sha256": "4bcee0aa9556f645c5a0953cf44c4129e862845ac6926048eb1c35dfc694f288"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv066-66389",
+   "path": "zakon/2024/sv066-66389",
+   "short": "Закон за забрана на нефер трговски практики во синџирот на снабдување на земјоделски и прехранбени производи",
+   "title": "Закон за забрана на нефер трговски практики во синџирот на снабдување на земјоделски и прехранбени производи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66389",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 52,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66389",
+     "sha256": "789a01d46147e610698105165cdfeb2037627e380be2e3a09bc3c22036b2991e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv066-66391",
+   "path": "zakon/2024/sv066-66391",
+   "short": "Закон за канцеларија за поврат на имот",
+   "title": "Закон за канцеларија за поврат на имот",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66391",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 34,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66391",
+     "sha256": "550dcc9ad0c21586f194a68825523ea3cf4d5cbd311a8630095ef6c0364f2f76"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv073-66452",
+   "path": "zakon/2024/sv073-66452",
+   "short": "Закон за изменување на Законот за управување со електрична и електронска опрема и отпадна електрична и електронска опрема",
+   "title": "Закон за изменување на Законот за управување со електрична и електронска опрема и отпадна електрична и електронска опрема",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66452",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66452",
+     "sha256": "ca77b52b2f47bfd11550f82f1b445251aba914b3ce0fdc4f9b74ae116053b6e0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv073-66453",
+   "path": "zakon/2024/sv073-66453",
+   "short": "Закон за изменување и дополнување на Законот за проширена одговорност на производителот за управување со посебните текови на отпад",
+   "title": "Закон за изменување и дополнување на Законот за проширена одговорност на производителот за управување со посебните текови на отпад",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66453",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66453",
+     "sha256": "04c2bd9bf9d796f4fa087893e61ed1d397561bbe8f851406c8ca8918417200f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv074-66470",
+   "path": "zakon/2024/sv074-66470",
+   "short": "Закон за изменување и дополнување на Законот за Народната банка на Република Македонија",
+   "title": "Закон за изменување и дополнување на Законот за Народната банка на Република Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66470",
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "units": 59,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66470",
+     "sha256": "2310c60e5a75e9aa04bf60c8ec4397540da75d0412e01eb39b0dd51de5f63c6b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv074-66471",
+   "path": "zakon/2024/sv074-66471",
+   "short": "Закон за изменување и дополнување на Законот за извршување на санкциите",
+   "title": "Закон за изменување и дополнување на Законот за извршување на санкциите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66471",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 114,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66471",
+     "sha256": "d42ffe2e3e9a45e83b236f5da93621771d674a85d8f76b59f2cc4147ba860329"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv074-66472",
    "path": "zakon/2024/sv074-66472",
    "short": "Закон за изменување и дополнување на Законот за здравствената заштита",
@@ -103,6 +238,21 @@
      "units": 5,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66472",
      "sha256": "c7ec29f288a59070d0051eb48f1b7654e18f7ab374c82267462494c196e92dfc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv074-66473",
+   "path": "zakon/2024/sv074-66473",
+   "short": "Закон за изменување и дополнување на Законот за медиуми",
+   "title": "Закон за изменување и дополнување на Законот за медиуми",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66473",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66473",
+     "sha256": "0cc5cd65e55eda3fd73c8d02568b9ab76b435d0bc6a64ff5daf6e0bf6cb225cc"
     }
    ]
   },
