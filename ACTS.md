@@ -1,6 +1,6 @@
 # Every act in this repository
 
-540 acts, 550 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
+541 acts, 551 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (the law in State Gazette issue 29 of 2010, National Assembly record 9940, is `zakon/2010/dv029-9940/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json).
 
 ## ustav (1)
 
@@ -8,10 +8,11 @@
 | --- | --- | --- | ---: | --- | --- |
 | Устав на Република Северна Македонија | [`ustav/`](ustav/) | in force | 9 | 1991-11-17 | 2019-02-12 |
 
-## zakon (538, of which 444 amending acts)
+## zakon (539, of which 445 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
+| Закон за изменување на Законот за служба во Армијата на Република Северна Македонија | [`zakon/2024/sv014-65647/`](zakon/2024/sv014-65647/) | amending act | 1 | 2024-01-22 | 2024-01-22 |
 | Закон за изменување и дополнување на Законот за здравствената заштита | [`zakon/2024/sv030-65914/`](zakon/2024/sv030-65914/) | amending act | 1 | 2024-02-09 | 2024-02-09 |
 | Закон за изменување на Законот за субвенциониран студентски оброк | [`zakon/2024/sv030-65915/`](zakon/2024/sv030-65915/) | amending act | 1 | 2024-02-09 | 2024-02-09 |
 | Закон за изменување и дополнување на Законот за заштита од јонизирачко зрачење и радијациона сигурност | [`zakon/2024/sv030-65917/`](zakon/2024/sv030-65917/) | amending act | 1 | 2024-02-09 | 2024-02-09 |

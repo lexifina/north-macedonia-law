@@ -92,6 +92,21 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv014-65647",
+   "path": "zakon/2024/sv014-65647",
+   "short": "Закон за изменување на Законот за служба во Армијата на Република Северна Македонија",
+   "title": "Закон за изменување на Законот за служба во Армијата на Република Северна Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65647",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65647",
+     "sha256": "292cb6fe5a72f09281cbf92503ff776901bbc812de96ed3eadd1da0c4ab71b7b"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv030-65914",
    "path": "zakon/2024/sv030-65914",
    "short": "Закон за изменување и дополнување на Законот за здравствената заштита",
