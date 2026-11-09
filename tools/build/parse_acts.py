@@ -28,13 +28,18 @@ An act with no numbered articles at all (an instruction or order made of points 
 from its title to its signature, when its own in-force clause is there and agrees and the text is clean. Acts released
 by this rule, or by the citing-acts exception below, go to parts of their own (60-<kind>-<year>.json).
 
+2026-11-09 (romania-law standard): an act the database links to later acts has no official consolidated text, so it
+is published as enacted and labelled, not held back: `label` "amended, not consolidated" with `amended_by` (the later
+linked acts that amend, repeal or rule on it: amending acts and Constitutional Court decisions) and `cited_by` (other
+later linked acts whose text does more than cite it in an enacting formula), or "cited later, not consolidated" when
+only the latter exist. The same for an amending law that a later act amends or a court decision follows, and for an
+act no longer valid that linked acts amended before its end of validity. An in-scope record whose page serves no
+text is a holds row (no_text_on_ldbis), not a silent drop.
+
 An act is held back, not published (the reason is written to the report), when:
-- it is a principal law and the database links a later act to it (an amendment, a consolidated text, a court
-  decision, a replacing law): its text today may differ from the text as published; unless every later linked act
-  is an original bylaw whose text cites the act only in its enacting formula or in articles that change nothing;
-  for an act no longer valid, any linked act published before its end of validity other than the repealing act;
-- it is an amending law and a later linked act amends that amending law, or a Constitutional Court decision follows it;
-- a correction (Исправка) names it;
+- the database links an official consolidated text (Пречистен текст) to it (later_consolidated_text): it waits until
+  that text is built as a version;
+- a correction (Исправка) names it, by title or as a linked act;
 - the database gives it an end-of-validity day that is still to come, or one that no linked act explains as above;
 - its in-force day is missing, or its own final clause names a different day;
 - its text does not split cleanly into articles, or the PDF has no usable text layer.
@@ -650,6 +655,10 @@ def load(src: Path) -> dict[int, dict]:
                 r = json.loads(line)
             except json.JSONDecodeError:
                 continue  # a row being written
+            # 2026-11-09: LDBIS breaks some long titles over lines ("...организациона\r\nоспособеност ..."); a title
+            # is one line (it becomes a commit trailer)
+            r["title"] = re.sub(r"\s*[\r\n]+\s*", " ", r.get("title") or "")
+            r["chain"] = [[re.sub(r"\s*[\r\n]+\s*", " ", c[0] or ""), *c[1:]] for c in r.get("chain") or []]
             recs[int(r["id"])] = r
     return recs
 
@@ -683,6 +692,12 @@ def main():
     laws = {i: r for i, r in recs.items() if r.get("kind") in KINDS and (r.get("text") or {}).get("sha256")}
     parts: dict[tuple, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
+    # 2026-11-09: in-scope records whose LDBIS page serves no PDF are held with a row, not dropped silently.
+    for i, r in sorted(recs.items()):
+        if r.get("kind") in KINDS and not (r.get("text") or {}).get("sha256"):
+            p_ = dmy(r.get("published")) or ""
+            holds.append({"id": i, "sv": f"{r.get('issue')}/{p_[:4]}", "title": norm(r.get("title") or "")[:160],
+                          "reason": "no_text_on_ldbis"})
 
     def split_of(i: int, title: str) -> dict | None:
         """The split result of a law's text file (cached by file and title), or None without a text file."""
@@ -722,6 +737,38 @@ def main():
         if adopted and adopted <= pub <= (date.fromisoformat(adopted) + timedelta(days=60)).isoformat():
             return adopted
         return None
+
+    def link_class(cid: int) -> str:
+        """What a linked act is, by its LDBIS record: an official consolidated text, a correction, a Constitutional
+        Court decision, an amendment (or repeal) of another act, or an original act (a bylaw, a replacing law)."""
+        lr = recs.get(cid) or {}
+        lt = norm(lr.get("title") or "")
+        if "Пречистена" in (lr.get("version") or "") or re.search(r"пречистен\s+текст", lt, re.I):
+            return "consolidated"
+        if (lr.get("kind") or "").startswith("Исправка") or lt.startswith("Исправка"):
+            return "correction"
+        if COURT.search(lt):
+            return "court"
+        if lr.get("version") == "Текст измена/дополна" or AMENDING.match(lt) \
+                or re.search(r"изменување|дополнување|престанување|укинување|вон\s+сила", lt, re.I):
+            return "amending"
+        return "other"
+
+    def ref_of(cid: int) -> dict:
+        lr = recs.get(cid) or {}
+        pub_ = dmy(lr.get("published")) or ""
+        t = norm(lr.get("title") or "")
+        if pub_ and str(lr.get("issue") or "").isdigit():
+            t += f" („{gazette_name(pub_)}“ бр. {int(lr['issue'])}/{pub_[:4]})"
+        return {"ref": f"ldbis:{cid}", "title": t, "url": PAGE_URL.format(id=cid), "_key": (pub_, cid)}
+
+    def marks_of(ids: list[int]) -> dict:
+        """amended_by (amendments, repeals, court decisions) and cited_by (other later acts), oldest first."""
+        am = sorted((ref_of(c) for c in set(ids) if link_class(c) in ("amending", "court")), key=lambda x: x["_key"])
+        ci = sorted((ref_of(c) for c in set(ids) if link_class(c) == "other"), key=lambda x: x["_key"])
+        for x in am + ci:
+            x.pop("_key")
+        return {"amended_by": am, "cited_by": ci}
 
     def in_force_of(cid: int) -> str | None:
         return dmy((recs.get(cid) or {}).get("in_force"))
@@ -769,12 +816,17 @@ def main():
             own, _how = own_in_force({"art-000": {"text": t}}, rpub)
             if own and own != end:
                 raise Hold(f"end_of_validity_repealer_own_clause:{rep} ldbis {end} vs own clause {own}")
+        before = []
         if not amending:
-            # A principal act: no linked act published before its end may have changed it in between.
+            # A principal act: linked acts published before its end may have changed it in between. 2026-11-09
+            # (Romania standard): published as enacted with its end, labelled with the acts that amended it, unless
+            # an official consolidated text exists (then held until it is built as a version).
             before = [c[1] for c in later if c[1] != rep and c[2] < end]
-            if before:
-                raise Hold("end_of_validity_amended_before:" + ",".join(map(str, before[:5])))
-        return end, rep, is_named
+            if any(link_class(c) == "consolidated" for c in before):
+                raise Hold("later_consolidated_text:" + ",".join(str(c) for c in before if link_class(c) == "consolidated"))
+            if any(link_class(c) == "correction" for c in before):
+                raise Hold("correction:" + ",".join(str(c) for c in before if link_class(c) == "correction"))
+        return end, rep, is_named, before
 
     for i in sorted(laws):
         r = laws[i]
@@ -803,14 +855,35 @@ def main():
             if ended and not ended.startswith(("Активен", "Нов")):
                 repeal = repeal_of(i, r, ended, later, amending)
             cited_only = False
+            marks = None
+            if repeal is not None and repeal[3]:
+                marks = marks_of(repeal[3])
             if not amending and later and repeal is None:
                 if not all(only_cites(src, r, recs.get(c[1]), c[1]) for c in later):
-                    raise Hold("later_linked_act:" + ",".join(str(c[1]) for c in later[:5]))
-                cited_only = True  # every later linked act only cites it (bylaws made under it)
+                    # 2026-11-09 (Romania standard): no official consolidated text, so the act is published as
+                    # enacted and labelled with the later acts (amended_by / cited_by), not held back. Where LDBIS
+                    # links an official consolidated text, the act waits until that text is built as a version.
+                    cons = [c[1] for c in later if link_class(c[1]) == "consolidated"]
+                    if cons:
+                        raise Hold("later_consolidated_text:" + ",".join(map(str, cons[:5])))
+                    corr = [c[1] for c in later if link_class(c[1]) == "correction"]
+                    if corr:
+                        raise Hold("correction:" + ",".join(map(str, corr[:5])))
+                    marks = marks_of([c[1] for c in later if not only_cites(src, r, recs.get(c[1]), c[1])])
+                else:
+                    cited_only = True  # every later linked act only cites it (bylaws made under it)
             if amending:
                 bad = [c for ct, c, _ in later if COURT.search(ct) or re.search(r"на\s+Законот\s+за\s+(?:изменување|дополнување)", ct)]
                 if bad:
-                    raise Hold("amending_law_amended_or_ruled:" + ",".join(map(str, bad[:5])))
+                    # 2026-11-09 (Romania standard): an amending act later amended or ruled on: published as
+                    # enacted, labelled with those acts. A correction of it (Исправка) or a consolidated text still
+                    # holds it.
+                    for cls in ("correction", "consolidated"):
+                        hit_ = [c for c in bad if link_class(c) == cls]
+                        if hit_:
+                            raise Hold(("correction:" if cls == "correction" else "later_consolidated_text:")
+                                       + ",".join(map(str, hit_[:5])))
+                    marks = marks_of(bad)
             for d, cid in corrections.get(subject(title), []):
                 if d >= pub:
                     raise Hold(f"correction:{cid}")
@@ -867,7 +940,7 @@ def main():
         versions = [{"from": day, "source_url": PAGE_URL.format(id=i), "sha256": data["meta"]["sha256"],
                      "units": units, "credits": {}, **({"note": note} if note else {})}]
         if repeal:
-            end, rep, is_named = repeal
+            end, rep, is_named, _before = repeal
             rkey = act_key(rep, recs[rep]) if is_named else None
             if rkey:
                 parts[(pk, year)]["laws"].setdefault(rkey, law_entry(rep, recs[rep], adopted_of(rep)))
@@ -878,9 +951,12 @@ def main():
                 versions.append({"from": end, "source_url": PAGE_URL.format(id=i), "units": {}, "credits": {},
                                  "note": "По базата LDBIS, актот престанува да важи на овој ден; прописот со кој "
                                          "престанува да важи не е утврден."})
-        parts[(pk, year)]["acts"].append({
-            "slug": slug, "short": title, "title": title, "url": PAGE_URL.format(id=i), "first_law": slug,
-            "earlier_laws": [], "versions": versions})
+        act = {"slug": slug, "short": title, "title": title, "url": PAGE_URL.format(id=i), "first_law": slug,
+               "earlier_laws": [], "versions": versions}
+        if marks and (marks["amended_by"] or marks["cited_by"]):
+            act["label"] = "amended, not consolidated" if marks["amended_by"] else "cited later, not consolidated"
+            act.update({k: v for k, v in marks.items() if v})
+        parts[(pk, year)]["acts"].append(act)
     parts_dir = Path(a.out) if a.out else PARTS
     parts_dir.mkdir(exist_ok=True)
     written = []
@@ -898,14 +974,17 @@ def main():
             "(LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.",
             "Its one version takes effect on the in-force day LDBIS records; where the law's own final article names its "
             "day, the two must agree or the law is held back. A different application day is noted on the version.",
-            "A principal law is published only when LDBIS links no later act to it (no amendment, consolidated text, "
-            "court decision or replacing law); an amending law only when no later act amends it and no Constitutional "
-            "Court decision follows it; never when a correction names it.",
+            "A law LDBIS links to later acts (amendments, court decisions, replacing or implementing acts) has no "
+            "official consolidated text: it is published as enacted and labelled \"amended, not consolidated\" "
+            "(amended_by: the amending acts and court decisions) or \"cited later, not consolidated\" (cited_by), as "
+            "is an amending law that a later act amends or a Constitutional Court decision follows. A law LDBIS links "
+            "to an official consolidated text (Пречистен текст) is held until that text is built as a version; a law "
+            "a correction names is held.",
             "A law LDBIS marks no longer valid gets a second version with no text, from its end-of-validity day, which "
             "LDBIS records as the day the repealing act enters into force. It is published only when a linked act "
             "enters into force on that very day (by LDBIS, and by its own final article where that can be read), no "
-            "other linked act enters into force the day before or after, and, for a principal law, no other linked act "
-            "was published before that day. The removal is credited to that act when its text says the law ceases to "
+            "other linked act enters into force the day before or after; a principal law that other linked acts "
+            "amended before that day keeps its text as enacted until then and is labelled with them. The removal is credited to that act when its text says the law ceases to "
             "be valid and cites its gazette number in the same article; otherwise to the publisher, as unexplained. An "
             "amending law gets this version only when such a text names it.",
             "Paragraphs follow the PDF's layout (a new block, an indented first line or a centred line starts one); a "

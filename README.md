@@ -2,96 +2,74 @@
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is North Macedonia's national law, which global-law reads at `north-macedonia/national/acts/`.
 
-The law of North Macedonia as a git history: one file per provision, one commit per amendment or law on the day it took effect, and the amendment or law that made each change as the commit's author. `git blame` names the amendment behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+The law of North Macedonia as a git history: one file per article, one commit per act or amendment on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; the tool below gives the text in force on any day. The texts are in Macedonian (Cyrillic), the official language.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `mk/`. The texts are in Macedonian (Cyrillic), the official language.
+*На македонски: [подолу](#македонски).*
 
-**What is in it now**
+**What is in it.** About 13,500 acts from the Ministry of Justice's legal database (LDBIS), each as published in Службен весник (the Official Gazette): laws (`zakon/`), Government decrees (`uredba/`), rulebooks (`pravilnik/`), instructions (`upatstvo/`), orders (`naredba/`), statutes (`statut/`) and rules of procedure (`delovnik/`), from 1952 to today, with the end of validity of the acts LDBIS marks no longer valid. Two acts have a full amendment history built by hand: the Constitution (`ustav/`, 1991 through Amendments I-XXXVI) and the Law on Personal Data Protection (`zakon-za-zastita-na-licnite-podatoci/`, 2020 through both amending laws). [ACTS.md](ACTS.md) lists every act with its folder, status and span.
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `ustav/` | Устав на Република Северна Македонија (the Constitution) | 9 | As promulgated on 17 November 1991, through all 36 amendments (I-XXXVI, 1992-2019) |
-| `zakon-za-zastita-na-licnite-podatoci/` | Закон за заштита на личните податоци (the Law on Personal Data Protection, 2020) | 3 | As enacted (in force 24 February 2020), through both amending laws (294/2021, 101/2025) |
+## Layout
 
-**The Constitution is never officially consolidated.** Officially it is the 1991 text plus Amendments I-XXXVI, each of which says it is "a constituent part of the Constitution" and names the provision it replaces, supplements or deletes ("Со овој амандман се заменува ставот 2 на членот 4"). This repository applies each amendment to the provision it names, so every article file reads as it stood on each day, and each changed paragraph is credited to its amendment.
+| Where | What |
+| --- | --- |
+| `<kind>/<year>/sv<issue>-<id>/` | one act: `<kind>` as above, the year and Gazette issue it was published in, and its LDBIS id (`zakon/2006/sv013-11057/` is the Law on Tax Procedure, Службен весник 13/2006, LDBIS id 11057) |
+| `<act>/art-NNN.md` · `<act>/README.md` | one article per file (one paragraph per line) · the act's versions, status and official link |
+| `ustav/` | the Constitution, one file per article (`clen-NNN.md`) |
+| [ACTS.md](ACTS.md) · `data/` · `tools/` | the act list · tables (`data/acts.json`, `data/versions.json`, `data/laws.csv`, `data/paths.json`) · the tools below |
 
-## A lawyer's questions as git commands
+## Use it
 
 | Question | Command |
 | --- | --- |
-| What did Article 4 say on 1 January 2010? | `python tools/on.py 2010-01-01 ustav clen-004` |
-| The same, with raw git (bash) | `git show $(git rev-list -1 --before="2010-01-01T23:59:59Z" main -- ustav/clen-004.md):ustav/clen-004.md` |
-| The same, in PowerShell | `$r = git rev-list -1 --before="2010-01-01T23:59:59Z" main -- ustav/clen-004.md; git show "$($r):ustav/clen-004.md"` |
-| Which amendment wrote each paragraph of Article 3? | `git blame ustav/clen-003.md` |
-| Every change to Article 104, word by word | `git log -p --word-diff ustav/clen-104.md` |
-| Every amendment in order | `git log --reverse --format="%ad %an" --date=short main` |
-| Everything Amendment XXXIII changed (the name change) | `git log --author="Амандман XXXIII" --stat` |
-| The whole Constitution on a date | `python tools/on.py 2005-01-01 ustav` |
-| Article 48 of the data protection law before and after 2025 | `python tools/on.py 2025-05-20 zakon-za-zastita-na-licnite-podatoci clen-048`, then `2025-05-21` |
+| What did Article 4 of the Constitution say on 1 January 2010? | `python tools/on.py 2010-01-01 ustav clen-004` |
+| An act's article on a day | `python tools/on.py 2015-06-01 zakon/2006/sv013-11057 art-062` |
+| Which amendment wrote each paragraph of Article 3 of the Constitution? | `git blame ustav/clen-003.md` |
+| Every change to an article, word by word | `git log -p --word-diff ustav/clen-104.md` |
+| Is an act here current? | `python tools/freshness.py zakon/2006/sv013-11057` |
+| Acts held back, and why | `data/held.json` |
+| Acts published but not yet in force | `data/pending.json` |
 
-After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+Read dates with the tools, not `git rev-list --before`: they pick each version by its `In-force:` trailer. After a rebuild, refresh tags with `git fetch --force --tags`.
 
-## Dates
+## How current is it
 
-- Each commit is dated at **noon, Europe/Skopje, on the day the change took effect**. The adoption date and the Official Gazette (Службен весник) publication date are trailers; the in-force day is in `In-force:`, which `tools/on.py` reads.
-- **The 1991 Constitution** took effect on the day the Assembly promulgated it, 17 November 1991 (its Article 134); it was published in Службен весник 52/1991 on 22 November 1991.
-- **Amendments I-XXXII** each say they take effect on the day of their promulgation by the Assembly: 6 January 1992 (I-II), 1 July 1998 (III), 16 November 2001 (IV-XVIII, the Ohrid Framework Agreement amendments), 26 December 2003 (XIX), 7 December 2005 (XX-XXX), 9 January 2009 (XXXI) and 12 April 2011 (XXXII). Amendments promulgated together are separate commits on the same day, in number order.
-- **Amendments XXXIII-XXXVI** (the Prespa agreement amendments, including the new name) were adopted on 11 January 2019 and published on 12 January 2019 (Службен весник 6/2019), but took effect only with the Final Agreement and NATO accession protocol. The Government's notice in Службен весник 36/2019 (no. 623) states they took effect on **12 February 2019**, which is the commit date.
-- **Ordinary laws** state their own day in their final article. The Law on Personal Data Protection (Службен весник 42/2020, 16 February 2020) took effect on the eighth day after publication, 24 February 2020; its amendment in 294/2021 (27 December 2021) on the eighth day, 4 January 2022; the one in 101/2025 on its publication day, 21 May 2025. The eighth day is counted from the day after publication (the Constitution, Art. 52, sets the eighth day as the earliest).
-- `--before="YYYY-MM-DD"` alone uses your clock's time of day; use `T23:59:59Z` as above, or the tool.
+Every version names the official page it was read from (its LDBIS record, `Source:` in the commit; `portal` in `data/acts.json`), so every act can be checked against its source.
+
+<!-- freshness-summary -->
+Checked against the official sources: 2026-11-09; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
+<!-- /freshness-summary -->
+
+`python tools/freshness.py <act>` gives an act's status, its last check and the official link. A refresh runs every day: it reads the records LDBIS has added, re-reads the record of every act here (laws and Government decrees within 7 days, other acts within 30), appends new acts and versions, and rewrites the freshness files. [data/status.json](data/status.json) says whether updates are running and whether LDBIS is answering. One row per act in `data/freshness/<kind>/<year>.csv`; statuses (`current`, `pending-change`, `stale`, `unverified`, `source-unavailable`) and fields are explained in `data/freshness.json`.
+
+## Dates, authors and limits
+
+- Each commit is dated on the day the change took effect; the author is the act that made it (an address that cannot exist, so `git log --author` names acts), the committer Lexifina. The in-force day is the one LDBIS records, checked against the act's own final article where that names a day; where the two differ, the act is held back.
+- An act LDBIS marks no longer valid gets a last version with no text, from its end-of-validity day, credited to the act that repealed it when that act's text names it.
+- **No official consolidated texts.** For almost every act the Official Gazette prints only the act as passed and each amending act; there is no official consolidated text to read. An act a later act amended is therefore published **as enacted** and marked `amended, not consolidated`, naming the amending acts and Constitutional Court decisions LDBIS links to it (`amended_by` in `data/acts.json`, with their official links); its text here does not include those amendments. An act later acts only cite is marked `cited later, not consolidated` (`cited_by`). Such acts are `pending-change` in the freshness files.
+- **Held back** (listed in `data/held.json` with the rule that holds each): acts whose PDF has no text layer or no text at all on LDBIS, whose text does not split cleanly into articles, whose in-force day disagrees with their own final article, which a correction (Исправка) names, or to which LDBIS links an official consolidated text not yet built as a version.
+- Not included: the promulgation decree (Указ) above each law, signatures, and decisions (Одлуки) and other acts outside the seven kinds above. Footnotes printed with an act are its `zz-fusnoti.md` file, not part of an article.
+- Only the text published in Службен весник is authoritative. This repository is a research aid, not legal advice and not an official publication.
 
 ## How it is checked
 
-- **Every amendment's instruction is checked against what it was applied to.** The operation for each amendment is transcribed from its own final point ("Со овој амандман се заменува ..."); the build stops if the article, paragraph or alinea it names does not exist, or if the instruction does not name the numbers used. The replaced text of every operation is logged, and each one matches the subject of its amendment.
-- **The words of the amendments were compared in two official copies.** For Amendments XIX-XXXII the born-digital Official Gazette and the Assembly's certified copy agree word for word except in Amendment XIX (four words: the gazette text is used) and two words the copy runs together in Amendment XXVI.
-- **The data protection law as enacted was compared word for word with the publisher's own single-act copy** of Службен весник 42/2020: 30,387 words, no difference in the law's text. The five differences the comparison lists are the copy's page furniture and typography (the GDPR footnote, a heading set with a title, the copy's "Член  50" with two spaces, its "веб страница" for the gazette's "веб-страница", and a title hyphen).
-- **Every edit of an amending law applies at exactly the place it names.** The data protection amendments are word-level ("the words „до“ are replaced by „со“"): each quoted string must appear in the amending law's own gazette text, and its target must occur exactly once in the paragraph it names (twice where the law says "the first and second sentence"), or the build stops.
-- Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Results are in `REPRODUCE.md`.
-- Health checks: no merge commits on `main`, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse with `git interpret-trailers --parse`.
-- The repository is rebuilt from the same data a second time and must give identical hashes.
-
-## What "author" means
-
-The author of a commit is the amendment or law that made the change, with an e-mail address that cannot exist (`amandman-05@slvesnik.invalid`), so `git blame` and `git log --author` name it. The committer is always Lexifina.
-
-- **The first commit** is the Constitution as promulgated in 1991, credited to it.
-- **Credits come only from the source**: each changed provision is credited to the amendment whose instruction names it. Amendment XXXIII renames "Република Македонија" to "Република Северна Македонија" (and "Македонија" to "Северна Македонија") throughout except Article 36, so it is credited in 59 files.
-- Blame credits whole lines (one paragraph or alinea per line). Where an amendment appended a sentence to a paragraph (II, XIII, XIV), use `git log -p --word-diff` to see which words it added.
-
-## What it does not show
-
-- **How the amendments read on their own.** Each amendment is applied to the provision it names; its own numbered points and its promulgation decision are not files. Where an amendment "supplements" an article without saying where, its text is added at the end of the article (I, XX, XXXV); Amendment VI's phrase supplementing alinea 2 of Article 8 is its own line after that alinea, since joining it would mean composing words. Every such choice is listed in `REPRODUCE.md`.
-- **The Constitutional Law on the implementation of the Constitution** (1991) and the Constitutional Law on the implementation of Amendments XXXIII-XXXVI (2019) are separate acts and are not here yet.
-- **The Criminal Code** (Кривичен законик, Службен весник 37/1996). Its 1996 text exists online only as a scanned gazette issue whose text layer is OCR output with errors, it has been amended by 31 laws (80/1999 to 188/2023), and no official consolidated text exists, so neither its history nor a verified current text can be built from official sources yet. The same holds for the Law of Obligations (18/2001; the Ministry of Justice's consolidated file is unofficial and undated).
-- **The footnote** printed with the data protection law (that it harmonises the law with Regulation (EU) 2016/679) is not law text and is not in the files; each article's title is the second line of its file.
-- **Court rulings.** The Constitutional Court has never struck words from the Constitution.
-
-## How it is built
-
-Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
-
-- **Words** of the 1991 text and Amendments I-XVIII come from the Assembly's certified copy (`UstavnaRmizmeni.pdf`, made from Word): the Gazette issues of 1991-2001 are scans whose publisher-made text layer has OCR errors. Words of Amendments XIX-XXXVI come from the born-digital Gazette issues.
-- **Paragraph breaks** come from the Gazette layout (each paragraph's first line is indented), aligned word by word with the Assembly copy, because the copy runs some paragraphs together (in the Gazette, Article 4 has three paragraphs, and Amendment XXXII replaces the second).
-- No OCR was run, and no AI model wrote or changed legal text. Claude Opus 5.5 wrote the scripts and chose the sources; see `REPRODUCE.md`.
+- Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`) and must match the corpus; no merge commits on `main`, commit dates never go backwards, nothing is dated in the future, and every commit's trailers parse. Results are in [REPRODUCE.md](REPRODUCE.md).
+- The text of each act is its Gazette PDF's own text layer, split into articles by the layout (no OCR, no model). A sample of 220 acts re-read from LDBIS on 9 November 2026 served byte-identical PDFs.
+- Additions are append-only: a published commit is never rewritten. A text found to read differently later is corrected in a labelled correction commit (`Kind: correction`), both versions kept.
 
 ## Sources
 
-| Source | Kind | Past versions | Names the amending act | Bulk | Notes |
-| --- | --- | --- | --- | --- | --- |
-| [Службен весник на Република Северна Македонија](https://slvesnik.com.mk/besplaten-pristap-do-izdanija.nspx) | Official Gazette | every issue since 1945, free (PDF) | yes (each amendment names what it changes) | issue lists by year (JSON) | 1945-2001 issues are scans with an OCR text layer; later issues are born-digital |
-| [Собрание: Устав](https://www.sobranie.mk/ustav-na-rm.nspx) | Assembly | 1991 text + Amendments I-XXXII (certified copy); English text | yes | no | The 2019 copy adds XXXIII-XXXVI only as scanned pages |
-| [LDBIS](https://ldbis.pravda.gov.mk/) (Ministry of Justice) | Legal database | metadata: publication, in-force and application dates, linked amending laws | yes | no | Used for the planned ordinary laws |
-
-Research guides: [GlobaLex](https://www.nyulawglobal.org/globalex/) and the [Law Library of Congress Guide to Law Online](https://www.loc.gov/research-centers/law-library-of-congress/researcher-resources/guide-to-law-online/).
+| Source | What it gives | Used |
+| --- | --- | --- |
+| [LDBIS](https://ldbis.pravda.gov.mk/) (Ministry of Justice) | each act's record: Gazette issue, publication, in-force, application and end-of-validity days, linked acts; and the act's Gazette PDF | Yes: every act except the two below |
+| [Службен весник](https://www.slvesnik.com.mk/) (Official Gazette) | every issue since 1945 (PDF) | The Constitution's amendments XIX-XXXVI and the data protection law |
+| [Собрание](https://www.sobranie.mk/) (Assembly) | the certified copy of the 1991 Constitution and Amendments I-XXXII | The Constitution's 1991 text and Amendments I-XVIII |
 
 ## Licence
 
-The texts are official texts of the Republic of North Macedonia, which the Law on Copyright and Related Rights (Закон за авторското право и сродните права) excludes from copyright protection. They are taken from Службен весник на Република Северна Македонија and the Assembly of the Republic of North Macedonia. Lexifina's own contributions are dedicated to the public domain under CC0 1.0; see `LICENSE`.
-
-This repository is not legal advice and is not an official publication.
+The texts are official texts of the Republic of North Macedonia, which the Law on Copyright and Related Rights (Закон за авторското право и сродните права) excludes from copyright protection. Lexifina's arrangement, tables, commit messages and tools are dedicated to the public domain under CC0 1.0; see [LICENSE](LICENSE). No model wrote or changed legal text.
 
 ---
 
 ## Македонски
 
-Уставот на Република Северна Македонија како историја во git: една датотека по член, еден commit по амандман, на денот кога влегол во сила, со амандманот како автор. Уставот од 1991 година е применет со сите амандмани I-XXXVI (1992-2019), секој на одредбата што ја заменува, дополнува или брише. Законот за заштита на личните податоци (2020) е со двата закона за негово изменување (294/2021 и 101/2025). Текстовите се од „Службен весник на Република Северна Македонија“ и од заверениот препис на Собранието. Ова не е службено пречистен текст, ниту правен совет.
+Правото на Република Северна Македонија како историја во git: една датотека по член, еден commit по пропис или измена, на денот кога влегле во сила, со прописот што ја направил промената како автор. Околу 13.500 прописи од базата LDBIS на Министерството за правда, секој како што е објавен во „Службен весник“: закони, уредби, правилници, упатства, наредби, статути и деловници. Пропис што подоцна е изменет, а за кој нема службен пречистен текст, е објавен во изворниот текст и означен „amended, not consolidated“, со измените што ги наведува LDBIS. Ова не е службено пречистен текст, ниту правен совет.
