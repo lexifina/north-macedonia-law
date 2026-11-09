@@ -30,6 +30,7 @@
 | ЗАВРШНИ ОДРЕДБИ | [art-018-zz-heading-1.md](art-018-zz-heading-1.md) | 0 |  |
 | Член 19 | [art-019.md](art-019.md) | 0 |  |
 | Вовед | [uvod.md](uvod.md) | 0 |  |
+| Фусноти | [zz-fusnoti.md](zz-fusnoti.md) | 0 |  |
 
 Act id: `pravilnik-2024-sv211-68019` (tags `pravilnik-2024-sv211-68019/<day>`; `python tools/on.py <day> pravilnik-2024-sv211-68019`).
 

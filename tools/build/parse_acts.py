@@ -87,6 +87,11 @@ COURT = re.compile(r"Уставен\s+суд|Уставниот\s+суд", re.I)
 CORRECTION = re.compile(r"^Исправка\s+на\s+(.+)$")
 REPEAL = re.compile(r"престанува(?:ат)?\s+да\s+(?:важ(?:и|ат)|се\s+применува(?:ат)?)|престануваат\s+да\s+важат"
                     r"|престанува\s+со\s+важење|се\s+става(?:ат)?\s+вон\s+сила|престанаа\s+да\s+важат", re.I)
+# A footnote's mark at the start of its first line: "*", "(*)", "∗", the Gazette's symbol-font mark U+F02A (kept in the
+# text as extracted), or a number of one or two digits before the footnote's capitalised first word ("1 Со оваа
+# уредба", "1Во овој Правилник"; not a degree sign's "0").
+FOOT_MARK = re.compile(r"^(?:\(\s*\)\s*[*∗٭]|\(?\s*[*∗٭]+\s*\)?|[1-9]\d?(?=\s*[А-ЯЀ-ЏA-Z]))")
+WORD = re.compile(r"[А-Яа-яЃЌЀЍѓќѐѝЈјЉљЊњЏџЅѕ]{3,}")  # a word of the text (formula pieces have none or one)
 RUNNING_HEAD = re.compile(r"\s*(?:Службен весник на (?:РСМ|РМ|Република)[^.]{0,80}?бр\.\s*\d+ од [\d.]+ ?година|\d+\s+од\s+\d+|\d{1,4})\s*")
 # Laws held elsewhere in this corpus (hand-built acts in corpus.json): never published twice.
 BUILT_ELSEWHERE = {("Закон за заштита на личните податоци", 42, 2020)}
@@ -139,12 +144,70 @@ def paragraphs(rows: list[dict]) -> list[dict]:
     if any(not head.match(r["text"]) for r in margin):
         raise Hold("text_in_margin:" + next(r["text"] for r in margin if not head.match(r["text"]))[:80])
     rows = [r for r in rows if r not in margin]
-    feet = [r for r in rows if r["size"] < size - 1.2]  # footnotes (printed smaller), kept apart
-    rows = [r for r in rows if r["size"] >= size - 1.2]
-    left = statistics.median(r["x0"] for r in rows)
-    lefts = [r["x0"] for r in rows if abs(r["x0"] - left) < 25]
+    # A line's size is its first span's: a small first span is no proof the line is small print (a footnote's first
+    # line starts with its small superscript mark, the rest printed at text size; a text line may start with a small
+    # dash). The count of small-print rows below (as paragraphs) keeps deciding which acts are held back.
+    small = [r for r in rows if r["size"] < size - 1.2]
+    old_feet = 0
+    for f in small:
+        if not (old_feet and not re.match(r"^\(?\*+\)?|^\d{1,2}\)?\s", f["text"])):
+            old_feet += 1
+    is_small = [r["size"] < size - 1.2 for r in rows]
+    in_foot = list(is_small)  # as before: small print is a footnote, unless one of the two rules below says otherwise
+    blocks: dict[tuple, list[int]] = defaultdict(list)
+    for k, r in enumerate(rows):
+        blocks[(r["page"], r["block"])].append(k)
+    # 1. A footnote printed as one block at the foot of a page: from a line that starts with a footnote mark to the end
+    #    of the page, all in that block, the mark printed small (a superscript) or the lines after it small, no article
+    #    heading or signature in it. Its lines printed at text size are the footnote too, not the article's.
+    for (pg, _b), ks in blocks.items():
+        k0 = next((k for k in ks if FOOT_MARK.match(rows[k]["text"])), None)
+        if k0 is None:
+            continue
+        foot = [k for k in ks if k >= k0]
+        rest_of_page = [k for k in range(k0, len(rows)) if rows[k]["page"] == pg]
+        if foot != rest_of_page or len(foot) > 25:
+            continue
+        if not (is_small[k0] or (len(foot) > 1 and all(is_small[k] for k in foot[1:]))):
+            continue
+        if any(ART.match(rows[k]["text"]) or SIGNATURE.match(rows[k]["text"]) for k in foot):
+            continue
+        for k in foot:
+            in_foot[k] = True
+    # 2. A line of an article that starts with a small character (a degree sign, a dash, a math sign, a paragraph
+    #    number): below the first article heading and above the act's last signature, not a footnote mark, and
+    #    printed in a block that has lines at text size, or between two such lines on its page. (Small print above
+    #    the first article, such as the issuing body's name, stays where it was.)
+    sig_last = max((k for k, r in enumerate(rows) if SIGNATURE.match(r["text"])), default=-1)
+    art_first = next((k for k, r in enumerate(rows) if ART.match(r["text"])), len(rows))
+    texty = {key: any(not is_small[k] for k in ks) for key, ks in blocks.items()}
+
+    def body_like(k: int) -> bool:
+        return not is_small[k] or texty[(rows[k]["page"], rows[k]["block"])]
+
+    for k, r in enumerate(rows):
+        if not is_small[k] or not in_foot[k] or k <= art_first or k >= sig_last or FOOT_MARK.match(r["text"]):
+            continue
+        if len(WORD.findall(r["text"])) < 2:
+            continue  # formula pieces and table cells: where they belong can't be told from the line alone
+        if any(in_foot[j] and not is_small[j] for j in blocks[(r["page"], r["block"])]):
+            continue  # part of a footnote found by rule 1
+        if k > 0 and rows[k - 1]["page"] == r["page"] and in_foot[k - 1]:
+            continue  # the next line of a footnote printed in small print
+        prev_ok = k > 0 and rows[k - 1]["page"] == r["page"] and body_like(k - 1)
+        next_ok = k + 1 < len(rows) and rows[k + 1]["page"] == r["page"] and body_like(k + 1)
+        if texty[(r["page"], r["block"])] or (prev_ok and next_ok):
+            in_foot[k] = False
+    feet = [r for r, f in zip(rows, in_foot) if f]
+    # the page's measures (left margin, centre) from the lines whose size is the text's, as before
+    sized = [r for r in rows if r["size"] >= size - 1.2]
+    rows = [r for r, f in zip(rows, in_foot) if not f]
+    if not sized:
+        raise Hold("no_text_rows")
+    left = statistics.median(r["x0"] for r in sized)
+    lefts = [r["x0"] for r in sized if abs(r["x0"] - left) < 25]
     left = min(lefts) if lefts else left
-    right = max(statistics.median(r["x1"] for r in rows), max(r["x1"] for r in rows) - 2)
+    right = max(statistics.median(r["x1"] for r in sized), max(r["x1"] for r in sized) - 2)
     centre = (left + right) / 2
     out: list[dict] = []
     for r in rows:
@@ -171,13 +234,31 @@ def paragraphs(rows: list[dict]) -> list[dict]:
             prev["bold"] = prev["bold"] and r["bold"]
             prev["page"], prev["block"] = r["page"], r["block"]
     for f in feet:
-        if out and out[-1].get("foot") and not re.match(r"^\(?\*+\)?|^\d{1,2}\)?\s", f["text"]):
-            out[-1]["text"] += " " + f["text"]
+        # a new footnote starts at a mark; a footnote's lines printed at text size (rule 1) only at a footnote mark
+        # proper ("2 март 2015 година" goes on the footnote above)
+        starts = FOOT_MARK.match(f["text"]) if f["size"] >= size - 1.2 else re.match(r"^\(?\*+\)?|^\d{1,2}\)?\s", f["text"])
+        if out and out[-1].get("foot") and not starts:
+            a, b = out[-1]["text"], f["text"]
+            # a footnote's lines printed at text size (rule 1) join as the text's lines do: a word broken at a line end
+            # is joined again
+            if f["size"] >= size - 1.2 and re.search(r"[A-Za-zА-Яа-яЃЌЀЍѓќѐѝЈјЉљЊњЏџЅѕ]-$", a) \
+                    and re.match(r"[а-шѓќјљњџѕ]", b):
+                out[-1]["text"] = a + b
+            else:
+                out[-1]["text"] = a + " " + b
         else:
             out.append({"text": f["text"], "centred": False, "bold": False, "page": f["page"], "block": f["block"], "foot": True})
     for p in out:
         p["text"] = norm(p["text"])
-    return out
+    return Paras(out, old_feet)
+
+
+class Paras(list):
+    """Paragraphs, with the number of small-print paragraphs as counted before footnotes were told from text."""
+
+    def __init__(self, items, old_feet: int):
+        super().__init__(items)
+        self.old_feet = old_feet
 
 
 def suffix_key(s: str) -> str:
@@ -187,7 +268,7 @@ def suffix_key(s: str) -> str:
 def split(paras: list[dict], db_title: str = "", word: str = "ЗАКОН") -> tuple[dict, str, str | None]:
     """(units, title, adoption day). The law starts at its upper-case title after the decree."""
     feet = [p["text"] for p in paras if p.get("foot")]
-    if len(feet) > 6:
+    if getattr(paras, "old_feet", len(feet)) > 6:
         raise Hold("small_print_tables")  # forms and tables printed small: not split reliably
     paras = [p for p in paras if not p.get("foot")]
     is_law = word == "ЗАКОН"
@@ -366,7 +447,7 @@ def flat_split(paras: list[dict], db_title: str, word: str) -> tuple[dict, str, 
     mapping (the Gazette's quotes extracted as letters)."""
     if word == "ЗАКОН":
         raise Hold("no_articles")  # a law always has articles: none found means the text did not extract cleanly
-    if any(p.get("foot") for p in paras):
+    if getattr(paras, "old_feet", 0) or any(p.get("foot") for p in paras):
         raise Hold("no_articles")
     texts = [p["text"] for p in paras]
     if any(re.match(r"^Член\s*\d", t) for t in texts):

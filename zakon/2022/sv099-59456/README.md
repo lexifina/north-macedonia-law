@@ -94,6 +94,7 @@
 | Член 88 | [art-088.md](art-088.md) | 0 |  |
 | Член 89 | [art-089.md](art-089.md) | 0 |  |
 | Член 90 | [art-090.md](art-090.md) | 0 |  |
+| Фусноти | [zz-fusnoti.md](zz-fusnoti.md) | 0 |  |
 
 Act id: `zakon-2022-sv099-59456` (tags `zakon-2022-sv099-59456/<day>`; `python tools/on.py <day> zakon-2022-sv099-59456`).
 

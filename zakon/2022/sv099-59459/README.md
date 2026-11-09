@@ -27,6 +27,7 @@
 | Член 21 | [art-021.md](art-021.md) | 0 |  |
 | Член 22 | [art-022.md](art-022.md) | 0 |  |
 | Член 23 | [art-023.md](art-023.md) | 0 |  |
+| Фусноти | [zz-fusnoti.md](zz-fusnoti.md) | 0 |  |
 
 Act id: `zakon-2022-sv099-59459` (tags `zakon-2022-sv099-59459/<day>`; `python tools/on.py <day> zakon-2022-sv099-59459`).
 

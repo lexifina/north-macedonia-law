@@ -93,6 +93,7 @@
 | Член 59 | [art-059.md](art-059.md) | 0 |  |
 | Член 60 | [art-060.md](art-060.md) | 0 |  |
 | Член 61 | [art-061.md](art-061.md) | 0 |  |
+| Фусноти | [zz-fusnoti.md](zz-fusnoti.md) | 0 |  |
 
 Act id: `zakon-2025-sv003-68937` (tags `zakon-2025-sv003-68937/<day>`; `python tools/on.py <day> zakon-2025-sv003-68937`).
 

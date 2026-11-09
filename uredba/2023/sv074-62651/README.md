@@ -8,6 +8,7 @@
 | Член 2 | [art-002.md](art-002.md) | 0 |  |
 | Член 3 | [art-003.md](art-003.md) | 0 |  |
 | Вовед | [uvod.md](uvod.md) | 0 |  |
+| Фусноти | [zz-fusnoti.md](zz-fusnoti.md) | 0 |  |
 
 Act id: `uredba-2023-sv074-62651` (tags `uredba-2023-sv074-62651/<day>`; `python tools/on.py <day> uredba-2023-sv074-62651`).
 

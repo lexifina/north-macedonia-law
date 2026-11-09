@@ -9,6 +9,7 @@
 | Член 3 | [art-003.md](art-003.md) | 0 |  |
 | Член 4 | [art-004.md](art-004.md) | 0 |  |
 | Вовед | [uvod.md](uvod.md) | 0 |  |
+| Фусноти | [zz-fusnoti.md](zz-fusnoti.md) | 0 |  |
 
 Act id: `pravilnik-2013-sv003-27160` (tags `pravilnik-2013-sv003-27160/<day>`; `python tools/on.py <day> pravilnik-2013-sv003-27160`).
 

@@ -11,6 +11,7 @@
 | Член 5 | [art-005.md](art-005.md) | 0 |  |
 | Член 6 | [art-006.md](art-006.md) | 0 |  |
 | Вовед | [uvod.md](uvod.md) | 0 |  |
+| Фусноти | [zz-fusnoti.md](zz-fusnoti.md) | 0 |  |
 
 Act id: `pravilnik-2024-sv069-66419` (tags `pravilnik-2024-sv069-66419/<day>`; `python tools/on.py <day> pravilnik-2024-sv069-66419`).
 

@@ -42,7 +42,6 @@
 | Член 33 | [art-033.md](art-033.md) | 0 |  |
 | Член 34 | [art-034.md](art-034.md) | 0 |  |
 | Вовед | [uvod.md](uvod.md) | 0 |  |
-| Фусноти | [zz-fusnoti.md](zz-fusnoti.md) | 0 |  |
 
 Act id: `pravilnik-2011-sv041-21927` (tags `pravilnik-2011-sv041-21927/<day>`; `python tools/on.py <day> pravilnik-2011-sv041-21927`).
 

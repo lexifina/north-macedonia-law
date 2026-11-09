@@ -38,6 +38,7 @@
 | VII. ЗАВРШНИ ОДРЕДБИ | [art-023-zz-heading-1.md](art-023-zz-heading-1.md) | 0 |  |
 | Член 24 | [art-024.md](art-024.md) | 0 |  |
 | Член 25 | [art-025.md](art-025.md) | 0 |  |
+| Фусноти | [zz-fusnoti.md](zz-fusnoti.md) | 0 |  |
 
 Act id: `zakon-2024-sv066-66391` (tags `zakon-2024-sv066-66391/<day>`; `python tools/on.py <day> zakon-2024-sv066-66391`).
 
