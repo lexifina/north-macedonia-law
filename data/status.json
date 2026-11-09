@@ -1,0 +1,21 @@
+{
+ "note": "Update status of this repository, refreshed by every refresh run (scripts: north-macedonia-refresh).",
+ "as_of": "2026-11-09T23:17:06+00:00",
+ "updates": "idle",
+ "last_published": "2026-11-06T21:26:54Z",
+ "published_last_24h": {
+  "commits": 0
+ },
+ "official_sources": [
+  {
+   "source": "LDBIS, Ministry of Justice (ldbis.pravda.gov.mk)",
+   "state": "available",
+   "last_successful_contact": "2026-11-09"
+  },
+  {
+   "source": "Службен весник (slvesnik.com.mk), as served by LDBIS",
+   "state": "available",
+   "last_successful_contact": "2026-11-09"
+  }
+ ]
+}

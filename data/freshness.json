@@ -1,0 +1,215 @@
+{
+ "note": "Freshness of every act in this repository: when it was last checked against its official source, how, and whether a known change is missing. One row per act in data/freshness/<kind>/<year>.csv (listed in data/freshness/index.json); `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale.",
+ "schema": "mk-freshness/1",
+ "as_of": "2026-11-09",
+ "checked_against_official_source": "2026-11-09",
+ "statuses": {
+  "current": "checked against the official source within its threshold, and no known change is missing",
+  "pending-change": "the official source reports a change (amendment, repeal) this repository does not have as a consolidated text: the act is held as enacted (or as last consolidated) and labelled",
+  "stale": "not checked within its threshold",
+  "unverified": "never checked against the official source for later changes",
+  "source-unavailable": "due for a check, but the official source has not answered the latest checks"
+ },
+ "methods": {
+  "record-links": "the act's LDBIS record (Ministry of Justice, ldbis.pravda.gov.mk) read again: its status, end-of-validity day and linked acts (amendments, consolidated texts, court decisions, repeals), compared with what this repository holds",
+  "gazette-index": "LDBIS read through its newest record for a new constitutional amendment or constitutional law"
+ },
+ "thresholds": {
+  "national": {
+   "days": 7,
+   "kinds": [
+    "ustav",
+    "zakon",
+    "zakon-za-zastita-na-licnite-podatoci",
+    "uredba"
+   ],
+   "label": "Constitution, laws and Government decrees"
+  },
+  "secondary": {
+   "days": 30,
+   "kinds": [
+    "pravilnik",
+    "upatstvo",
+    "naredba",
+    "statut",
+    "delovnik"
+   ],
+   "label": "rulebooks, instructions, orders, statutes and rules of procedure"
+  }
+ },
+ "final": "A repealed act no longer changes: it stays current once checked, with no threshold (its check_due is empty).",
+ "columns": {
+  "act": "the act id (data/paths.json maps it to its folder)",
+  "status": "as of `as_of`",
+  "last_verified": "the day of the last check that confirmed the latest version held here is the newest (UTC)",
+  "check_due": "last_verified plus the threshold: after this day the act is stale unless checked again",
+  "method": "how that check was made (`methods`)",
+  "newest_change": "the newest change the official sources report (an act, by its official title)",
+  "newest_change_date": "its day (its Gazette issue day where known)",
+  "change_in_repo": "yes if this repository has that change applied to the act's text, no if not",
+  "official_url": "the act's page at its official source, to check by hand"
+ },
+ "totals": {
+  "acts": 13464,
+  "by_status": {
+   "current": 11770,
+   "pending-change": 1694,
+   "stale": 0,
+   "unverified": 0,
+   "source-unavailable": 0
+  },
+  "pct_verified_7d": 100.0,
+  "pct_verified_30d": 100.0
+ },
+ "by_group": {
+  "national": {
+   "acts": 5618,
+   "by_status": {
+    "current": 4670,
+    "pending-change": 948,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "secondary": {
+   "acts": 7846,
+   "by_status": {
+    "current": 7100,
+    "pending-change": 746,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  }
+ },
+ "by_kind": {
+  "delovnik": {
+   "acts": 52,
+   "by_status": {
+    "current": 51,
+    "pending-change": 1,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "naredba": {
+   "acts": 81,
+   "by_status": {
+    "current": 74,
+    "pending-change": 7,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "pravilnik": {
+   "acts": 6881,
+   "by_status": {
+    "current": 6191,
+    "pending-change": 690,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "statut": {
+   "acts": 12,
+   "by_status": {
+    "current": 6,
+    "pending-change": 6,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "upatstvo": {
+   "acts": 820,
+   "by_status": {
+    "current": 778,
+    "pending-change": 42,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "uredba": {
+   "acts": 1058,
+   "by_status": {
+    "current": 924,
+    "pending-change": 134,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "ustav": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "zakon": {
+   "acts": 4558,
+   "by_status": {
+    "current": 3744,
+    "pending-change": 814,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  },
+  "zakon-za-zastita-na-licnite-podatoci": {
+   "acts": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   },
+   "pct_verified_7d": 100.0,
+   "pct_verified_30d": 100.0
+  }
+ },
+ "sources": [
+  {
+   "source": "LDBIS, Ministry of Justice (ldbis.pravda.gov.mk)",
+   "url": "https://ldbis.pravda.gov.mk/",
+   "last_successful_check": "2026-11-09",
+   "newest_record_read": 75365
+  },
+  {
+   "source": "Службен весник (slvesnik.com.mk), as served by LDBIS",
+   "url": "https://www.slvesnik.com.mk/",
+   "last_successful_check": "2026-11-09"
+  }
+ ],
+ "index": "data/freshness/index.json",
+ "shards": 251
+}

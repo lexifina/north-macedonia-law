@@ -1,0 +1,36 @@
+{
+"note": "Acts published in the Official Gazette but not yet in force; each is appended on the day it takes effect.",
+"count": 5,
+"acts": [
+{
+"act": "delovnik-2026-sv256-75302",
+"title": "Деловник за изменување и дополнување на Деловникот за работа на Владата на Република Северна Македонија",
+"in_force_from": "2026-11-10",
+"official_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75302"
+},
+{
+"act": "pravilnik-2026-sv256-75314",
+"title": "Правилник за изменување и дополнување на Правилникот за постапување со одземен имот",
+"in_force_from": "2026-11-10",
+"official_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75314"
+},
+{
+"act": "pravilnik-2026-sv256-75315",
+"title": "Правилник за изменување на Правилникот за формата и содржината на образецот на службената легитимација, начинот на нејзиното издавање и одземање на вработените во Агенцијата за управување со одземен имот",
+"in_force_from": "2026-11-10",
+"official_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75315"
+},
+{
+"act": "pravilnik-2026-sv256-75316",
+"title": "Правилник за изменување на Правилникот за начинот на водење евиденција на податоци за одземен имот, конфискуван имот и одземени предмети во Агенцијата за управување со одземен имот",
+"in_force_from": "2026-11-10",
+"official_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75316"
+},
+{
+"act": "zakon-2026-sv257-75320",
+"title": "Закон за изменување и дополнување на Законот за животната средина",
+"in_force_from": "2026-11-10",
+"official_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75320"
+}
+]
+}
