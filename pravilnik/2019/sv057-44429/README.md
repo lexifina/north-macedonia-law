@@ -7,6 +7,7 @@
 | Член 1 | [art-001.md](art-001.md) | 0 |  |
 | Член 2 | [art-002.md](art-002.md) | 0 |  |
 | Вовед | [uvod.md](uvod.md) | 0 |  |
+| Фусноти | [zz-fusnoti.md](zz-fusnoti.md) | 0 |  |
 
 Act id: `pravilnik-2019-sv057-44429` (tags `pravilnik-2019-sv057-44429/<day>`; `python tools/on.py <day> pravilnik-2019-sv057-44429`).
 

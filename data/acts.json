@@ -14044,6 +14044,23 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7177"
 },
 {
+"slug": "zakon-2002-sv043-7185",
+"path": "zakon/2002/sv043-7185",
+"kind": "zakon",
+"year": "2002",
+"number": "sv043-7185",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за попис на населението, домаќинствата и становите во Република Македонија, 2002 година",
+"short": "Закон за изменување и дополнување на Законот за попис на населението, домаќинствата и становите во Република Македонија, 2002 година",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2002-06-26",
+"latest": "2002-06-26",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7185"
+},
+{
 "slug": "zakon-2002-sv043-7187",
 "path": "zakon/2002/sv043-7187",
 "kind": "zakon",
@@ -15742,23 +15759,6 @@
 "from": "2002-02-25",
 "latest": "2002-02-25",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7670"
-},
-{
-"slug": "zakon-2002-sv043-7185",
-"path": "zakon/2002/sv043-7185",
-"kind": "zakon",
-"year": "2002",
-"number": "sv043-7185",
-"withdrawn_by": null,
-"reason": null,
-"title": "Закон за изменување и дополнување на Законот за попис на населението, домаќинствата и становите во Република Македонија, 2002 година",
-"short": "Закон за изменување и дополнување на Законот за попис на населението, домаќинствата и становите во Република Македонија, 2002 година",
-"code": null,
-"status": "amending act",
-"versions": 1,
-"from": "2002-06-26",
-"latest": "2002-06-26",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7185"
 },
 {
 "slug": "zakon-2003-sv005-7947",
@@ -31724,6 +31724,23 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16021"
 },
 {
+"slug": "pravilnik-2008-sv151-16026",
+"path": "pravilnik/2008/sv151-16026",
+"kind": "pravilnik",
+"year": "2008",
+"number": "sv151-16026",
+"withdrawn_by": null,
+"reason": null,
+"title": "Правилник за условите кои треба да ги исполнуваат лабораториите кои вршат испитувања на квалитетот на сировото млеко",
+"short": "Правилник за условите кои треба да ги исполнуваат лабораториите кои вршат испитувања на квалитетот на сировото млеко",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2008-12-04",
+"latest": "2008-12-04",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16026"
+},
+{
 "slug": "pravilnik-2008-sv152-16270",
 "path": "pravilnik/2008/sv152-16270",
 "kind": "pravilnik",
@@ -32436,23 +32453,6 @@
 "from": "2008-11-27",
 "latest": "2014-02-20",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16126"
-},
-{
-"slug": "pravilnik-2008-sv151-16026",
-"path": "pravilnik/2008/sv151-16026",
-"kind": "pravilnik",
-"year": "2008",
-"number": "sv151-16026",
-"withdrawn_by": null,
-"reason": null,
-"title": "Правилник за условите кои треба да ги исполнуваат лабораториите кои вршат испитувања на квалитетот на сировото млеко",
-"short": "Правилник за условите кои треба да ги исполнуваат лабораториите кои вршат испитувања на квалитетот на сировото млеко",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2008-12-04",
-"latest": "2008-12-04",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16026"
 },
 {
 "slug": "pravilnik-2008-sv158-16292",
@@ -36739,6 +36739,23 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17692"
 },
 {
+"slug": "pravilnik-2009-sv095-17573",
+"path": "pravilnik/2009/sv095-17573",
+"kind": "pravilnik",
+"year": "2009",
+"number": "sv095-17573",
+"withdrawn_by": null,
+"reason": null,
+"title": "Правилник за начинот и постапката на вршење на службените контроли на производите од животинско потекло наменети за исхрана на луѓето",
+"short": "Правилник за начинот и постапката на вршење на службените контроли на производите од животинско потекло наменети за исхрана на луѓето",
+"code": null,
+"status": "repealed 2015-09-15",
+"versions": 2,
+"from": "2009-07-30",
+"latest": "2015-09-15",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17573"
+},
+{
 "slug": "pravilnik-2009-sv096-17571",
 "path": "pravilnik/2009/sv096-17571",
 "kind": "pravilnik",
@@ -39270,23 +39287,6 @@
 "from": "2009-12-24",
 "latest": "2018-10-13",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18426"
-},
-{
-"slug": "pravilnik-2009-sv095-17573",
-"path": "pravilnik/2009/sv095-17573",
-"kind": "pravilnik",
-"year": "2009",
-"number": "sv095-17573",
-"withdrawn_by": null,
-"reason": null,
-"title": "Правилник за начинот и постапката на вршење на службените контроли на производите од животинско потекло наменети за исхрана на луѓето",
-"short": "Правилник за начинот и постапката на вршење на службените контроли на производите од животинско потекло наменети за исхрана на луѓето",
-"code": null,
-"status": "repealed 2015-09-15",
-"versions": 2,
-"from": "2009-07-30",
-"latest": "2015-09-15",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17573"
 },
 {
 "slug": "pravilnik-2009-sv102-17660",
@@ -46327,6 +46327,23 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20704"
 },
 {
+"slug": "pravilnik-2010-sv152-20718",
+"path": "pravilnik/2010/sv152-20718",
+"kind": "pravilnik",
+"year": "2010",
+"number": "sv152-20718",
+"withdrawn_by": null,
+"reason": null,
+"title": "Правилник за изградба,одржување и безбедно функционирање на објекти,уреди и инсталации за внатрешни гасни инсталации",
+"short": "Правилник за изградба,одржување и безбедно функционирање на објекти,уреди и инсталации за внатрешни гасни инсталации",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2010-11-25",
+"latest": "2010-11-25",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20718"
+},
+{
 "slug": "pravilnik-2010-sv152-20719",
 "path": "pravilnik/2010/sv152-20719",
 "kind": "pravilnik",
@@ -48535,23 +48552,6 @@
 "from": "2010-10-08",
 "latest": "2010-10-08",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20369"
-},
-{
-"slug": "pravilnik-2010-sv152-20718",
-"path": "pravilnik/2010/sv152-20718",
-"kind": "pravilnik",
-"year": "2010",
-"number": "sv152-20718",
-"withdrawn_by": null,
-"reason": null,
-"title": "Правилник за изградба,одржување и безбедно функционирање на објекти,уреди и инсталации за внатрешни гасни инсталации",
-"short": "Правилник за изградба,одржување и безбедно функционирање на објекти,уреди и инсталации за внатрешни гасни инсталации",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2010-11-25",
-"latest": "2010-11-25",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20718"
 },
 {
 "slug": "zakon-2010-sv006-18624",
@@ -80565,6 +80565,23 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30095"
 },
 {
+"slug": "pravilnik-2013-sv169-30102",
+"path": "pravilnik/2013/sv169-30102",
+"kind": "pravilnik",
+"year": "2013",
+"number": "sv169-30102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Правилник за критериумите, методите и постапките за оценување на квалитетот на амбиентниот воздух*",
+"short": "Правилник за критериумите, методите и постапките за оценување на квалитетот на амбиентниот воздух*",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-12-06",
+"latest": "2013-12-06",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30102"
+},
+{
 "slug": "pravilnik-2013-sv169-30106",
 "path": "pravilnik/2013/sv169-30106",
 "kind": "pravilnik",
@@ -85544,23 +85561,6 @@
 "from": "2013-11-12",
 "latest": "2013-11-12",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29762"
-},
-{
-"slug": "pravilnik-2013-sv169-30102",
-"path": "pravilnik/2013/sv169-30102",
-"kind": "pravilnik",
-"year": "2013",
-"number": "sv169-30102",
-"withdrawn_by": null,
-"reason": null,
-"title": "Правилник за критериумите, методите и постапките за оценување на квалитетот на амбиентниот воздух*",
-"short": "Правилник за критериумите, методите и постапките за оценување на квалитетот на амбиентниот воздух*",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2013-12-06",
-"latest": "2013-12-06",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30102"
 },
 {
 "slug": "pravilnik-2013-sv185-30349",
@@ -93876,6 +93876,23 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33151"
 },
 {
+"slug": "pravilnik-2014-sv116-33170",
+"path": "pravilnik/2014/sv116-33170",
+"kind": "pravilnik",
+"year": "2014",
+"number": "sv116-33170",
+"withdrawn_by": null,
+"reason": null,
+"title": "Правилник за изменување на Правилникот за постапката за добивање А - интегрирана еколошка дозвола (*)",
+"short": "Правилник за изменување на Правилникот за постапката за добивање А - интегрирана еколошка дозвола (*)",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2014-08-12",
+"latest": "2014-08-12",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33170"
+},
+{
 "slug": "pravilnik-2014-sv117-33165",
 "path": "pravilnik/2014/sv117-33165",
 "kind": "pravilnik",
@@ -94860,6 +94877,40 @@
 "from": "2014-10-11",
 "latest": "2014-10-11",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33875"
+},
+{
+"slug": "pravilnik-2014-sv145-33892",
+"path": "pravilnik/2014/sv145-33892",
+"kind": "pravilnik",
+"year": "2014",
+"number": "sv145-33892",
+"withdrawn_by": null,
+"reason": null,
+"title": "Правилник за изменување на Правилникот за посебните барања кои се однесуваат за микробиолошките критериуми на храната (*)",
+"short": "Правилник за изменување на Правилникот за посебните барања кои се однесуваат за микробиолошките критериуми на храната (*)",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2014-10-04",
+"latest": "2014-10-04",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33892"
+},
+{
+"slug": "pravilnik-2014-sv145-33894",
+"path": "pravilnik/2014/sv145-33894",
+"kind": "pravilnik",
+"year": "2014",
+"number": "sv145-33894",
+"withdrawn_by": null,
+"reason": null,
+"title": "Правилник за изменување на Правилникот за посебните барања за безбедност и хигиена и начинот и постапката на вршење на службените контроли на млекото и млечните производи(*)",
+"short": "Правилник за изменување на Правилникот за посебните барања за безбедност и хигиена и начинот и постапката на вршење на службените контроли на млекото и млечните производи(*)",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2014-10-04",
+"latest": "2014-10-04",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33894"
 },
 {
 "slug": "pravilnik-2014-sv147-33942",
@@ -95897,6 +95948,23 @@
 "from": "2014-12-13",
 "latest": "2014-12-13",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34763"
+},
+{
+"slug": "pravilnik-2014-sv183-34766",
+"path": "pravilnik/2014/sv183-34766",
+"kind": "pravilnik",
+"year": "2014",
+"number": "sv183-34766",
+"withdrawn_by": null,
+"reason": null,
+"title": "Правилник за постапката и методологијата за оценувањето на предлог - проекти",
+"short": "Правилник за постапката и методологијата за оценувањето на предлог - проекти",
+"code": null,
+"status": "repealed 2020-02-20",
+"versions": 2,
+"from": "2014-12-13",
+"latest": "2020-02-20",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34766"
 },
 {
 "slug": "pravilnik-2014-sv183-34768",
@@ -101033,57 +101101,6 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32908"
 },
 {
-"slug": "pravilnik-2014-sv116-33170",
-"path": "pravilnik/2014/sv116-33170",
-"kind": "pravilnik",
-"year": "2014",
-"number": "sv116-33170",
-"withdrawn_by": null,
-"reason": null,
-"title": "Правилник за изменување на Правилникот за постапката за добивање А - интегрирана еколошка дозвола (*)",
-"short": "Правилник за изменување на Правилникот за постапката за добивање А - интегрирана еколошка дозвола (*)",
-"code": null,
-"status": "amending act",
-"versions": 1,
-"from": "2014-08-12",
-"latest": "2014-08-12",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33170"
-},
-{
-"slug": "pravilnik-2014-sv145-33892",
-"path": "pravilnik/2014/sv145-33892",
-"kind": "pravilnik",
-"year": "2014",
-"number": "sv145-33892",
-"withdrawn_by": null,
-"reason": null,
-"title": "Правилник за изменување на Правилникот за посебните барања кои се однесуваат за микробиолошките критериуми на храната (*)",
-"short": "Правилник за изменување на Правилникот за посебните барања кои се однесуваат за микробиолошките критериуми на храната (*)",
-"code": null,
-"status": "amending act",
-"versions": 1,
-"from": "2014-10-04",
-"latest": "2014-10-04",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33892"
-},
-{
-"slug": "pravilnik-2014-sv145-33894",
-"path": "pravilnik/2014/sv145-33894",
-"kind": "pravilnik",
-"year": "2014",
-"number": "sv145-33894",
-"withdrawn_by": null,
-"reason": null,
-"title": "Правилник за изменување на Правилникот за посебните барања за безбедност и хигиена и начинот и постапката на вршење на службените контроли на млекото и млечните производи(*)",
-"short": "Правилник за изменување на Правилникот за посебните барања за безбедност и хигиена и начинот и постапката на вршење на службените контроли на млекото и млечните производи(*)",
-"code": null,
-"status": "amending act",
-"versions": 1,
-"from": "2014-10-04",
-"latest": "2014-10-04",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33894"
-},
-{
 "slug": "pravilnik-2014-sv147-33947",
 "path": "pravilnik/2014/sv147-33947",
 "kind": "pravilnik",
@@ -101116,23 +101133,6 @@
 "from": "2014-10-11",
 "latest": "2014-10-11",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33957"
-},
-{
-"slug": "pravilnik-2014-sv183-34766",
-"path": "pravilnik/2014/sv183-34766",
-"kind": "pravilnik",
-"year": "2014",
-"number": "sv183-34766",
-"withdrawn_by": null,
-"reason": null,
-"title": "Правилник за постапката и методологијата за оценувањето на предлог - проекти",
-"short": "Правилник за постапката и методологијата за оценувањето на предлог - проекти",
-"code": null,
-"status": "repealed 2020-02-20",
-"versions": 2,
-"from": "2014-12-13",
-"latest": "2020-02-20",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34766"
 },
 {
 "slug": "pravilnik-2014-sv190-34864",
@@ -132891,6 +132891,23 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47541"
 },
 {
+"slug": "pravilnik-2018-sv102-47543",
+"path": "pravilnik/2018/sv102-47543",
+"kind": "pravilnik",
+"year": "2018",
+"number": "sv102-47543",
+"withdrawn_by": null,
+"reason": null,
+"title": "Правилник за поблиските услови за стандардите во поглед на потребен простор, опрема и стручен кадар, нивото на стручната поддршка, начинот и програмата за остварување на стручната поддршка, како и нивото на финансиската поддршка по корисник за самостојно и организирано живеење во посебна станбена единица",
+"short": "Правилник за поблиските услови за стандардите во поглед на потребен простор, опрема и стручен кадар, нивото на стручната поддршка, начинот и програмата за остварување на стручната поддршка, како и нивото на финансиската поддршка по корисник за самостојно и организирано живеење во посебна станбена единица",
+"code": null,
+"status": "repealed 2019-12-21",
+"versions": 2,
+"from": "2018-06-02",
+"latest": "2019-12-21",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47543"
+},
+{
 "slug": "pravilnik-2018-sv106-47591",
 "path": "pravilnik/2018/sv106-47591",
 "kind": "pravilnik",
@@ -134827,23 +134844,6 @@
 "from": "2018-03-28",
 "latest": "2018-03-28",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47079"
-},
-{
-"slug": "pravilnik-2018-sv102-47543",
-"path": "pravilnik/2018/sv102-47543",
-"kind": "pravilnik",
-"year": "2018",
-"number": "sv102-47543",
-"withdrawn_by": null,
-"reason": null,
-"title": "Правилник за поблиските услови за стандардите во поглед на потребен простор, опрема и стручен кадар, нивото на стручната поддршка, начинот и програмата за остварување на стручната поддршка, како и нивото на финансиската поддршка по корисник за самостојно и организирано живеење во посебна станбена единица",
-"short": "Правилник за поблиските услови за стандардите во поглед на потребен простор, опрема и стручен кадар, нивото на стручната поддршка, начинот и програмата за остварување на стручната поддршка, како и нивото на финансиската поддршка по корисник за самостојно и организирано живеење во посебна станбена единица",
-"code": null,
-"status": "repealed 2019-12-21",
-"versions": 2,
-"from": "2018-06-02",
-"latest": "2019-12-21",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47543"
 },
 {
 "slug": "pravilnik-2018-sv162-47855",
@@ -137564,6 +137564,23 @@
 "from": "2019-03-19",
 "latest": "2019-03-19",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44428"
+},
+{
+"slug": "pravilnik-2019-sv057-44429",
+"path": "pravilnik/2019/sv057-44429",
+"kind": "pravilnik",
+"year": "2019",
+"number": "sv057-44429",
+"withdrawn_by": null,
+"reason": null,
+"title": "Правилник за изменување на Правилникот за формата и содржината на фитосанитарниот сертификат или фитосанитарниот сертификат за реекспорт и формата и содржината на пријавата за издавање на фитосанитарен сертификат",
+"short": "Правилник за изменување на Правилникот за формата и содржината на фитосанитарниот сертификат или фитосанитарниот сертификат за реекспорт и формата и содржината на пријавата за издавање на фитосанитарен сертификат",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2019-03-19",
+"latest": "2019-03-19",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44429"
 },
 {
 "slug": "pravilnik-2019-sv057-44430",
@@ -143650,23 +143667,6 @@
 "from": "2019-12-26",
 "latest": "2019-12-26",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51194"
-},
-{
-"slug": "pravilnik-2019-sv057-44429",
-"path": "pravilnik/2019/sv057-44429",
-"kind": "pravilnik",
-"year": "2019",
-"number": "sv057-44429",
-"withdrawn_by": null,
-"reason": null,
-"title": "Правилник за изменување на Правилникот за формата и содржината на фитосанитарниот сертификат или фитосанитарниот сертификат за реекспорт и формата и содржината на пријавата за издавање на фитосанитарен сертификат",
-"short": "Правилник за изменување на Правилникот за формата и содржината на фитосанитарниот сертификат или фитосанитарниот сертификат за реекспорт и формата и содржината на пријавата за издавање на фитосанитарен сертификат",
-"code": null,
-"status": "amending act",
-"versions": 1,
-"from": "2019-03-19",
-"latest": "2019-03-19",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44429"
 },
 {
 "slug": "pravilnik-2019-sv199-50582",
@@ -159615,6 +159615,23 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57936"
 },
 {
+"slug": "uredba-2021-sv264-58039",
+"path": "uredba/2021/sv264-58039",
+"kind": "uredba",
+"year": "2021",
+"number": "sv264-58039",
+"withdrawn_by": null,
+"reason": null,
+"title": "Уредба за за посебните услови, начинот и постапката за добивање одобрение за летање на цивилни и државни воздухоплови",
+"short": "Уредба за за посебните услови, начинот и постапката за добивање одобрение за летање на цивилни и државни воздухоплови",
+"code": null,
+"status": "repealed 2025-05-20",
+"versions": 2,
+"from": "2021-11-30",
+"latest": "2025-05-20",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58039"
+},
+{
 "slug": "uredba-2021-sv281-58221",
 "path": "uredba/2021/sv281-58221",
 "kind": "uredba",
@@ -159732,23 +159749,6 @@
 "from": "2021-04-14",
 "latest": "2021-04-14",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55729"
-},
-{
-"slug": "uredba-2021-sv264-58039",
-"path": "uredba/2021/sv264-58039",
-"kind": "uredba",
-"year": "2021",
-"number": "sv264-58039",
-"withdrawn_by": null,
-"reason": null,
-"title": "Уредба за за посебните услови, начинот и постапката за добивање одобрение за летање на цивилни и државни воздухоплови",
-"short": "Уредба за за посебните услови, начинот и постапката за добивање одобрение за летање на цивилни и државни воздухоплови",
-"code": null,
-"status": "repealed 2025-05-20",
-"versions": 2,
-"from": "2021-11-30",
-"latest": "2025-05-20",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58039"
 },
 {
 "slug": "uredba-2021-sv281-58222",
@@ -182854,6 +182854,23 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71934"
 },
 {
+"slug": "pravilnik-2025-sv221-71935",
+"path": "pravilnik/2025/sv221-71935",
+"kind": "pravilnik",
+"year": "2025",
+"number": "sv221-71935",
+"withdrawn_by": null,
+"reason": null,
+"title": "Правилник за дополнување на Правилникот за технички преглед на возила",
+"short": "Правилник за дополнување на Правилникот за технички преглед на возила",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71935"
+},
+{
 "slug": "pravilnik-2025-sv221-71936",
 "path": "pravilnik/2025/sv221-71936",
 "kind": "pravilnik",
@@ -183141,6 +183158,23 @@
 "from": "2025-11-21",
 "latest": "2025-11-21",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72107"
+},
+{
+"slug": "pravilnik-2025-sv237-72124",
+"path": "pravilnik/2025/sv237-72124",
+"kind": "pravilnik",
+"year": "2025",
+"number": "sv237-72124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Правилник за формата и содржината на потврдата дека правен субјект е со статус на стратешки партнер",
+"short": "Правилник за формата и содржината на потврдата дека правен субјект е со статус на стратешки партнер",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-11-25",
+"latest": "2025-11-25",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72124"
 },
 {
 "slug": "pravilnik-2025-sv238-72137",
@@ -184673,6 +184707,23 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72322"
 },
 {
+"slug": "uredba-2025-sv254-72382",
+"path": "uredba/2025/sv254-72382",
+"kind": "uredba",
+"year": "2025",
+"number": "sv254-72382",
+"withdrawn_by": null,
+"reason": null,
+"title": "Уредба за изменување на Уредбата за класификација на површинските води",
+"short": "Уредба за изменување на Уредбата за класификација на површинските води",
+"code": null,
+"status": "amending act",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72382"
+},
+{
 "slug": "uredba-2025-sv263-72501",
 "path": "uredba/2025/sv263-72501",
 "kind": "uredba",
@@ -184758,40 +184809,6 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69939"
 },
 {
-"slug": "pravilnik-2025-sv221-71935",
-"path": "pravilnik/2025/sv221-71935",
-"kind": "pravilnik",
-"year": "2025",
-"number": "sv221-71935",
-"withdrawn_by": null,
-"reason": null,
-"title": "Правилник за дополнување на Правилникот за технички преглед на возила",
-"short": "Правилник за дополнување на Правилникот за технички преглед на возила",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2025-10-30",
-"latest": "2025-10-30",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71935"
-},
-{
-"slug": "pravilnik-2025-sv237-72124",
-"path": "pravilnik/2025/sv237-72124",
-"kind": "pravilnik",
-"year": "2025",
-"number": "sv237-72124",
-"withdrawn_by": null,
-"reason": null,
-"title": "Правилник за формата и содржината на потврдата дека правен субјект е со статус на стратешки партнер",
-"short": "Правилник за формата и содржината на потврдата дека правен субјект е со статус на стратешки партнер",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2025-11-25",
-"latest": "2025-11-25",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72124"
-},
-{
 "slug": "pravilnik-2025-sv252-72376",
 "path": "pravilnik/2025/sv252-72376",
 "kind": "pravilnik",
@@ -184841,23 +184858,6 @@
 "from": "2025-08-12",
 "latest": "2025-08-12",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71264"
-},
-{
-"slug": "uredba-2025-sv254-72382",
-"path": "uredba/2025/sv254-72382",
-"kind": "uredba",
-"year": "2025",
-"number": "sv254-72382",
-"withdrawn_by": null,
-"reason": null,
-"title": "Уредба за изменување на Уредбата за класификација на површинските води",
-"short": "Уредба за изменување на Уредбата за класификација на површинските води",
-"code": null,
-"status": "amending act",
-"versions": 1,
-"from": "2025-12-18",
-"latest": "2025-12-18",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72382"
 },
 {
 "slug": "zakon-2025-sv003-68937",
@@ -189569,6 +189569,23 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74789"
 },
 {
+"slug": "pravilnik-2026-sv207-74798",
+"path": "pravilnik/2026/sv207-74798",
+"kind": "pravilnik",
+"year": "2026",
+"number": "sv207-74798",
+"withdrawn_by": null,
+"reason": null,
+"title": "Правилник за обезбедување на услугите опфатени со универзална услуга",
+"short": "Правилник за обезбедување на услугите опфатени со универзална услуга",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-09-05",
+"latest": "2026-09-05",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74798"
+},
+{
 "slug": "pravilnik-2026-sv208-74813",
 "path": "pravilnik/2026/sv208-74813",
 "kind": "pravilnik",
@@ -190434,23 +190451,6 @@
 "from": "2026-11-03",
 "latest": "2026-11-03",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75301"
-},
-{
-"slug": "pravilnik-2026-sv207-74798",
-"path": "pravilnik/2026/sv207-74798",
-"kind": "pravilnik",
-"year": "2026",
-"number": "sv207-74798",
-"withdrawn_by": null,
-"reason": null,
-"title": "Правилник за обезбедување на услугите опфатени со универзална услуга",
-"short": "Правилник за обезбедување на услугите опфатени со универзална услуга",
-"code": null,
-"status": "in force",
-"versions": 1,
-"from": "2026-09-05",
-"latest": "2026-09-05",
-"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74798"
 },
 {
 "slug": "pravilnik-2026-sv223-74965",

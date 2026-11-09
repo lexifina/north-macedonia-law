@@ -6038,6 +6038,21 @@
    ]
   },
   {
+   "slug": "zakon-2002-sv043-7185",
+   "path": "zakon/2002/sv043-7185",
+   "short": "Закон за изменување и дополнување на Законот за попис на населението, домаќинствата и становите во Република Македонија, 2002 година",
+   "title": "Закон за изменување и дополнување на Законот за попис на населението, домаќинствата и становите во Република Македонија, 2002 година",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7185",
+   "versions": [
+    {
+     "from": "2002-06-26",
+     "units": 25,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7185",
+     "sha256": "00aad9cc039a6fb861bc5781d96ffd4ae92b8c36e2585939a612045a65960304"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2002-sv043-7187",
    "path": "zakon/2002/sv043-7187",
    "short": "Закон за изменување на Законот за Фондот за осигурување на депозити",
@@ -74867,6 +74882,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2008-sv151-16026",
+   "path": "pravilnik/2008/sv151-16026",
+   "short": "Правилник за условите кои треба да ги исполнуваат лабораториите кои вршат испитувања на квалитетот на сировото млеко",
+   "title": "Правилник за условите кои треба да ги исполнуваат лабораториите кои вршат испитувања на квалитетот на сировото млеко",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16026",
+   "versions": [
+    {
+     "from": "2008-12-04",
+     "units": 17,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16026",
+     "sha256": "f9d98a6b4edc685440659340317036167afb2e9eef050617896c5576263b2c95"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2008-sv152-16270",
    "path": "pravilnik/2008/sv152-16270",
    "short": "Правилник за формата и содржината на образецот на пријавата за запишување, пререгистрација и бришење од регистарот",
@@ -77911,6 +77941,27 @@
      "units": 5,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17692",
      "sha256": "b87a55351b7a53408ba0af0fbc36f3fa0154e667246c51a4f5cf310068b6c901"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2009-sv095-17573",
+   "path": "pravilnik/2009/sv095-17573",
+   "short": "Правилник за начинот и постапката на вршење на службените контроли на производите од животинско потекло наменети за исхрана на луѓето",
+   "title": "Правилник за начинот и постапката на вршење на службените контроли на производите од животинско потекло наменети за исхрана на луѓето",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17573",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 76,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17573",
+     "sha256": "6ac7623ea1aa2cb12832e3ae0bf9ebebdd4e0d3cd6123e365c68b229bb96063f"
+    },
+    {
+     "from": "2015-09-15",
+     "units": 0,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17573",
+     "sha256": null
     }
    ]
   },
@@ -84376,6 +84427,21 @@
      "units": 0,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22444",
      "sha256": "c74acb628e561d514b301b1d3793344ff4b761dda5e4e2c93e5a892b1fe8309b"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2010-sv152-20718",
+   "path": "pravilnik/2010/sv152-20718",
+   "short": "Правилник за изградба,одржување и безбедно функционирање на објекти,уреди и инсталации за внатрешни гасни инсталации",
+   "title": "Правилник за изградба,одржување и безбедно функционирање на објекти,уреди и инсталации за внатрешни гасни инсталации",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20718",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 185,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20718",
+     "sha256": "5f1cbdd0cd669e0a14dc67a76a44ffe593391cd47f3c40a47a85597de3e7fd63"
     }
    ]
   },
@@ -104105,6 +104171,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2013-sv169-30102",
+   "path": "pravilnik/2013/sv169-30102",
+   "short": "Правилник за критериумите, методите и постапките за оценување на квалитетот на амбиентниот воздух*",
+   "title": "Правилник за критериумите, методите и постапките за оценување на квалитетот на амбиентниот воздух*",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30102",
+   "versions": [
+    {
+     "from": "2013-12-06",
+     "units": 21,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30102",
+     "sha256": "4308424cdbda6e51339a4300836236e9f089702057c4006be4364cfb5d3c61c9"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2013-sv169-30106",
    "path": "pravilnik/2013/sv169-30106",
    "short": "Правилник за видот на студентските стипендии и начинот на доделување на студентските стипендии на студентите кои студираат во Република Македонија",
@@ -108968,6 +109049,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2014-sv116-33170",
+   "path": "pravilnik/2014/sv116-33170",
+   "short": "Правилник за изменување на Правилникот за постапката за добивање А - интегрирана еколошка дозвола (*)",
+   "title": "Правилник за изменување на Правилникот за постапката за добивање А - интегрирана еколошка дозвола (*)",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33170",
+   "versions": [
+    {
+     "from": "2014-08-12",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33170",
+     "sha256": "8bc0d2c0834e17ea167f7f743ecd75b7c2ab9c0324adbe5721c4abef1df5425f"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2014-sv117-33165",
    "path": "pravilnik/2014/sv117-33165",
    "short": "Правилник за изменување и дополнување на Правилникот за начинот на вршење на полициските работи",
@@ -109954,6 +110050,36 @@
      "units": 12,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33875",
      "sha256": "be7777a033448474a10609a7e2071eb15424d2591aae38bf7d5a5766be05b0e9"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-sv145-33892",
+   "path": "pravilnik/2014/sv145-33892",
+   "short": "Правилник за изменување на Правилникот за посебните барања кои се однесуваат за микробиолошките критериуми на храната (*)",
+   "title": "Правилник за изменување на Правилникот за посебните барања кои се однесуваат за микробиолошките критериуми на храната (*)",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33892",
+   "versions": [
+    {
+     "from": "2014-10-04",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33892",
+     "sha256": "6c538c0362869113968229d1ee529ad46025a19bbb9c1d9812b93150ea3aa600"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-sv145-33894",
+   "path": "pravilnik/2014/sv145-33894",
+   "short": "Правилник за изменување на Правилникот за посебните барања за безбедност и хигиена и начинот и постапката на вршење на службените контроли на млекото и млечните производи(*)",
+   "title": "Правилник за изменување на Правилникот за посебните барања за безбедност и хигиена и начинот и постапката на вршење на службените контроли на млекото и млечните производи(*)",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33894",
+   "versions": [
+    {
+     "from": "2014-10-04",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33894",
+     "sha256": "63fa554c47cf90d97f7e70bba5f33810716d1b64dd12d6da28d120aa17384473"
     }
    ]
   },
@@ -110983,6 +111109,27 @@
      "units": 5,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34763",
      "sha256": "da557ce019948b268adb75bd5689638f30502b31a0dda0b53d3280f2ec0f2e00"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2014-sv183-34766",
+   "path": "pravilnik/2014/sv183-34766",
+   "short": "Правилник за постапката и методологијата за оценувањето на предлог - проекти",
+   "title": "Правилник за постапката и методологијата за оценувањето на предлог - проекти",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34766",
+   "versions": [
+    {
+     "from": "2014-12-13",
+     "units": 60,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34766",
+     "sha256": "d2887ded0412d9b08cbb89611c3b72f0a67e624e453e3c77e2b65df52fa2bfd0"
+    },
+    {
+     "from": "2020-02-20",
+     "units": 0,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52162",
+     "sha256": "759e7d04ae531c226797c912e91d1d98c101f0ba9fca73e46fe3a8386d1cc55b"
     }
    ]
   },
@@ -126131,6 +126278,27 @@
    ]
   },
   {
+   "slug": "pravilnik-2018-sv102-47543",
+   "path": "pravilnik/2018/sv102-47543",
+   "short": "Правилник за поблиските услови за стандардите во поглед на потребен простор, опрема и стручен кадар, нивото на стручната поддршка, начинот и програмата за остварување на стручната поддршка, како и нивото на финансиската поддршка по корисник за самостојно и организирано живеење во посебна станбена единица",
+   "title": "Правилник за поблиските услови за стандардите во поглед на потребен простор, опрема и стручен кадар, нивото на стручната поддршка, начинот и програмата за остварување на стручната поддршка, како и нивото на финансиската поддршка по корисник за самостојно и организирано живеење во посебна станбена единица",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47543",
+   "versions": [
+    {
+     "from": "2018-06-02",
+     "units": 25,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47543",
+     "sha256": "6b1d0b07440e5b2b6488e29e9a7ef74efccc1b5c74f78e3f206efd4a7084f42e"
+    },
+    {
+     "from": "2019-12-21",
+     "units": 0,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51258",
+     "sha256": "b0c0f04caf016807f7851767c69d9e113636c82c1c2b1f8fd12e1388cc43e26e"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2018-sv106-47591",
    "path": "pravilnik/2018/sv106-47591",
    "short": "Правилник за формата и содржината на барањето за исплата на финансиската поддршка и потребната документација",
@@ -128098,6 +128266,21 @@
      "units": 6,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44428",
      "sha256": "2386b39cbbc92dfc4119d7af23671b2c43919ead0418fbdcdba5d719bab84103"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2019-sv057-44429",
+   "path": "pravilnik/2019/sv057-44429",
+   "short": "Правилник за изменување на Правилникот за формата и содржината на фитосанитарниот сертификат или фитосанитарниот сертификат за реекспорт и формата и содржината на пријавата за издавање на фитосанитарен сертификат",
+   "title": "Правилник за изменување на Правилникот за формата и содржината на фитосанитарниот сертификат или фитосанитарниот сертификат за реекспорт и формата и содржината на пријавата за издавање на фитосанитарен сертификат",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44429",
+   "versions": [
+    {
+     "from": "2019-03-19",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44429",
+     "sha256": "ecfac17f3fb06ce9d52db3ac2da8c6c3a1d634055f76e0168f26f0bf3587f481"
     }
    ]
   },
@@ -151277,6 +151460,21 @@
    ]
   },
   {
+   "slug": "pravilnik-2025-sv221-71935",
+   "path": "pravilnik/2025/sv221-71935",
+   "short": "Правилник за дополнување на Правилникот за технички преглед на возила",
+   "title": "Правилник за дополнување на Правилникот за технички преглед на возила",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71935",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71935",
+     "sha256": "1c40a95c8450084836ea283e6dd02b05144f132001dc9de3ebe3e20e86c7a17c"
+    }
+   ]
+  },
+  {
    "slug": "pravilnik-2025-sv221-71936",
    "path": "pravilnik/2025/sv221-71936",
    "short": "Правилник за изменување и дополнување на Правилникот за формата, содржината и начинот на водење на педагошката документација и евиденција во основното училиште",
@@ -151534,6 +151732,21 @@
      "units": 17,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72107",
      "sha256": "1bf02657641e261ccba20af5d6297c94c5d7d31290a57caee35f7710523fed02"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2025-sv237-72124",
+   "path": "pravilnik/2025/sv237-72124",
+   "short": "Правилник за формата и содржината на потврдата дека правен субјект е со статус на стратешки партнер",
+   "title": "Правилник за формата и содржината на потврдата дека правен субјект е со статус на стратешки партнер",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72124",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72124",
+     "sha256": "028e5344862c458f7e48fd67c4bcdc6fb496274d99c8de4a81f87c8539c346e7"
     }
    ]
   },
@@ -154186,6 +154399,21 @@
      "units": 8,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74789",
      "sha256": "c0a54f63ecf538eb616ff36576fd587b48773f6a1fc752e34f06d78b688512e4"
+    }
+   ]
+  },
+  {
+   "slug": "pravilnik-2026-sv207-74798",
+   "path": "pravilnik/2026/sv207-74798",
+   "short": "Правилник за обезбедување на услугите опфатени со универзална услуга",
+   "title": "Правилник за обезбедување на услугите опфатени со универзална услуга",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74798",
+   "versions": [
+    {
+     "from": "2026-09-05",
+     "units": 49,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74798",
+     "sha256": "ec51a5d8733220eee0d8366e728a029549b325e5737297bc91edef213ff85bc1"
     }
    ]
   },
@@ -178718,6 +178946,27 @@
    ]
   },
   {
+   "slug": "uredba-2021-sv264-58039",
+   "path": "uredba/2021/sv264-58039",
+   "short": "Уредба за за посебните услови, начинот и постапката за добивање одобрение за летање на цивилни и државни воздухоплови",
+   "title": "Уредба за за посебните услови, начинот и постапката за добивање одобрение за летање на цивилни и државни воздухоплови",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58039",
+   "versions": [
+    {
+     "from": "2021-11-30",
+     "units": 42,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58039",
+     "sha256": "29e5946c0b61159a1b9d663216961fe6481b2f939261bd71dccc2268d357fda4"
+    },
+    {
+     "from": "2025-05-20",
+     "units": 0,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70352",
+     "sha256": "48f351e97c30f663784b74fb4e84a5f49603a88ace61584fecaaecaddb6464c6"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2021-sv281-58221",
    "path": "uredba/2021/sv281-58221",
    "short": "Уредба за начинот на давање на услугите на воздухопловна навигација како и посебните услови во однос на потребниот персонал, опремата и другите посебни услови неопходни за безбедно и уредно работење",
@@ -180743,6 +180992,21 @@
    ]
   },
   {
+   "slug": "uredba-2025-sv254-72382",
+   "path": "uredba/2025/sv254-72382",
+   "short": "Уредба за изменување на Уредбата за класификација на површинските води",
+   "title": "Уредба за изменување на Уредбата за класификација на површинските води",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72382",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72382",
+     "sha256": "0ccacb4baf5be11509b250aa2272b24bec4851a9d81b7d1a2fbcf98bca5bae78"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2025-sv263-72501",
    "path": "uredba/2025/sv263-72501",
    "short": "Уредба за методологија за распределба на наменски дотации за плати и додатоци на плати за вработените во територијалните противпожарни единици за 2026 година",
@@ -181868,21 +182132,6 @@
    ]
   },
   {
-   "slug": "pravilnik-2008-sv151-16026",
-   "path": "pravilnik/2008/sv151-16026",
-   "short": "Правилник за условите кои треба да ги исполнуваат лабораториите кои вршат испитувања на квалитетот на сировото млеко",
-   "title": "Правилник за условите кои треба да ги исполнуваат лабораториите кои вршат испитувања на квалитетот на сировото млеко",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16026",
-   "versions": [
-    {
-     "from": "2008-12-04",
-     "units": 16,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16026",
-     "sha256": "f9d98a6b4edc685440659340317036167afb2e9eef050617896c5576263b2c95"
-    }
-   ]
-  },
-  {
    "slug": "pravilnik-2008-sv158-16292",
    "path": "pravilnik/2008/sv158-16292",
    "short": "Правилник за начинот и контролните постапки при употреба на тахографот и контролниот уред (еуротахограф) во сообраќајот на патиштата",
@@ -181894,27 +182143,6 @@
      "units": 13,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16292",
      "sha256": "786a2aac4f474590468311fd3adfb64ce4546a75fbc47284386ae8d909adea0b"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2009-sv095-17573",
-   "path": "pravilnik/2009/sv095-17573",
-   "short": "Правилник за начинот и постапката на вршење на службените контроли на производите од животинско потекло наменети за исхрана на луѓето",
-   "title": "Правилник за начинот и постапката на вршење на службените контроли на производите од животинско потекло наменети за исхрана на луѓето",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17573",
-   "versions": [
-    {
-     "from": "2009-07-30",
-     "units": 75,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17573",
-     "sha256": "6ac7623ea1aa2cb12832e3ae0bf9ebebdd4e0d3cd6123e365c68b229bb96063f"
-    },
-    {
-     "from": "2015-09-15",
-     "units": 0,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17573",
-     "sha256": null
     }
    ]
   },
@@ -181987,21 +182215,6 @@
      "units": 30,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20369",
      "sha256": "ddc6b0dd4439f60aba8b3d4c5c17f46018e0349eb2dd2bbe48b1d97b7e9a620a"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2010-sv152-20718",
-   "path": "pravilnik/2010/sv152-20718",
-   "short": "Правилник за изградба,одржување и безбедно функционирање на објекти,уреди и инсталации за внатрешни гасни инсталации",
-   "title": "Правилник за изградба,одржување и безбедно функционирање на објекти,уреди и инсталации за внатрешни гасни инсталации",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20718",
-   "versions": [
-    {
-     "from": "2010-11-25",
-     "units": 185,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20718",
-     "sha256": "5f1cbdd0cd669e0a14dc67a76a44ffe593391cd47f3c40a47a85597de3e7fd63"
     }
    ]
   },
@@ -182236,21 +182449,6 @@
      "units": 120,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29762",
      "sha256": "83c61b04fe6213b485d9535d4fede0066f25111fb89057205888d71c5db04035"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2013-sv169-30102",
-   "path": "pravilnik/2013/sv169-30102",
-   "short": "Правилник за критериумите, методите и постапките за оценување на квалитетот на амбиентниот воздух*",
-   "title": "Правилник за критериумите, методите и постапките за оценување на квалитетот на амбиентниот воздух*",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30102",
-   "versions": [
-    {
-     "from": "2013-12-06",
-     "units": 21,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30102",
-     "sha256": "4308424cdbda6e51339a4300836236e9f089702057c4006be4364cfb5d3c61c9"
     }
    ]
   },
@@ -182507,51 +182705,6 @@
    ]
   },
   {
-   "slug": "pravilnik-2014-sv116-33170",
-   "path": "pravilnik/2014/sv116-33170",
-   "short": "Правилник за изменување на Правилникот за постапката за добивање А - интегрирана еколошка дозвола (*)",
-   "title": "Правилник за изменување на Правилникот за постапката за добивање А - интегрирана еколошка дозвола (*)",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33170",
-   "versions": [
-    {
-     "from": "2014-08-12",
-     "units": 3,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33170",
-     "sha256": "8bc0d2c0834e17ea167f7f743ecd75b7c2ab9c0324adbe5721c4abef1df5425f"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2014-sv145-33892",
-   "path": "pravilnik/2014/sv145-33892",
-   "short": "Правилник за изменување на Правилникот за посебните барања кои се однесуваат за микробиолошките критериуми на храната (*)",
-   "title": "Правилник за изменување на Правилникот за посебните барања кои се однесуваат за микробиолошките критериуми на храната (*)",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33892",
-   "versions": [
-    {
-     "from": "2014-10-04",
-     "units": 3,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33892",
-     "sha256": "6c538c0362869113968229d1ee529ad46025a19bbb9c1d9812b93150ea3aa600"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2014-sv145-33894",
-   "path": "pravilnik/2014/sv145-33894",
-   "short": "Правилник за изменување на Правилникот за посебните барања за безбедност и хигиена и начинот и постапката на вршење на службените контроли на млекото и млечните производи(*)",
-   "title": "Правилник за изменување на Правилникот за посебните барања за безбедност и хигиена и начинот и постапката на вршење на службените контроли на млекото и млечните производи(*)",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33894",
-   "versions": [
-    {
-     "from": "2014-10-04",
-     "units": 3,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33894",
-     "sha256": "63fa554c47cf90d97f7e70bba5f33810716d1b64dd12d6da28d120aa17384473"
-    }
-   ]
-  },
-  {
    "slug": "pravilnik-2014-sv147-33947",
    "path": "pravilnik/2014/sv147-33947",
    "short": "Правилник за посебните барања за безбедност на производите и материјалите што доаѓаат во контакт со храната направени од филм од регенерирана целулоза(*)",
@@ -182578,27 +182731,6 @@
      "units": 9,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33957",
      "sha256": "e365b3dab0128e8502e9c89717a08c7d9675c24731cbdb8d32c6a28cfd2fae18"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2014-sv183-34766",
-   "path": "pravilnik/2014/sv183-34766",
-   "short": "Правилник за постапката и методологијата за оценувањето на предлог - проекти",
-   "title": "Правилник за постапката и методологијата за оценувањето на предлог - проекти",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34766",
-   "versions": [
-    {
-     "from": "2014-12-13",
-     "units": 60,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34766",
-     "sha256": "d2887ded0412d9b08cbb89611c3b72f0a67e624e453e3c77e2b65df52fa2bfd0"
-    },
-    {
-     "from": "2020-02-20",
-     "units": 0,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52162",
-     "sha256": "759e7d04ae531c226797c912e91d1d98c101f0ba9fca73e46fe3a8386d1cc55b"
     }
    ]
   },
@@ -182684,27 +182816,6 @@
    ]
   },
   {
-   "slug": "pravilnik-2018-sv102-47543",
-   "path": "pravilnik/2018/sv102-47543",
-   "short": "Правилник за поблиските услови за стандардите во поглед на потребен простор, опрема и стручен кадар, нивото на стручната поддршка, начинот и програмата за остварување на стручната поддршка, како и нивото на финансиската поддршка по корисник за самостојно и организирано живеење во посебна станбена единица",
-   "title": "Правилник за поблиските услови за стандардите во поглед на потребен простор, опрема и стручен кадар, нивото на стручната поддршка, начинот и програмата за остварување на стручната поддршка, како и нивото на финансиската поддршка по корисник за самостојно и организирано живеење во посебна станбена единица",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47543",
-   "versions": [
-    {
-     "from": "2018-06-02",
-     "units": 23,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47543",
-     "sha256": "6b1d0b07440e5b2b6488e29e9a7ef74efccc1b5c74f78e3f206efd4a7084f42e"
-    },
-    {
-     "from": "2019-12-21",
-     "units": 0,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51258",
-     "sha256": "b0c0f04caf016807f7851767c69d9e113636c82c1c2b1f8fd12e1388cc43e26e"
-    }
-   ]
-  },
-  {
    "slug": "pravilnik-2018-sv162-47855",
    "path": "pravilnik/2018/sv162-47855",
    "short": "Правилник за изменување и дополнување на Правилникот за поблиските критериуми за избор на корисници по мерките за рурален развој",
@@ -182716,21 +182827,6 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47855",
      "sha256": "b2971194fbb874475bd7e6d0ece1fd8c8ccb17f982e048d229fda3be58918d20"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2019-sv057-44429",
-   "path": "pravilnik/2019/sv057-44429",
-   "short": "Правилник за изменување на Правилникот за формата и содржината на фитосанитарниот сертификат или фитосанитарниот сертификат за реекспорт и формата и содржината на пријавата за издавање на фитосанитарен сертификат",
-   "title": "Правилник за изменување на Правилникот за формата и содржината на фитосанитарниот сертификат или фитосанитарниот сертификат за реекспорт и формата и содржината на пријавата за издавање на фитосанитарен сертификат",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44429",
-   "versions": [
-    {
-     "from": "2019-03-19",
-     "units": 3,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44429",
-     "sha256": "ecfac17f3fb06ce9d52db3ac2da8c6c3a1d634055f76e0168f26f0bf3587f481"
     }
    ]
   },
@@ -182885,36 +182981,6 @@
    ]
   },
   {
-   "slug": "pravilnik-2025-sv221-71935",
-   "path": "pravilnik/2025/sv221-71935",
-   "short": "Правилник за дополнување на Правилникот за технички преглед на возила",
-   "title": "Правилник за дополнување на Правилникот за технички преглед на возила",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71935",
-   "versions": [
-    {
-     "from": "2025-10-30",
-     "units": 4,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71935",
-     "sha256": "1c40a95c8450084836ea283e6dd02b05144f132001dc9de3ebe3e20e86c7a17c"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2025-sv237-72124",
-   "path": "pravilnik/2025/sv237-72124",
-   "short": "Правилник за формата и содржината на потврдата дека правен субјект е со статус на стратешки партнер",
-   "title": "Правилник за формата и содржината на потврдата дека правен субјект е со статус на стратешки партнер",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72124",
-   "versions": [
-    {
-     "from": "2025-11-25",
-     "units": 5,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72124",
-     "sha256": "028e5344862c458f7e48fd67c4bcdc6fb496274d99c8de4a81f87c8539c346e7"
-    }
-   ]
-  },
-  {
    "slug": "pravilnik-2025-sv252-72376",
    "path": "pravilnik/2025/sv252-72376",
    "short": "Правилник за изменување и дополнување на Правилникот со критериуми за отстапување на одземени предмети - возила со кои управува Агенцијата за управување со одземен имот",
@@ -182941,21 +183007,6 @@
      "units": 19,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72379",
      "sha256": "5423a58502efe38bc5b5098268223e126ba2c17ef2b57791b4727139f56a0616"
-    }
-   ]
-  },
-  {
-   "slug": "pravilnik-2026-sv207-74798",
-   "path": "pravilnik/2026/sv207-74798",
-   "short": "Правилник за обезбедување на услугите опфатени со универзална услуга",
-   "title": "Правилник за обезбедување на услугите опфатени со универзална услуга",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74798",
-   "versions": [
-    {
-     "from": "2026-09-05",
-     "units": 49,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74798",
-     "sha256": "ec51a5d8733220eee0d8366e728a029549b325e5737297bc91edef213ff85bc1"
     }
    ]
   },
@@ -183047,27 +183098,6 @@
    ]
   },
   {
-   "slug": "uredba-2021-sv264-58039",
-   "path": "uredba/2021/sv264-58039",
-   "short": "Уредба за за посебните услови, начинот и постапката за добивање одобрение за летање на цивилни и државни воздухоплови",
-   "title": "Уредба за за посебните услови, начинот и постапката за добивање одобрение за летање на цивилни и државни воздухоплови",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58039",
-   "versions": [
-    {
-     "from": "2021-11-30",
-     "units": 41,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58039",
-     "sha256": "29e5946c0b61159a1b9d663216961fe6481b2f939261bd71dccc2268d357fda4"
-    },
-    {
-     "from": "2025-05-20",
-     "units": 0,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70352",
-     "sha256": "48f351e97c30f663784b74fb4e84a5f49603a88ace61584fecaaecaddb6464c6"
-    }
-   ]
-  },
-  {
    "slug": "uredba-2021-sv281-58222",
    "path": "uredba/2021/sv281-58222",
    "short": "Уредба за организацијатa и кoристењето на воздушниот простор",
@@ -183124,21 +183154,6 @@
      "units": 10,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71264",
      "sha256": "f98c14a489605536b128f0aab47a56f73314c0f00af941a15585ab1a92f83ca9"
-    }
-   ]
-  },
-  {
-   "slug": "uredba-2025-sv254-72382",
-   "path": "uredba/2025/sv254-72382",
-   "short": "Уредба за изменување на Уредбата за класификација на површинските води",
-   "title": "Уредба за изменување на Уредбата за класификација на површинските води",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72382",
-   "versions": [
-    {
-     "from": "2025-12-18",
-     "units": 3,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72382",
-     "sha256": "0ccacb4baf5be11509b250aa2272b24bec4851a9d81b7d1a2fbcf98bca5bae78"
     }
    ]
   },
@@ -183259,21 +183274,6 @@
      "units": 0,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7177",
      "sha256": "bef2dc1e0018084152e1ee8f35f0b707dacb4000d8543c7996f1e1aab3480db1"
-    }
-   ]
-  },
-  {
-   "slug": "zakon-2002-sv043-7185",
-   "path": "zakon/2002/sv043-7185",
-   "short": "Закон за изменување и дополнување на Законот за попис на населението, домаќинствата и становите во Република Македонија, 2002 година",
-   "title": "Закон за изменување и дополнување на Законот за попис на населението, домаќинствата и становите во Република Македонија, 2002 година",
-   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7185",
-   "versions": [
-    {
-     "from": "2002-06-26",
-     "units": 25,
-     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7185",
-     "sha256": "00aad9cc039a6fb861bc5781d96ffd4ae92b8c36e2585939a612045a65960304"
     }
    ]
   },
