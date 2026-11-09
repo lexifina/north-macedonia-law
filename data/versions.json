@@ -52082,6 +52082,42 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv011-42630",
+   "path": "zakon/2018/sv011-42630",
+   "short": "Закон за изменување на Законот за безбедност на сообраќајот на патиштата",
+   "title": "Закон за изменување на Законот за безбедност на сообраќајот на патиштата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42630",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42630",
+     "sha256": "dd288884a84001148fdbc83b0e39f4f52efe2a4a3ba35b2335b76fc8d0cb2ae0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv011-42631",
+   "path": "zakon/2018/sv011-42631",
+   "short": "Закон за трговија на зелени пазари",
+   "title": "Закон за трговија на зелени пазари",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42631",
+   "versions": [
+    {
+     "from": "2018-01-18",
+     "units": 52,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42631",
+     "sha256": "b6c9a54a0c596493675ad0ab65c6ae88b42c23ff0feb70f68db244b66864929d"
+    },
+    {
+     "from": "2020-01-04",
+     "units": 0,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51396",
+     "sha256": "69762950e0c4147fa0eef56217ade00fcd28b64968becf6df0a465bd6844b27f"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv011-42632",
    "path": "zakon/2018/sv011-42632",
    "short": "Закон за изменување и дополнување на Законот за управната инспекција",
@@ -52108,6 +52144,27 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42634",
      "sha256": "93a2bd88abea394c0cf693a4aedd9f8ddd4a941a79f983aba1ca7dd386730588"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv011-42635",
+   "path": "zakon/2018/sv011-42635",
+   "short": "Закон за изменување и дополнување на Законот за основање на Државна комисија за одлучување во втор степен во областа на инспекцискиот надзор и прекршочната постапка",
+   "title": "Закон за изменување и дополнување на Законот за основање на Државна комисија за одлучување во втор степен во областа на инспекцискиот надзор и прекршочната постапка",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42635",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42635",
+     "sha256": "15bc9a9305e4fcef8f570b80734d8cd32e283d33100d018c843787c86a540d16"
+    },
+    {
+     "from": "2024-09-19",
+     "units": 0,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67800",
+     "sha256": "5fe54ffb5550aa94226fd173b8041dfb7a71816254c3b77581c296044f7de8c0"
     }
    ]
   },
@@ -52153,6 +52210,21 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42640",
      "sha256": "e84a32b0d7fa016d33465b42ab7f8fb1a66200eb1dd3074342141a6a67c5e6a8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv011-42641",
+   "path": "zakon/2018/sv011-42641",
+   "short": "Закон за урбано зеленило",
+   "title": "Закон за урбано зеленило",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42641",
+   "versions": [
+    {
+     "from": "2018-01-26",
+     "units": 68,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42641",
+     "sha256": "bb98b0fc8e6f4ca398f7aaed51730ef3db5ef9832307a570a6ff9fbc2421e8c1"
     }
    ]
   },
@@ -52376,6 +52448,21 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv021-42671",
+   "path": "zakon/2018/sv021-42671",
+   "short": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "title": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42671",
+   "versions": [
+    {
+     "from": "2018-02-10",
+     "units": 16,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42671",
+     "sha256": "e98e15f59ff7c02f9800ae0d0f721e26d0d3a58bf7bb56e4eecc8f5b5af1601b"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv021-42672",
    "path": "zakon/2018/sv021-42672",
    "short": "Закон за изменување на Законот за инспекцијата на труд",
@@ -52402,6 +52489,21 @@
      "units": 3,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42677",
      "sha256": "23ef7fae0f5d8157f62a9326d7d396e3cc2e38947b42b24196d4a69244f7e571"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv035-42679",
+   "path": "zakon/2018/sv035-42679",
+   "short": "Закон за изменување и дополнување на Законот за градење",
+   "title": "Закон за изменување и дополнување на Законот за градење",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42679",
+   "versions": [
+    {
+     "from": "2018-02-23",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42679",
+     "sha256": "73c556c5e4b4f231ddceef3055633f34be91bf37f345139ddf04cf34e08a6fd8"
     }
    ]
   },
@@ -52447,6 +52549,21 @@
      "units": 3,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42682",
      "sha256": "426667dea6661d6b1b0e8f04fab986144f5e62d763c462551ffb7804fc20e0d9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv035-42683",
+   "path": "zakon/2018/sv035-42683",
+   "short": "Закон за изменување и дополнување на Изборниот законик",
+   "title": "Закон за изменување и дополнување на Изборниот законик",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42683",
+   "versions": [
+    {
+     "from": "2018-02-23",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42683",
+     "sha256": "ac360011d7e312598cb313dc767f901414d14d10021287ed7509e0f9b8c34036"
     }
    ]
   },
@@ -52775,6 +52892,21 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv064-42719",
+   "path": "zakon/2018/sv064-42719",
+   "short": "Закон за изменување и дополнување на Законот за трговските друштва",
+   "title": "Закон за изменување и дополнување на Законот за трговските друштва",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42719",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42719",
+     "sha256": "e0297634faa1330ccbe837c2736fa424e8f89cbc2ad5f5cd448e5321bb614b11"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv064-42720",
    "path": "zakon/2018/sv064-42720",
    "short": "Закон за изменување дополнување на Законот за основното образование",
@@ -52922,6 +53054,21 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv064-42731",
+   "path": "zakon/2018/sv064-42731",
+   "short": "Закон за изменување на Законот за матичната евиденција",
+   "title": "Закон за изменување на Законот за матичната евиденција",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42731",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42731",
+     "sha256": "d24a67c6d5c7fc9418829c244705dc13ee4379d76c5ed6bdfbec569d4e41d003"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv064-42732",
    "path": "zakon/2018/sv064-42732",
    "short": "Закон за изменување на Законот за застапување на Република Македонија пред Европскиот суд за човекови права",
@@ -52963,6 +53110,21 @@
      "units": 5,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42734",
      "sha256": "077d332c0cf420497e188dfd82635e8f24e6aa6990c85cf6554ef23e472b96e5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv064-42735",
+   "path": "zakon/2018/sv064-42735",
+   "short": "Закон за меѓународна и привремена заштита",
+   "title": "Закон за меѓународна и привремена заштита",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42735",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 140,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42735",
+     "sha256": "d995de3663483f3be8b0ff6e2caea25eb3c7de6df8efaf93174aafc1045b18ae"
     }
    ]
   },
@@ -53071,6 +53233,21 @@
      "units": 5,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42744",
      "sha256": "a7e91cc26512ce2301e4a1194497204fdd7d307f155e45f8b70527219afddf60"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv064-42745",
+   "path": "zakon/2018/sv064-42745",
+   "short": "Закон за изменување и дополнување на Законот за градење",
+   "title": "Закон за изменување и дополнување на Законот за градење",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42745",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42745",
+     "sha256": "c1054c0bc71c34d94e815047b44161f65e2b00536423c152a83b5a27caf0d25a"
     }
    ]
   },
@@ -53258,6 +53435,27 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv064-42770",
+   "path": "zakon/2018/sv064-42770",
+   "short": "Закон за изменување и дополнување на Законот за средното образование",
+   "title": "Закон за изменување и дополнување на Законот за средното образование",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42770",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42770",
+     "sha256": "738ccb6a37d748e360a6a3be81d96b7fa2bb3736f5afe0202c145478f7315009"
+    },
+    {
+     "from": "2019-08-13",
+     "units": 0,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50080",
+     "sha256": "0b979c613ed1bd420a9e60e5e2bf2fb09650fd71c3af73e3c28f424250a5038e"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv071-43215",
    "path": "zakon/2018/sv071-43215",
    "short": "Закон за изменување и дополнување на Законот за заштита на сведоци",
@@ -53269,6 +53467,51 @@
      "units": 11,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43215",
      "sha256": "25886bda2d9fae2c6ca08a4ec928b47485402c8c17dfe2d3f067b13b3df9cb76"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv071-43216",
+   "path": "zakon/2018/sv071-43216",
+   "short": "Закон за Оперативно - техничка агенција",
+   "title": "Закон за Оперативно - техничка агенција",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43216",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 45,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43216",
+     "sha256": "becaf3ff87b569aa5e094404464675481b2592bd89a1237e86dc3888c147595a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv071-43217",
+   "path": "zakon/2018/sv071-43217",
+   "short": "Закон за следење на комуникациите",
+   "title": "Закон за следење на комуникациите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43217",
+   "versions": [
+    {
+     "from": "2018-04-27",
+     "units": 115,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43217",
+     "sha256": "7668480e265333f97b99a2013cd1262ddf821c24d304366f494e21460522cba7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv082-42778",
+   "path": "zakon/2018/sv082-42778",
+   "short": "Закон за високото образование",
+   "title": "Закон за високото образование",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42778",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 331,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42778",
+     "sha256": "a0a854a7083015f050ac76ef9e11ead631bb1d085aff3e4357fe6cb888107eca"
     }
    ]
   },
@@ -53486,6 +53729,21 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv083-42797",
+   "path": "zakon/2018/sv083-42797",
+   "short": "Закон за изменување и дополнување на Законот за Народната банка на Република Македонија",
+   "title": "Закон за изменување и дополнување на Законот за Народната банка на Република Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42797",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42797",
+     "sha256": "365aeb457babe442c737b07bda0a0c4fc5d227531fc452431a6b16d010859d01"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv083-42798",
    "path": "zakon/2018/sv083-42798",
    "short": "Закон за изменување и дополнување на Законот за заштита од јонизирачко зрачење и радијациона сигурност",
@@ -53687,6 +53945,21 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv083-42819",
+   "path": "zakon/2018/sv083-42819",
+   "short": "Закон за дополнување на Законот за комплементарна и алтернативна медицина",
+   "title": "Закон за дополнување на Законот за комплементарна и алтернативна медицина",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42819",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42819",
+     "sha256": "13f489c6f3d721365a9adae2ea41a0791e768a4ba4f7e85f4b6b2c25ff875572"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv083-42820",
    "path": "zakon/2018/sv083-42820",
    "short": "Закон за изменување и дополнување на Законот за државната статистика",
@@ -53753,6 +54026,36 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv083-42824",
+   "path": "zakon/2018/sv083-42824",
+   "short": "Закон за дополнување на Законот за технолошки индустриски развојни зони",
+   "title": "Закон за дополнување на Законот за технолошки индустриски развојни зони",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42824",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42824",
+     "sha256": "12dd11202f6e16cb9a2f5971dd28823935e8e9d00c5dd3cdb44d439d5e93a420"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv083-42825",
+   "path": "zakon/2018/sv083-42825",
+   "short": "Закон за финансиска поддршка на инвестиции",
+   "title": "Закон за финансиска поддршка на инвестиции",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42825",
+   "versions": [
+    {
+     "from": "2018-05-16",
+     "units": 56,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42825",
+     "sha256": "12ee4271aeabad8e9dfa893d59f2c20711af0a085c9e35d6a0e80b264dc5fa87"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv083-42826",
    "path": "zakon/2018/sv083-42826",
    "short": "Закон за изменување и дополнување на Законот за Државен пазарен инспекторат",
@@ -53779,6 +54082,21 @@
      "units": 22,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42955",
      "sha256": "37210e497dbd345039e701843dbce113dc8dd4d735c94add4b51c4bfe5da8905"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv083-42964",
+   "path": "zakon/2018/sv083-42964",
+   "short": "Закон за изменување и дополнување на Законот за технолошки индустриски развојни зони",
+   "title": "Закон за изменување и дополнување на Законот за технолошки индустриски развојни зони",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42964",
+   "versions": [
+    {
+     "from": "2018-05-08",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42964",
+     "sha256": "0106254f12874a1f321131da87da013dd456ead52d689e0b39b5e785006d4f9a"
     }
    ]
   },
@@ -53843,6 +54161,21 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv099-42833",
+   "path": "zakon/2018/sv099-42833",
+   "short": "Закон за изменување на Изборниот законик",
+   "title": "Закон за изменување на Изборниот законик",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42833",
+   "versions": [
+    {
+     "from": "2018-05-29",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42833",
+     "sha256": "865f86afc084f27f2588e6023332cce1f4b22ce561d6daebdeba62e569d7b03c"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv113-42835",
    "path": "zakon/2018/sv113-42835",
    "short": "Закон за изменување на Законот за заштита на природата",
@@ -53903,6 +54236,27 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv120-42840",
+   "path": "zakon/2018/sv120-42840",
+   "short": "Закон за спречување на перење пари и финансирање на тероризам",
+   "title": "Закон за спречување на перење пари и финансирање на тероризам",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42840",
+   "versions": [
+    {
+     "from": "2018-07-07",
+     "units": 212,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42840",
+     "sha256": "aef79f4b897ed54d9d6b7401abd1e4b8466657630e0fe117171f086917d6d514"
+    },
+    {
+     "from": "2022-07-12",
+     "units": 0,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59964",
+     "sha256": "bd33b5b6220897917a1d0a5b5712718b197e134da3d694895eaba2908d31f668"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv120-42841",
    "path": "zakon/2018/sv120-42841",
    "short": "Закон за изменување и дополнување на Законот за Царинската управа",
@@ -53933,6 +54287,21 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv120-42845",
+   "path": "zakon/2018/sv120-42845",
+   "short": "Закон за изменување на Законот за трговија",
+   "title": "Закон за изменување на Законот за трговија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42845",
+   "versions": [
+    {
+     "from": "2018-07-07",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42845",
+     "sha256": "121736b1c53472d3bb424927dfab1aa838cb337efbe5d38fafbfbcb8ef17248a"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv120-42847",
    "path": "zakon/2018/sv120-42847",
    "short": "Закон за изменување на Законот за Државен пазарен инспекторат",
@@ -53944,6 +54313,21 @@
      "units": 2,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42847",
      "sha256": "f62d732d6c93596d5a3039cf25f5a60cf2cf295060a6d561ed72a353c028ac46"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv120-42848",
+   "path": "zakon/2018/sv120-42848",
+   "short": "Закон за изменување и дополнување на Законот за трговските друштва",
+   "title": "Закон за изменување и дополнување на Законот за трговските друштва",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42848",
+   "versions": [
+    {
+     "from": "2018-06-29",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42848",
+     "sha256": "977d01efaf27fb130092b4dac41ac664be882888e777c53132438b84931c0e54"
     }
    ]
   },
@@ -54004,6 +54388,21 @@
      "units": 2,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42923",
      "sha256": "29ec9e73e42359e15b7f2056885ed8edca7fdde662643d994930ea3c916182ac"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv140-42924",
+   "path": "zakon/2018/sv140-42924",
+   "short": "Закон за изменување и дополнување на Изборниот законик",
+   "title": "Закон за изменување и дополнување на Изборниот законик",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42924",
+   "versions": [
+    {
+     "from": "2018-07-30",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42924",
+     "sha256": "b420b5a81975028dbe0b106e5fe0143b24692b194224230e75cfdf41e350f115"
     }
    ]
   },
@@ -54070,6 +54469,21 @@
      "units": 0,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63342",
      "sha256": "393ba6a202c2776585b9385ac056ba1816a59de0360c20bba5e8c1a8b1948349"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv163-43130",
+   "path": "zakon/2018/sv163-43130",
+   "short": "Закон за задолжување на Република Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на Проектот за унапредување на социјалните услуги",
+   "title": "Закон за задолжување на Република Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на Проектот за унапредување на социјалните услуги",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43130",
+   "versions": [
+    {
+     "from": "2018-09-04",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43130",
+     "sha256": "7c901a313169241a3996395236e130d76909d9a94a0828b1992cffd6225d10b1"
     }
    ]
   },
@@ -54179,6 +54593,42 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv198-43159",
+   "path": "zakon/2018/sv198-43159",
+   "short": "Закон за материјално обезбедување на невработените лица поради приватизацијата на претпријатијата со доминантна сопственост на државата",
+   "title": "Закон за материјално обезбедување на невработените лица поради приватизацијата на претпријатијата со доминантна сопственост на државата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43159",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43159",
+     "sha256": "5360a34b305f2d17e25cf2e111c9ea19f37febc4388a10a9d2670422aac69af3"
+    },
+    {
+     "from": "2020-01-16",
+     "units": 0,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51709",
+     "sha256": "d2c6b12c84740f3bdf33bbeb85f5ec09daf0411f86fbda58154ee18c04c1d134"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv198-43160",
+   "path": "zakon/2018/sv198-43160",
+   "short": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "title": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43160",
+   "versions": [
+    {
+     "from": "2018-11-08",
+     "units": 31,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43160",
+     "sha256": "f7df9749f5db65c47747b704d2ad87db2184a25800beba052bae0e30517f1824"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv198-43163",
    "path": "zakon/2018/sv198-43163",
    "short": "Закон за изменување и дополнување на Законот за кривичната постапка",
@@ -54205,6 +54655,21 @@
      "units": 2,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43176",
      "sha256": "eeeaacdff6161ac0675e14d2b676025dc9c7ae1a3e49c9744ebb6831801fea8b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sv208-43177",
+   "path": "zakon/2018/sv208-43177",
+   "short": "Закон за изменување на Изборниот законик",
+   "title": "Закон за изменување на Изборниот законик",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43177",
+   "versions": [
+    {
+     "from": "2018-11-14",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43177",
+     "sha256": "5a666329a6a65cda9415ca0b3a62a27dd9f4a9edcf51257e9d41c4dde840521c"
     }
    ]
   },
@@ -54437,6 +54902,21 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv241-43203",
+   "path": "zakon/2018/sv241-43203",
+   "short": "Закон за данокот на личен доход",
+   "title": "Закон за данокот на личен доход",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43203",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 132,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43203",
+     "sha256": "4b469acaa2d00c585b0f331819ba92fa1ac072a8ac748d988de1a86152c979e0"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv241-43204",
    "path": "zakon/2018/sv241-43204",
    "short": "Закон за изменување и дополнување на Законот за ветеринарно-медицински препарати",
@@ -54563,6 +55043,21 @@
    ]
   },
   {
+   "slug": "zakon-2018-sv248-43213",
+   "path": "zakon/2018/sv248-43213",
+   "short": "Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги",
+   "title": "Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43213",
+   "versions": [
+    {
+     "from": "2019-01-08",
+     "units": 47,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43213",
+     "sha256": "7a1acf3d8317d9cf2dbb482dcc38b88aec4d8519910cbae1d8379b23f521d330"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-sv248-43214",
    "path": "zakon/2018/sv248-43214",
    "short": "Закон за изменување и дополнување на Законот за Царинската управа",
@@ -54574,6 +55069,21 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43214",
      "sha256": "b200c7e0885ac30edc49c43340a4c4e5fc6ef85286b5079bf5330c65e94cccf5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv007-43223",
+   "path": "zakon/2019/sv007-43223",
+   "short": "Закон за изменување и дополнување на Законот за банките",
+   "title": "Закон за изменување и дополнување на Законот за банките",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43223",
+   "versions": [
+    {
+     "from": "2019-01-14",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43223",
+     "sha256": "6ae0b75e4505ac183bdb3a280db58292f301c5438d31e90fb9a157f1704f0539"
     }
    ]
   },
@@ -54698,6 +55208,21 @@
    ]
   },
   {
+   "slug": "zakon-2019-sv027-43246",
+   "path": "zakon/2019/sv027-43246",
+   "short": "Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги",
+   "title": "Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43246",
+   "versions": [
+    {
+     "from": "2019-02-05",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43246",
+     "sha256": "5d4d32986f72b56101e3f3a91af114bff0ab26fec86100ba50bdb767a90d10fb"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2019-sv027-43248",
    "path": "zakon/2019/sv027-43248",
    "short": "Закон за дополнување на Законот за земјоделство и рурален развој",
@@ -54815,6 +55340,21 @@
    ]
   },
   {
+   "slug": "zakon-2019-sv098-49092",
+   "path": "zakon/2019/sv098-49092",
+   "short": "Закон за практиканство",
+   "title": "Закон за практиканство",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49092",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 36,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49092",
+     "sha256": "36f8e5cc90601ef96f0cc072d7a4d14e8987a9b03cc3c3e469275e356bad74be"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2019-sv098-49094",
    "path": "zakon/2019/sv098-49094",
    "short": "Закон за изменување на Законот за Владата на Република Македонија",
@@ -54841,6 +55381,21 @@
      "units": 2,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49095",
      "sha256": "89650ddd14420eb6af78c26d698e75adbdae76624cfda5e412d135ed0a17e7e7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv098-49096",
+   "path": "zakon/2019/sv098-49096",
+   "short": "Закон за Централен регистар на население",
+   "title": "Закон за Централен регистар на население",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49096",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 57,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49096",
+     "sha256": "51909a5fb5a1162ea121e8aca82db88ec9f96b866f15dedc6f61a643e8791152"
     }
    ]
   },
@@ -54965,6 +55520,21 @@
    ]
   },
   {
+   "slug": "zakon-2019-sv098-49106",
+   "path": "zakon/2019/sv098-49106",
+   "short": "Закон за електронско управување и електронски услуги",
+   "title": "Закон за електронско управување и електронски услуги",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49106",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 69,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49106",
+     "sha256": "2dc547a55fbae6a119355508424608d7aad1a98a2f3278b8f3c3dc4274258f73"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2019-sv098-49107",
    "path": "zakon/2019/sv098-49107",
    "short": "Закон за изменување на Законот за Оперативно - техничка агенција",
@@ -54980,6 +55550,21 @@
    ]
   },
   {
+   "slug": "zakon-2019-sv098-49108",
+   "path": "zakon/2019/sv098-49108",
+   "short": "Закон за тутун, производи од тутун и сродни производи",
+   "title": "Закон за тутун, производи од тутун и сродни производи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49108",
+   "versions": [
+    {
+     "from": "2019-05-29",
+     "units": 138,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49108",
+     "sha256": "5fb24965fb6431ccd97b46901d33152e895a2713a64103953edfb7b701e9fe91"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2019-sv101-49110",
    "path": "zakon/2019/sv101-49110",
    "short": "Закон за изменување и дополнување на Законот за супервизија на осигурување",
@@ -54991,6 +55576,21 @@
      "units": 3,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49110",
      "sha256": "e811b51bb094c2f13b7e74ecf757f4e123ad7f4357e781a496a31361017477b3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv101-49111",
+   "path": "zakon/2019/sv101-49111",
+   "short": "Закон за бесплатна правна помош",
+   "title": "Закон за бесплатна правна помош",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49111",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 76,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49111",
+     "sha256": "8ecc49e758d5e0321e4956c07ca95be76a9e337c7bdc346f68f1e05296cbdf79"
     }
    ]
   },
@@ -55055,6 +55655,21 @@
    ]
   },
   {
+   "slug": "zakon-2019-sv101-49117",
+   "path": "zakon/2019/sv101-49117",
+   "short": "Закон за електронски документи, електронска идентификација и доверливи услуги",
+   "title": "Закон за електронски документи, електронска идентификација и доверливи услуги",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49117",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 121,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49117",
+     "sha256": "0d4b0aa2fccb1e1d162274d6407e31f9c444e76cab98cdd121f8df2ea59f58e8"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2019-sv101-49118",
    "path": "zakon/2019/sv101-49118",
    "short": "Закон за изменување и дополнување на Законот за Црвениот крст на Република Македонија",
@@ -55096,6 +55711,21 @@
      "units": 21,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49120",
      "sha256": "7c14e760ea242d341ec363be90ec8e8d855b0ef5184f00892e40e0888b820e64"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv101-49121",
+   "path": "zakon/2019/sv101-49121",
+   "short": "Закон за изменување и дополнување на Законот за банките",
+   "title": "Закон за изменување и дополнување на Законот за банките",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49121",
+   "versions": [
+    {
+     "from": "2019-05-22",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49121",
+     "sha256": "5651098aa8a9f3dfead256796d94e967304d954490ea76fe9180d5ef95bc1213"
     }
    ]
   },
@@ -55175,6 +55805,27 @@
    ]
   },
   {
+   "slug": "zakon-2019-sv102-49128",
+   "path": "zakon/2019/sv102-49128",
+   "short": "Закон за Судскиот совет на Република Северна Македонија",
+   "title": "Закон за Судскиот совет на Република Северна Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49128",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 139,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49128",
+     "sha256": "3cc7feef9b2448dae4bbdf45f4b8a18a22a83ba648d1cdc403e6d9abb64e7ae1"
+    },
+    {
+     "from": "2026-01-08",
+     "units": 0,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72599",
+     "sha256": "a71495a0a42a76431fe337d690ad073dd68a820c11010071a811dc790490743a"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2019-sv104-49153",
    "path": "zakon/2019/sv104-49153",
    "short": "Закон за ратификација на Спогодбата меѓу Владата на Република Македонија и Владата на Големото Војводство Луксембург за размена и заемна заштита на класифицирани информации",
@@ -55186,6 +55837,36 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49153",
      "sha256": "12d65fe93ff5d81979069493e04a309909ea411289e0bdbf6cc8d5fe5b6485d1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv104-49155",
+   "path": "zakon/2019/sv104-49155",
+   "short": "Закон за социјална сигурност за старите лица",
+   "title": "Закон за социјална сигурност за старите лица",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49155",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 18,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49155",
+     "sha256": "67d0b6eb24a89978badb262e6a84e82d337bbb62afec05224cf42abcd50c2b41"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv104-49156",
+   "path": "zakon/2019/sv104-49156",
+   "short": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "title": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49156",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 101,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49156",
+     "sha256": "f992a40134960b383999338844b5caf749ef1f09490ab037a9c3620988dc58c0"
     }
    ]
   },
@@ -55370,6 +56051,21 @@
    ]
   },
   {
+   "slug": "zakon-2019-sv133-49649",
+   "path": "zakon/2019/sv133-49649",
+   "short": "Закон за враќање на дел од данокот на додадена вредност на физичките лица",
+   "title": "Закон за враќање на дел од данокот на додадена вредност на физичките лица",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49649",
+   "versions": [
+    {
+     "from": "2019-06-28",
+     "units": 25,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49649",
+     "sha256": "a0b802e4698d308371a59b80df6f26f04671717f4a312b38904955d5d69d3729"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2019-sv143-49812",
    "path": "zakon/2019/sv143-49812",
    "short": "Закон за изменување и дополнување на Законот за акцизите",
@@ -55396,6 +56092,51 @@
      "units": 15,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49813",
      "sha256": "d54b7592d115997648bd8ae5c454a89b463a788104bdc3d075e504536927392b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv143-49814",
+   "path": "zakon/2019/sv143-49814",
+   "short": "Закон за контрола на надворешно трговскиот промет со необработени дијаманти",
+   "title": "Закон за контрола на надворешно трговскиот промет со необработени дијаманти",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49814",
+   "versions": [
+    {
+     "from": "2019-07-20",
+     "units": 33,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49814",
+     "sha256": "7c46412fc476451c2ea7e830a9ccb915b6dba050d830b8b5a0095b71e202b9c3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv146-49836",
+   "path": "zakon/2019/sv146-49836",
+   "short": "Закон за изменување и дополнување на Законот за социјалната заштита",
+   "title": "Закон за изменување и дополнување на Законот за социјалната заштита",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49836",
+   "versions": [
+    {
+     "from": "2019-07-17",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49836",
+     "sha256": "37e13784f10445b78c783508101b2cab3299c774273dc9725415a2c6dab4535d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv146-49837",
+   "path": "zakon/2019/sv146-49837",
+   "short": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "title": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49837",
+   "versions": [
+    {
+     "from": "2019-07-17",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49837",
+     "sha256": "9dabcd0aac946818d57bed1c98884d1d9373300312c3adc8c4cec035b3b0eba1"
     }
    ]
   },
@@ -55526,6 +56267,36 @@
    ]
   },
   {
+   "slug": "zakon-2019-sv161-50072",
+   "path": "zakon/2019/sv161-50072",
+   "short": "Закон за изменување и дополнување на Законот за возила",
+   "title": "Закон за изменување и дополнување на Законот за возила",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50072",
+   "versions": [
+    {
+     "from": "2019-08-13",
+     "units": 73,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50072",
+     "sha256": "938863af8c3af1ee85871e5e8bcf1553cc0a83a8e0511bd7736950d0242bc175"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv161-50077",
+   "path": "zakon/2019/sv161-50077",
+   "short": "Закон за основното образование",
+   "title": "Закон за основното образование",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50077",
+   "versions": [
+    {
+     "from": "2019-08-13",
+     "units": 224,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50077",
+     "sha256": "03e4dd5aa722922e71655e9d43149ab259b7c7ebf5851860139dd3146e9064eb"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2019-sv161-50080",
    "path": "zakon/2019/sv161-50080",
    "short": "Закон за наставниците и стручните соработници во основните и средните училишта",
@@ -55552,6 +56323,21 @@
      "units": 30,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50086",
      "sha256": "be4692346b64c7bad2710b76822782e8d686b992e357b4f2e84ced5f81dce2ba"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv161-50088",
+   "path": "zakon/2019/sv161-50088",
+   "short": "Закон за изменување на Законот за возила",
+   "title": "Закон за изменување на Законот за возила",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50088",
+   "versions": [
+    {
+     "from": "2019-08-05",
+     "units": 18,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50088",
+     "sha256": "6bb2566846e7ab6e689b675ec734e015a8050cc3f02d2a40935ef8c87cd8c349"
     }
    ]
   },
@@ -55597,6 +56383,21 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50241",
      "sha256": "fae2cf5d0c7b803320b59e229408a4624d2b7aaa1900f28e3a2d3dfa8b6c528c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv180-50242",
+   "path": "zakon/2019/sv180-50242",
+   "short": "Закон за јавните набавки во областа на одбраната и безбедноста",
+   "title": "Закон за јавните набавки во областа на одбраната и безбедноста",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50242",
+   "versions": [
+    {
+     "from": "2019-09-10",
+     "units": 125,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50242",
+     "sha256": "bf8779bead4bf360c3ce222215ca642f3b96ce61b3c9474e3588ef948e84f06c"
     }
    ]
   },
@@ -55732,6 +56533,21 @@
      "units": 8,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50687",
      "sha256": "4207461605e2d23df14d1c5e4577420afd9bf5be4bc1c9c55415c877a7579f37"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv220-50770",
+   "path": "zakon/2019/sv220-50770",
+   "short": "Закон за Инспекторат за употреба на јазиците",
+   "title": "Закон за Инспекторат за употреба на јазиците",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50770",
+   "versions": [
+    {
+     "from": "2019-11-02",
+     "units": 37,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50770",
+     "sha256": "aafaf98c3256d20fb0589ac3934a10125748e7c7c656ebcb0e3ddcefd8484423"
     }
    ]
   },
@@ -56093,6 +56909,21 @@
    ]
   },
   {
+   "slug": "zakon-2019-sv261-51212",
+   "path": "zakon/2019/sv261-51212",
+   "short": "Закон за данок на моторни возила",
+   "title": "Закон за данок на моторни возила",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51212",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 61,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51212",
+     "sha256": "893ce95d7e3e4734580c0836abdc33e3d90634d64d5e87430465eefac8de09a6"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2019-sv265-51260",
    "path": "zakon/2019/sv265-51260",
    "short": "Закон за извршување на Буџетот на Република Северна Македонија за 2020 година",
@@ -56204,6 +57035,21 @@
    ]
   },
   {
+   "slug": "zakon-2019-sv275-51391",
+   "path": "zakon/2019/sv275-51391",
+   "short": "Закон за класифицирани информации",
+   "title": "Закон за класифицирани информации",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51391",
+   "versions": [
+    {
+     "from": "2020-01-04",
+     "units": 134,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51391",
+     "sha256": "597e8b96498e45012ab953f90087b806590bc85687f6025c9c72fd465b9e338e"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2019-sv275-51392",
    "path": "zakon/2019/sv275-51392",
    "short": "Закон за изменување и дополнување на Законот за здравственото осигурување",
@@ -56275,6 +57121,36 @@
      "units": 15,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51397",
      "sha256": "2eef0051e4416dc9651b4ca345e1a378169768e4110f45bf8e1fe37182f210df"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51398",
+   "path": "zakon/2019/sv275-51398",
+   "short": "Закон за изменување и дополнување на Законот за социјалната заштита",
+   "title": "Закон за изменување и дополнување на Законот за социјалната заштита",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51398",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 40,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51398",
+     "sha256": "21485c3ad160d6598250dbeafeb5ce11c1d1b743d36ad36d2c3b34d20d840bc4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sv275-51400",
+   "path": "zakon/2019/sv275-51400",
+   "short": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "title": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51400",
+   "versions": [
+    {
+     "from": "2019-12-27",
+     "units": 54,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51400",
+     "sha256": "9a7ff9bbd267a4ad29aabead1ed603b2c319d49d8c0eb4e1ddeb69998c7f77f6"
     }
    ]
   },
@@ -56480,6 +57356,21 @@
    ]
   },
   {
+   "slug": "zakon-2020-sv018-51803",
+   "path": "zakon/2020/sv018-51803",
+   "short": "Закон за правата на заедниците кои се помалку од 20% од населението во Република Северна Македонија",
+   "title": "Закон за правата на заедниците кои се помалку од 20% од населението во Република Северна Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51803",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 49,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51803",
+     "sha256": "8b98da500bc1e5906bfa7e38c2453e1bee5d1168579e4ecdcacafd04709bacda"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2020-sv018-51804",
    "path": "zakon/2020/sv018-51804",
    "short": "Закон за изменување и дополнување на Законот за безбедност и здравје при работа",
@@ -56521,6 +57412,21 @@
      "units": 10,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51806",
      "sha256": "74a3a9cb355fdac9c2eebf1470b55d41091445d0109dbc8708c6983fbd2b9b51"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv018-51807",
+   "path": "zakon/2020/sv018-51807",
+   "short": "Закон за изменување и дополнување на Законот за градење",
+   "title": "Закон за изменување и дополнување на Законот за градење",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51807",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 64,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51807",
+     "sha256": "4c6bbfa8ef0376a4338a5ce78480ba7a7804878f7e41c02753ea5da011c670f4"
     }
    ]
   },
@@ -56660,6 +57566,21 @@
    ]
   },
   {
+   "slug": "zakon-2020-sv031-51996",
+   "path": "zakon/2020/sv031-51996",
+   "short": "Закон за субвенциониран студентски оброк",
+   "title": "Закон за субвенциониран студентски оброк",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51996",
+   "versions": [
+    {
+     "from": "2020-02-10",
+     "units": 18,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51996",
+     "sha256": "0533badbe005710f3496066fb9313190626f35acef8081b8554b9161fdc474cb"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2020-sv031-51997",
    "path": "zakon/2020/sv031-51997",
    "short": "Закон за дополнување на Законот за пензиското и инвалидското осигурување",
@@ -56716,6 +57637,36 @@
      "units": 5,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52002",
      "sha256": "0887f7d4916695c7c33fee4051954beeaa33b053960c32711646ab4ca72d0ccf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv032-52007",
+   "path": "zakon/2020/sv032-52007",
+   "short": "Закон за урбанистичко планирање",
+   "title": "Закон за урбанистичко планирање",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52007",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 145,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52007",
+     "sha256": "2aea29f219ab4e772aaf9061e4fad8511af42d4f3f49e5ad4108df318adfd8e8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv032-52008",
+   "path": "zakon/2020/sv032-52008",
+   "short": "Закон за енергетска ефикасност",
+   "title": "Закон за енергетска ефикасност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52008",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 91,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52008",
+     "sha256": "ea6a58164853245212079ddda07205a3ae2bf050567fca510ab7415d2c35eea9"
     }
    ]
   },
@@ -56810,6 +57761,21 @@
    ]
   },
   {
+   "slug": "zakon-2020-sv042-52051",
+   "path": "zakon/2020/sv042-52051",
+   "short": "Закон за неевидентирани лица во матична книга на родени",
+   "title": "Закон за неевидентирани лица во матична книга на родени",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52051",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 29,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52051",
+     "sha256": "ec6d716b804ba1e5eae3bf3246368201010406a79aa21f03c7b1ecc99f097e2d"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2020-sv042-52052",
    "path": "zakon/2020/sv042-52052",
    "short": "Закон за изменување и дополнување на Законот за одбрана",
@@ -56821,6 +57787,21 @@
      "units": 48,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52052",
      "sha256": "28bc0a91340dd41d9c1ad7211d1578bb11a6b05ef314fc691f97a0caa6610718"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv042-52054",
+   "path": "zakon/2020/sv042-52054",
+   "short": "Закон за управување со движењето на предметите во судовите",
+   "title": "Закон за управување со движењето на предметите во судовите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52054",
+   "versions": [
+    {
+     "from": "2020-02-24",
+     "units": 22,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52054",
+     "sha256": "2f341a09b26eb517a9834001697710a161775274a0c6593ddad231ecb291e801"
     }
    ]
   },
@@ -57110,6 +58091,21 @@
    ]
   },
   {
+   "slug": "zakon-2020-sv279-54268",
+   "path": "zakon/2020/sv279-54268",
+   "short": "Закон за изменување и дополнување на Законот за градење",
+   "title": "Закон за изменување и дополнување на Законот за градење",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54268",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54268",
+     "sha256": "317058853f3f07756133f6c6f3c03f913cf1f39243dfcd29fde0ea38cd12d64f"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2020-sv285-54322",
    "path": "zakon/2020/sv285-54322",
    "short": "Закон за изменување и дополнување на Законот за интероперабилност во железничкиот систем",
@@ -57200,6 +58196,36 @@
    ]
   },
   {
+   "slug": "zakon-2020-sv290-54431",
+   "path": "zakon/2020/sv290-54431",
+   "short": "Закон за финансиска поддршка за намалување на последиците предизвикани од Корона вирусот COVID-19 врз производството, откупот на грозје и винската индустрија",
+   "title": "Закон за финансиска поддршка за намалување на последиците предизвикани од Корона вирусот COVID-19 врз производството, откупот на грозје и винската индустрија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54431",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 13,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54431",
+     "sha256": "4610406cf2ed7c51f987d65958fb4a66aedfc6869ad088a5e627611176e646f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv290-54432",
+   "path": "zakon/2020/sv290-54432",
+   "short": "Закон за за финансиска поддршка на граѓани со низок доход, корисници на пензија, корисници на право на социјална сигурност на стари лица, млади лица, самохрани родители, деца без родители и родителска грижа, уметници и други лица кои вршат дејност во културата, филмски работници и естрадни уметници",
+   "title": "Закон за за финансиска поддршка на граѓани со низок доход, корисници на пензија, корисници на право на социјална сигурност на стари лица, млади лица, самохрани родители, деца без родители и родителска грижа, уметници и други лица кои вршат дејност во културата, филмски работници и естрадни уметници",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54432",
+   "versions": [
+    {
+     "from": "2020-12-07",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54432",
+     "sha256": "9a7170023da8d3bf043af7eb4885e83892006866cb115d690b3b5ff67d62b7b4"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2020-sv294-54459",
    "path": "zakon/2020/sv294-54459",
    "short": "Закон за изменување на Законот за финансирање на политичките партии",
@@ -57256,6 +58282,21 @@
      "units": 10,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54585",
      "sha256": "5ff7ffdbd638a6b7608260f92dba2fcc744a878d7a54b8e228a8278fe7204899"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv302-54586",
+   "path": "zakon/2020/sv302-54586",
+   "short": "Закон за општа безбедност на производите",
+   "title": "Закон за општа безбедност на производите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54586",
+   "versions": [
+    {
+     "from": "2020-12-26",
+     "units": 48,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54586",
+     "sha256": "f4b60a0759aafd6cb3de2ca8e91e0568425270cb14cf7d89b07d56cfbec5fb7c"
     }
    ]
   },
@@ -57346,6 +58387,51 @@
      "units": 7,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54770",
      "sha256": "bd89ea175ce9963082367f5de5130e8acedb90fe9bd2e2fcf49c9c9b53c873b6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv307-54624",
+   "path": "zakon/2020/sv307-54624",
+   "short": "Закон за извршување на Буџетот на Република Северна Македонија за 2021 година",
+   "title": "Закон за извршување на Буџетот на Република Северна Македонија за 2021 година",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54624",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 67,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54624",
+     "sha256": "def4f8fb39afdf2b9a414ba58e7102e83bb3275f97bb6935a9dce71f6f6c104d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv311-54676",
+   "path": "zakon/2020/sv311-54676",
+   "short": "Закон за изменување и дополнување на Законот за социјалната заштита",
+   "title": "Закон за изменување и дополнување на Законот за социјалната заштита",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54676",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 18,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54676",
+     "sha256": "cda22fd5b623f5d5492944ad852f9dc57e5c37c5581f6ce57f30c3af5c63c5fe"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sv311-54677",
+   "path": "zakon/2020/sv311-54677",
+   "short": "Закон за дополнување на Законот за заштита на децата",
+   "title": "Закон за дополнување на Законот за заштита на децата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54677",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54677",
+     "sha256": "1f876e04242b3147ed5dd40a46244c70dd42a4b152260c2ea9f857ebba96e279"
     }
    ]
   },
@@ -57476,6 +58562,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-sv019-54857",
+   "path": "zakon/2021/sv019-54857",
+   "short": "Закон за попис на населението, домаќинствата и становите во Република Северна Македонија 2021 година",
+   "title": "Закон за попис на населението, домаќинствата и становите во Република Северна Македонија 2021 година",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54857",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 69,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54857",
+     "sha256": "e4fc224a5c91023110d189a29385fe4da0dde8200ffb87e1ceff297d32a6b7e6"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-sv021-54877",
    "path": "zakon/2021/sv021-54877",
    "short": "Закон за изменување и дополнување на Законот за снабдување со вода за пиење и одведување на урбани отпадни води",
@@ -57502,6 +58603,36 @@
      "units": 137,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54878",
      "sha256": "c6043bc548175039172fdb2da525db0c53c9ab1a6cefb309ff8957d0e796a8e5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv024-54940",
+   "path": "zakon/2021/sv024-54940",
+   "short": "Закон за рамномерен регионален развој",
+   "title": "Закон за рамномерен регионален развој",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54940",
+   "versions": [
+    {
+     "from": "2021-02-06",
+     "units": 115,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54940",
+     "sha256": "5d8e06d7c491fa441e9b5e525bcd2983869dfc09d0728935fe1aa860498b6662"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv024-54941",
+   "path": "zakon/2021/sv024-54941",
+   "short": "Закон за спречување и заштита од насилство врз жените и семејното насилство",
+   "title": "Закон за спречување и заштита од насилство врз жените и семејното насилство",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54941",
+   "versions": [
+    {
+     "from": "2021-02-06",
+     "units": 132,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54941",
+     "sha256": "039aeeae6eddde7ea6cdd69514208ce3017620d91c407b693ec742890edd80cd"
     }
    ]
   },
@@ -57656,6 +58787,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-sv077-55646",
+   "path": "zakon/2021/sv077-55646",
+   "short": "Закон за дополнување на Законот за трговија",
+   "title": "Закон за дополнување на Законот за трговија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55646",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55646",
+     "sha256": "55b98f587d993dcb8039dbd09ef8e8580ad2b9f453e29a7db2c66bc0701459c0"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-sv077-55647",
    "path": "zakon/2021/sv077-55647",
    "short": "Закон за изменување и дополнување на Законот за здравственото осигурување",
@@ -57727,6 +58873,21 @@
      "units": 3,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55652",
      "sha256": "f6675b3a691125574cd481abced425c70e44390baa39401c7aa9d6e3ddcce68e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv077-55653",
+   "path": "zakon/2021/sv077-55653",
+   "short": "Закон за задолжување на за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на Проектот за енергетска ефикасност во јавниот сектор",
+   "title": "Закон за задолжување на за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на Проектот за енергетска ефикасност во јавниот сектор",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55653",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55653",
+     "sha256": "7b6d0a22ff28de6a59e3044654c69414709cbff88b848a1ac5bee0d6d4f6a3fe"
     }
    ]
   },
@@ -58087,6 +59248,21 @@
      "units": 8,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55991",
      "sha256": "1f7a5d4300d2d0fff4e138f00d0d6977ae947b94d7c7d399e5c071a02455f000"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv110-55992",
+   "path": "zakon/2021/sv110-55992",
+   "short": "Закон за изменување и дополнување на Законот за Народната банка на Република Македонија",
+   "title": "Закон за изменување и дополнување на Законот за Народната банка на Република Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55992",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 22,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55992",
+     "sha256": "4d5532fec3f83cd604c8d29d89e924f2b028c4cdd6444a8f8c5f2b5d086a8af4"
     }
    ]
   },
@@ -58778,6 +59954,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-sv151-56609",
+   "path": "zakon/2021/sv151-56609",
+   "short": "Закон за изменување и дополнување на Законот за даноците на имот",
+   "title": "Закон за изменување и дополнување на Законот за даноците на имот",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56609",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56609",
+     "sha256": "2b4661dea1ab28b913059068368ae4f509687f53ca1e1c519b70c8eb9fff8d4c"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-sv151-56610",
    "path": "zakon/2021/sv151-56610",
    "short": "Закон за изменување и дополнување на Законот за работните односи",
@@ -58928,6 +60119,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-sv151-56621",
+   "path": "zakon/2021/sv151-56621",
+   "short": "Закон за изменување и дополнување на Законот за даноците на имот",
+   "title": "Закон за изменување и дополнување на Законот за даноците на имот",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56621",
+   "versions": [
+    {
+     "from": "2021-07-14",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56621",
+     "sha256": "91837ded316f3edfa0e161cc33809e63ca240a0526e2dd5a5586b04db8e91431"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-sv151-56622",
    "path": "zakon/2021/sv151-56622",
    "short": "Закон за изменување на Законот за стоковните резерви",
@@ -59059,6 +60265,21 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56710",
      "sha256": "e32ef6e2e6d9eec9ad20ed9b609745c8586e17f8db83bc8a4828f65dfe610a36"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv163-56830",
+   "path": "zakon/2021/sv163-56830",
+   "short": "Закон за изменување на Законот за социјалната заштита",
+   "title": "Закон за изменување на Законот за социјалната заштита",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56830",
+   "versions": [
+    {
+     "from": "2021-07-24",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56830",
+     "sha256": "d1646f211117e430cfca4886ac4a64e28ae5be656e2dbfbc2703bd4a952515a8"
     }
    ]
   },
@@ -59273,6 +60494,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-sv176-57100",
+   "path": "zakon/2021/sv176-57100",
+   "short": "Закон за управување со батерии и акумулатори и отпадни батерии и акумулатори",
+   "title": "Закон за управување со батерии и акумулатори и отпадни батерии и акумулатори",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57100",
+   "versions": [
+    {
+     "from": "2021-08-11",
+     "units": 69,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57100",
+     "sha256": "930fff584a23c4a7f7d2258b4c21e41a62b765b81829a99bb500df9dea91fa19"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-sv178-57121",
    "path": "zakon/2021/sv178-57121",
    "short": "Закон за изменување и дополнување на Законот за високото образование",
@@ -59348,6 +60584,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-sv215-57544",
+   "path": "zakon/2021/sv215-57544",
+   "short": "Закон за управување со пакување и отпад од пакување",
+   "title": "Закон за управување со пакување и отпад од пакување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57544",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 69,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57544",
+     "sha256": "88526b57be5024b3a538280e369709378032371730c72cbb0cf5afafadab15b0"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-sv215-57545",
    "path": "zakon/2021/sv215-57545",
    "short": "Закон за изменување и дополнување на Законот за воведување на систем за управување со квалитетот и заедничката рамка за процена на работењето и давањето на услуги во државната служба",
@@ -59389,6 +60640,21 @@
      "units": 32,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57547",
      "sha256": "459c2d35c12008c6c7d78a944e6530c2535cdc8bd2c65707fad67eb480f599f0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv215-57548",
+   "path": "zakon/2021/sv215-57548",
+   "short": "Закон за дополнување на Законот за облигационите односи",
+   "title": "Закон за дополнување на Законот за облигационите односи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57548",
+   "versions": [
+    {
+     "from": "2021-09-16",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57548",
+     "sha256": "87069f3fa80dc7318a001011c0b195c94032d817ea5b828ee170938037ff8a00"
     }
    ]
   },
@@ -59468,6 +60734,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-sv215-57555",
+   "path": "zakon/2021/sv215-57555",
+   "short": "Закон за изменување и дополнување на Законот за трговија",
+   "title": "Закон за изменување и дополнување на Законот за трговија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57555",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57555",
+     "sha256": "a5a2f44e070ee1b4f77b99ec7ec03e7089bcf89a9a5c7ac78679e01dfc9e307b"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-sv215-57556",
    "path": "zakon/2021/sv215-57556",
    "short": "Закон за изменување и дополнување на Законот за едношалтерскиот систем и за водење на трговскиот регистар и регистар на други правни лица",
@@ -59494,6 +60775,21 @@
      "units": 7,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57557",
      "sha256": "a5818fdd05ebf85a6c3afab984c1a41fdfba3f32023a55ef11c37f01ad81d199"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv215-57558",
+   "path": "zakon/2021/sv215-57558",
+   "short": "Закон за проширена одговорност на производителот за управување со посебните текови на отпад",
+   "title": "Закон за проширена одговорност на производителот за управување со посебните текови на отпад",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57558",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 79,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57558",
+     "sha256": "a133dbc6562ccbc3600230bbca04329b9458e00af743294d2712f03c000d1a03"
     }
    ]
   },
@@ -59699,6 +60995,36 @@
    ]
   },
   {
+   "slug": "zakon-2021-sv287-58284",
+   "path": "zakon/2021/sv287-58284",
+   "short": "Закон за извршување на Буџетот на Република Северна Македонија за 2022 година",
+   "title": "Закон за извршување на Буџетот на Република Северна Македонија за 2022 година",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58284",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 62,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58284",
+     "sha256": "fc9e21ef7b83f538b0ddc6cb8750a7d08d24e8a845afdede00ac8bae22fa3914"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv288-58285",
+   "path": "zakon/2021/sv288-58285",
+   "short": "Закон за гаранција на Република Северна Македонија на обврските по финансискиот договор наменет за финансирање на проектот „Интерконектор за пренос на природен гас Грција - Северна Македонија, дел на Северна Македонија“, кој ќе се склучи меѓу Европската инвестициона банка и Акционерското друштво за вршење на енергетски дејности национални енергетски ресурси Скопје, во државна сопственост",
+   "title": "Закон за гаранција на Република Северна Македонија на обврските по финансискиот договор наменет за финансирање на проектот „Интерконектор за пренос на природен гас Грција - Северна Македонија, дел на Северна Македонија“, кој ќе се склучи меѓу Европската инвестициона банка и Акционерското друштво за вршење на енергетски дејности национални енергетски ресурси Скопје, во државна сопственост",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58285",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58285",
+     "sha256": "f0b71b36468efecc52715bb30f6840285b4568cd12954a037250cfaecd314f18"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-sv288-58286",
    "path": "zakon/2021/sv288-58286",
    "short": "Закон за изменување и дополнување на Законот за работните односи",
@@ -59834,6 +61160,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-sv294-58402",
+   "path": "zakon/2021/sv294-58402",
+   "short": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "title": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58402",
+   "versions": [
+    {
+     "from": "2022-01-04",
+     "units": 31,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58402",
+     "sha256": "0af9039e073b70f5a1d79f76681e800b79878782a9e9e61763616260669dd6fb"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-sv294-58404",
    "path": "zakon/2021/sv294-58404",
    "short": "Закон за изменување и дополнување на Законот за социјалната заштита",
@@ -59845,6 +61186,21 @@
      "units": 12,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58404",
      "sha256": "7ef94f25635573c936608e486f90459d752cef37b801dd45b5e3d78e99d497b0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv294-58405",
+   "path": "zakon/2021/sv294-58405",
+   "short": "Закон за изменување на Законот за заштита од експлозивни материи",
+   "title": "Закон за изменување на Законот за заштита од експлозивни материи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58405",
+   "versions": [
+    {
+     "from": "2022-01-04",
+     "units": 7,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58405",
+     "sha256": "de0ed28d8cb5b6f3d784a9d95e1414805ed0e686a9b3ef86cc2714a396023be2"
     }
    ]
   },
@@ -59894,6 +61250,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-sv295-58323",
+   "path": "zakon/2021/sv295-58323",
+   "short": "Закон за изменување и дополнување на Законот за трговија",
+   "title": "Закон за изменување и дополнување на Законот за трговија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58323",
+   "versions": [
+    {
+     "from": "2022-01-04",
+     "units": 13,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58323",
+     "sha256": "80cdbb955272b28f57588bdbe215458272771e54d875d35693f3605bb74f7785"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-sv298-58437",
    "path": "zakon/2021/sv298-58437",
    "short": "Закон за изменување на Законот за Собранието на Република Македонија",
@@ -59905,6 +61276,21 @@
      "units": 2,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58437",
      "sha256": "0482e99559a837809a31dd061a448ce52468137fc0cff0a1086e65518326263d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sv298-58438",
+   "path": "zakon/2021/sv298-58438",
+   "short": "Закон за развој, производство и промет на воени стоки",
+   "title": "Закон за развој, производство и промет на воени стоки",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58438",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 137,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58438",
+     "sha256": "f36ce28df451f60e95018eb79085eebe31eb4333a9b2716fc6a40698dbb5f350"
     }
    ]
   },
@@ -60239,6 +61625,21 @@
    ]
   },
   {
+   "slug": "zakon-2022-sv099-59455",
+   "path": "zakon/2022/sv099-59455",
+   "short": "Закон за инспекциски надзор во животната средина",
+   "title": "Закон за инспекциски надзор во животната средина",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59455",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 65,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59455",
+     "sha256": "cec0bdeed7b02bbd7f506f6a6da8646c62a1c334f686fe760761d7d63ac117a7"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2022-sv099-59456",
    "path": "zakon/2022/sv099-59456",
    "short": "Закон за изменување и дополнување на Законот за минерални суровини",
@@ -60344,6 +61745,21 @@
    ]
   },
   {
+   "slug": "zakon-2022-sv150-59958",
+   "path": "zakon/2022/sv150-59958",
+   "short": "Закон за изменување и дополнување на Законот за трговија",
+   "title": "Закон за изменување и дополнување на Законот за трговија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59958",
+   "versions": [
+    {
+     "from": "2022-07-09",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59958",
+     "sha256": "d90c648cd672937444060e1ad235a68fc178426cd469205277fedd4f133095ea"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2022-sv150-59959",
    "path": "zakon/2022/sv150-59959",
    "short": "Закон за гаранција на Република Северна Македонија на обврските по Договорот за заем за финансирање на ТЕН-т проектот за автопат од Скопје до границата со Косово, кој ќе се склучи меѓу Европската банка за обнова и развој и Јавното претпријатие за државни патишта",
@@ -60359,6 +61775,21 @@
    ]
   },
   {
+   "slug": "zakon-2022-sv150-59960",
+   "path": "zakon/2022/sv150-59960",
+   "short": "Закон за изменување на Законот за заштита на децата",
+   "title": "Закон за изменување на Законот за заштита на децата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59960",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59960",
+     "sha256": "d5a5b1b4b8d6a658b6dbbcd18b5215c11653a4be42094113dc8cc8901d332f72"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2022-sv150-59961",
    "path": "zakon/2022/sv150-59961",
    "short": "Закон за изменување и дополнување на Законот за здравствената заштита",
@@ -60370,6 +61801,21 @@
      "units": 3,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59961",
      "sha256": "fa087bf77a53e765227b3145b42767f98fa8fe3b7db8e6bdb0e6b532d504d4d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sv151-59964",
+   "path": "zakon/2022/sv151-59964",
+   "short": "Закон за спречување перење пари и финансирање на тероризам",
+   "title": "Закон за спречување перење пари и финансирање на тероризам",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59964",
+   "versions": [
+    {
+     "from": "2022-07-12",
+     "units": 241,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59964",
+     "sha256": "bd33b5b6220897917a1d0a5b5712718b197e134da3d694895eaba2908d31f668"
     }
    ]
   },
@@ -60475,6 +61921,21 @@
      "units": 3,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60169",
      "sha256": "5add284ce669030a77a6545a3882ec8a99999c92ade7e5e07c43e3a665abf839"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sv173-60180",
+   "path": "zakon/2022/sv173-60180",
+   "short": "Закон за вршење на сметководствени работи",
+   "title": "Закон за вршење на сметководствени работи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60180",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 92,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60180",
+     "sha256": "5486d9b8b5a4d888b69d89dbddee430e37fd0f06f3288971578385bc7c94c2f0"
     }
    ]
   },
@@ -60590,6 +62051,36 @@
    ]
   },
   {
+   "slug": "zakon-2022-sv203-60545",
+   "path": "zakon/2022/sv203-60545",
+   "short": "Закон за буџетите",
+   "title": "Закон за буџетите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60545",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 143,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60545",
+     "sha256": "de5489e94b3efaa3f9f7a8acd1ecac5485321a327bc1599da8271862dbd407aa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sv227-60939",
+   "path": "zakon/2022/sv227-60939",
+   "short": "Закон за изменување и дополнување на Законот за градење",
+   "title": "Закон за изменување и дополнување на Законот за градење",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60939",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60939",
+     "sha256": "1d895cc730db4756a100961d2a419b328c0d1907994bc80bacc7ed2c674a9f70"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2022-sv227-60940",
    "path": "zakon/2022/sv227-60940",
    "short": "Закон за изменување и дополнување на Законот за поштенските услуги",
@@ -60665,6 +62156,21 @@
    ]
   },
   {
+   "slug": "zakon-2022-sv236-61036",
+   "path": "zakon/2022/sv236-61036",
+   "short": "Закон за изменување на Законот за заштита на децата",
+   "title": "Закон за изменување на Законот за заштита на децата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61036",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 3,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61036",
+     "sha256": "4f62b62d7749cbf4d077a334e19bd3817ba9fc5f073ce00c3e727e94417b9601"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2022-sv236-61038",
    "path": "zakon/2022/sv236-61038",
    "short": "Закон за изменување на Законот за безбедност на козметичките производи",
@@ -60736,6 +62242,21 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61043",
      "sha256": "3e1c7bb6c554b156eecb96489785643aede12096ee46f9e08672803160961111"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sv236-61044",
+   "path": "zakon/2022/sv236-61044",
+   "short": "Закон за изменување на Законот за заштита на децата",
+   "title": "Закон за изменување на Законот за заштита на децата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61044",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61044",
+     "sha256": "21a2c06fdbdde443ea9298549fa3adb3de4639f0f030bcf52c3caf7b1aa8a7ef"
     }
    ]
   },
@@ -60832,6 +62353,21 @@
      "units": 7,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61192",
      "sha256": "2fa351219cbaa929b6313998277fc25acd33e55747072a05b9b96bc27b6fcc14"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sv246-61193",
+   "path": "zakon/2022/sv246-61193",
+   "short": "Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по договорот за заем за финансирање на проектот за градење на ефективни, транспарентни и отчетни институции за управување со јавните финансии",
+   "title": "Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по договорот за заем за финансирање на проектот за градење на ефективни, транспарентни и отчетни институции за управување со јавните финансии",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61193",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61193",
+     "sha256": "790883e66de572987fcc34487a1381b846d413de8ad5ff3d06d29fae1c3aafe4"
     }
    ]
   },
@@ -60992,6 +62528,21 @@
    ]
   },
   {
+   "slug": "zakon-2022-sv274-61524",
+   "path": "zakon/2022/sv274-61524",
+   "short": "Закон за техничките барања за производите и оцена на сообразност",
+   "title": "Закон за техничките барања за производите и оцена на сообразност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61524",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 94,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61524",
+     "sha256": "7719cb450c2b33608d4fca65446587213eb134f938debd4fceb0b6ebbcf07aae"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2022-sv274-61525",
    "path": "zakon/2022/sv274-61525",
    "short": "Закон за изменување и дополнување на Законот за данокот на личен доход",
@@ -61037,6 +62588,36 @@
    ]
   },
   {
+   "slug": "zakon-2022-sv282-61613",
+   "path": "zakon/2022/sv282-61613",
+   "short": "Закон за извршување на Буџетот на Република Северна Македонија за 2023 година",
+   "title": "Закон за извршување на Буџетот на Република Северна Македонија за 2023 година",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61613",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 69,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61613",
+     "sha256": "4b591570ee166af26551cf08372e1855653ca76a92d792672531fd8f9066b084"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv013-61830",
+   "path": "zakon/2023/sv013-61830",
+   "short": "Закон за дополнување на Законот за технолошки индустриски развојни зони",
+   "title": "Закон за дополнување на Законот за технолошки индустриски развојни зони",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61830",
+   "versions": [
+    {
+     "from": "2023-01-23",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61830",
+     "sha256": "0e3874ab2366f240655265041811b1dd5e9985c408d8b2b80f770494086ebd08"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2023-sv019-61892",
    "path": "zakon/2023/sv019-61892",
    "short": "Закон за изменување и дополнување на Законот за гранична контрола",
@@ -61048,6 +62629,21 @@
      "units": 10,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61892",
      "sha256": "0a828a5e8a05524a330751f4268953dc1ee83af9e2823a8f2d2de3cdf8763e06"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv019-61893",
+   "path": "zakon/2023/sv019-61893",
+   "short": "Закон за финансиската инспекција во јавниот сектор",
+   "title": "Закон за финансиската инспекција во јавниот сектор",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61893",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 83,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61893",
+     "sha256": "6d57a96e8966e0499d20229aa546c1baca3d6002aeb24c45ee2b137510314f1b"
     }
    ]
   },
@@ -61418,6 +63014,42 @@
    ]
   },
   {
+   "slug": "zakon-2023-sv091-62817",
+   "path": "zakon/2023/sv091-62817",
+   "short": "Закон за изменување на Законот за ловството",
+   "title": "Закон за изменување на Законот за ловството",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62817",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62817",
+     "sha256": "9742891425dfc21bec0de1f4633d7e62961b123bfc4c40063359fbf95d7623f9"
+    },
+    {
+     "from": "2023-12-20",
+     "units": 0,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65013",
+     "sha256": "45f1dc524be99cb85a29760ba07e58834fe06e36db0d2f5fab0f871aeb881d01"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv101-62928",
+   "path": "zakon/2023/sv101-62928",
+   "short": "Закон за задругите",
+   "title": "Закон за задругите",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62928",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 74,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62928",
+     "sha256": "5a53339c97b68e3fce985a85763a3bbdce40106252f701f4e28e536fcb8337d9"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2023-sv109-63021",
    "path": "zakon/2023/sv109-63021",
    "short": "Закон за ратификација на Спогодбата помеѓу Владата на Република Северна Македонија и Советот на министри на Република Албанија за делегирање на услуги во воздушниот сообраќај на дел на воздушниот простор над Охридското Езеро",
@@ -61444,6 +63076,21 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63022",
      "sha256": "0f25f38cb5aa6b5a3064cc3011dd64d3aac4c64576d891902f9c5c941a1aeb35"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv111-63078",
+   "path": "zakon/2023/sv111-63078",
+   "short": "Закон за изменување и дополнување на Законот за градење",
+   "title": "Закон за изменување и дополнување на Законот за градење",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63078",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 19,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63078",
+     "sha256": "4c195b8b29bcdeb08d8167246a14f316e42c3fcda7b19e6ec8e6552447262521"
     }
    ]
   },
@@ -61583,6 +63230,21 @@
    ]
   },
   {
+   "slug": "zakon-2023-sv129-63336",
+   "path": "zakon/2023/sv129-63336",
+   "short": "Закон за изменување и дополнување на Законот за матичната евиденција",
+   "title": "Закон за изменување и дополнување на Законот за матичната евиденција",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63336",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 12,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63336",
+     "sha256": "94ac43d989cc6d6330f3cd3cee0af637859035594a74c3eb941beee3a14842ed"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2023-sv129-63337",
    "path": "zakon/2023/sv129-63337",
    "short": "Закон за изменување на Законот за квалитетот на земјоделските производи",
@@ -61654,6 +63316,21 @@
      "units": 121,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63345",
      "sha256": "06cb3201f94844b8739958429dd2059da17ff3024b471bfcafd84b18616fb012"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv154-63683",
+   "path": "zakon/2023/sv154-63683",
+   "short": "Закон за изменување и дополнување на Законот за облигационите односи",
+   "title": "Закон за изменување и дополнување на Законот за облигационите односи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63683",
+   "versions": [
+    {
+     "from": "2023-07-20",
+     "units": 5,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63683",
+     "sha256": "443b8193acca0b084685693e215007102c5b61867c0ade751f39f42b586d11cd"
     }
    ]
   },
@@ -61934,6 +63611,21 @@
    ]
   },
   {
+   "slug": "zakon-2023-sv209-64365",
+   "path": "zakon/2023/sv209-64365",
+   "short": "Закон за регистар на задолжително социјално осигурување",
+   "title": "Закон за регистар на задолжително социјално осигурување",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64365",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 71,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64365",
+     "sha256": "6ee85a91e5a28a477a5b3c0e051a109c2365ae5718275d7c3a382463a51e9d85"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2023-sv209-64366",
    "path": "zakon/2023/sv209-64366",
    "short": "Закон за изменување и дополнување на Законот за акцизите",
@@ -62129,6 +63821,21 @@
    ]
   },
   {
+   "slug": "zakon-2023-sv262-65008",
+   "path": "zakon/2023/sv262-65008",
+   "short": "Закон за задолжување на Република Северна Македонија со заем кај Европската инвестициона банка по финансискиот Договор за Железничкиот коридор VIII - источна делница МК, делница Крива Паланка - граница меѓу Северна Македонија и Бугарија",
+   "title": "Закон за задолжување на Република Северна Македонија со заем кај Европската инвестициона банка по финансискиот Договор за Железничкиот коридор VIII - источна делница МК, делница Крива Паланка - граница меѓу Северна Македонија и Бугарија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65008",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65008",
+     "sha256": "12aa70e8b5758a8901fa4a854897e3b06557e931821480ea394c65dd318532d8"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2023-sv262-65009",
    "path": "zakon/2023/sv262-65009",
    "short": "Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за развојни политики за одржливост и отпорност",
@@ -62140,6 +63847,21 @@
      "units": 6,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65009",
      "sha256": "fe6211fc4c39ae1593680e52fe4a2db0e846505e00b2b04b4afcfa19aab06979"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv262-65010",
+   "path": "zakon/2023/sv262-65010",
+   "short": "Закон за задолжување на Република Северна Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за Железничкиот коридор VIII - фаза 3, делница од Крива Паланка до граница со Република Бугарија",
+   "title": "Закон за задолжување на Република Северна Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за Железничкиот коридор VIII - фаза 3, делница од Крива Паланка до граница со Република Бугарија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65010",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65010",
+     "sha256": "1b9b776cd60eed27ecda3844435e9a0b487322fed1fc03172cc052d5adb5ff76"
     }
    ]
   },
@@ -62170,6 +63892,21 @@
      "units": 38,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65012",
      "sha256": "1b364281947d23f4dc8b6b0fd8a5b4f3f25818a17e89848960f3f2e047fc725a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv263-65013",
+   "path": "zakon/2023/sv263-65013",
+   "short": "Закон за дивечот и ловството",
+   "title": "Закон за дивечот и ловството",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65013",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 111,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65013",
+     "sha256": "45f1dc524be99cb85a29760ba07e58834fe06e36db0d2f5fab0f871aeb881d01"
     }
    ]
   },
@@ -62279,6 +64016,51 @@
    ]
   },
   {
+   "slug": "zakon-2023-sv269-65062",
+   "path": "zakon/2023/sv269-65062",
+   "short": "Закон за финансиска поддршка на социјално ранливи категории на граѓани",
+   "title": "Закон за финансиска поддршка на социјално ранливи категории на граѓани",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65062",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 13,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65062",
+     "sha256": "0b7d5422d13168891a2dd689a45f1347725dc2e75c8b0a41f4d67c3868c63473"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv269-65063",
+   "path": "zakon/2023/sv269-65063",
+   "short": "Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на вториот проект за унапредување на социјалните услуги",
+   "title": "Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на вториот проект за унапредување на социјалните услуги",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65063",
+   "versions": [
+    {
+     "from": "2023-12-18",
+     "units": 6,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65063",
+     "sha256": "ccd692ca8223cdff6e560e0b3306ff1c76ccd54f0b978f65a4db9bcc579e8c40"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sv283-65268",
+   "path": "zakon/2023/sv283-65268",
+   "short": "Закон за извршување на Буџетот на Република Северна Македонија за 2024 година",
+   "title": "Закон за извршување на Буџетот на Република Северна Македонија за 2024 година",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65268",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 70,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65268",
+     "sha256": "ba11520ad5ba0e9eba273985b06055fd79e9deca5a60d91f0ce8d9f7a9509f02"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2023-sv284-65290",
    "path": "zakon/2023/sv284-65290",
    "short": "Закон за ратификација на Спогодбата за партнерство, трговија и соработка меѓу Република Северна Македонија и Обединетото Кралство на Велика Британија и Северна Ирска",
@@ -62339,6 +64121,21 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv014-65646",
+   "path": "zakon/2024/sv014-65646",
+   "short": "Закон за воздухопловство",
+   "title": "Закон за воздухопловство",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65646",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 212,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65646",
+     "sha256": "9b601ae40d5d9a0243fe0d447532f39c7edcc6a03f0120a3eb9a247caa55f675"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv014-65647",
    "path": "zakon/2024/sv014-65647",
    "short": "Закон за изменување на Законот за служба во Армијата на Република Северна Македонија",
@@ -62350,6 +64147,36 @@
      "units": 10,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65647",
      "sha256": "292cb6fe5a72f09281cbf92503ff776901bbc812de96ed3eadd1da0c4ab71b7b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv021-65754",
+   "path": "zakon/2024/sv021-65754",
+   "short": "Закон за употребата на македонскиот јазик",
+   "title": "Закон за употребата на македонскиот јазик",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65754",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 44,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65754",
+     "sha256": "5141d309a94a9b8fe2e7b9ddafd4233e8dcde03565d0c897521ad87c090608a5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv030-65913",
+   "path": "zakon/2024/sv030-65913",
+   "short": "Закон за Националната развојна стратегија",
+   "title": "Закон за Националната развојна стратегија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65913",
+   "versions": [
+    {
+     "from": "2024-02-17",
+     "units": 25,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65913",
+     "sha256": "7ec101c4a99576f72263ef3fc6af64b6acfda3f712b856202db676008701d5df"
     }
    ]
   },
@@ -62444,6 +64271,21 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv051-66222",
+   "path": "zakon/2024/sv051-66222",
+   "short": "Закон за изменување на Законот за плата и други надоместоци на избрани и именувани лица во Република Македонија",
+   "title": "Закон за изменување на Законот за плата и други надоместоци на избрани и именувани лица во Република Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66222",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66222",
+     "sha256": "18fad14ea91001fb8bb9845c94c2a9e4b8ea2994bace47ef2214b6141b42acf4"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv051-66223",
    "path": "zakon/2024/sv051-66223",
    "short": "Закон за изменување на Законот за платите на јавните обвинители",
@@ -62489,6 +64331,21 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv053-66243",
+   "path": "zakon/2024/sv053-66243",
+   "short": "Закон за вработените во Министерството за одбрана",
+   "title": "Закон за вработените во Министерството за одбрана",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66243",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 174,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66243",
+     "sha256": "393a26267d921abd3b3811c4db8e52301873259cfe75e6149737d268cf23447a"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv053-66244",
    "path": "zakon/2024/sv053-66244",
    "short": "Закон за изменување на Законот за основање на Национална агенција за европски образовни програми и мобилност",
@@ -62500,6 +64357,21 @@
      "units": 2,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66244",
      "sha256": "73400f4e7d5799e3a5e13bbaad7a7d5764d5d47a331c88db21c495a1f0d2046d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv053-66245",
+   "path": "zakon/2024/sv053-66245",
+   "short": "Закон за изменување и дополнување на Законот за Академијата за судии и јавни обвинители",
+   "title": "Закон за изменување и дополнување на Законот за Академијата за судии и јавни обвинители",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66245",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 4,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66245",
+     "sha256": "e2ae3c05b813b816c0d7dcdc47f43e4732ddee4003a36cc9d7f8c6c7582a2087"
     }
    ]
   },
@@ -62624,6 +64496,21 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv058-66308",
+   "path": "zakon/2024/sv058-66308",
+   "short": "Закон за изменување и дополнување на Изборниот законик",
+   "title": "Закон за изменување и дополнување на Изборниот законик",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66308",
+   "versions": [
+    {
+     "from": "2024-03-11",
+     "units": 39,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66308",
+     "sha256": "7d26cf25d13434c061978339bf90ab917c88a61bf458976c9004d033e49724c5"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv063-66369",
    "path": "zakon/2024/sv063-66369",
    "short": "Закон за изменување и дополнување на Законот за медиуми",
@@ -62635,6 +64522,21 @@
      "units": 5,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66369",
      "sha256": "c9c88f8fff7531a5eaed772ca837be5f881b2af1fd6ba13daec045b7a7d56088"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv064-66374",
+   "path": "zakon/2024/sv064-66374",
+   "short": "Закон за управување со конфискуван имот, имотна корист и одземени предмети во кривична и прекршочна постапка",
+   "title": "Закон за управување со конфискуван имот, имотна корист и одземени предмети во кривична и прекршочна постапка",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66374",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 99,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66374",
+     "sha256": "18093945bbdaa2d75688d0d139d42e92752304cd91e3aea1c07d467241bebb89"
     }
    ]
   },
@@ -62654,6 +64556,21 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv064-66376",
+   "path": "zakon/2024/sv064-66376",
+   "short": "Закон за проспекти и обврски за транспарентност за издавачите на хартии од вредност",
+   "title": "Закон за проспекти и обврски за транспарентност за издавачите на хартии од вредност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66376",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 201,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66376",
+     "sha256": "24278c4a678c55c8d0e8d9c87321bdb18b2895ca1fda9b9111ac6004519618c5"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv064-66377",
    "path": "zakon/2024/sv064-66377",
    "short": "Закон за гаранција на Република Северна Македонија на обврските по Договорот за заем за финансирање на Проектот за регионална гасификација, кој ќе се склучи меѓу Акционерското друштво за вршење на енергетска дејност пренос на природен гас НОМАГАС Скопје во државна сопственост и Европската банка за обнова и развој",
@@ -62669,6 +64586,36 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv064-66378",
+   "path": "zakon/2024/sv064-66378",
+   "short": "Закон за рибарство и аквакултура",
+   "title": "Закон за рибарство и аквакултура",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66378",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 133,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66378",
+     "sha256": "0ea95109011e9ab9431441d43ad1b27a10d3576c18e70465b318e049c8e7dee1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv064-66379",
+   "path": "zakon/2024/sv064-66379",
+   "short": "Законот за изменување и дополнување на Законот за платежни услуги и платни системи",
+   "title": "Законот за изменување и дополнување на Законот за платежни услуги и платни системи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66379",
+   "versions": [
+    {
+     "from": "2024-03-27",
+     "units": 83,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66379",
+     "sha256": "aa1a884a3b08a2c695049c819f8e8224df94d06d95e4bac4a21f18ea5c8cc412"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv066-66389",
    "path": "zakon/2024/sv066-66389",
    "short": "Закон за забрана на нефер трговски практики во синџирот на снабдување на земјоделски и прехранбени производи",
@@ -62680,6 +64627,21 @@
      "units": 52,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66389",
      "sha256": "789a01d46147e610698105165cdfeb2037627e380be2e3a09bc3c22036b2991e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv066-66390",
+   "path": "zakon/2024/sv066-66390",
+   "short": "Закон за финансиски инструменти",
+   "title": "Закон за финансиски инструменти",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66390",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 712,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66390",
+     "sha256": "5b6c068996f39b4fecca59bdd96b2b1b4f3e43dd2cc224e6eeb6c9f10d970bd5"
     }
    ]
   },
@@ -63227,6 +65189,21 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv170-67515",
+   "path": "zakon/2024/sv170-67515",
+   "short": "Закон за изменување на Законот за дивечот и ловството",
+   "title": "Закон за изменување на Законот за дивечот и ловството",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67515",
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67515",
+     "sha256": "f6261f57642b43736732a9665d64cb5408b65e0bbab41881bc59b134db01b465"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv170-67516",
    "path": "zakon/2024/sv170-67516",
    "short": "Закон за изменување и дополнување на Законот за спортот",
@@ -63268,6 +65245,21 @@
      "units": 21,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67525",
      "sha256": "807eae1a6b1fada4275f2bc9807c917925ea7fc2b376a0b60b9bcea2b4194e88"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sv187-67708",
+   "path": "zakon/2024/sv187-67708",
+   "short": "Закон за изменување на Законот за железничкиот систем",
+   "title": "Закон за изменување на Законот за железничкиот систем",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67708",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 8,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67708",
+     "sha256": "12422d91d095eb3daa8e5388a4eb356ffb310b3c86aeb12e95b5a9a6aac7d115"
     }
    ]
   },
@@ -64073,6 +66065,21 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv254-68571",
+   "path": "zakon/2024/sv254-68571",
+   "short": "Закон за извршување на Буџетот на Република Северна Македонија за 2025 година",
+   "title": "Закон за извршување на Буџетот на Република Северна Македонија за 2025 година",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68571",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 68,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68571",
+     "sha256": "68c6a66ed8379b8624519085618ef8d11c339d9409ee176ae89e0056bdfa189a"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv255-68573",
    "path": "zakon/2024/sv255-68573",
    "short": "Закон за изменување и дополнување на Законот за јавна чистота",
@@ -64403,6 +66410,21 @@
    ]
   },
   {
+   "slug": "zakon-2024-sv272-68793",
+   "path": "zakon/2024/sv272-68793",
+   "short": "Закон за изменување на Законот за плата и други надоместоци на избрани и именувани лица во Република Македонија",
+   "title": "Закон за изменување на Законот за плата и други надоместоци на избрани и именувани лица во Република Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68793",
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "units": 10,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68793",
+     "sha256": "9d4eee070b3d53522e33959534cc0a7b118f897ffc27ec6cadeca68aee8a6ab0"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2024-sv272-68794",
    "path": "zakon/2024/sv272-68794",
    "short": "Закон за изменување на Законот за платите на членовите на Судскиот совет на Република Македонија",
@@ -64544,6 +66566,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-sv003-68912",
+   "path": "zakon/2025/sv003-68912",
+   "short": "Закон за образование на возрасните",
+   "title": "Закон за образование на возрасните",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68912",
+   "versions": [
+    {
+     "from": "2025-01-11",
+     "units": 95,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68912",
+     "sha256": "0071f3194024dfa5fe32d98bdb24de46c50d41125624321e46345459ef2eb635"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-sv003-68913",
    "path": "zakon/2025/sv003-68913",
    "short": "Закон за Националната рамка на квалификации",
@@ -64574,6 +66611,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-sv003-68916",
+   "path": "zakon/2025/sv003-68916",
+   "short": "Закон за стручно образование и обука",
+   "title": "Закон за стручно образование и обука",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68916",
+   "versions": [
+    {
+     "from": "2025-01-11",
+     "units": 115,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68916",
+     "sha256": "2e84e1a95ec4647f3aa7e5f20779a4395768fa6e3a88744abda67fb22b3d4d47"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-sv003-68917",
    "path": "zakon/2025/sv003-68917",
    "short": "Закон за дополнување на Законот за инспекциски надзор во животната средина",
@@ -64585,6 +66637,21 @@
      "units": 2,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68917",
      "sha256": "2c18237076c0db975f47444acd6486d35e4cf47b8db2f73cd15b1e34c7fb2b6b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sv003-68918",
+   "path": "zakon/2025/sv003-68918",
+   "short": "Закон за учебници во основно и средно образование",
+   "title": "Закон за учебници во основно и средно образование",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68918",
+   "versions": [
+    {
+     "from": "2025-01-11",
+     "units": 43,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68918",
+     "sha256": "b45104a0d9aa5ed1ac5ebd6121a318284fe56427641cd46d2143486047fa149a"
     }
    ]
   },
@@ -65300,6 +67367,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-sv014-69087",
+   "path": "zakon/2025/sv014-69087",
+   "short": "Закон за изменување и дополнување на Законот за јавните набавки",
+   "title": "Закон за изменување и дополнување на Законот за јавните набавки",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69087",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 21,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69087",
+     "sha256": "36423e8c68b645ee564ad8105a9daf8cd554cbd0ab0b0dad6990947f448238bf"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-sv014-69088",
    "path": "zakon/2025/sv014-69088",
    "short": "Закон за изменување на Законот за употребата на македонскиот јазик",
@@ -65495,6 +67577,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-sv017-69138",
+   "path": "zakon/2025/sv017-69138",
+   "short": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "title": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69138",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 22,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69138",
+     "sha256": "74f538ca11b63b2aa0db281570bd65243d70c8d313b869e46dacaf8c2e7eaf61"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-sv017-69139",
    "path": "zakon/2025/sv017-69139",
    "short": "Закон за изменување на Законот за комуналните дејности",
@@ -65566,6 +67663,21 @@
      "units": 4,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69211",
      "sha256": "6f76dd3ee3a5e90661a361db90252505b02f0eb7b6c1364f1aead02f134f80ad"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sv037-69499",
+   "path": "zakon/2025/sv037-69499",
+   "short": "Законот за изменување и дополнување на Законот за платежни услуги и платни системи",
+   "title": "Законот за изменување и дополнување на Законот за платежни услуги и платни системи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69499",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 27,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69499",
+     "sha256": "0dbbfe13752b54d4d2fe02c385e2543de34844e5ad743ac52713766f55ae9ac7"
     }
    ]
   },
@@ -65765,6 +67877,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-sv047-69644",
+   "path": "zakon/2025/sv047-69644",
+   "short": "Закон за изменување и дополнување на Законот за вршење на сметководствени работи",
+   "title": "Закон за изменување и дополнување на Законот за вршење на сметководствени работи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69644",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 11,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69644",
+     "sha256": "e65035267380578cf489d59f152757feaff3de89a40143bbda65994a07bc6947"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-sv049-69656",
    "path": "zakon/2025/sv049-69656",
    "short": "Закон за изменување и дополнување на Законот за минерални суровини",
@@ -65836,6 +67963,21 @@
      "units": 2,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69770",
      "sha256": "28f448ad69d377b4432504d69716cbd313366f84444a7efde8c43934c116a62f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sv059-69771",
+   "path": "zakon/2025/sv059-69771",
+   "short": "Закон за изменување и дополнување на Законот за технолошки индустриски развојни зони",
+   "title": "Закон за изменување и дополнување на Законот за технолошки индустриски развојни зони",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69771",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 29,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69771",
+     "sha256": "76220bfae341f055cf2861918e1f0c8557368c146a07a4db1859aa5c1e385d9b"
     }
    ]
   },
@@ -66545,6 +68687,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-sv104-70423",
+   "path": "zakon/2025/sv104-70423",
+   "short": "Закон за работно ангажирање на лица",
+   "title": "Закон за работно ангажирање на лица",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70423",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 34,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70423",
+     "sha256": "73859880e59412ffe74751fafb9382d1c404904729173e19b80ce209b547433f"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-sv113-70551",
    "path": "zakon/2025/sv113-70551",
    "short": "Закон за ратификација на Договорот меѓу Владата на Република Северна Македонија и Владата на Обединетото Кралство на Велика Британија и Северна Ирска во врска со партнерство за реализација на инфраструктурни проекти",
@@ -66875,6 +69032,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-sv132-70812",
+   "path": "zakon/2025/sv132-70812",
+   "short": "Закон за изменување и дополнување на Законот за дивечот и ловството",
+   "title": "Закон за изменување и дополнување на Законот за дивечот и ловството",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70812",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 13,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70812",
+     "sha256": "cd83a9d933f207bfbaed77a102d532e1d60b841db2459ccfcda1367bb3273a18"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-sv132-70813",
    "path": "zakon/2025/sv132-70813",
    "short": "Закон за изменување и дополнување на Законот за вработувањето и осигурување во случај на невработеност",
@@ -66886,6 +69058,21 @@
      "units": 14,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70813",
      "sha256": "fad30cd642f1fefacacb76f07bea3447ef0d44f36ad041fd8315e708fe74cf45"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sv132-70814",
+   "path": "zakon/2025/sv132-70814",
+   "short": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "title": "Закон за изменување и дополнување на Законот за заштита на децата",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70814",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 12,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70814",
+     "sha256": "591a9177576ce1338427975fb9f8fb5a81f920b5f4014b71e81c6187f93529ca"
     }
    ]
   },
@@ -66950,6 +69137,36 @@
    ]
   },
   {
+   "slug": "zakon-2025-sv135-70869",
+   "path": "zakon/2025/sv135-70869",
+   "short": "Закон за електронските комуникации",
+   "title": "Закон за електронските комуникации",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70869",
+   "versions": [
+    {
+     "from": "2025-07-12",
+     "units": 294,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70869",
+     "sha256": "039afd95783f33a6b92ed43fb38f71a34e9e40d3b71a99edadfd0a6cd0e49a7b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sv135-70870",
+   "path": "zakon/2025/sv135-70870",
+   "short": "Закон за архивски материјал и архивска дејност",
+   "title": "Закон за архивски материјал и архивска дејност",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70870",
+   "versions": [
+    {
+     "from": "2025-07-12",
+     "units": 90,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70870",
+     "sha256": "eb9782b7c6bb6ed20b2a22cf070d7292f8e40335c7008e65a7db8c1408ba2e57"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-sv135-70871",
    "path": "zakon/2025/sv135-70871",
    "short": "Закон за изменување на Законот за стоковните резерви",
@@ -66961,6 +69178,21 @@
      "units": 2,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70871",
      "sha256": "7082cf050635ce2565b6a8eb148bb55460c38d6ee9d61acd07b85ad1fb86a7de"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sv135-70872",
+   "path": "zakon/2025/sv135-70872",
+   "short": "Закон за инспекциски надзор",
+   "title": "Закон за инспекциски надзор",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70872",
+   "versions": [
+    {
+     "from": "2025-07-12",
+     "units": 121,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70872",
+     "sha256": "450697b3703065767e5cf81c21ce363886de8b196f677d0b4a4775f414a29541"
     }
    ]
   },
@@ -67100,6 +69332,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-sv144-71000",
+   "path": "zakon/2025/sv144-71000",
+   "short": "Закон за стручно усовршување и обука на адмнистративните службеници",
+   "title": "Закон за стручно усовршување и обука на адмнистративните службеници",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71000",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 55,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71000",
+     "sha256": "17fc3fb8189394db5fd6a616560639b4721c54d37f45a2d525a0e832f31412d5"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-sv144-71008",
    "path": "zakon/2025/sv144-71008",
    "short": "Закон за изменување на Законот за научно-истражувачката дејност",
@@ -67111,6 +69358,36 @@
      "units": 2,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71008",
      "sha256": "6f13e963db4b5fdc17ac4d07cc73e20b8991c9240b0bfbc4228ee6a1f68c76b5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sv144-71009",
+   "path": "zakon/2025/sv144-71009",
+   "short": "Закон за вработените во јавниот сектор",
+   "title": "Закон за вработените во јавниот сектор",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71009",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 81,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71009",
+     "sha256": "fef9820d7b304652cb56a786f718bc0d054e1dd283180e16ec343745170e0e7b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sv144-71010",
+   "path": "zakon/2025/sv144-71010",
+   "short": "Закон за административни службеници",
+   "title": "Закон за административни службеници",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71010",
+   "versions": [
+    {
+     "from": "2025-07-25",
+     "units": 152,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71010",
+     "sha256": "447151cce0659517fd3936d88df981dc77998e2774314133eb5436dded8bd21a"
     }
    ]
   },
@@ -67220,6 +69497,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-sv154-71154",
+   "path": "zakon/2025/sv154-71154",
+   "short": "Закон за иновациската дејност, научно-технолошки развој и претприемништво",
+   "title": "Закон за иновациската дејност, научно-технолошки развој и претприемништво",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71154",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 70,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71154",
+     "sha256": "0160cd39ad7dc9a13f9f7fba534766f55bc33fe76ef2e2db52162c405d373b9b"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-sv154-71155",
    "path": "zakon/2025/sv154-71155",
    "short": "Закон за изменување на Законот за стоковните резерви",
@@ -67231,6 +69523,21 @@
      "units": 2,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71155",
      "sha256": "9847d86102d1cfe0d8a63617992476e569e113a64bcd30f50c9861f5639d8603"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sv154-71156",
+   "path": "zakon/2025/sv154-71156",
+   "short": "Закон за изменување и дополнување на Законот за технолошки индустриски развојни зони",
+   "title": "Закон за изменување и дополнување на Законот за технолошки индустриски развојни зони",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71156",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 27,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71156",
+     "sha256": "ec019b5a5e30848f77ccba0408446b33dc28291aa170af7cb41c0b49faa05ab9"
     }
    ]
   },
@@ -67306,6 +69613,21 @@
      "units": 2,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71289",
      "sha256": "ffb49e58185de38cf8790c8104d397d47aaceaba3e8b560ee7a5200b02d80fa4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sv160-71290",
+   "path": "zakon/2025/sv160-71290",
+   "short": "Закон за внатрешни работи",
+   "title": "Закон за внатрешни работи",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71290",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 252,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71290",
+     "sha256": "60f4459066237032aa8d36a1b654669e2da9e7b4842b282699e42f1f40f8145e"
     }
    ]
   },
@@ -68120,6 +70442,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-sv258-72407",
+   "path": "zakon/2025/sv258-72407",
+   "short": "Закон за средно полициско училиште",
+   "title": "Закон за средно полициско училиште",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72407",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 22,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72407",
+     "sha256": "1a9e1213c9acc236c7b1d8b77fe38a5ed0b851e152b3e7dd503936610ceaeb34"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-sv266-72542",
    "path": "zakon/2025/sv266-72542",
    "short": "Закон за задолжување на Република Северна Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за финансирање на проектот „Обновување на товарниот возен парк“ на Железници на Република Северна Македонија Транспорт АД - Скопје",
@@ -68251,6 +70588,21 @@
      "units": 7,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72553",
      "sha256": "130f100ad9e47ad4c3da8086f38daea121ec1a0c0fa74f1824e2265f094b5455"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sv269-72599",
+   "path": "zakon/2025/sv269-72599",
+   "short": "Закон за Судскиот совет на Република Северна Македонија",
+   "title": "Закон за Судскиот совет на Република Северна Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72599",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 145,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72599",
+     "sha256": "a71495a0a42a76431fe337d690ad073dd68a820c11010071a811dc790490743a"
     }
    ]
   },
@@ -68495,6 +70847,21 @@
    ]
   },
   {
+   "slug": "zakon-2026-sv039-73124",
+   "path": "zakon/2026/sv039-73124",
+   "short": "Закон за изменување на Законот за плата и други надоместоци на избрани и именувани лица во Република Македонија",
+   "title": "Закон за изменување на Законот за плата и други надоместоци на избрани и именувани лица во Република Македонија",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73124",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 9,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73124",
+     "sha256": "a12541cca43cef843767163516b2a176d36e4539702ee1cc703581a0dcb67a01"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2026-sv039-73126",
    "path": "zakon/2026/sv039-73126",
    "short": "Закон за изменување на Законот за пратениците",
@@ -68551,6 +70918,21 @@
      "units": 3,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73129",
      "sha256": "a7e1ec0564f0525365b8d775b3fc4c04e6bea7aed2f8317217f90d9d8f4a4abc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sv041-73131",
+   "path": "zakon/2026/sv041-73131",
+   "short": "Закон за изменување на Законот за постапување со бесправно изградени објекти",
+   "title": "Закон за изменување на Законот за постапување со бесправно изградени објекти",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73131",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 2,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73131",
+     "sha256": "354ff089b8fa47dac2c4d966c46a490ebe13349ffed6f281c2c7b612bf3ae9e2"
     }
    ]
   },
@@ -69301,6 +71683,21 @@
      "units": 160,
      "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74168",
      "sha256": "79d65fda39f98f3b6e937f7985daf1e5e0c4ee93c5383b66f22a4e98c99efcae"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sv146-74169",
+   "path": "zakon/2026/sv146-74169",
+   "short": "Закон за високи раководители",
+   "title": "Закон за високи раководители",
+   "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74169",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 82,
+     "source_url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74169",
+     "sha256": "7885aaf6a43cd464f0b452976b33e6839019716815b1d2249ea4131fe15927fd"
     }
    ]
   },

@@ -189995,6 +189995,54 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42629"
 },
 {
+"slug": "zakon-2018-sv011-42630",
+"path": "zakon/2018/sv011-42630",
+"kind": "zakon",
+"year": "2018",
+"number": "sv011-42630",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за безбедност на сообраќајот на патиштата",
+"short": "Закон за изменување на Законот за безбедност на сообраќајот на патиштата",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-01-26",
+"latest": "2018-01-26",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42630",
+"amended_by": [
+{
+"ref": "ldbis:47172",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 59/2018 од 27 март 2019 година („Службен весник на Република Северна Македонија“ бр. 70/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47172"
+}
+]
+},
+{
+"slug": "zakon-2018-sv011-42631",
+"path": "zakon/2018/sv011-42631",
+"kind": "zakon",
+"year": "2018",
+"number": "sv011-42631",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за трговија на зелени пазари",
+"short": "Закон за трговија на зелени пазари",
+"code": null,
+"status": "repealed 2020-01-04",
+"versions": 2,
+"from": "2018-01-18",
+"latest": "2020-01-04",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42631",
+"amended_by": [
+{
+"ref": "ldbis:43249",
+"title": "Закон за изменување на Законот за трговија на зелени пазари („Службен весник на Република Македонија“ бр. 27/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43249"
+}
+]
+},
+{
 "slug": "zakon-2018-sv011-42632",
 "path": "zakon/2018/sv011-42632",
 "kind": "zakon",
@@ -190027,6 +190075,30 @@
 "from": "2018-01-26",
 "latest": "2018-01-26",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42634"
+},
+{
+"slug": "zakon-2018-sv011-42635",
+"path": "zakon/2018/sv011-42635",
+"kind": "zakon",
+"year": "2018",
+"number": "sv011-42635",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за основање на Државна комисија за одлучување во втор степен во областа на инспекцискиот надзор и прекршочната постапка",
+"short": "Закон за изменување и дополнување на Законот за основање на Државна комисија за одлучување во втор степен во областа на инспекцискиот надзор и прекршочната постапка",
+"code": null,
+"status": "repealed 2024-09-19",
+"versions": 2,
+"from": "2018-01-26",
+"latest": "2024-09-19",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42635",
+"amended_by": [
+{
+"ref": "ldbis:42859",
+"title": "Одлука на Уставниот суд на Република Македонија, У. бр. 63/2017 од 20 јуни 2018 година („Службен весник на Република Македонија“ бр. 122/2018)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42859"
+}
+]
 },
 {
 "slug": "zakon-2018-sv011-42638",
@@ -190078,6 +190150,35 @@
 "from": "2018-01-26",
 "latest": "2018-01-26",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42640"
+},
+{
+"slug": "zakon-2018-sv011-42641",
+"path": "zakon/2018/sv011-42641",
+"kind": "zakon",
+"year": "2018",
+"number": "sv011-42641",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за урбано зеленило",
+"short": "Закон за урбано зеленило",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-01-26",
+"latest": "2018-01-26",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42641",
+"amended_by": [
+{
+"ref": "ldbis:52050",
+"title": "Закон за изменување и дополнување на Законот за урбано зеленило („Службен весник на Република Северна Македонија“ бр. 42/2020)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52050"
+},
+{
+"ref": "ldbis:68199",
+"title": "Закон за изменување на Законот за урбано зеленило („Службен весник на Република Северна Македонија“ бр. 224/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68199"
+}
+]
 },
 {
 "slug": "zakon-2018-sv011-42642",
@@ -190301,6 +190402,35 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42669"
 },
 {
+"slug": "zakon-2018-sv021-42671",
+"path": "zakon/2018/sv021-42671",
+"kind": "zakon",
+"year": "2018",
+"number": "sv021-42671",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за заштита на децата",
+"short": "Закон за изменување и дополнување на Законот за заштита на децата",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-02-10",
+"latest": "2018-02-10",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42671",
+"amended_by": [
+{
+"ref": "ldbis:73954",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.113/2025 од 20 мај 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73954"
+},
+{
+"ref": "ldbis:74614",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.112/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74614"
+}
+]
+},
+{
 "slug": "zakon-2018-sv021-42672",
 "path": "zakon/2018/sv021-42672",
 "kind": "zakon",
@@ -190333,6 +190463,35 @@
 "from": "2018-02-23",
 "latest": "2018-02-23",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42677"
+},
+{
+"slug": "zakon-2018-sv035-42679",
+"path": "zakon/2018/sv035-42679",
+"kind": "zakon",
+"year": "2018",
+"number": "sv035-42679",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за градење",
+"short": "Закон за изменување и дополнување на Законот за градење",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-02-23",
+"latest": "2018-02-23",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42679",
+"amended_by": [
+{
+"ref": "ldbis:56145",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 15/2020 од 24 февруари 2021 година („Службен весник на Република Северна Македонија“ бр. 96/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56145"
+},
+{
+"ref": "ldbis:63140",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 109/2022 од 23 мај 2023 година („Службен весник на Република Северна Македонија“ бр. 115/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63140"
+}
+]
 },
 {
 "slug": "zakon-2018-sv035-42680",
@@ -190384,6 +190543,30 @@
 "from": "2018-02-23",
 "latest": "2018-02-23",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42682"
+},
+{
+"slug": "zakon-2018-sv035-42683",
+"path": "zakon/2018/sv035-42683",
+"kind": "zakon",
+"year": "2018",
+"number": "sv035-42683",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Изборниот законик",
+"short": "Закон за изменување и дополнување на Изборниот законик",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-02-23",
+"latest": "2018-02-23",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42683",
+"amended_by": [
+{
+"ref": "ldbis:49842",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 82/2017 од 10 јули 2019 година („Службен весник на Република Северна Македонија“ бр. 146/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49842"
+}
+]
 },
 {
 "slug": "zakon-2018-sv035-42689",
@@ -190726,6 +190909,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42718"
 },
 {
+"slug": "zakon-2018-sv064-42719",
+"path": "zakon/2018/sv064-42719",
+"kind": "zakon",
+"year": "2018",
+"number": "sv064-42719",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за трговските друштва",
+"short": "Закон за изменување и дополнување на Законот за трговските друштва",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-04-19",
+"latest": "2018-04-19",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42719",
+"amended_by": [
+{
+"ref": "ldbis:43200",
+"title": "Одлука на Уставен суд на Република Македонија, У. бр. 38/2018 од 12 декември 2018 година („Службен весник на Република Македонија“ бр. 239/2018)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43200"
+}
+]
+},
+{
 "slug": "zakon-2018-sv064-42720",
 "path": "zakon/2018/sv064-42720",
 "kind": "zakon",
@@ -190879,6 +191086,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42730"
 },
 {
+"slug": "zakon-2018-sv064-42731",
+"path": "zakon/2018/sv064-42731",
+"kind": "zakon",
+"year": "2018",
+"number": "sv064-42731",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за матичната евиденција",
+"short": "Закон за изменување на Законот за матичната евиденција",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-04-19",
+"latest": "2018-04-19",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42731",
+"amended_by": [
+{
+"ref": "ldbis:66576",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр.92/2023 од 28 февруари 2024 година („Службен весник на Република Северна Македонија“ бр. 83/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66576"
+}
+]
+},
+{
 "slug": "zakon-2018-sv064-42732",
 "path": "zakon/2018/sv064-42732",
 "kind": "zakon",
@@ -190928,6 +191159,35 @@
 "from": "2018-04-11",
 "latest": "2018-04-11",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42734"
+},
+{
+"slug": "zakon-2018-sv064-42735",
+"path": "zakon/2018/sv064-42735",
+"kind": "zakon",
+"year": "2018",
+"number": "sv064-42735",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за меѓународна и привремена заштита",
+"short": "Закон за меѓународна и привремена заштита",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-04-19",
+"latest": "2018-04-19",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42735",
+"amended_by": [
+{
+"ref": "ldbis:69620",
+"title": "Закон за изменување на Законот за меѓународна и привремена заштита („Службен весник на Република Северна Македонија“ бр. 45/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69620"
+},
+{
+"ref": "ldbis:74429",
+"title": "Закон за изменување и дополнување на Законот за меѓународна и привремена заштита („Службен весник на Република Северна Македонија“ бр. 172/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74429"
+}
+]
 },
 {
 "slug": "zakon-2018-sv064-42736",
@@ -191030,6 +191290,35 @@
 "from": "2018-04-19",
 "latest": "2018-04-19",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42744"
+},
+{
+"slug": "zakon-2018-sv064-42745",
+"path": "zakon/2018/sv064-42745",
+"kind": "zakon",
+"year": "2018",
+"number": "sv064-42745",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за градење",
+"short": "Закон за изменување и дополнување на Законот за градење",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-04-19",
+"latest": "2018-04-19",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42745",
+"amended_by": [
+{
+"ref": "ldbis:56145",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 15/2020 од 24 февруари 2021 година („Службен весник на Република Северна Македонија“ бр. 96/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56145"
+},
+{
+"ref": "ldbis:63140",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 109/2022 од 23 мај 2023 година („Службен весник на Република Северна Македонија“ бр. 115/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63140"
+}
+]
 },
 {
 "slug": "zakon-2018-sv064-42746",
@@ -191219,6 +191508,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42769"
 },
 {
+"slug": "zakon-2018-sv064-42770",
+"path": "zakon/2018/sv064-42770",
+"kind": "zakon",
+"year": "2018",
+"number": "sv064-42770",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за средното образование",
+"short": "Закон за изменување и дополнување на Законот за средното образование",
+"code": null,
+"status": "repealed 2019-08-13",
+"versions": 2,
+"from": "2018-04-19",
+"latest": "2019-08-13",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42770",
+"amended_by": [
+{
+"ref": "ldbis:65086",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр.81/2023 од 5 декември 2023 година („Службен весник на Република Северна Македонија“ бр. 269/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65086"
+}
+]
+},
+{
 "slug": "zakon-2018-sv071-43215",
 "path": "zakon/2018/sv071-43215",
 "kind": "zakon",
@@ -191234,6 +191547,93 @@
 "from": "2018-04-19",
 "latest": "2018-04-19",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43215"
+},
+{
+"slug": "zakon-2018-sv071-43216",
+"path": "zakon/2018/sv071-43216",
+"kind": "zakon",
+"year": "2018",
+"number": "sv071-43216",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за Оперативно - техничка агенција",
+"short": "Закон за Оперативно - техничка агенција",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-04-27",
+"latest": "2018-04-27",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43216",
+"amended_by": [
+{
+"ref": "ldbis:49107",
+"title": "Закон за изменување на Законот за Оперативно - техничка агенција („Службен весник на Република Северна Македонија“ бр. 98/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49107"
+}
+]
+},
+{
+"slug": "zakon-2018-sv071-43217",
+"path": "zakon/2018/sv071-43217",
+"kind": "zakon",
+"year": "2018",
+"number": "sv071-43217",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за следење на комуникациите",
+"short": "Закон за следење на комуникациите",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-04-27",
+"latest": "2018-04-27",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43217",
+"amended_by": [
+{
+"ref": "ldbis:49249",
+"title": "Закон за изменување на Законот за следење на комуникациите („Службен весник на Република Северна Македонија“ бр. 108/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49249"
+},
+{
+"ref": "ldbis:63687",
+"title": "Закон за изменување и дополнување на Законот за следење на комуникациите („Службен весник на Република Северна Македонија“ бр. 154/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63687"
+}
+]
+},
+{
+"slug": "zakon-2018-sv082-42778",
+"path": "zakon/2018/sv082-42778",
+"kind": "zakon",
+"year": "2018",
+"number": "sv082-42778",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за високото образование",
+"short": "Закон за високото образование",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-05-16",
+"latest": "2018-05-16",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42778",
+"amended_by": [
+{
+"ref": "ldbis:57121",
+"title": "Закон за изменување и дополнување на Законот за високото образование („Службен весник на Република Северна Македонија“ бр. 178/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57121"
+},
+{
+"ref": "ldbis:66307",
+"title": "Закон за дополнување на Законот за високото образование („Службен весник на Република Северна Македонија“ бр. 58/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66307"
+},
+{
+"ref": "ldbis:70758",
+"title": "Закон за изменување на Законот за високото образование („Службен весник на Република Северна Македонија“ бр. 124/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70758"
+}
+]
 },
 {
 "slug": "zakon-2018-sv083-42780",
@@ -191457,6 +191857,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42796"
 },
 {
+"slug": "zakon-2018-sv083-42797",
+"path": "zakon/2018/sv083-42797",
+"kind": "zakon",
+"year": "2018",
+"number": "sv083-42797",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за Народната банка на Република Македонија",
+"short": "Закон за изменување и дополнување на Законот за Народната банка на Република Македонија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-05-16",
+"latest": "2018-05-16",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42797",
+"amended_by": [
+{
+"ref": "ldbis:67031",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр.130/2022 од 15 мај 2024 година („Службен весник на Република Северна Македонија“ бр. 121/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67031"
+}
+]
+},
+{
 "slug": "zakon-2018-sv083-42798",
 "path": "zakon/2018/sv083-42798",
 "kind": "zakon",
@@ -191678,6 +192102,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42818"
 },
 {
+"slug": "zakon-2018-sv083-42819",
+"path": "zakon/2018/sv083-42819",
+"kind": "zakon",
+"year": "2018",
+"number": "sv083-42819",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за дополнување на Законот за комплементарна и алтернативна медицина",
+"short": "Закон за дополнување на Законот за комплементарна и алтернативна медицина",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-05-16",
+"latest": "2018-05-16",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42819",
+"amended_by": [
+{
+"ref": "ldbis:55973",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 22/2019 од 21 април 2021 година („Службен весник на Република Северна Македонија“ бр. 107/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55973"
+}
+]
+},
+{
 "slug": "zakon-2018-sv083-42820",
 "path": "zakon/2018/sv083-42820",
 "kind": "zakon",
@@ -191746,6 +192194,74 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42823"
 },
 {
+"slug": "zakon-2018-sv083-42824",
+"path": "zakon/2018/sv083-42824",
+"kind": "zakon",
+"year": "2018",
+"number": "sv083-42824",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за дополнување на Законот за технолошки индустриски развојни зони",
+"short": "Закон за дополнување на Законот за технолошки индустриски развојни зони",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-05-16",
+"latest": "2018-05-16",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42824",
+"amended_by": [
+{
+"ref": "ldbis:73104",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.42/2025 од 21 јануари 2026 година („Службен весник на Република Северна Македонија“ бр. 36/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73104"
+}
+]
+},
+{
+"slug": "zakon-2018-sv083-42825",
+"path": "zakon/2018/sv083-42825",
+"kind": "zakon",
+"year": "2018",
+"number": "sv083-42825",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за финансиска поддршка на инвестиции",
+"short": "Закон за финансиска поддршка на инвестиции",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-05-16",
+"latest": "2018-05-16",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42825",
+"amended_by": [
+{
+"ref": "ldbis:49098",
+"title": "Закон за изменување и дополнување на Законот за финансиска поддршка на инвестиции („Службен весник на Република Северна Македонија“ бр. 98/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49098"
+},
+{
+"ref": "ldbis:49506",
+"title": "Закон за изменување и дополнување на Законот за финансиска поддршка на инвестиции („Службен весник на Република Северна Македонија“ бр. 124/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49506"
+},
+{
+"ref": "ldbis:57123",
+"title": "Закон за изменување и дополнување на Законот за финансиска поддршка на инвестиции („Службен весник на Република Северна Македонија“ бр. 178/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57123"
+},
+{
+"ref": "ldbis:71157",
+"title": "Закон за изменување и дополнување на Законот за финансиска поддршка на инвестиции („Службен весник на Република Северна Македонија“ бр. 154/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71157"
+},
+{
+"ref": "ldbis:74835",
+"title": "Закон за дополнување на Законот за финансиска поддршка на инвестиции („Службен весник на Република Северна Македонија“ бр. 212/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74835"
+}
+]
+},
+{
 "slug": "zakon-2018-sv083-42826",
 "path": "zakon/2018/sv083-42826",
 "kind": "zakon",
@@ -191778,6 +192294,30 @@
 "from": "2018-05-08",
 "latest": "2018-05-08",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42955"
+},
+{
+"slug": "zakon-2018-sv083-42964",
+"path": "zakon/2018/sv083-42964",
+"kind": "zakon",
+"year": "2018",
+"number": "sv083-42964",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за технолошки индустриски развојни зони",
+"short": "Закон за изменување и дополнување на Законот за технолошки индустриски развојни зони",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-05-08",
+"latest": "2018-05-08",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42964",
+"amended_by": [
+{
+"ref": "ldbis:73104",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.42/2025 од 21 јануари 2026 година („Службен весник на Република Северна Македонија“ бр. 36/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73104"
+}
+]
 },
 {
 "slug": "zakon-2018-sv083-42966",
@@ -191848,6 +192388,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42809"
 },
 {
+"slug": "zakon-2018-sv099-42833",
+"path": "zakon/2018/sv099-42833",
+"kind": "zakon",
+"year": "2018",
+"number": "sv099-42833",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Изборниот законик",
+"short": "Закон за изменување на Изборниот законик",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-05-29",
+"latest": "2018-05-29",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42833",
+"amended_by": [
+{
+"ref": "ldbis:49842",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 82/2017 од 10 јули 2019 година („Службен весник на Република Северна Македонија“ бр. 146/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49842"
+}
+]
+},
+{
 "slug": "zakon-2018-sv113-42835",
 "path": "zakon/2018/sv113-42835",
 "kind": "zakon",
@@ -191916,6 +192480,35 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42839"
 },
 {
+"slug": "zakon-2018-sv120-42840",
+"path": "zakon/2018/sv120-42840",
+"kind": "zakon",
+"year": "2018",
+"number": "sv120-42840",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за спречување на перење пари и финансирање на тероризам",
+"short": "Закон за спречување на перење пари и финансирање на тероризам",
+"code": null,
+"status": "repealed 2022-07-12",
+"versions": 2,
+"from": "2018-07-07",
+"latest": "2022-07-12",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42840",
+"amended_by": [
+{
+"ref": "ldbis:51404",
+"title": "Закон за дополнување на Законот за спречување на перење пари и финансирање на тероризам („Службен весник на Република Северна Македонија“ бр. 275/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51404"
+},
+{
+"ref": "ldbis:54843",
+"title": "Закон за изменување и дополнување на Законот за спречување на перење пари и финансирање на тероризам („Службен весник на Република Северна Македонија“ бр. 317/2020)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54843"
+}
+]
+},
+{
 "slug": "zakon-2018-sv120-42841",
 "path": "zakon/2018/sv120-42841",
 "kind": "zakon",
@@ -191950,6 +192543,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42844"
 },
 {
+"slug": "zakon-2018-sv120-42845",
+"path": "zakon/2018/sv120-42845",
+"kind": "zakon",
+"year": "2018",
+"number": "sv120-42845",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за трговија",
+"short": "Закон за изменување на Законот за трговија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-07-07",
+"latest": "2018-07-07",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42845",
+"amended_by": [
+{
+"ref": "ldbis:62842",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 114/2022 од 20 април 2023 година („Службен весник на Република Северна Македонија“ бр. 93/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62842"
+}
+]
+},
+{
 "slug": "zakon-2018-sv120-42847",
 "path": "zakon/2018/sv120-42847",
 "kind": "zakon",
@@ -191965,6 +192582,30 @@
 "from": "2018-07-07",
 "latest": "2018-07-07",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42847"
+},
+{
+"slug": "zakon-2018-sv120-42848",
+"path": "zakon/2018/sv120-42848",
+"kind": "zakon",
+"year": "2018",
+"number": "sv120-42848",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за трговските друштва",
+"short": "Закон за изменување и дополнување на Законот за трговските друштва",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-06-29",
+"latest": "2018-06-29",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42848",
+"amended_by": [
+{
+"ref": "ldbis:43200",
+"title": "Одлука на Уставен суд на Република Македонија, У. бр. 38/2018 од 12 декември 2018 година („Службен весник на Република Македонија“ бр. 239/2018)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43200"
+}
+]
 },
 {
 "slug": "zakon-2018-sv120-42849",
@@ -192035,6 +192676,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42923"
 },
 {
+"slug": "zakon-2018-sv140-42924",
+"path": "zakon/2018/sv140-42924",
+"kind": "zakon",
+"year": "2018",
+"number": "sv140-42924",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Изборниот законик",
+"short": "Закон за изменување и дополнување на Изборниот законик",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-07-30",
+"latest": "2018-07-30",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42924",
+"amended_by": [
+{
+"ref": "ldbis:49842",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 82/2017 од 10 јули 2019 година („Службен весник на Република Северна Македонија“ бр. 146/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49842"
+}
+]
+},
+{
 "slug": "zakon-2018-sv140-42930",
 "path": "zakon/2018/sv140-42930",
 "kind": "zakon",
@@ -192101,6 +192766,30 @@
 "from": "2018-09-12",
 "latest": "2023-06-29",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43129"
+},
+{
+"slug": "zakon-2018-sv163-43130",
+"path": "zakon/2018/sv163-43130",
+"kind": "zakon",
+"year": "2018",
+"number": "sv163-43130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за задолжување на Република Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на Проектот за унапредување на социјалните услуги",
+"short": "Закон за задолжување на Република Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на Проектот за унапредување на социјалните услуги",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-09-04",
+"latest": "2018-09-04",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43130",
+"amended_by": [
+{
+"ref": "ldbis:68960",
+"title": "Закон изменување на Законот за задолжување на Република Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на Проектот за унапредување на социјалните услуги („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68960"
+}
+]
 },
 {
 "slug": "zakon-2018-sv163-43131",
@@ -192222,6 +192911,59 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43158"
 },
 {
+"slug": "zakon-2018-sv198-43159",
+"path": "zakon/2018/sv198-43159",
+"kind": "zakon",
+"year": "2018",
+"number": "sv198-43159",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за материјално обезбедување на невработените лица поради приватизацијата на претпријатијата со доминантна сопственост на државата",
+"short": "Закон за материјално обезбедување на невработените лица поради приватизацијата на претпријатијата со доминантна сопственост на државата",
+"code": null,
+"status": "repealed 2020-01-16",
+"versions": 2,
+"from": "2018-10-31",
+"latest": "2020-01-16",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43159",
+"amended_by": [
+{
+"ref": "ldbis:43205",
+"title": "Закон за изменување на Законот за материјално обезбедување на невработените лица поради приватизацијата на претпријатијата со доминантна сопственост на државата („Службен весник на Република Македонија“ бр. 241/2018)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43205"
+}
+]
+},
+{
+"slug": "zakon-2018-sv198-43160",
+"path": "zakon/2018/sv198-43160",
+"kind": "zakon",
+"year": "2018",
+"number": "sv198-43160",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за заштита на децата",
+"short": "Закон за изменување и дополнување на Законот за заштита на децата",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-11-08",
+"latest": "2018-11-08",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43160",
+"amended_by": [
+{
+"ref": "ldbis:73954",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.113/2025 од 20 мај 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73954"
+},
+{
+"ref": "ldbis:74614",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.112/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74614"
+}
+]
+},
+{
 "slug": "zakon-2018-sv198-43163",
 "path": "zakon/2018/sv198-43163",
 "kind": "zakon",
@@ -192254,6 +192996,30 @@
 "from": "2018-11-14",
 "latest": "2018-11-14",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43176"
+},
+{
+"slug": "zakon-2018-sv208-43177",
+"path": "zakon/2018/sv208-43177",
+"kind": "zakon",
+"year": "2018",
+"number": "sv208-43177",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Изборниот законик",
+"short": "Закон за изменување на Изборниот законик",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-11-14",
+"latest": "2018-11-14",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43177",
+"amended_by": [
+{
+"ref": "ldbis:49842",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 82/2017 од 10 јули 2019 година („Службен весник на Република Северна Македонија“ бр. 146/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49842"
+}
+]
 },
 {
 "slug": "zakon-2018-sv208-51844",
@@ -192494,6 +193260,40 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43198"
 },
 {
+"slug": "zakon-2018-sv241-43203",
+"path": "zakon/2018/sv241-43203",
+"kind": "zakon",
+"year": "2018",
+"number": "sv241-43203",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за данокот на личен доход",
+"short": "Закон за данокот на личен доход",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2018-12-26",
+"latest": "2018-12-26",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43203",
+"amended_by": [
+{
+"ref": "ldbis:51389",
+"title": "Закон за изменување и дополнување на Законот за данокот на личен доход („Службен весник на Република Северна Македонија“ бр. 275/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51389"
+},
+{
+"ref": "ldbis:54430",
+"title": "Закон за изменување и дополнување на Законот за данокот на личен доход („Службен весник на Република Северна Македонија“ бр. 290/2020)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54430"
+},
+{
+"ref": "ldbis:61525",
+"title": "Закон за изменување и дополнување на Законот за данокот на личен доход („Службен весник на Република Северна Македонија“ бр. 274/2022)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61525"
+}
+]
+},
+{
 "slug": "zakon-2018-sv241-43204",
 "path": "zakon/2018/sv241-43204",
 "kind": "zakon",
@@ -192628,6 +193428,30 @@
 "from": "2018-12-31",
 "latest": "2018-12-31",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43212"
+},
+{
+"slug": "zakon-2018-sv248-43213",
+"path": "zakon/2018/sv248-43213",
+"kind": "zakon",
+"year": "2018",
+"number": "sv248-43213",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги",
+"short": "Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-01-08",
+"latest": "2019-01-08",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43213",
+"amended_by": [
+{
+"ref": "ldbis:55300",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 13/2020 од 17 февруари 2021 година („Службен весник на Република Северна Македонија“ бр. 48/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55300"
+}
+]
 },
 {
 "slug": "zakon-2018-sv248-43214",
@@ -196452,6 +197276,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47855"
 },
 {
+"slug": "zakon-2019-sv007-43223",
+"path": "zakon/2019/sv007-43223",
+"kind": "zakon",
+"year": "2019",
+"number": "sv007-43223",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за банките",
+"short": "Закон за изменување и дополнување на Законот за банките",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-01-14",
+"latest": "2019-01-14",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43223",
+"amended_by": [
+{
+"ref": "ldbis:56374",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 247/2020 од 25 мај 2021 година („Службен весник на Република Северна Македонија“ бр. 125/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56374"
+}
+]
+},
+{
 "slug": "zakon-2019-sv012-43235",
 "path": "zakon/2019/sv012-43235",
 "kind": "zakon",
@@ -196588,6 +197436,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43245"
 },
 {
+"slug": "zakon-2019-sv027-43246",
+"path": "zakon/2019/sv027-43246",
+"kind": "zakon",
+"year": "2019",
+"number": "sv027-43246",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги",
+"short": "Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-02-05",
+"latest": "2019-02-05",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43246",
+"amended_by": [
+{
+"ref": "ldbis:55300",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 13/2020 од 17 февруари 2021 година („Службен весник на Република Северна Македонија“ бр. 48/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55300"
+}
+]
+},
+{
 "slug": "zakon-2019-sv027-43248",
 "path": "zakon/2019/sv027-43248",
 "kind": "zakon",
@@ -196707,6 +197579,35 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49090"
 },
 {
+"slug": "zakon-2019-sv098-49092",
+"path": "zakon/2019/sv098-49092",
+"kind": "zakon",
+"year": "2019",
+"number": "sv098-49092",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за практиканство",
+"short": "Закон за практиканство",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-05-29",
+"latest": "2019-05-29",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49092",
+"amended_by": [
+{
+"ref": "ldbis:55869",
+"title": "Закон за изменување на Законот за практиканство („Службен весник на Република Северна Македонија“ бр. 103/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55869"
+},
+{
+"ref": "ldbis:70162",
+"title": "Закон за изменување на Законот за практиканство („Службен весник на Република Северна Македонија“ бр. 86/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70162"
+}
+]
+},
+{
 "slug": "zakon-2019-sv098-49094",
 "path": "zakon/2019/sv098-49094",
 "kind": "zakon",
@@ -196739,6 +197640,35 @@
 "from": "2019-05-21",
 "latest": "2019-05-21",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49095"
+},
+{
+"slug": "zakon-2019-sv098-49096",
+"path": "zakon/2019/sv098-49096",
+"kind": "zakon",
+"year": "2019",
+"number": "sv098-49096",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за Централен регистар на население",
+"short": "Закон за Централен регистар на население",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-05-29",
+"latest": "2019-05-29",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49096",
+"amended_by": [
+{
+"ref": "ldbis:51386",
+"title": "Закон за изменување на Законот за Централен регистар на население („Службен весник на Република Северна Македонија“ бр. 275/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51386"
+},
+{
+"ref": "ldbis:68929",
+"title": "Закон за изменување и дополнување на Законот за Централен регистар на население („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68929"
+}
+]
 },
 {
 "slug": "zakon-2019-sv098-49097",
@@ -196877,6 +197807,35 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49105"
 },
 {
+"slug": "zakon-2019-sv098-49106",
+"path": "zakon/2019/sv098-49106",
+"kind": "zakon",
+"year": "2019",
+"number": "sv098-49106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за електронско управување и електронски услуги",
+"short": "Закон за електронско управување и електронски услуги",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-05-29",
+"latest": "2019-05-29",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49106",
+"amended_by": [
+{
+"ref": "ldbis:51012",
+"title": "Закон за изменување на Законот за електронско управување и електронски услуги („Службен весник на Република Северна Македонија“ бр. 244/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51012"
+},
+{
+"ref": "ldbis:68965",
+"title": "Закон за изменување и дополнување на Законот за електронско управување и електронски услуги („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68965"
+}
+]
+},
+{
 "slug": "zakon-2019-sv098-49107",
 "path": "zakon/2019/sv098-49107",
 "kind": "zakon",
@@ -196894,6 +197853,40 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49107"
 },
 {
+"slug": "zakon-2019-sv098-49108",
+"path": "zakon/2019/sv098-49108",
+"kind": "zakon",
+"year": "2019",
+"number": "sv098-49108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за тутун, производи од тутун и сродни производи",
+"short": "Закон за тутун, производи од тутун и сродни производи",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-05-29",
+"latest": "2019-05-29",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49108",
+"amended_by": [
+{
+"ref": "ldbis:51925",
+"title": "Закон за изменување и дополнување на Законот за тутун, производи од тутун и сродни производи („Службен весник на Република Северна Македонија“ бр. 27/2020)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51925"
+},
+{
+"ref": "ldbis:55415",
+"title": "Закон за изменување и дополнување на Законот за тутун, производи од тутун и сродни производи („Службен весник на Република Северна Македонија“ бр. 56/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55415"
+},
+{
+"ref": "ldbis:71159",
+"title": "Закон за изменување и дополнување на Законот за тутун, производи од тутун и сродни производи („Службен весник на Република Северна Македонија“ бр. 154/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71159"
+}
+]
+},
+{
 "slug": "zakon-2019-sv101-49110",
 "path": "zakon/2019/sv101-49110",
 "kind": "zakon",
@@ -196909,6 +197902,30 @@
 "from": "2019-05-22",
 "latest": "2019-05-22",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49110"
+},
+{
+"slug": "zakon-2019-sv101-49111",
+"path": "zakon/2019/sv101-49111",
+"kind": "zakon",
+"year": "2019",
+"number": "sv101-49111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за бесплатна правна помош",
+"short": "Закон за бесплатна правна помош",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-05-30",
+"latest": "2019-05-30",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49111",
+"amended_by": [
+{
+"ref": "ldbis:67781",
+"title": "Закон за изменување и дополнување на Законот за бесплатна правна помош („Службен весник на Република Северна Македонија“ бр. 194/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67781"
+}
+]
 },
 {
 "slug": "zakon-2019-sv101-49113",
@@ -196979,6 +197996,40 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49116"
 },
 {
+"slug": "zakon-2019-sv101-49117",
+"path": "zakon/2019/sv101-49117",
+"kind": "zakon",
+"year": "2019",
+"number": "sv101-49117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за електронски документи, електронска идентификација и доверливи услуги",
+"short": "Закон за електронски документи, електронска идентификација и доверливи услуги",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-05-22",
+"latest": "2019-05-22",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49117",
+"amended_by": [
+{
+"ref": "ldbis:51413",
+"title": "Закон за изменување и дополнување на Законот за електронски документи, електронска идентификација и доверливи услуги („Службен весник на Република Северна Македонија“ бр. 275/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51413"
+},
+{
+"ref": "ldbis:68927",
+"title": "Закон за изменување и дополнување на Законот за електронски документи, електронска идентификација и доверливи услуги („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68927"
+},
+{
+"ref": "ldbis:70868",
+"title": "Закон за изменување и дополнување на Законот за електронски документи, електронска идентификација и доверливи услуги („Службен весник на Република Северна Македонија“ бр. 135/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70868"
+}
+]
+},
+{
 "slug": "zakon-2019-sv101-49118",
 "path": "zakon/2019/sv101-49118",
 "kind": "zakon",
@@ -197028,6 +198079,30 @@
 "from": "2019-05-22",
 "latest": "2019-05-22",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49120"
+},
+{
+"slug": "zakon-2019-sv101-49121",
+"path": "zakon/2019/sv101-49121",
+"kind": "zakon",
+"year": "2019",
+"number": "sv101-49121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за банките",
+"short": "Закон за изменување и дополнување на Законот за банките",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-05-22",
+"latest": "2019-05-22",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49121",
+"amended_by": [
+{
+"ref": "ldbis:56374",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 247/2020 од 25 мај 2021 година („Службен весник на Република Северна Македонија“ бр. 125/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56374"
+}
+]
 },
 {
 "slug": "zakon-2019-sv101-49122",
@@ -197115,6 +198190,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49127"
 },
 {
+"slug": "zakon-2019-sv102-49128",
+"path": "zakon/2019/sv102-49128",
+"kind": "zakon",
+"year": "2019",
+"number": "sv102-49128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за Судскиот совет на Република Северна Македонија",
+"short": "Закон за Судскиот совет на Република Северна Македонија",
+"code": null,
+"status": "repealed 2026-01-08",
+"versions": 2,
+"from": "2019-05-30",
+"latest": "2026-01-08",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49128",
+"amended_by": [
+{
+"ref": "ldbis:62325",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 233/2020 од 7 март 2023 година („Службен весник на Република Северна Македонија“ бр. 51/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62325"
+}
+]
+},
+{
 "slug": "zakon-2019-sv104-49153",
 "path": "zakon/2019/sv104-49153",
 "kind": "zakon",
@@ -197130,6 +198229,59 @@
 "from": "2019-05-31",
 "latest": "2019-05-31",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49153"
+},
+{
+"slug": "zakon-2019-sv104-49155",
+"path": "zakon/2019/sv104-49155",
+"kind": "zakon",
+"year": "2019",
+"number": "sv104-49155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за социјална сигурност за старите лица",
+"short": "Закон за социјална сигурност за старите лица",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-05-23",
+"latest": "2019-05-23",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49155",
+"amended_by": [
+{
+"ref": "ldbis:71632",
+"title": "Закон за изменување на Законот за социјална сигурност за старите лица („Службен весник на Република Северна Македонија“ бр. 192/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71632"
+}
+]
+},
+{
+"slug": "zakon-2019-sv104-49156",
+"path": "zakon/2019/sv104-49156",
+"kind": "zakon",
+"year": "2019",
+"number": "sv104-49156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за заштита на децата",
+"short": "Закон за изменување и дополнување на Законот за заштита на децата",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-05-23",
+"latest": "2019-05-23",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49156",
+"amended_by": [
+{
+"ref": "ldbis:73954",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.113/2025 од 20 мај 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73954"
+},
+{
+"ref": "ldbis:74614",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.112/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74614"
+}
+]
 },
 {
 "slug": "zakon-2019-sv108-49246",
@@ -197336,6 +198488,40 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49510"
 },
 {
+"slug": "zakon-2019-sv133-49649",
+"path": "zakon/2019/sv133-49649",
+"kind": "zakon",
+"year": "2019",
+"number": "sv133-49649",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за враќање на дел од данокот на додадена вредност на физичките лица",
+"short": "Закон за враќање на дел од данокот на додадена вредност на физичките лица",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-06-28",
+"latest": "2019-06-28",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49649",
+"amended_by": [
+{
+"ref": "ldbis:51399",
+"title": "Закон за изменување и дополнувањe на Законот за враќање на дел од данокот на додадена вредност на физичките лица („Службен весник на Република Северна Македонија“ бр. 275/2019)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51399"
+},
+{
+"ref": "ldbis:53975",
+"title": "Закон за изменување и дополнувањe на Законот за враќање на дел од данокот на додадена вредност на физичките лица („Службен весник на Република Северна Македонија“ бр. 244/2020)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53975"
+},
+{
+"ref": "ldbis:62572",
+"title": "Закон за изменување на Законот за враќање на дел од данокот на додадена вредност на физичките лица („Службен весник на Република Северна Македонија“ бр. 65/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62572"
+}
+]
+},
+{
 "slug": "zakon-2019-sv143-49812",
 "path": "zakon/2019/sv143-49812",
 "kind": "zakon",
@@ -197368,6 +198554,88 @@
 "from": "2019-07-20",
 "latest": "2019-07-20",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49813"
+},
+{
+"slug": "zakon-2019-sv143-49814",
+"path": "zakon/2019/sv143-49814",
+"kind": "zakon",
+"year": "2019",
+"number": "sv143-49814",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за контрола на надворешно трговскиот промет со необработени дијаманти",
+"short": "Закон за контрола на надворешно трговскиот промет со необработени дијаманти",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-07-20",
+"latest": "2019-07-20",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49814",
+"amended_by": [
+{
+"ref": "ldbis:68933",
+"title": "Закон за изменување на Законот за контрола на надворешно трговскиот промет со необработени дијаманти („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68933"
+}
+]
+},
+{
+"slug": "zakon-2019-sv146-49836",
+"path": "zakon/2019/sv146-49836",
+"kind": "zakon",
+"year": "2019",
+"number": "sv146-49836",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за социјалната заштита",
+"short": "Закон за изменување и дополнување на Законот за социјалната заштита",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-07-17",
+"latest": "2019-07-17",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49836",
+"amended_by": [
+{
+"ref": "ldbis:61516",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 27/2020 и У. бр. 289/2020 од 1 декември 2022 година („Службен весник на Република Северна Македонија“ бр. 273/2022)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61516"
+},
+{
+"ref": "ldbis:75339",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.47/2026 од 7 октомври 2026 година („Службен весник на Република Северна Македонија“ бр. 259/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75339"
+}
+]
+},
+{
+"slug": "zakon-2019-sv146-49837",
+"path": "zakon/2019/sv146-49837",
+"kind": "zakon",
+"year": "2019",
+"number": "sv146-49837",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за заштита на децата",
+"short": "Закон за изменување и дополнување на Законот за заштита на децата",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-07-17",
+"latest": "2019-07-17",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49837",
+"amended_by": [
+{
+"ref": "ldbis:73954",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.113/2025 од 20 мај 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73954"
+},
+{
+"ref": "ldbis:74614",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.112/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74614"
+}
+]
 },
 {
 "slug": "zakon-2019-sv152-49958",
@@ -197506,6 +198774,79 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50070"
 },
 {
+"slug": "zakon-2019-sv161-50072",
+"path": "zakon/2019/sv161-50072",
+"kind": "zakon",
+"year": "2019",
+"number": "sv161-50072",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за возила",
+"short": "Закон за изменување и дополнување на Законот за возила",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-08-13",
+"latest": "2019-08-13",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50072",
+"amended_by": [
+{
+"ref": "ldbis:54626",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 123/2019 од 9 декември 2020 година („Службен весник на Република Северна Македонија“ бр. 308/2020)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54626"
+}
+]
+},
+{
+"slug": "zakon-2019-sv161-50077",
+"path": "zakon/2019/sv161-50077",
+"kind": "zakon",
+"year": "2019",
+"number": "sv161-50077",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за основното образование",
+"short": "Закон за основното образование",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-08-13",
+"latest": "2019-08-13",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50077",
+"amended_by": [
+{
+"ref": "ldbis:53787",
+"title": "Закон за изменување и дополнување на Законот за основното образование („Службен весник на Република Северна Македонија“ бр. 229/2020)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53787"
+},
+{
+"ref": "ldbis:68911",
+"title": "Закон за изменување и дополнување на Законот за основното образование („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68911"
+},
+{
+"ref": "ldbis:69994",
+"title": "Закон за изменување на Законот за основното образование („Службен весник на Република Северна Македонија“ бр. 74/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69994"
+},
+{
+"ref": "ldbis:72342",
+"title": "Закон за изменување и дополнување на Законот за основното образование („Службен весник на Република Северна Македонија“ бр. 250/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72342"
+},
+{
+"ref": "ldbis:72344",
+"title": "Закон за изменување и дополнување на Законот за основното образование („Службен весник на Република Северна Македонија“ бр. 250/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72344"
+},
+{
+"ref": "ldbis:73837",
+"title": "Закон за изменување и дополнување на Законот за основното образование („Службен весник на Република Северна Македонија“ бр. 111/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73837"
+}
+]
+},
+{
 "slug": "zakon-2019-sv161-50080",
 "path": "zakon/2019/sv161-50080",
 "kind": "zakon",
@@ -197538,6 +198879,30 @@
 "from": "2019-08-13",
 "latest": "2019-08-13",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50086"
+},
+{
+"slug": "zakon-2019-sv161-50088",
+"path": "zakon/2019/sv161-50088",
+"kind": "zakon",
+"year": "2019",
+"number": "sv161-50088",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за возила",
+"short": "Закон за изменување на Законот за возила",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-08-05",
+"latest": "2019-08-05",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50088",
+"amended_by": [
+{
+"ref": "ldbis:54626",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 123/2019 од 9 декември 2020 година („Службен весник на Република Северна Македонија“ бр. 308/2020)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54626"
+}
+]
 },
 {
 "slug": "zakon-2019-sv180-50239",
@@ -197589,6 +198954,35 @@
 "from": "2019-09-02",
 "latest": "2019-09-02",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50241"
+},
+{
+"slug": "zakon-2019-sv180-50242",
+"path": "zakon/2019/sv180-50242",
+"kind": "zakon",
+"year": "2019",
+"number": "sv180-50242",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за јавните набавки во областа на одбраната и безбедноста",
+"short": "Закон за јавните набавки во областа на одбраната и безбедноста",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-09-10",
+"latest": "2019-09-10",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50242",
+"amended_by": [
+{
+"ref": "ldbis:57099",
+"title": "Закон за изменување и дополнување на Законот за јавните набавки во областа на одбраната и безбедноста („Службен весник на Република Северна Македонија“ бр. 176/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57099"
+},
+{
+"ref": "ldbis:73335",
+"title": "Закон за изменување и дополнување на Законот за јавните набавки во областа на одбраната и безбедноста („Службен весник на Република Северна Македонија“ бр. 58/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73335"
+}
+]
 },
 {
 "slug": "zakon-2019-sv180-50243",
@@ -197742,6 +199136,35 @@
 "from": "2019-10-16",
 "latest": "2019-10-16",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50687"
+},
+{
+"slug": "zakon-2019-sv220-50770",
+"path": "zakon/2019/sv220-50770",
+"kind": "zakon",
+"year": "2019",
+"number": "sv220-50770",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за Инспекторат за употреба на јазиците",
+"short": "Закон за Инспекторат за употреба на јазиците",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-11-02",
+"latest": "2019-11-02",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50770",
+"amended_by": [
+{
+"ref": "ldbis:52049",
+"title": "Закон за изменување и дополнување на Законот за Инспекторат за употреба на јазиците („Службен весник на Република Северна Македонија“ бр. 42/2020)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52049"
+},
+{
+"ref": "ldbis:70802",
+"title": "Закон за изменување на Законот за Инспекторат за употреба на јазиците („Службен весник на Република Северна Македонија“ бр. 132/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70802"
+}
+]
 },
 {
 "slug": "zakon-2019-sv220-50771",
@@ -198135,6 +199558,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51211"
 },
 {
+"slug": "zakon-2019-sv261-51212",
+"path": "zakon/2019/sv261-51212",
+"kind": "zakon",
+"year": "2019",
+"number": "sv261-51212",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за данок на моторни возила",
+"short": "Закон за данок на моторни возила",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-12-18",
+"latest": "2019-12-18",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51212",
+"amended_by": [
+{
+"ref": "ldbis:68961",
+"title": "Закон за изменување на Законот за данок на моторни возила („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68961"
+}
+]
+},
+{
 "slug": "zakon-2019-sv265-51260",
 "path": "zakon/2019/sv265-51260",
 "kind": "zakon",
@@ -198254,6 +199701,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51390"
 },
 {
+"slug": "zakon-2019-sv275-51391",
+"path": "zakon/2019/sv275-51391",
+"kind": "zakon",
+"year": "2019",
+"number": "sv275-51391",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за класифицирани информации",
+"short": "Закон за класифицирани информации",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-01-04",
+"latest": "2020-01-04",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51391",
+"amended_by": [
+{
+"ref": "ldbis:74867",
+"title": "Закон за изменување на Законот за класифицирани информации („Службен весник на Република Северна Македонија“ бр. 212/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74867"
+}
+]
+},
+{
 "slug": "zakon-2019-sv275-51392",
 "path": "zakon/2019/sv275-51392",
 "kind": "zakon",
@@ -198337,6 +199808,64 @@
 "from": "2019-12-27",
 "latest": "2019-12-27",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51397"
+},
+{
+"slug": "zakon-2019-sv275-51398",
+"path": "zakon/2019/sv275-51398",
+"kind": "zakon",
+"year": "2019",
+"number": "sv275-51398",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за социјалната заштита",
+"short": "Закон за изменување и дополнување на Законот за социјалната заштита",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-12-27",
+"latest": "2019-12-27",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51398",
+"amended_by": [
+{
+"ref": "ldbis:61516",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 27/2020 и У. бр. 289/2020 од 1 декември 2022 година („Службен весник на Република Северна Македонија“ бр. 273/2022)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61516"
+},
+{
+"ref": "ldbis:75339",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.47/2026 од 7 октомври 2026 година („Службен весник на Република Северна Македонија“ бр. 259/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75339"
+}
+]
+},
+{
+"slug": "zakon-2019-sv275-51400",
+"path": "zakon/2019/sv275-51400",
+"kind": "zakon",
+"year": "2019",
+"number": "sv275-51400",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за заштита на децата",
+"short": "Закон за изменување и дополнување на Законот за заштита на децата",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2019-12-27",
+"latest": "2019-12-27",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51400",
+"amended_by": [
+{
+"ref": "ldbis:73954",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.113/2025 од 20 мај 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73954"
+},
+{
+"ref": "ldbis:74614",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.112/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74614"
+}
+]
 },
 {
 "slug": "zakon-2019-sv275-51401",
@@ -206634,6 +208163,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51802"
 },
 {
+"slug": "zakon-2020-sv018-51803",
+"path": "zakon/2020/sv018-51803",
+"kind": "zakon",
+"year": "2020",
+"number": "sv018-51803",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за правата на заедниците кои се помалку од 20% од населението во Република Северна Македонија",
+"short": "Закон за правата на заедниците кои се помалку од 20% од населението во Република Северна Македонија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-02-04",
+"latest": "2020-02-04",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51803",
+"amended_by": [
+{
+"ref": "ldbis:72286",
+"title": "Закон за изменување и дополнување на Законот за правата на заедниците кои се помалку од 20% од населението во Република Северна Македонија („Службен весник на Република Северна Македонија“ бр. 247/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72286"
+}
+]
+},
+{
 "slug": "zakon-2020-sv018-51804",
 "path": "zakon/2020/sv018-51804",
 "kind": "zakon",
@@ -206683,6 +208236,35 @@
 "from": "2020-01-27",
 "latest": "2020-01-27",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51806"
+},
+{
+"slug": "zakon-2020-sv018-51807",
+"path": "zakon/2020/sv018-51807",
+"kind": "zakon",
+"year": "2020",
+"number": "sv018-51807",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за градење",
+"short": "Закон за изменување и дополнување на Законот за градење",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-02-04",
+"latest": "2020-02-04",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51807",
+"amended_by": [
+{
+"ref": "ldbis:56145",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 15/2020 од 24 февруари 2021 година („Службен весник на Република Северна Македонија“ бр. 96/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56145"
+},
+{
+"ref": "ldbis:63140",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 109/2022 од 23 мај 2023 година („Службен весник на Република Северна Македонија“ бр. 115/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63140"
+}
+]
 },
 {
 "slug": "zakon-2020-sv022-51845",
@@ -206838,6 +208420,45 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51993"
 },
 {
+"slug": "zakon-2020-sv031-51996",
+"path": "zakon/2020/sv031-51996",
+"kind": "zakon",
+"year": "2020",
+"number": "sv031-51996",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за субвенциониран студентски оброк",
+"short": "Закон за субвенциониран студентски оброк",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-02-10",
+"latest": "2020-02-10",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51996",
+"amended_by": [
+{
+"ref": "ldbis:56588",
+"title": "Закон за изменување и дополнување на Законот за субвенциониран студентски оброк („Службен весник на Република Северна Македонија“ бр. 150/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56588"
+},
+{
+"ref": "ldbis:62815",
+"title": "Закон за изменување и дополнување на Законот за субвенциониран студентски оброк („Службен весник на Република Северна Македонија“ бр. 91/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62815"
+},
+{
+"ref": "ldbis:65915",
+"title": "Закон за изменување на Законот за субвенциониран студентски оброк („Службен весник на Република Северна Македонија“ бр. 30/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65915"
+},
+{
+"ref": "ldbis:69998",
+"title": "Закон за изменување на Законот за субвенциониран студентски оброк („Службен весник на Република Северна Македонија“ бр. 74/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69998"
+}
+]
+},
+{
 "slug": "zakon-2020-sv031-51997",
 "path": "zakon/2020/sv031-51997",
 "kind": "zakon",
@@ -206904,6 +208525,114 @@
 "from": "2020-02-18",
 "latest": "2020-02-18",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52002"
+},
+{
+"slug": "zakon-2020-sv032-52007",
+"path": "zakon/2020/sv032-52007",
+"kind": "zakon",
+"year": "2020",
+"number": "sv032-52007",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за урбанистичко планирање",
+"short": "Закон за урбанистичко планирање",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-02-18",
+"latest": "2020-02-18",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52007",
+"amended_by": [
+{
+"ref": "ldbis:63079",
+"title": "Закон за изменување и дополнување на Законот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 111/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63079"
+},
+{
+"ref": "ldbis:67525",
+"title": "Закон за изменување и дополнување на Законот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 171/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67525"
+},
+{
+"ref": "ldbis:68202",
+"title": "Закон за изменување на Законот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 224/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68202"
+},
+{
+"ref": "ldbis:69571",
+"title": "Закон за изменување и дополнување на Законот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 40/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69571"
+},
+{
+"ref": "ldbis:70400",
+"title": "Закон за изменување и дополнување на Законот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 101/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70400"
+},
+{
+"ref": "ldbis:70405",
+"title": "Закон за дополнување на Законот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 101/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70405"
+},
+{
+"ref": "ldbis:70772",
+"title": "Закон за изменување и дополнување на Законот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 127/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70772"
+},
+{
+"ref": "ldbis:74068",
+"title": "Закон за изменување и дополнување на Законот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 134/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74068"
+},
+{
+"ref": "ldbis:74837",
+"title": "Закон за изменување и дополнување на Законот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 212/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74837"
+}
+]
+},
+{
+"slug": "zakon-2020-sv032-52008",
+"path": "zakon/2020/sv032-52008",
+"kind": "zakon",
+"year": "2020",
+"number": "sv032-52008",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за енергетска ефикасност",
+"short": "Закон за енергетска ефикасност",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-02-18",
+"latest": "2020-02-18",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52008",
+"amended_by": [
+{
+"ref": "ldbis:55998",
+"title": "Закон за изменување на Законот за енергетска ефикасност („Службен весник на Република Северна Македонија“ бр. 110/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55998"
+},
+{
+"ref": "ldbis:61034",
+"title": "Закон за изменување и дополнување на Законот за енергетска ефикасност („Службен весник на Република Северна Македонија“ бр. 236/2022)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61034"
+},
+{
+"ref": "ldbis:67295",
+"title": "Закон за изменување и дополнување на Законот за енергетска ефикасност („Службен весник на Република Северна Македонија“ бр. 147/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67295"
+},
+{
+"ref": "ldbis:70000",
+"title": "Закон за изменување на Законот за енергетска ефикасност („Службен весник на Република Северна Македонија“ бр. 74/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70000"
+},
+{
+"ref": "ldbis:71644",
+"title": "Закон за изменување и дополнување на Законот за енергетска ефикасност („Службен весник на Република Северна Македонија“ бр. 193/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71644"
+}
+]
 },
 {
 "slug": "zakon-2020-sv032-52009",
@@ -207008,6 +208737,35 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52050"
 },
 {
+"slug": "zakon-2020-sv042-52051",
+"path": "zakon/2020/sv042-52051",
+"kind": "zakon",
+"year": "2020",
+"number": "sv042-52051",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за неевидентирани лица во матична книга на родени",
+"short": "Закон за неевидентирани лица во матична книга на родени",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52051",
+"amended_by": [
+{
+"ref": "ldbis:54769",
+"title": "Закон за изменување и дополнување на Законот за неевидентирани лица во матична книга на родени („Службен весник на Република Северна Македонија“ бр. 305/2020)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54769"
+},
+{
+"ref": "ldbis:57125",
+"title": "Закон за изменување и дополнување на Законот за неевидентирани лица во матична книга на родени („Службен весник на Република Северна Македонија“ бр. 178/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57125"
+}
+]
+},
+{
 "slug": "zakon-2020-sv042-52052",
 "path": "zakon/2020/sv042-52052",
 "kind": "zakon",
@@ -207023,6 +208781,30 @@
 "from": "2020-02-24",
 "latest": "2020-02-24",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52052"
+},
+{
+"slug": "zakon-2020-sv042-52054",
+"path": "zakon/2020/sv042-52054",
+"kind": "zakon",
+"year": "2020",
+"number": "sv042-52054",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за управување со движењето на предметите во судовите",
+"short": "Закон за управување со движењето на предметите во судовите",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52054",
+"amended_by": [
+{
+"ref": "ldbis:73580",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 5/2025 од 4 март 2026 година („Службен весник на Република Северна Македонија“ бр. 84/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73580"
+}
+]
 },
 {
 "slug": "zakon-2020-sv042-52055",
@@ -207348,6 +209130,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54152"
 },
 {
+"slug": "zakon-2020-sv279-54268",
+"path": "zakon/2020/sv279-54268",
+"kind": "zakon",
+"year": "2020",
+"number": "sv279-54268",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за градење",
+"short": "Закон за изменување и дополнување на Законот за градење",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-11-24",
+"latest": "2020-11-24",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54268",
+"amended_by": [
+{
+"ref": "ldbis:63140",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 109/2022 од 23 мај 2023 година („Службен весник на Република Северна Македонија“ бр. 115/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63140"
+}
+]
+},
+{
 "slug": "zakon-2020-sv285-54322",
 "path": "zakon/2020/sv285-54322",
 "kind": "zakon",
@@ -207450,6 +209256,59 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54430"
 },
 {
+"slug": "zakon-2020-sv290-54431",
+"path": "zakon/2020/sv290-54431",
+"kind": "zakon",
+"year": "2020",
+"number": "sv290-54431",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за финансиска поддршка за намалување на последиците предизвикани од Корона вирусот COVID-19 врз производството, откупот на грозје и винската индустрија",
+"short": "Закон за финансиска поддршка за намалување на последиците предизвикани од Корона вирусот COVID-19 врз производството, откупот на грозје и винската индустрија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-07",
+"latest": "2020-12-07",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54431",
+"amended_by": [
+{
+"ref": "ldbis:55878",
+"title": "Закон за изменување и дополнување на Законот за финансиска поддршка за намалување на последиците предизвикани од Корона вирусот COVID-19 врз производството, откупот на грозје и винската индустрија („Службен весник на Република Северна Македонија“ бр. 103/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55878"
+},
+{
+"ref": "ldbis:58380",
+"title": "Закон за дополнување на Законот за финансиска поддршка за намалување на последиците предизвикани од Корона вирусот COVID-19 врз производството, откупот на грозје и винската индустрија („Службен весник на Република Северна Македонија“ бр. 293/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58380"
+}
+]
+},
+{
+"slug": "zakon-2020-sv290-54432",
+"path": "zakon/2020/sv290-54432",
+"kind": "zakon",
+"year": "2020",
+"number": "sv290-54432",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за за финансиска поддршка на граѓани со низок доход, корисници на пензија, корисници на право на социјална сигурност на стари лица, млади лица, самохрани родители, деца без родители и родителска грижа, уметници и други лица кои вршат дејност во културата, филмски работници и естрадни уметници",
+"short": "Закон за за финансиска поддршка на граѓани со низок доход, корисници на пензија, корисници на право на социјална сигурност на стари лица, млади лица, самохрани родители, деца без родители и родителска грижа, уметници и други лица кои вршат дејност во културата, филмски работници и естрадни уметници",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-07",
+"latest": "2020-12-07",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54432",
+"amended_by": [
+{
+"ref": "ldbis:55819",
+"title": "Закон за дополнување на Законот за финансиска поддршка на граѓани со низок доход, корисници на пензија, корисници на право на социјална сигурност на стари лица, млади лица, самохрани родители, деца без родители и родителска грижа, уметници и други лица кои вршат дејност во културата, филмски работници и естрадни уметници („Службен весник на Република Северна Македонија“ бр. 92/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55819"
+}
+]
+},
+{
 "slug": "zakon-2020-sv294-54459",
 "path": "zakon/2020/sv294-54459",
 "kind": "zakon",
@@ -207516,6 +209375,30 @@
 "from": "2020-12-26",
 "latest": "2020-12-26",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54585"
+},
+{
+"slug": "zakon-2020-sv302-54586",
+"path": "zakon/2020/sv302-54586",
+"kind": "zakon",
+"year": "2020",
+"number": "sv302-54586",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за општа безбедност на производите",
+"short": "Закон за општа безбедност на производите",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-26",
+"latest": "2020-12-26",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54586",
+"amended_by": [
+{
+"ref": "ldbis:68950",
+"title": "Закон за изменување и дополнување на Законот за општа безбедност на производите („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68950"
+}
+]
 },
 {
 "slug": "zakon-2020-sv302-54587",
@@ -207618,6 +209501,88 @@
 "from": "2020-12-22",
 "latest": "2020-12-22",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54770"
+},
+{
+"slug": "zakon-2020-sv307-54624",
+"path": "zakon/2020/sv307-54624",
+"kind": "zakon",
+"year": "2020",
+"number": "sv307-54624",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за извршување на Буџетот на Република Северна Македонија за 2021 година",
+"short": "Закон за извршување на Буџетот на Република Северна Македонија за 2021 година",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54624",
+"amended_by": [
+{
+"ref": "ldbis:56991",
+"title": "Закон за изменување и дополнување на Законот за извршување на Буџетот на Република Северна Македонија за 2021 година („Службен весник на Република Северна Македонија“ бр. 171/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56991"
+}
+]
+},
+{
+"slug": "zakon-2020-sv311-54676",
+"path": "zakon/2020/sv311-54676",
+"kind": "zakon",
+"year": "2020",
+"number": "sv311-54676",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за социјалната заштита",
+"short": "Закон за изменување и дополнување на Законот за социјалната заштита",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54676",
+"amended_by": [
+{
+"ref": "ldbis:61516",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 27/2020 и У. бр. 289/2020 од 1 декември 2022 година („Службен весник на Република Северна Македонија“ бр. 273/2022)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61516"
+},
+{
+"ref": "ldbis:75339",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.47/2026 од 7 октомври 2026 година („Службен весник на Република Северна Македонија“ бр. 259/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75339"
+}
+]
+},
+{
+"slug": "zakon-2020-sv311-54677",
+"path": "zakon/2020/sv311-54677",
+"kind": "zakon",
+"year": "2020",
+"number": "sv311-54677",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за дополнување на Законот за заштита на децата",
+"short": "Закон за дополнување на Законот за заштита на децата",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54677",
+"amended_by": [
+{
+"ref": "ldbis:73954",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.113/2025 од 20 мај 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73954"
+},
+{
+"ref": "ldbis:74614",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.112/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74614"
+}
+]
 },
 {
 "slug": "zakon-2020-sv311-54678",
@@ -218316,6 +220281,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54589"
 },
 {
+"slug": "zakon-2021-sv019-54857",
+"path": "zakon/2021/sv019-54857",
+"kind": "zakon",
+"year": "2021",
+"number": "sv019-54857",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за попис на населението, домаќинствата и становите во Република Северна Македонија 2021 година",
+"short": "Закон за попис на населението, домаќинствата и становите во Република Северна Македонија 2021 година",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-01-25",
+"latest": "2021-01-25",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54857",
+"amended_by": [
+{
+"ref": "ldbis:55604",
+"title": "Закон за изменување и дополнување на Законот за попис на населението, домаќинствата и становите во Република Северна Македонија 2021 година („Службен весник на Република Северна Македонија“ бр. 74/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55604"
+}
+]
+},
+{
 "slug": "zakon-2021-sv021-54877",
 "path": "zakon/2021/sv021-54877",
 "kind": "zakon",
@@ -218348,6 +220337,64 @@
 "from": "2021-01-27",
 "latest": "2021-01-27",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54878"
+},
+{
+"slug": "zakon-2021-sv024-54940",
+"path": "zakon/2021/sv024-54940",
+"kind": "zakon",
+"year": "2021",
+"number": "sv024-54940",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за рамномерен регионален развој",
+"short": "Закон за рамномерен регионален развој",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-02-06",
+"latest": "2021-02-06",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54940",
+"amended_by": [
+{
+"ref": "ldbis:57045",
+"title": "Закон за изменување и дополнување на Законот за рамномерен регионален развој („Службен весник на Република Северна Македонија“ бр. 174/2021)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57045"
+},
+{
+"ref": "ldbis:68380",
+"title": "Закон за изменување и дополнување на Законот за рамномерен регионален развој („Службен весник на Република Северна Македонија“ бр. 241/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68380"
+},
+{
+"ref": "ldbis:74854",
+"title": "Закон за изменување и дополнување на Законот за рамномерен регионален развој („Службен весник на Република Северна Македонија“ бр. 212/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74854"
+}
+]
+},
+{
+"slug": "zakon-2021-sv024-54941",
+"path": "zakon/2021/sv024-54941",
+"kind": "zakon",
+"year": "2021",
+"number": "sv024-54941",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за спречување и заштита од насилство врз жените и семејното насилство",
+"short": "Закон за спречување и заштита од насилство врз жените и семејното насилство",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-02-06",
+"latest": "2021-02-06",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54941",
+"amended_by": [
+{
+"ref": "ldbis:69549",
+"title": "Закон за изменување на Законот за спречување и заштита од насилство врз жените и семејното насилство („Службен весник на Република Северна Македонија“ бр. 39/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69549"
+}
+]
 },
 {
 "slug": "zakon-2021-sv028-54951",
@@ -218520,6 +220567,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55645"
 },
 {
+"slug": "zakon-2021-sv077-55646",
+"path": "zakon/2021/sv077-55646",
+"kind": "zakon",
+"year": "2021",
+"number": "sv077-55646",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за дополнување на Законот за трговија",
+"short": "Закон за дополнување на Законот за трговија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-04-06",
+"latest": "2021-04-06",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55646",
+"amended_by": [
+{
+"ref": "ldbis:62842",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 114/2022 од 20 април 2023 година („Службен весник на Република Северна Македонија“ бр. 93/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62842"
+}
+]
+},
+{
 "slug": "zakon-2021-sv077-55647",
 "path": "zakon/2021/sv077-55647",
 "kind": "zakon",
@@ -218603,6 +220674,30 @@
 "from": "2021-04-06",
 "latest": "2021-04-06",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55652"
+},
+{
+"slug": "zakon-2021-sv077-55653",
+"path": "zakon/2021/sv077-55653",
+"kind": "zakon",
+"year": "2021",
+"number": "sv077-55653",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за задолжување на за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на Проектот за енергетска ефикасност во јавниот сектор",
+"short": "Закон за задолжување на за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на Проектот за енергетска ефикасност во јавниот сектор",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-04-06",
+"latest": "2021-04-06",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55653",
+"amended_by": [
+{
+"ref": "ldbis:68955",
+"title": "Закон за изменување на Законот за задолжување на за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на Проектот за енергетска ефикасност во јавниот сектор („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68955"
+}
+]
 },
 {
 "slug": "zakon-2021-sv077-55654",
@@ -219011,6 +221106,30 @@
 "from": "2021-05-27",
 "latest": "2021-05-27",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55991"
+},
+{
+"slug": "zakon-2021-sv110-55992",
+"path": "zakon/2021/sv110-55992",
+"kind": "zakon",
+"year": "2021",
+"number": "sv110-55992",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за Народната банка на Република Македонија",
+"short": "Закон за изменување и дополнување на Законот за Народната банка на Република Македонија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55992",
+"amended_by": [
+{
+"ref": "ldbis:67031",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр.130/2022 од 15 мај 2024 година („Службен весник на Република Северна Македонија“ бр. 121/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67031"
+}
+]
 },
 {
 "slug": "zakon-2021-sv110-55995",
@@ -219778,6 +221897,40 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56605"
 },
 {
+"slug": "zakon-2021-sv151-56609",
+"path": "zakon/2021/sv151-56609",
+"kind": "zakon",
+"year": "2021",
+"number": "sv151-56609",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за даноците на имот",
+"short": "Закон за изменување и дополнување на Законот за даноците на имот",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-07-14",
+"latest": "2021-07-14",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56609",
+"amended_by": [
+{
+"ref": "ldbis:66982",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр.80/2023 од 27 март 2024 година („Службен весник на Република Северна Македонија“ бр. 118/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66982"
+},
+{
+"ref": "ldbis:67007",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр.685/24 од 4 јуни 2024 година („Службен весник на Република Северна Македонија“ бр. 119/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67007"
+},
+{
+"ref": "ldbis:68215",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 75/2022 од 18 септември 2024 година („Службен весник на Република Северна Македонија“ бр. 226/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68215"
+}
+]
+},
+{
 "slug": "zakon-2021-sv151-56610",
 "path": "zakon/2021/sv151-56610",
 "kind": "zakon",
@@ -219948,6 +222101,40 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56620"
 },
 {
+"slug": "zakon-2021-sv151-56621",
+"path": "zakon/2021/sv151-56621",
+"kind": "zakon",
+"year": "2021",
+"number": "sv151-56621",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за даноците на имот",
+"short": "Закон за изменување и дополнување на Законот за даноците на имот",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-07-14",
+"latest": "2021-07-14",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56621",
+"amended_by": [
+{
+"ref": "ldbis:66982",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр.80/2023 од 27 март 2024 година („Службен весник на Република Северна Македонија“ бр. 118/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66982"
+},
+{
+"ref": "ldbis:67007",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр.685/24 од 4 јуни 2024 година („Службен весник на Република Северна Македонија“ бр. 119/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67007"
+},
+{
+"ref": "ldbis:68215",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 75/2022 од 18 септември 2024 година („Службен весник на Република Северна Македонија“ бр. 226/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68215"
+}
+]
+},
+{
 "slug": "zakon-2021-sv151-56622",
 "path": "zakon/2021/sv151-56622",
 "kind": "zakon",
@@ -220099,6 +222286,35 @@
 "from": "2021-07-15",
 "latest": "2021-07-15",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56710"
+},
+{
+"slug": "zakon-2021-sv163-56830",
+"path": "zakon/2021/sv163-56830",
+"kind": "zakon",
+"year": "2021",
+"number": "sv163-56830",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за социјалната заштита",
+"short": "Закон за изменување на Законот за социјалната заштита",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-07-24",
+"latest": "2021-07-24",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56830",
+"amended_by": [
+{
+"ref": "ldbis:61516",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 27/2020 и У. бр. 289/2020 од 1 декември 2022 година („Службен весник на Република Северна Македонија“ бр. 273/2022)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61516"
+},
+{
+"ref": "ldbis:75339",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.47/2026 од 7 октомври 2026 година („Службен весник на Република Северна Македонија“ бр. 259/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75339"
+}
+]
 },
 {
 "slug": "zakon-2021-sv163-56831",
@@ -220339,6 +222555,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57099"
 },
 {
+"slug": "zakon-2021-sv176-57100",
+"path": "zakon/2021/sv176-57100",
+"kind": "zakon",
+"year": "2021",
+"number": "sv176-57100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за управување со батерии и акумулатори и отпадни батерии и акумулатори",
+"short": "Закон за управување со батерии и акумулатори и отпадни батерии и акумулатори",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-08-11",
+"latest": "2021-08-11",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57100",
+"amended_by": [
+{
+"ref": "ldbis:68949",
+"title": "Закон за изменување на Законот за управување со батерии и акумулатори и отпадни батерии и акумулатори („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68949"
+}
+]
+},
+{
 "slug": "zakon-2021-sv178-57121",
 "path": "zakon/2021/sv178-57121",
 "kind": "zakon",
@@ -220424,6 +222664,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57126"
 },
 {
+"slug": "zakon-2021-sv215-57544",
+"path": "zakon/2021/sv215-57544",
+"kind": "zakon",
+"year": "2021",
+"number": "sv215-57544",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за управување со пакување и отпад од пакување",
+"short": "Закон за управување со пакување и отпад од пакување",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57544",
+"amended_by": [
+{
+"ref": "ldbis:68948",
+"title": "Закон за изменување на Законот за управување со пакување и отпад од пакување („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68948"
+}
+]
+},
+{
 "slug": "zakon-2021-sv215-57545",
 "path": "zakon/2021/sv215-57545",
 "kind": "zakon",
@@ -220473,6 +222737,30 @@
 "from": "2021-09-16",
 "latest": "2021-09-16",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57547"
+},
+{
+"slug": "zakon-2021-sv215-57548",
+"path": "zakon/2021/sv215-57548",
+"kind": "zakon",
+"year": "2021",
+"number": "sv215-57548",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за дополнување на Законот за облигационите односи",
+"short": "Закон за дополнување на Законот за облигационите односи",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57548",
+"amended_by": [
+{
+"ref": "ldbis:64518",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр.64/2021 од 13 септември 2023 година („Службен весник на Република Северна Македонија“ бр. 220/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64518"
+}
+]
 },
 {
 "slug": "zakon-2021-sv215-57549",
@@ -220560,6 +222848,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57554"
 },
 {
+"slug": "zakon-2021-sv215-57555",
+"path": "zakon/2021/sv215-57555",
+"kind": "zakon",
+"year": "2021",
+"number": "sv215-57555",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за трговија",
+"short": "Закон за изменување и дополнување на Законот за трговија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57555",
+"amended_by": [
+{
+"ref": "ldbis:62842",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 114/2022 од 20 април 2023 година („Службен весник на Република Северна Македонија“ бр. 93/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62842"
+}
+]
+},
+{
 "slug": "zakon-2021-sv215-57556",
 "path": "zakon/2021/sv215-57556",
 "kind": "zakon",
@@ -220592,6 +222904,30 @@
 "from": "2021-09-24",
 "latest": "2021-09-24",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57557"
+},
+{
+"slug": "zakon-2021-sv215-57558",
+"path": "zakon/2021/sv215-57558",
+"kind": "zakon",
+"year": "2021",
+"number": "sv215-57558",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за проширена одговорност на производителот за управување со посебните текови на отпад",
+"short": "Закон за проширена одговорност на производителот за управување со посебните текови на отпад",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57558",
+"amended_by": [
+{
+"ref": "ldbis:66453",
+"title": "Закон за изменување и дополнување на Законот за проширена одговорност на производителот за управување со посебните текови на отпад („Службен весник на Република Северна Македонија“ бр. 73/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66453"
+}
+]
 },
 {
 "slug": "zakon-2021-sv276-58160",
@@ -220815,6 +223151,54 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58253"
 },
 {
+"slug": "zakon-2021-sv287-58284",
+"path": "zakon/2021/sv287-58284",
+"kind": "zakon",
+"year": "2021",
+"number": "sv287-58284",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за извршување на Буџетот на Република Северна Македонија за 2022 година",
+"short": "Закон за извршување на Буџетот на Република Северна Македонија за 2022 година",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-12-20",
+"latest": "2021-12-20",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58284",
+"amended_by": [
+{
+"ref": "ldbis:60075",
+"title": "Закон за изменување и дополнување на Законот за извршување на Буџетот на Република Северна Македонија за 2022 година („Службен весник на Република Северна Македонија“ бр. 164/2022)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60075"
+}
+]
+},
+{
+"slug": "zakon-2021-sv288-58285",
+"path": "zakon/2021/sv288-58285",
+"kind": "zakon",
+"year": "2021",
+"number": "sv288-58285",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за гаранција на Република Северна Македонија на обврските по финансискиот договор наменет за финансирање на проектот „Интерконектор за пренос на природен гас Грција - Северна Македонија, дел на Северна Македонија“, кој ќе се склучи меѓу Европската инвестициона банка и Акционерското друштво за вршење на енергетски дејности национални енергетски ресурси Скопје, во државна сопственост",
+"short": "Закон за гаранција на Република Северна Македонија на обврските по финансискиот договор наменет за финансирање на проектот „Интерконектор за пренос на природен гас Грција - Северна Македонија, дел на Северна Македонија“, кој ќе се склучи меѓу Европската инвестициона банка и Акционерското друштво за вршење на енергетски дејности национални енергетски ресурси Скопје, во државна сопственост",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58285",
+"amended_by": [
+{
+"ref": "ldbis:68580",
+"title": "Закон за изменување на Законот за гаранција на Република Северна Македонија на обврските по финансискиот договор наменет за финансирање на проектот „Интерконектор за пренос на природен гас Грција - Северна Македонија, дел на Северна Македонија“, кој ќе се склучи меѓу Европската инвестициона банка и Акционерското друштво за вршење на енергетски дејности национални енергетски ресурси Скопје, во државна сопственост („Службен весник на Република Северна Македонија“ бр. 255/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68580"
+}
+]
+},
+{
 "slug": "zakon-2021-sv288-58286",
 "path": "zakon/2021/sv288-58286",
 "kind": "zakon",
@@ -220968,6 +223352,35 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58401"
 },
 {
+"slug": "zakon-2021-sv294-58402",
+"path": "zakon/2021/sv294-58402",
+"kind": "zakon",
+"year": "2021",
+"number": "sv294-58402",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за заштита на децата",
+"short": "Закон за изменување и дополнување на Законот за заштита на децата",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-01-04",
+"latest": "2022-01-04",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58402",
+"amended_by": [
+{
+"ref": "ldbis:73954",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.113/2025 од 20 мај 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73954"
+},
+{
+"ref": "ldbis:74614",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.112/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74614"
+}
+]
+},
+{
 "slug": "zakon-2021-sv294-58404",
 "path": "zakon/2021/sv294-58404",
 "kind": "zakon",
@@ -220988,6 +223401,30 @@
 "ref": "ldbis:75339",
 "title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.47/2026 од 7 октомври 2026 година („Службен весник на Република Северна Македонија“ бр. 259/2026)",
 "url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75339"
+}
+]
+},
+{
+"slug": "zakon-2021-sv294-58405",
+"path": "zakon/2021/sv294-58405",
+"kind": "zakon",
+"year": "2021",
+"number": "sv294-58405",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за заштита од експлозивни материи",
+"short": "Закон за изменување на Законот за заштита од експлозивни материи",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-01-04",
+"latest": "2022-01-04",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58405",
+"amended_by": [
+{
+"ref": "ldbis:62701",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 20/2022 од 5 април 2023 година („Службен весник на Република Северна Македонија“ бр. 78/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62701"
 }
 ]
 },
@@ -221043,6 +223480,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58409"
 },
 {
+"slug": "zakon-2021-sv295-58323",
+"path": "zakon/2021/sv295-58323",
+"kind": "zakon",
+"year": "2021",
+"number": "sv295-58323",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за трговија",
+"short": "Закон за изменување и дополнување на Законот за трговија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-01-04",
+"latest": "2022-01-04",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58323",
+"amended_by": [
+{
+"ref": "ldbis:62842",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 114/2022 од 20 април 2023 година („Службен весник на Република Северна Македонија“ бр. 93/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62842"
+}
+]
+},
+{
 "slug": "zakon-2021-sv298-58437",
 "path": "zakon/2021/sv298-58437",
 "kind": "zakon",
@@ -221058,6 +223519,30 @@
 "from": "2021-12-29",
 "latest": "2021-12-29",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58437"
+},
+{
+"slug": "zakon-2021-sv298-58438",
+"path": "zakon/2021/sv298-58438",
+"kind": "zakon",
+"year": "2021",
+"number": "sv298-58438",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за развој, производство и промет на воени стоки",
+"short": "Закон за развој, производство и промет на воени стоки",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-01-06",
+"latest": "2022-01-06",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58438",
+"amended_by": [
+{
+"ref": "ldbis:73331",
+"title": "Закон за изменување и дополнување на Законот за развој, производство и промет на воени стоки („Службен весник на Република Северна Македонија“ бр. 58/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73331"
+}
+]
 },
 {
 "slug": "delovnik-2021-sv041-55179",
@@ -226634,6 +229119,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59321"
 },
 {
+"slug": "zakon-2022-sv099-59455",
+"path": "zakon/2022/sv099-59455",
+"kind": "zakon",
+"year": "2022",
+"number": "sv099-59455",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за инспекциски надзор во животната средина",
+"short": "Закон за инспекциски надзор во животната средина",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-04-29",
+"latest": "2022-04-29",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59455",
+"amended_by": [
+{
+"ref": "ldbis:68917",
+"title": "Закон за дополнување на Законот за инспекциски надзор во животната средина („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68917"
+}
+]
+},
+{
 "slug": "zakon-2022-sv099-59456",
 "path": "zakon/2022/sv099-59456",
 "kind": "zakon",
@@ -226760,6 +229269,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59957"
 },
 {
+"slug": "zakon-2022-sv150-59958",
+"path": "zakon/2022/sv150-59958",
+"kind": "zakon",
+"year": "2022",
+"number": "sv150-59958",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за трговија",
+"short": "Закон за изменување и дополнување на Законот за трговија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-07-09",
+"latest": "2022-07-09",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59958",
+"amended_by": [
+{
+"ref": "ldbis:62842",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 114/2022 од 20 април 2023 година („Службен весник на Република Северна Македонија“ бр. 93/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62842"
+}
+]
+},
+{
 "slug": "zakon-2022-sv150-59959",
 "path": "zakon/2022/sv150-59959",
 "kind": "zakon",
@@ -226777,6 +229310,35 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59959"
 },
 {
+"slug": "zakon-2022-sv150-59960",
+"path": "zakon/2022/sv150-59960",
+"kind": "zakon",
+"year": "2022",
+"number": "sv150-59960",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за заштита на децата",
+"short": "Закон за изменување на Законот за заштита на децата",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-07-01",
+"latest": "2022-07-01",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59960",
+"amended_by": [
+{
+"ref": "ldbis:73954",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.113/2025 од 20 мај 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73954"
+},
+{
+"ref": "ldbis:74614",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.112/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74614"
+}
+]
+},
+{
 "slug": "zakon-2022-sv150-59961",
 "path": "zakon/2022/sv150-59961",
 "kind": "zakon",
@@ -226792,6 +229354,35 @@
 "from": "2022-07-01",
 "latest": "2022-07-01",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59961"
+},
+{
+"slug": "zakon-2022-sv151-59964",
+"path": "zakon/2022/sv151-59964",
+"kind": "zakon",
+"year": "2022",
+"number": "sv151-59964",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за спречување перење пари и финансирање на тероризам",
+"short": "Закон за спречување перење пари и финансирање на тероризам",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59964",
+"amended_by": [
+{
+"ref": "ldbis:67959",
+"title": "Закон за изменување и дополнување на Законот за спречување перење пари и финансирање на тероризам („Службен весник на Република Северна Македонија“ бр. 208/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67959"
+},
+{
+"ref": "ldbis:69770",
+"title": "Закон за изменување на Законот за спречување перење пари и финансирање на тероризам („Службен весник на Република Северна Македонија“ бр. 59/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69770"
+}
+]
 },
 {
 "slug": "zakon-2022-sv164-60075",
@@ -226913,6 +229504,35 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60169"
 },
 {
+"slug": "zakon-2022-sv173-60180",
+"path": "zakon/2022/sv173-60180",
+"kind": "zakon",
+"year": "2022",
+"number": "sv173-60180",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за вршење на сметководствени работи",
+"short": "Закон за вршење на сметководствени работи",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-08-09",
+"latest": "2022-08-09",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60180",
+"amended_by": [
+{
+"ref": "ldbis:69644",
+"title": "Закон за изменување и дополнување на Законот за вршење на сметководствени работи („Службен весник на Република Северна Македонија“ бр. 47/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69644"
+},
+{
+"ref": "ldbis:73447",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.267/2024 од 4 март 2026 година („Службен весник на Република Северна Македонија“ бр. 73/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73447"
+}
+]
+},
+{
 "slug": "zakon-2022-sv173-60181",
 "path": "zakon/2022/sv173-60181",
 "kind": "zakon",
@@ -227032,6 +229652,69 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60544"
 },
 {
+"slug": "zakon-2022-sv203-60545",
+"path": "zakon/2022/sv203-60545",
+"kind": "zakon",
+"year": "2022",
+"number": "sv203-60545",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за буџетите",
+"short": "Закон за буџетите",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-09-27",
+"latest": "2022-09-27",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60545",
+"amended_by": [
+{
+"ref": "ldbis:66079",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр.192/2023 и 193/2023 од 31 јануари 2024 година („Службен весник на Република Северна Македонија“ бр. 39/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66079"
+},
+{
+"ref": "ldbis:66496",
+"title": "Закон за изменување и дополнување на Законот за буџетите („Службен весник на Република Северна Македонија“ бр. 76/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66496"
+},
+{
+"ref": "ldbis:68791",
+"title": "Закон за изменување и дополнување на Законот за буџетите („Службен весник на Република Северна Македонија“ бр. 272/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68791"
+},
+{
+"ref": "ldbis:72401",
+"title": "Закон за изменување на Законот за буџетите („Службен весник на Република Северна Македонија“ бр. 258/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72401"
+}
+]
+},
+{
+"slug": "zakon-2022-sv227-60939",
+"path": "zakon/2022/sv227-60939",
+"kind": "zakon",
+"year": "2022",
+"number": "sv227-60939",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за градење",
+"short": "Закон за изменување и дополнување на Законот за градење",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-10-26",
+"latest": "2022-10-26",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60939",
+"amended_by": [
+{
+"ref": "ldbis:63140",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 109/2022 од 23 мај 2023 година („Службен весник на Република Северна Македонија“ бр. 115/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63140"
+}
+]
+},
+{
 "slug": "zakon-2022-sv227-60940",
 "path": "zakon/2022/sv227-60940",
 "kind": "zakon",
@@ -227117,6 +229800,35 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61035"
 },
 {
+"slug": "zakon-2022-sv236-61036",
+"path": "zakon/2022/sv236-61036",
+"kind": "zakon",
+"year": "2022",
+"number": "sv236-61036",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за заштита на децата",
+"short": "Закон за изменување на Законот за заштита на децата",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-11-07",
+"latest": "2022-11-07",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61036",
+"amended_by": [
+{
+"ref": "ldbis:73954",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.113/2025 од 20 мај 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73954"
+},
+{
+"ref": "ldbis:74614",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.112/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74614"
+}
+]
+},
+{
 "slug": "zakon-2022-sv236-61038",
 "path": "zakon/2022/sv236-61038",
 "kind": "zakon",
@@ -227200,6 +229912,35 @@
 "from": "2022-11-15",
 "latest": "2022-11-15",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61043"
+},
+{
+"slug": "zakon-2022-sv236-61044",
+"path": "zakon/2022/sv236-61044",
+"kind": "zakon",
+"year": "2022",
+"number": "sv236-61044",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за заштита на децата",
+"short": "Закон за изменување на Законот за заштита на децата",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-11-07",
+"latest": "2022-11-07",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61044",
+"amended_by": [
+{
+"ref": "ldbis:73954",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.113/2025 од 20 мај 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73954"
+},
+{
+"ref": "ldbis:74614",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.112/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74614"
+}
+]
 },
 {
 "slug": "zakon-2022-sv236-61045",
@@ -227309,6 +230050,30 @@
 "from": "2022-11-16",
 "latest": "2022-11-16",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61192"
+},
+{
+"slug": "zakon-2022-sv246-61193",
+"path": "zakon/2022/sv246-61193",
+"kind": "zakon",
+"year": "2022",
+"number": "sv246-61193",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по договорот за заем за финансирање на проектот за градење на ефективни, транспарентни и отчетни институции за управување со јавните финансии",
+"short": "Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по договорот за заем за финансирање на проектот за градење на ефективни, транспарентни и отчетни институции за управување со јавните финансии",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61193",
+"amended_by": [
+{
+"ref": "ldbis:74602",
+"title": "Закон за изменување на Законот за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по договорот за заем за финансирање на проектот за градење на ефективни, транспарентни и отчетни институции за управување со јавните финансии („Службен весник на Република Северна Македонија“ бр. 182/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74602"
+}
+]
 },
 {
 "slug": "zakon-2022-sv246-61194",
@@ -227481,6 +230246,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61523"
 },
 {
+"slug": "zakon-2022-sv274-61524",
+"path": "zakon/2022/sv274-61524",
+"kind": "zakon",
+"year": "2022",
+"number": "sv274-61524",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за техничките барања за производите и оцена на сообразност",
+"short": "Закон за техничките барања за производите и оцена на сообразност",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61524",
+"amended_by": [
+{
+"ref": "ldbis:70169",
+"title": "Закон за изменување и дополнување на Законот за техничките барања за производите и оцена на сообразност („Службен весник на Република Северна Македонија“ бр. 86/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70169"
+}
+]
+},
+{
 "slug": "zakon-2022-sv274-61525",
 "path": "zakon/2022/sv274-61525",
 "kind": "zakon",
@@ -227530,6 +230319,30 @@
 "from": "2022-12-28",
 "latest": "2022-12-28",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61527"
+},
+{
+"slug": "zakon-2022-sv282-61613",
+"path": "zakon/2022/sv282-61613",
+"kind": "zakon",
+"year": "2022",
+"number": "sv282-61613",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за извршување на Буџетот на Република Северна Македонија за 2023 година",
+"short": "Закон за извршување на Буџетот на Република Северна Македонија за 2023 година",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61613",
+"amended_by": [
+{
+"ref": "ldbis:64328",
+"title": "Закон за изменување и дополнување на Законот за извршување на Буџетот на Република Северна Македонија за 2023 година („Службен весник на Република Северна Македонија“ бр. 207/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64328"
+}
+]
 },
 {
 "slug": "delovnik-2022-sv002-58572",
@@ -231311,6 +234124,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61529"
 },
 {
+"slug": "zakon-2023-sv013-61830",
+"path": "zakon/2023/sv013-61830",
+"kind": "zakon",
+"year": "2023",
+"number": "sv013-61830",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за дополнување на Законот за технолошки индустриски развојни зони",
+"short": "Закон за дополнување на Законот за технолошки индустриски развојни зони",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-01-23",
+"latest": "2023-01-23",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61830",
+"amended_by": [
+{
+"ref": "ldbis:73104",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.42/2025 од 21 јануари 2026 година („Службен весник на Република Северна Македонија“ бр. 36/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73104"
+}
+]
+},
+{
 "slug": "zakon-2023-sv019-61892",
 "path": "zakon/2023/sv019-61892",
 "kind": "zakon",
@@ -231326,6 +234163,30 @@
 "from": "2023-02-07",
 "latest": "2023-02-07",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61892"
+},
+{
+"slug": "zakon-2023-sv019-61893",
+"path": "zakon/2023/sv019-61893",
+"kind": "zakon",
+"year": "2023",
+"number": "sv019-61893",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за финансиската инспекција во јавниот сектор",
+"short": "Закон за финансиската инспекција во јавниот сектор",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-02-07",
+"latest": "2023-02-07",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61893",
+"amended_by": [
+{
+"ref": "ldbis:69504",
+"title": "Закон за изменување на Законот за финансиската инспекција во јавниот сектор („Службен весник на Република Северна Македонија“ бр. 37/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69504"
+}
+]
 },
 {
 "slug": "zakon-2023-sv035-62138",
@@ -231743,6 +234604,54 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62816"
 },
 {
+"slug": "zakon-2023-sv091-62817",
+"path": "zakon/2023/sv091-62817",
+"kind": "zakon",
+"year": "2023",
+"number": "sv091-62817",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за ловството",
+"short": "Закон за изменување на Законот за ловството",
+"code": null,
+"status": "repealed 2023-12-20",
+"versions": 2,
+"from": "2023-04-28",
+"latest": "2023-12-20",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62817",
+"amended_by": [
+{
+"ref": "ldbis:72681",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 67/2023 од 19 ноември 2025 година („Службен весник на Република Северна Македонија“ бр. 1/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72681"
+}
+]
+},
+{
+"slug": "zakon-2023-sv101-62928",
+"path": "zakon/2023/sv101-62928",
+"kind": "zakon",
+"year": "2023",
+"number": "sv101-62928",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за задругите",
+"short": "Закон за задругите",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-05-24",
+"latest": "2023-05-24",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62928",
+"amended_by": [
+{
+"ref": "ldbis:71641",
+"title": "Закон за дополнување на Законот за задругите („Службен весник на Република Северна Македонија“ бр. 193/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71641"
+}
+]
+},
+{
 "slug": "zakon-2023-sv109-63021",
 "path": "zakon/2023/sv109-63021",
 "kind": "zakon",
@@ -231775,6 +234684,30 @@
 "from": "2023-05-26",
 "latest": "2023-05-26",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63022"
+},
+{
+"slug": "zakon-2023-sv111-63078",
+"path": "zakon/2023/sv111-63078",
+"kind": "zakon",
+"year": "2023",
+"number": "sv111-63078",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за градење",
+"short": "Закон за изменување и дополнување на Законот за градење",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-05-30",
+"latest": "2023-05-30",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63078",
+"amended_by": [
+{
+"ref": "ldbis:63140",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 109/2022 од 23 мај 2023 година („Службен весник на Република Северна Македонија“ бр. 115/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63140"
+}
+]
 },
 {
 "slug": "zakon-2023-sv111-63079",
@@ -231930,6 +234863,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63335"
 },
 {
+"slug": "zakon-2023-sv129-63336",
+"path": "zakon/2023/sv129-63336",
+"kind": "zakon",
+"year": "2023",
+"number": "sv129-63336",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за матичната евиденција",
+"short": "Закон за изменување и дополнување на Законот за матичната евиденција",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63336",
+"amended_by": [
+{
+"ref": "ldbis:66576",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр.92/2023 од 28 февруари 2024 година („Службен весник на Република Северна Македонија“ бр. 83/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66576"
+}
+]
+},
+{
 "slug": "zakon-2023-sv129-63337",
 "path": "zakon/2023/sv129-63337",
 "kind": "zakon",
@@ -232013,6 +234970,35 @@
 "from": "2023-06-29",
 "latest": "2023-06-29",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63345"
+},
+{
+"slug": "zakon-2023-sv154-63683",
+"path": "zakon/2023/sv154-63683",
+"kind": "zakon",
+"year": "2023",
+"number": "sv154-63683",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за облигационите односи",
+"short": "Закон за изменување и дополнување на Законот за облигационите односи",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63683",
+"amended_by": [
+{
+"ref": "ldbis:64518",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр.64/2021 од 13 септември 2023 година („Службен весник на Република Северна Македонија“ бр. 220/2023)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64518"
+},
+{
+"ref": "ldbis:67979",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 98/2024 и 139/2024 од 25 септември 2024 година („Службен весник на Република Северна Македонија“ бр. 209/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67979"
+}
+]
 },
 {
 "slug": "zakon-2023-sv154-63684",
@@ -232321,6 +235307,35 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64363"
 },
 {
+"slug": "zakon-2023-sv209-64365",
+"path": "zakon/2023/sv209-64365",
+"kind": "zakon",
+"year": "2023",
+"number": "sv209-64365",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за регистар на задолжително социјално осигурување",
+"short": "Закон за регистар на задолжително социјално осигурување",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64365",
+"amended_by": [
+{
+"ref": "ldbis:72797",
+"title": "Закон за изменување и дополнување на Законот за регистар на задолжително социјално осигурување („Службен весник на Република Северна Македонија“ бр. 13/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72797"
+},
+{
+"ref": "ldbis:74866",
+"title": "Закон за изменување на Законот за регистар на задолжително социјално осигурување („Службен весник на Република Северна Македонија“ бр. 212/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74866"
+}
+]
+},
+{
 "slug": "zakon-2023-sv209-64366",
 "path": "zakon/2023/sv209-64366",
 "kind": "zakon",
@@ -232542,6 +235557,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65007"
 },
 {
+"slug": "zakon-2023-sv262-65008",
+"path": "zakon/2023/sv262-65008",
+"kind": "zakon",
+"year": "2023",
+"number": "sv262-65008",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за задолжување на Република Северна Македонија со заем кај Европската инвестициона банка по финансискиот Договор за Железничкиот коридор VIII - источна делница МК, делница Крива Паланка - граница меѓу Северна Македонија и Бугарија",
+"short": "Закон за задолжување на Република Северна Македонија со заем кај Европската инвестициона банка по финансискиот Договор за Железничкиот коридор VIII - источна делница МК, делница Крива Паланка - граница меѓу Северна Македонија и Бугарија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65008",
+"amended_by": [
+{
+"ref": "ldbis:74605",
+"title": "Закон за изменување на Законот за задолжување на Република Северна Македонија со заем кај Европската инвестициона банка по финансискиот Договор за Железничкиот коридор VIII - источна делница МК, делница Крива Паланка - граница меѓу Северна Македонија и Бугарија („Службен весник на Република Северна Македонија“ бр. 182/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74605"
+}
+]
+},
+{
 "slug": "zakon-2023-sv262-65009",
 "path": "zakon/2023/sv262-65009",
 "kind": "zakon",
@@ -232557,6 +235596,30 @@
 "from": "2023-12-11",
 "latest": "2023-12-11",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65009"
+},
+{
+"slug": "zakon-2023-sv262-65010",
+"path": "zakon/2023/sv262-65010",
+"kind": "zakon",
+"year": "2023",
+"number": "sv262-65010",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за задолжување на Република Северна Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за Железничкиот коридор VIII - фаза 3, делница од Крива Паланка до граница со Република Бугарија",
+"short": "Закон за задолжување на Република Северна Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за Железничкиот коридор VIII - фаза 3, делница од Крива Паланка до граница со Република Бугарија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65010",
+"amended_by": [
+{
+"ref": "ldbis:74604",
+"title": "Закон за изменување на Законот за задолжување на Република Северна Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за Железничкиот коридор VIII - фаза 3, делница од Крива Паланка до граница со Република Бугарија („Службен весник на Република Северна Македонија“ бр. 182/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74604"
+}
+]
 },
 {
 "slug": "zakon-2023-sv262-65011",
@@ -232591,6 +235654,45 @@
 "from": "2023-12-20",
 "latest": "2023-12-20",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65012"
+},
+{
+"slug": "zakon-2023-sv263-65013",
+"path": "zakon/2023/sv263-65013",
+"kind": "zakon",
+"year": "2023",
+"number": "sv263-65013",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за дивечот и ловството",
+"short": "Закон за дивечот и ловството",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65013",
+"amended_by": [
+{
+"ref": "ldbis:67515",
+"title": "Закон за изменување на Законот за дивечот и ловството („Службен весник на Република Северна Македонија“ бр. 170/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67515"
+},
+{
+"ref": "ldbis:68131",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 206/2023 од 9 октомври 2024 година („Службен весник на Република Северна Македонија“ бр. 220/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68131"
+},
+{
+"ref": "ldbis:70812",
+"title": "Закон за изменување и дополнување на Законот за дивечот и ловството („Службен весник на Република Северна Македонија“ бр. 132/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70812"
+},
+{
+"ref": "ldbis:73633",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 209/2024 од 21 јануари 2026 година („Службен весник на Република Северна Македонија“ бр. 90/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73633"
+}
+]
 },
 {
 "slug": "zakon-2023-sv263-65014",
@@ -232710,6 +235812,78 @@
 "from": "2023-12-13",
 "latest": "2023-12-13",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65040"
+},
+{
+"slug": "zakon-2023-sv269-65062",
+"path": "zakon/2023/sv269-65062",
+"kind": "zakon",
+"year": "2023",
+"number": "sv269-65062",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за финансиска поддршка на социјално ранливи категории на граѓани",
+"short": "Закон за финансиска поддршка на социјално ранливи категории на граѓани",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65062",
+"amended_by": [
+{
+"ref": "ldbis:66514",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр.210/2023 од 27 март 2024 година („Службен весник на Република Северна Македонија“ бр. 78/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66514"
+}
+]
+},
+{
+"slug": "zakon-2023-sv269-65063",
+"path": "zakon/2023/sv269-65063",
+"kind": "zakon",
+"year": "2023",
+"number": "sv269-65063",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на вториот проект за унапредување на социјалните услуги",
+"short": "Закон за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на вториот проект за унапредување на социјалните услуги",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65063",
+"amended_by": [
+{
+"ref": "ldbis:68956",
+"title": "Закон за изменување на Законот за задолжување на Република Северна Македонија со заем кај Меѓународната банка за обнова и развој - Светска банка по Договорот за заем за финансирање на вториот проект за унапредување на социјалните услуги („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68956"
+}
+]
+},
+{
+"slug": "zakon-2023-sv283-65268",
+"path": "zakon/2023/sv283-65268",
+"kind": "zakon",
+"year": "2023",
+"number": "sv283-65268",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за извршување на Буџетот на Република Северна Македонија за 2024 година",
+"short": "Закон за извршување на Буџетот на Република Северна Македонија за 2024 година",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65268",
+"amended_by": [
+{
+"ref": "ldbis:67508",
+"title": "Закон за изменување и дополнување на Законот за извршување на Буџетот на Република Северна Македонија за 2024 година („Службен весник на Република Северна Македонија“ бр. 169/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67508"
+}
+]
 },
 {
 "slug": "zakon-2023-sv284-65290",
@@ -236260,6 +239434,40 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63685"
 },
 {
+"slug": "zakon-2024-sv014-65646",
+"path": "zakon/2024/sv014-65646",
+"kind": "zakon",
+"year": "2024",
+"number": "sv014-65646",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за воздухопловство",
+"short": "Закон за воздухопловство",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-01-30",
+"latest": "2024-01-30",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65646",
+"amended_by": [
+{
+"ref": "ldbis:68203",
+"title": "Закон за изменување на Законот за воздухопловство („Службен весник на Република Северна Македонија“ бр. 224/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68203"
+},
+{
+"ref": "ldbis:68928",
+"title": "Закон за изменување и дополнување на Законот за воздухопловство („Службен весник на Република Северна Македонија“ бр. 3/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68928"
+},
+{
+"ref": "ldbis:70989",
+"title": "Закон за изменување на Законот за воздухопловство („Службен весник на Република Северна Македонија“ бр. 144/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70989"
+}
+]
+},
+{
 "slug": "zakon-2024-sv014-65647",
 "path": "zakon/2024/sv014-65647",
 "kind": "zakon",
@@ -236275,6 +239483,64 @@
 "from": "2024-01-22",
 "latest": "2024-01-22",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65647"
+},
+{
+"slug": "zakon-2024-sv021-65754",
+"path": "zakon/2024/sv021-65754",
+"kind": "zakon",
+"year": "2024",
+"number": "sv021-65754",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за употребата на македонскиот јазик",
+"short": "Закон за употребата на македонскиот јазик",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-02-06",
+"latest": "2024-02-06",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65754",
+"amended_by": [
+{
+"ref": "ldbis:69088",
+"title": "Закон за изменување на Законот за употребата на македонскиот јазик („Службен весник на Република Северна Македонија“ бр. 14/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69088"
+},
+{
+"ref": "ldbis:70394",
+"title": "Закон за изменување и дополнување на Законот за употребата на македонскиот јазик („Службен весник на Република Северна Македонија“ бр. 101/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70394"
+},
+{
+"ref": "ldbis:74844",
+"title": "Закон за изменување на Законот за употребата на македонскиот јазик („Службен весник на Република Северна Македонија“ бр. 212/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74844"
+}
+]
+},
+{
+"slug": "zakon-2024-sv030-65913",
+"path": "zakon/2024/sv030-65913",
+"kind": "zakon",
+"year": "2024",
+"number": "sv030-65913",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за Националната развојна стратегија",
+"short": "Закон за Националната развојна стратегија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-02-17",
+"latest": "2024-02-17",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65913",
+"amended_by": [
+{
+"ref": "ldbis:68318",
+"title": "Закон за изменување и дополнување на Законот за Националната развојна стратегија („Службен весник на Република Северна Македонија“ бр. 235/2024)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68318"
+}
+]
 },
 {
 "slug": "zakon-2024-sv030-65914",
@@ -236379,6 +239645,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66221"
 },
 {
+"slug": "zakon-2024-sv051-66222",
+"path": "zakon/2024/sv051-66222",
+"kind": "zakon",
+"year": "2024",
+"number": "sv051-66222",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за плата и други надоместоци на избрани и именувани лица во Република Македонија",
+"short": "Закон за изменување на Законот за плата и други надоместоци на избрани и именувани лица во Република Македонија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66222",
+"amended_by": [
+{
+"ref": "ldbis:74078",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.22/2026 од 17 јуни 2026 година („Службен весник на Република Северна Македонија“ бр. 137/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74078"
+}
+]
+},
+{
 "slug": "zakon-2024-sv051-66223",
 "path": "zakon/2024/sv051-66223",
 "kind": "zakon",
@@ -236430,6 +239720,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66225"
 },
 {
+"slug": "zakon-2024-sv053-66243",
+"path": "zakon/2024/sv053-66243",
+"kind": "zakon",
+"year": "2024",
+"number": "sv053-66243",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за вработените во Министерството за одбрана",
+"short": "Закон за вработените во Министерството за одбрана",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-03-12",
+"latest": "2024-03-12",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66243",
+"amended_by": [
+{
+"ref": "ldbis:74160",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.77/2025 од 10 јуни 2026 година („Службен весник на Република Северна Македонија“ бр. 144/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74160"
+}
+]
+},
+{
 "slug": "zakon-2024-sv053-66244",
 "path": "zakon/2024/sv053-66244",
 "kind": "zakon",
@@ -236445,6 +239759,40 @@
 "from": "2024-03-12",
 "latest": "2024-03-12",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66244"
+},
+{
+"slug": "zakon-2024-sv053-66245",
+"path": "zakon/2024/sv053-66245",
+"kind": "zakon",
+"year": "2024",
+"number": "sv053-66245",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за Академијата за судии и јавни обвинители",
+"short": "Закон за изменување и дополнување на Законот за Академијата за судии и јавни обвинители",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-03-12",
+"latest": "2024-03-12",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66245",
+"amended_by": [
+{
+"ref": "ldbis:75117",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.138/2025 од 23 септември 2026 година („Службен весник на Република Северна Македонија“ бр. 237/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75117"
+},
+{
+"ref": "ldbis:75246",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.23/2025 од 23 септември 2026 година („Службен весник на Република Северна Македонија“ бр. 250/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75246"
+},
+{
+"ref": "ldbis:75248",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.75/2025, У. бр. 84/2025, У. бр. 104/2025 од 23 септември 2026 година („Службен весник на Република Северна Македонија“ бр. 250/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75248"
+}
+]
 },
 {
 "slug": "zakon-2024-sv053-66246",
@@ -236583,6 +239931,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66307"
 },
 {
+"slug": "zakon-2024-sv058-66308",
+"path": "zakon/2024/sv058-66308",
+"kind": "zakon",
+"year": "2024",
+"number": "sv058-66308",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Изборниот законик",
+"short": "Закон за изменување и дополнување на Изборниот законик",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-03-11",
+"latest": "2024-03-11",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66308",
+"amended_by": [
+{
+"ref": "ldbis:70617",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 186/2024 од 30 мај 2025 година („Службен весник на Република Северна Македонија“ бр. 116/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70617"
+}
+]
+},
+{
 "slug": "zakon-2024-sv063-66369",
 "path": "zakon/2024/sv063-66369",
 "kind": "zakon",
@@ -236598,6 +239970,55 @@
 "from": "2024-03-18",
 "latest": "2024-03-18",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66369"
+},
+{
+"slug": "zakon-2024-sv064-66374",
+"path": "zakon/2024/sv064-66374",
+"kind": "zakon",
+"year": "2024",
+"number": "sv064-66374",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за управување со конфискуван имот, имотна корист и одземени предмети во кривична и прекршочна постапка",
+"short": "Закон за управување со конфискуван имот, имотна корист и одземени предмети во кривична и прекршочна постапка",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66374",
+"amended_by": [
+{
+"ref": "ldbis:69506",
+"title": "Закон за дополнување на Законот за управување со конфискуван имот, имотна корист и одземени предмети во кривична и прекршочна постапка („Службен весник на Република Северна Македонија“ бр. 37/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69506"
+},
+{
+"ref": "ldbis:70170",
+"title": "Закон за изменување и дополнување на Законот за управување со конфискуван имот, имотна корист и одземени предмети во кривична и прекршочна постапка („Службен весник на Република Северна Македонија“ бр. 86/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70170"
+},
+{
+"ref": "ldbis:70395",
+"title": "Закон за изменување и дополнување на Законот за управување со конфискуван имот, имотна корист и одземени предмети во кривична и прекршочна постапка („Службен весник на Република Северна Македонија“ бр. 101/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70395"
+},
+{
+"ref": "ldbis:70878",
+"title": "Закон за изменување и дополнување на Законот за управување со конфискуван имот, имотна корист и одземени предмети во кривична и прекршочна постапка („Службен весник на Република Северна Македонија“ бр. 135/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70878"
+},
+{
+"ref": "ldbis:74045",
+"title": "Закон за изменување и дополнување на Законот за управување со конфискуван имот, имотна корист и одземени предмети во кривична и прекршочна постапка („Службен весник на Република Северна Македонија“ бр. 132/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74045"
+},
+{
+"ref": "ldbis:74860",
+"title": "Закон за изменување и дополнување на Законот за управување со конфискуван имот, имотна корист и одземени предмети во кривична и прекршочна постапка („Службен весник на Република Северна Македонија“ бр. 212/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74860"
+}
+]
 },
 {
 "slug": "zakon-2024-sv064-66375",
@@ -236617,6 +240038,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66375"
 },
 {
+"slug": "zakon-2024-sv064-66376",
+"path": "zakon/2024/sv064-66376",
+"kind": "zakon",
+"year": "2024",
+"number": "sv064-66376",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за проспекти и обврски за транспарентност за издавачите на хартии од вредност",
+"short": "Закон за проспекти и обврски за транспарентност за издавачите на хартии од вредност",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66376",
+"amended_by": [
+{
+"ref": "ldbis:71575",
+"title": "Закон за изменување на Законот за проспекти и обврски за транспарентност за издавачите на хартии од вредност („Службен весник на Република Северна Македонија“ бр. 188/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71575"
+}
+]
+},
+{
 "slug": "zakon-2024-sv064-66377",
 "path": "zakon/2024/sv064-66377",
 "kind": "zakon",
@@ -236634,6 +240079,69 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66377"
 },
 {
+"slug": "zakon-2024-sv064-66378",
+"path": "zakon/2024/sv064-66378",
+"kind": "zakon",
+"year": "2024",
+"number": "sv064-66378",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за рибарство и аквакултура",
+"short": "Закон за рибарство и аквакултура",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66378",
+"amended_by": [
+{
+"ref": "ldbis:71296",
+"title": "Закон за изменување и дополнување на Законот за рибарство и аквакултура („Службен весник на Република Северна Македонија“ бр. 160/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71296"
+},
+{
+"ref": "ldbis:73953",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.103/2025 од 25 февруари 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73953"
+}
+]
+},
+{
+"slug": "zakon-2024-sv064-66379",
+"path": "zakon/2024/sv064-66379",
+"kind": "zakon",
+"year": "2024",
+"number": "sv064-66379",
+"withdrawn_by": null,
+"reason": null,
+"title": "Законот за изменување и дополнување на Законот за платежни услуги и платни системи",
+"short": "Законот за изменување и дополнување на Законот за платежни услуги и платни системи",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-03-27",
+"latest": "2024-03-27",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66379",
+"amended_by": [
+{
+"ref": "ldbis:69499",
+"title": "Законот за изменување и дополнување на Законот за платежни услуги и платни системи („Службен весник на Република Северна Македонија“ бр. 37/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69499"
+},
+{
+"ref": "ldbis:70985",
+"title": "Законот за изменување и дополнување на Законот за платежни услуги и платни системи („Службен весник на Република Северна Македонија“ бр. 144/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70985"
+},
+{
+"ref": "ldbis:72549",
+"title": "Законот за изменување на Законот за платежни услуги и платни системи („Службен весник на Република Северна Македонија“ бр. 267/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72549"
+}
+]
+},
+{
 "slug": "zakon-2024-sv066-66389",
 "path": "zakon/2024/sv066-66389",
 "kind": "zakon",
@@ -236649,6 +240157,30 @@
 "from": "2024-03-28",
 "latest": "2024-03-28",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66389"
+},
+{
+"slug": "zakon-2024-sv066-66390",
+"path": "zakon/2024/sv066-66390",
+"kind": "zakon",
+"year": "2024",
+"number": "sv066-66390",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за финансиски инструменти",
+"short": "Закон за финансиски инструменти",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66390",
+"amended_by": [
+{
+"ref": "ldbis:71577",
+"title": "Закон за изменување на Законот за финансиски инструменти („Службен весник на Република Северна Македонија“ бр. 188/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71577"
+}
+]
 },
 {
 "slug": "zakon-2024-sv066-66391",
@@ -237246,6 +240778,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67514"
 },
 {
+"slug": "zakon-2024-sv170-67515",
+"path": "zakon/2024/sv170-67515",
+"kind": "zakon",
+"year": "2024",
+"number": "sv170-67515",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за дивечот и ловството",
+"short": "Закон за изменување на Законот за дивечот и ловството",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-08-15",
+"latest": "2024-08-15",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67515",
+"amended_by": [
+{
+"ref": "ldbis:73633",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 209/2024 од 21 јануари 2026 година („Службен весник на Република Северна Македонија“ бр. 90/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73633"
+}
+]
+},
+{
 "slug": "zakon-2024-sv170-67516",
 "path": "zakon/2024/sv170-67516",
 "kind": "zakon",
@@ -237295,6 +240851,35 @@
 "from": "2024-08-16",
 "latest": "2024-08-16",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67525"
+},
+{
+"slug": "zakon-2024-sv187-67708",
+"path": "zakon/2024/sv187-67708",
+"kind": "zakon",
+"year": "2024",
+"number": "sv187-67708",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за железничкиот систем",
+"short": "Закон за изменување на Законот за железничкиот систем",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-09-06",
+"latest": "2024-09-06",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67708",
+"amended_by": [
+{
+"ref": "ldbis:74018",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.36/2025 од 3 јуни 2026 година („Службен весник на Република Северна Македонија“ бр. 130/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74018"
+},
+{
+"ref": "ldbis:74079",
+"title": "Одлука на Уставен суд на Република Северна Македонија, УЗ.бр.12/2025 од 10 јуни 2026 година („Службен весник на Република Северна Македонија“ бр. 137/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74079"
+}
+]
 },
 {
 "slug": "zakon-2024-sv187-67709",
@@ -238198,6 +241783,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68381"
 },
 {
+"slug": "zakon-2024-sv254-68571",
+"path": "zakon/2024/sv254-68571",
+"kind": "zakon",
+"year": "2024",
+"number": "sv254-68571",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за извршување на Буџетот на Република Северна Македонија за 2025 година",
+"short": "Закон за извршување на Буџетот на Република Северна Македонија за 2025 година",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68571",
+"amended_by": [
+{
+"ref": "ldbis:71130",
+"title": "Закон за изменување и дополнување на Законот за извршување на Буџетот на Република Северна Македонија за 2025 година („Службен весник на Република Северна Македонија“ бр. 151/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71130"
+}
+]
+},
+{
 "slug": "zakon-2024-sv255-68573",
 "path": "zakon/2024/sv255-68573",
 "kind": "zakon",
@@ -238570,6 +242179,30 @@
 "from": "2024-12-27",
 "latest": "2024-12-27",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68792"
+},
+{
+"slug": "zakon-2024-sv272-68793",
+"path": "zakon/2024/sv272-68793",
+"kind": "zakon",
+"year": "2024",
+"number": "sv272-68793",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за плата и други надоместоци на избрани и именувани лица во Република Македонија",
+"short": "Закон за изменување на Законот за плата и други надоместоци на избрани и именувани лица во Република Македонија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2024-12-27",
+"latest": "2024-12-27",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68793",
+"amended_by": [
+{
+"ref": "ldbis:74078",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.22/2026 од 17 јуни 2026 година („Службен весник на Република Северна Македонија“ бр. 137/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74078"
+}
+]
 },
 {
 "slug": "zakon-2024-sv272-68794",
@@ -242993,6 +246626,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68911"
 },
 {
+"slug": "zakon-2025-sv003-68912",
+"path": "zakon/2025/sv003-68912",
+"kind": "zakon",
+"year": "2025",
+"number": "sv003-68912",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за образование на возрасните",
+"short": "Закон за образование на возрасните",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-01-11",
+"latest": "2025-01-11",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68912",
+"amended_by": [
+{
+"ref": "ldbis:73838",
+"title": "Закон за изменување и дополнување на Законот за образование на возрасните („Службен весник на Република Северна Македонија“ бр. 111/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73838"
+}
+]
+},
+{
 "slug": "zakon-2025-sv003-68913",
 "path": "zakon/2025/sv003-68913",
 "kind": "zakon",
@@ -243027,6 +246684,35 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68915"
 },
 {
+"slug": "zakon-2025-sv003-68916",
+"path": "zakon/2025/sv003-68916",
+"kind": "zakon",
+"year": "2025",
+"number": "sv003-68916",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за стручно образование и обука",
+"short": "Закон за стручно образование и обука",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-01-11",
+"latest": "2025-01-11",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68916",
+"amended_by": [
+{
+"ref": "ldbis:69997",
+"title": "Закон за изменување и дополнување на Законот за стручно образование и обука („Службен весник на Република Северна Македонија“ бр. 74/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69997"
+},
+{
+"ref": "ldbis:73835",
+"title": "Закон за изменување и дополнување на Законот за стручно образование и обука („Службен весник на Република Северна Македонија“ бр. 111/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73835"
+}
+]
+},
+{
 "slug": "zakon-2025-sv003-68917",
 "path": "zakon/2025/sv003-68917",
 "kind": "zakon",
@@ -243042,6 +246728,30 @@
 "from": "2025-01-03",
 "latest": "2025-01-03",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68917"
+},
+{
+"slug": "zakon-2025-sv003-68918",
+"path": "zakon/2025/sv003-68918",
+"kind": "zakon",
+"year": "2025",
+"number": "sv003-68918",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за учебници во основно и средно образование",
+"short": "Закон за учебници во основно и средно образование",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-01-11",
+"latest": "2025-01-11",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68918",
+"amended_by": [
+{
+"ref": "ldbis:70003",
+"title": "Закон за изменување на Законот за учебници во основно и средно образование („Службен весник на Република Северна Македонија“ бр. 74/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70003"
+}
+]
 },
 {
 "slug": "zakon-2025-sv003-68919",
@@ -243843,6 +247553,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69068"
 },
 {
+"slug": "zakon-2025-sv014-69087",
+"path": "zakon/2025/sv014-69087",
+"kind": "zakon",
+"year": "2025",
+"number": "sv014-69087",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за јавните набавки",
+"short": "Закон за изменување и дополнување на Законот за јавните набавки",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-01-23",
+"latest": "2025-01-23",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69087",
+"amended_by": [
+{
+"ref": "ldbis:74613",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.64/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74613"
+}
+]
+},
+{
 "slug": "zakon-2025-sv014-69088",
 "path": "zakon/2025/sv014-69088",
 "kind": "zakon",
@@ -244064,6 +247798,35 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69137"
 },
 {
+"slug": "zakon-2025-sv017-69138",
+"path": "zakon/2025/sv017-69138",
+"kind": "zakon",
+"year": "2025",
+"number": "sv017-69138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за заштита на децата",
+"short": "Закон за изменување и дополнување на Законот за заштита на децата",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69138",
+"amended_by": [
+{
+"ref": "ldbis:73954",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.113/2025 од 20 мај 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73954"
+},
+{
+"ref": "ldbis:74614",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.112/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74614"
+}
+]
+},
+{
 "slug": "zakon-2025-sv017-69139",
 "path": "zakon/2025/sv017-69139",
 "kind": "zakon",
@@ -244147,6 +247910,35 @@
 "from": "2025-02-04",
 "latest": "2025-02-04",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69211"
+},
+{
+"slug": "zakon-2025-sv037-69499",
+"path": "zakon/2025/sv037-69499",
+"kind": "zakon",
+"year": "2025",
+"number": "sv037-69499",
+"withdrawn_by": null,
+"reason": null,
+"title": "Законот за изменување и дополнување на Законот за платежни услуги и платни системи",
+"short": "Законот за изменување и дополнување на Законот за платежни услуги и платни системи",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-02-27",
+"latest": "2025-02-27",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69499",
+"amended_by": [
+{
+"ref": "ldbis:70985",
+"title": "Законот за изменување и дополнување на Законот за платежни услуги и платни системи („Службен весник на Република Северна Македонија“ бр. 144/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70985"
+},
+{
+"ref": "ldbis:72549",
+"title": "Законот за изменување на Законот за платежни услуги и платни системи („Службен весник на Република Северна Македонија“ бр. 267/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72549"
+}
+]
 },
 {
 "slug": "zakon-2025-sv037-69500",
@@ -244370,6 +248162,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69620"
 },
 {
+"slug": "zakon-2025-sv047-69644",
+"path": "zakon/2025/sv047-69644",
+"kind": "zakon",
+"year": "2025",
+"number": "sv047-69644",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за вршење на сметководствени работи",
+"short": "Закон за изменување и дополнување на Законот за вршење на сметководствени работи",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69644",
+"amended_by": [
+{
+"ref": "ldbis:73447",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.267/2024 од 4 март 2026 година („Службен весник на Република Северна Македонија“ бр. 73/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73447"
+}
+]
+},
+{
 "slug": "zakon-2025-sv049-69656",
 "path": "zakon/2025/sv049-69656",
 "kind": "zakon",
@@ -244453,6 +248269,30 @@
 "from": "2025-03-17",
 "latest": "2025-03-17",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69770"
+},
+{
+"slug": "zakon-2025-sv059-69771",
+"path": "zakon/2025/sv059-69771",
+"kind": "zakon",
+"year": "2025",
+"number": "sv059-69771",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за технолошки индустриски развојни зони",
+"short": "Закон за изменување и дополнување на Законот за технолошки индустриски развојни зони",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-03-25",
+"latest": "2025-03-25",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69771",
+"amended_by": [
+{
+"ref": "ldbis:73104",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.42/2025 од 21 јануари 2026 година („Службен весник на Република Северна Македонија“ бр. 36/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73104"
+}
+]
 },
 {
 "slug": "zakon-2025-sv059-69772",
@@ -245254,6 +249094,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70422"
 },
 {
+"slug": "zakon-2025-sv104-70423",
+"path": "zakon/2025/sv104-70423",
+"kind": "zakon",
+"year": "2025",
+"number": "sv104-70423",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за работно ангажирање на лица",
+"short": "Закон за работно ангажирање на лица",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70423",
+"amended_by": [
+{
+"ref": "ldbis:74204",
+"title": "Закон за изменување и дополнување на Законот за работно ангажирање на лица („Службен весник на Република Северна Македонија“ бр. 148/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74204"
+}
+]
+},
+{
 "slug": "zakon-2025-sv113-70551",
 "path": "zakon/2025/sv113-70551",
 "kind": "zakon",
@@ -245628,6 +249492,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70803"
 },
 {
+"slug": "zakon-2025-sv132-70812",
+"path": "zakon/2025/sv132-70812",
+"kind": "zakon",
+"year": "2025",
+"number": "sv132-70812",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за дивечот и ловството",
+"short": "Закон за изменување и дополнување на Законот за дивечот и ловството",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-09",
+"latest": "2025-07-09",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70812",
+"amended_by": [
+{
+"ref": "ldbis:73633",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У. бр. 209/2024 од 21 јануари 2026 година („Службен весник на Република Северна Македонија“ бр. 90/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73633"
+}
+]
+},
+{
 "slug": "zakon-2025-sv132-70813",
 "path": "zakon/2025/sv132-70813",
 "kind": "zakon",
@@ -245643,6 +249531,35 @@
 "from": "2025-07-01",
 "latest": "2025-07-01",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70813"
+},
+{
+"slug": "zakon-2025-sv132-70814",
+"path": "zakon/2025/sv132-70814",
+"kind": "zakon",
+"year": "2025",
+"number": "sv132-70814",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за заштита на децата",
+"short": "Закон за изменување и дополнување на Законот за заштита на децата",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-01",
+"latest": "2025-07-01",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70814",
+"amended_by": [
+{
+"ref": "ldbis:73954",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У бр.113/2025 од 20 мај 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73954"
+},
+{
+"ref": "ldbis:74614",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.112/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74614"
+}
+]
 },
 {
 "slug": "zakon-2025-sv132-70816",
@@ -245713,6 +249630,59 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70868"
 },
 {
+"slug": "zakon-2025-sv135-70869",
+"path": "zakon/2025/sv135-70869",
+"kind": "zakon",
+"year": "2025",
+"number": "sv135-70869",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за електронските комуникации",
+"short": "Закон за електронските комуникации",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-12",
+"latest": "2025-07-12",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70869",
+"amended_by": [
+{
+"ref": "ldbis:72606",
+"title": "Закон за изменување и дополнување на Законот за електронските комуникации („Службен весник на Република Северна Македонија“ бр. 269/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72606"
+},
+{
+"ref": "ldbis:74048",
+"title": "Закон за дополнување на Законот за електронските комуникации („Службен весник на Република Северна Македонија“ бр. 132/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74048"
+}
+]
+},
+{
+"slug": "zakon-2025-sv135-70870",
+"path": "zakon/2025/sv135-70870",
+"kind": "zakon",
+"year": "2025",
+"number": "sv135-70870",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за архивски материјал и архивска дејност",
+"short": "Закон за архивски материјал и архивска дејност",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-12",
+"latest": "2025-07-12",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70870",
+"amended_by": [
+{
+"ref": "ldbis:74846",
+"title": "Закон за изменување и дополнување на Законот за архивски материјал и архивска дејност („Службен весник на Република Северна Македонија“ бр. 212/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74846"
+}
+]
+},
+{
 "slug": "zakon-2025-sv135-70871",
 "path": "zakon/2025/sv135-70871",
 "kind": "zakon",
@@ -245728,6 +249698,35 @@
 "from": "2025-07-04",
 "latest": "2025-07-04",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70871"
+},
+{
+"slug": "zakon-2025-sv135-70872",
+"path": "zakon/2025/sv135-70872",
+"kind": "zakon",
+"year": "2025",
+"number": "sv135-70872",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за инспекциски надзор",
+"short": "Закон за инспекциски надзор",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-12",
+"latest": "2025-07-12",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70872",
+"amended_by": [
+{
+"ref": "ldbis:72608",
+"title": "Закон за изменување на Законот за инспекциски надзор („Службен весник на Република Северна Македонија“ бр. 269/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72608"
+},
+{
+"ref": "ldbis:74848",
+"title": "Закон за изменување и дополнување на Законот за инспекциски надзор („Службен весник на Република Северна Македонија“ бр. 212/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74848"
+}
+]
 },
 {
 "slug": "zakon-2025-sv135-70874",
@@ -245883,6 +249882,35 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70993"
 },
 {
+"slug": "zakon-2025-sv144-71000",
+"path": "zakon/2025/sv144-71000",
+"kind": "zakon",
+"year": "2025",
+"number": "sv144-71000",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за стручно усовршување и обука на адмнистративните службеници",
+"short": "Закон за стручно усовршување и обука на адмнистративните службеници",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-25",
+"latest": "2025-07-25",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71000",
+"amended_by": [
+{
+"ref": "ldbis:72369",
+"title": "Закон за изменување и дополнување на Законот за стручно усовршување и обука на адмнистративните службеници („Службен весник на Република Северна Македонија“ бр. 252/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72369"
+},
+{
+"ref": "ldbis:74859",
+"title": "Закон за изменување и дополнување на Законот за стручно усовршување и обука на адмнистративните службеници („Службен весник на Република Северна Македонија“ бр. 212/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74859"
+}
+]
+},
+{
 "slug": "zakon-2025-sv144-71008",
 "path": "zakon/2025/sv144-71008",
 "kind": "zakon",
@@ -245898,6 +249926,74 @@
 "from": "2025-07-17",
 "latest": "2025-07-17",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71008"
+},
+{
+"slug": "zakon-2025-sv144-71009",
+"path": "zakon/2025/sv144-71009",
+"kind": "zakon",
+"year": "2025",
+"number": "sv144-71009",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за вработените во јавниот сектор",
+"short": "Закон за вработените во јавниот сектор",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-25",
+"latest": "2025-07-25",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71009",
+"amended_by": [
+{
+"ref": "ldbis:72370",
+"title": "Закон за изменување и дополнување на Законот за вработените во јавниот сектор („Службен весник на Република Северна Македонија“ бр. 252/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72370"
+},
+{
+"ref": "ldbis:75156",
+"title": "Закон за изменување и дополнување на Законот за вработените во јавниот сектор („Службен весник на Република Северна Македонија“ бр. 242/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75156"
+}
+]
+},
+{
+"slug": "zakon-2025-sv144-71010",
+"path": "zakon/2025/sv144-71010",
+"kind": "zakon",
+"year": "2025",
+"number": "sv144-71010",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за административни службеници",
+"short": "Закон за административни службеници",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-25",
+"latest": "2025-07-25",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71010",
+"amended_by": [
+{
+"ref": "ldbis:72368",
+"title": "Закон за изменување и дополнување на Законот за административни службеници („Службен весник на Република Северна Македонија“ бр. 252/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72368"
+},
+{
+"ref": "ldbis:72541",
+"title": "Закон за изменување на Законот за административни службеници („Службен весник на Република Северна Македонија“ бр. 266/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72541"
+},
+{
+"ref": "ldbis:74832",
+"title": "Закон за изменување и дополнување на Законот за административни службеници („Службен весник на Република Северна Македонија“ бр. 212/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74832"
+},
+{
+"ref": "ldbis:75225",
+"title": "Закон за изменување и дополнување на Законот за административни службеници („Службен весник на Република Северна Македонија“ бр. 249/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75225"
+}
+]
 },
 {
 "slug": "zakon-2025-sv148-71066",
@@ -246019,6 +250115,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71153"
 },
 {
+"slug": "zakon-2025-sv154-71154",
+"path": "zakon/2025/sv154-71154",
+"kind": "zakon",
+"year": "2025",
+"number": "sv154-71154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за иновациската дејност, научно-технолошки развој и претприемништво",
+"short": "Закон за иновациската дејност, научно-технолошки развој и претприемништво",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71154",
+"amended_by": [
+{
+"ref": "ldbis:71633",
+"title": "Закон за изменување и дополнување на Законoт за иновациската дејност, научно-технолошки развој и претприемништво („Службен весник на Република Северна Македонија“ бр. 192/2025)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71633"
+}
+]
+},
+{
 "slug": "zakon-2025-sv154-71155",
 "path": "zakon/2025/sv154-71155",
 "kind": "zakon",
@@ -246034,6 +250154,30 @@
 "from": "2025-07-29",
 "latest": "2025-07-29",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71155"
+},
+{
+"slug": "zakon-2025-sv154-71156",
+"path": "zakon/2025/sv154-71156",
+"kind": "zakon",
+"year": "2025",
+"number": "sv154-71156",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување и дополнување на Законот за технолошки индустриски развојни зони",
+"short": "Закон за изменување и дополнување на Законот за технолошки индустриски развојни зони",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-07-29",
+"latest": "2025-07-29",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71156",
+"amended_by": [
+{
+"ref": "ldbis:73104",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.42/2025 од 21 јануари 2026 година („Службен весник на Република Северна Македонија“ бр. 36/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73104"
+}
+]
 },
 {
 "slug": "zakon-2025-sv154-71157",
@@ -246119,6 +250263,35 @@
 "from": "2025-08-13",
 "latest": "2025-08-13",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71289"
+},
+{
+"slug": "zakon-2025-sv160-71290",
+"path": "zakon/2025/sv160-71290",
+"kind": "zakon",
+"year": "2025",
+"number": "sv160-71290",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за внатрешни работи",
+"short": "Закон за внатрешни работи",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-08-13",
+"latest": "2025-08-13",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71290",
+"amended_by": [
+{
+"ref": "ldbis:72821",
+"title": "Закон за изменување и дополнување на Законот за внатрешни работи („Службен весник на Република Северна Македонија“ бр. 15/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72821"
+},
+{
+"ref": "ldbis:73843",
+"title": "Закон за изменување на Законот за внатрешни работи („Службен весник на Република Северна Македонија“ бр. 111/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73843"
+}
+]
 },
 {
 "slug": "zakon-2025-sv160-71291",
@@ -247046,6 +251219,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72406"
 },
 {
+"slug": "zakon-2025-sv258-72407",
+"path": "zakon/2025/sv258-72407",
+"kind": "zakon",
+"year": "2025",
+"number": "sv258-72407",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за средно полициско училиште",
+"short": "Закон за средно полициско училиште",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72407",
+"amended_by": [
+{
+"ref": "ldbis:73525",
+"title": "Закон за изменување на Законот за средно полициско училиште („Службен весник на Република Северна Македонија“ бр. 79/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73525"
+}
+]
+},
+{
 "slug": "zakon-2025-sv266-72542",
 "path": "zakon/2025/sv266-72542",
 "kind": "zakon",
@@ -247197,6 +251394,30 @@
 "from": "2025-12-30",
 "latest": "2025-12-30",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72553"
+},
+{
+"slug": "zakon-2025-sv269-72599",
+"path": "zakon/2025/sv269-72599",
+"kind": "zakon",
+"year": "2025",
+"number": "sv269-72599",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за Судскиот совет на Република Северна Македонија",
+"short": "Закон за Судскиот совет на Република Северна Македонија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-01-08",
+"latest": "2026-01-08",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72599",
+"amended_by": [
+{
+"ref": "ldbis:74047",
+"title": "Закон за изменување и дополнување на Законот за Судскиот совет на Република Северна Македонија („Службен весник на Република Северна Македонија“ бр. 132/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74047"
+}
+]
 },
 {
 "slug": "zakon-2025-sv269-72600",
@@ -253381,6 +257602,30 @@
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73042"
 },
 {
+"slug": "zakon-2026-sv039-73124",
+"path": "zakon/2026/sv039-73124",
+"kind": "zakon",
+"year": "2026",
+"number": "sv039-73124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за плата и други надоместоци на избрани и именувани лица во Република Македонија",
+"short": "Закон за изменување на Законот за плата и други надоместоци на избрани и именувани лица во Република Македонија",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-02-25",
+"latest": "2026-02-25",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73124",
+"amended_by": [
+{
+"ref": "ldbis:74078",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.22/2026 од 17 јуни 2026 година („Службен весник на Република Северна Македонија“ бр. 137/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74078"
+}
+]
+},
+{
 "slug": "zakon-2026-sv039-73126",
 "path": "zakon/2026/sv039-73126",
 "kind": "zakon",
@@ -253447,6 +257692,30 @@
 "from": "2026-02-25",
 "latest": "2026-02-25",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73129"
+},
+{
+"slug": "zakon-2026-sv041-73131",
+"path": "zakon/2026/sv041-73131",
+"kind": "zakon",
+"year": "2026",
+"number": "sv041-73131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за изменување на Законот за постапување со бесправно изградени објекти",
+"short": "Закон за изменување на Законот за постапување со бесправно изградени објекти",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-02-26",
+"latest": "2026-02-26",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73131",
+"amended_by": [
+{
+"ref": "ldbis:74615",
+"title": "Одлука на Уставен суд на Република Северна Македонија, У.бр.167/2025 од 16 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74615"
+}
+]
 },
 {
 "slug": "zakon-2026-sv043-73138",
@@ -254297,6 +258566,30 @@
 "from": "2026-07-10",
 "latest": "2026-07-10",
 "portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74168"
+},
+{
+"slug": "zakon-2026-sv146-74169",
+"path": "zakon/2026/sv146-74169",
+"kind": "zakon",
+"year": "2026",
+"number": "sv146-74169",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон за високи раководители",
+"short": "Закон за високи раководители",
+"code": null,
+"status": "amended, not consolidated",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74169",
+"amended_by": [
+{
+"ref": "ldbis:75157",
+"title": "Закон за изменување и дополнување на Законот за високи раководители („Службен весник на Република Северна Македонија“ бр. 242/2026)",
+"url": "https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75157"
+}
+]
 },
 {
 "slug": "zakon-2026-sv146-74170",
