@@ -14,3 +14,11 @@ Act id: `pravilnik-2009-sv141-18126` (tags `pravilnik-2009-sv141-18126/<day>`; `
 - A principal law is published only when LDBIS links no later act to it (no amendment, consolidated text, court decision or replacing law); an amending law only when no later act amends it and no Constitutional Court decision follows it; never when a correction names it.
 - A law LDBIS marks no longer valid gets a second version with no text, from its end-of-validity day, which LDBIS records as the day the repealing act enters into force. It is published only when a linked act enters into force on that very day (by LDBIS, and by its own final article where that can be read), no other linked act enters into force the day before or after, and, for a principal law, no other linked act was published before that day. The removal is credited to that act when its text says the law ceases to be valid and cites its gazette number in the same article; otherwise to the publisher, as unexplained. An amending law gets this version only when such a text names it.
 - Paragraphs follow the PDF's layout (a new block, an indented first line or a centred line starts one); a centred line just above an article is its caption, other centred lines are headings.
+
+## Credits corrected
+
+These changes were first published credited to another law. The words are unchanged; `git blame` still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.
+
+- `art-001.md`, in force from 2014-02-20: Правилник за начинот на пополнување на царинската декларација и Кодексот на шифри кои се употребуваат при пополнување на царинската декларација („Службен весник на Република Македонија“ бр. 36/2014) (first published as no law named).
+- `art-002.md`, in force from 2014-02-20: Правилник за начинот на пополнување на царинската декларација и Кодексот на шифри кои се употребуваат при пополнување на царинската декларација („Службен весник на Република Македонија“ бр. 36/2014) (first published as no law named).
+- `uvod.md`, in force from 2014-02-20: Правилник за начинот на пополнување на царинската декларација и Кодексот на шифри кои се употребуваат при пополнување на царинската декларација („Службен весник на Република Македонија“ бр. 36/2014) (first published as no law named).
