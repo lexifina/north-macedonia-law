@@ -66,6 +66,8 @@ def status(a: dict) -> str:
     last = a['versions'][-1] if a['versions'] else {}
     if 'units' in last and not last['units']:
         return f'repealed {last["from"]}'
+    if a.get('label'):  # 2026-11-09: "amended, not consolidated" and the like, set by the country's parser
+        return a['label']
     if AMENDING.search(a.get('title', '')):
         return 'amending act'
     return 'in force'
@@ -93,7 +95,8 @@ def acts_rows(c: dict) -> list[dict]:
                      'number': number, 'withdrawn_by': a.get('_withdrawn_by'), 'reason': a.get('_reason'),
                      'title': a.get('title', ''), 'short': a.get('short', ''), 'code': code_name(a), 'status': status(a),
                      'versions': len(vs), 'from': vs[0]['from'] if vs else None, 'latest': vs[-1]['from'] if vs else None,
-                     'portal': a.get('url')})
+                     'portal': a.get('url'),
+                     **{k: a[k] for k in ('amended_by', 'cited_by') if a.get(k)}})
     order = {k: i for i, k in enumerate(KIND_ORDER)}
     rows.sort(key=lambda r: (order.get(r['kind'], 99), r['year'], int(r['number']) if r['number'].isdigit() else 0))
     return rows

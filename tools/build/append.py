@@ -127,6 +127,18 @@ def absent_acts(repo: Path, head: str, listed: set[str], known_paths: dict[str, 
         except ValueError:
             return {}
     rows_for = {s: a for s, a in versions_at(head).items() if s not in listed}
+    # 2026-11-09 (alan-dell): GITLAW_RECOVER_FROM=<sha> restores the index rows and folders of acts an earlier
+    # documentation commit dropped (croatia-law 728be25 lost 1,589 rows: a partial corpus and no <id>/<day> tags).
+    rec = os.environ.get('GITLAW_RECOVER_FROM')
+    if rec:
+        _pj = subprocess.run(['git', 'show', f'{rec}:{DP}data/paths.json'], cwd=repo, capture_output=True, text=True,
+                             encoding='utf-8')
+        old_paths = json.loads(_pj.stdout).get('paths', {}) if not _pj.returncode and _pj.stdout else {}
+        for s, a in versions_at(rec).items():
+            if s not in listed and s not in rows_for:
+                rows_for[s] = a
+            if s not in listed and s in old_paths:
+                known_paths.setdefault(s, old_paths[s])
     # Withdrawn: the trailer names the act; the "- <id>: <reason>" lines of the same commit give the reason.
     withdrawn: dict[str, tuple[str, str]] = {}
     for rec in git(repo, 'log', '--format=%x1e%h%x1f%B', '--grep=^Withdraws:', head).split('\x1e')[1:]:
@@ -145,7 +157,9 @@ def absent_acts(repo: Path, head: str, listed: set[str], known_paths: dict[str, 
     path_for: dict[str, str] = {}
     have = set(known_paths.values()) | {a['path'] for a in c['acts'] if a.get('path')}
     folders = {f[:-len('/README.md')] for f in git(repo, 'ls-tree', '-r', '--name-only', head).splitlines()
-               if f.endswith('/README.md') and f.split('/')[0] not in ('tools', 'data')}
+               if f.endswith('/README.md') and f.split('/')[0] not in ('tools', 'data', DP.rstrip('/'))}
+    # (2026-11-09: the docs prefix folder itself, e.g. registry/README.md, is no act; without this every publish ran
+    # a whole-history pickaxe search for it)
     for f in sorted(folders - have):
         if '/' not in f and f in rows_for:  # a folder still named by its id (an act from before the layout move)
             continue
@@ -301,7 +315,7 @@ def correction_block(repo: Path, c: dict, act: dict, first_day: str, last: str, 
                    f'Restates the text in force from {day} after the correction of {first_day}, so that every '
                    'later day reads the corrected history.' + ('' if same else ' The text served for this day '
                                                                   'differed from the official one as well.')]
-        trailers = ['Kind: correction', f'Act: {act["slug"]}', f'In-force: {day}']
+        trailers = ['Kind: correction', f'Act: {act["slug"]}', f'In-force: {day}', f'Corrected: {day}']
         if h:
             trailers.append(f'{"Re-asserts" if same and prev is not None else "Corrects"}: {h}')
         out.append({'day': day, 'act': act, 'files': files, 'message': msg, 'trailers': trailers})
@@ -571,6 +585,9 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     # no index row yet; a README-only folder would otherwise read as a published act with no text.
     on_main = set(state) | {a['slug'] for a in sub['acts']}
     tagged = {t.split('/', 1)[0] for t in existing_tags if '/' in t and not t.startswith('law/')}  # <id>/<day> tags
+    # 2026-11-09 (alan-dell): a repository whose acts carry only law/<id> tags (croatia-law) lost every act this
+    # publish's corpus did not hold from its indexes; an act data/paths.json places on main has text there too.
+    tagged |= set(known_paths)
     c_pub = {**c, 'acts': [a for a in c['acts'] if a['slug'] in on_main]}
     docs = B.docs_files(c_pub, folder, raw, full_log, all_tags, docs_date)
     # Ship this script beside build.py, so the repository says how its appended commits were made.
@@ -582,6 +599,7 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     # main: head's versions.json, else the last one that had them.
     listed = {a['slug'] for a in c['acts']}
     extra, rows_for, path_for = absent_acts(repo, head, listed, known_paths, c)
+    tagged |= set(path_for) | set(known_paths)  # acts an earlier publish dropped from the indexes: their folders are still on main
     # Of the acts this corpus doesn't have, keep the withdrawn and those with history (held back this cycle).
     no_text = [a for a in extra if not a.get('_withdrawn') and a['slug'] not in tagged]
     extra = [a for a in extra if a not in no_text]

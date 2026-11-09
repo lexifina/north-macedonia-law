@@ -1,6 +1,8 @@
-# Закон за ратификација на Конвенцијата за намалување на бездржавјанство
+# Закон за ратификација на Конвенцијата за намалување на
+бездржавјанство
 
-Закон за ратификација на Конвенцијата за намалување на бездржавјанство · 1 versions, from 2019-10-17 (latest in force: 2019-10-17) · <https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50636>
+Закон за ратификација на Конвенцијата за намалување на
+бездржавјанство · 1 versions, from 2019-10-17 (latest in force: 2019-10-17) · <https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50636>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

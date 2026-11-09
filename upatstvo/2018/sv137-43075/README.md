@@ -1,6 +1,8 @@
-# Упатство за превенција и третман на примарна постпартална хеморагија
+# Упатство за превенција и третман на примарна постпартална
+хеморагија
 
-Упатство за превенција и третман на примарна постпартална хеморагија · 1 versions, from 2018-07-25 (latest in force: 2018-07-25) · <https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43075>
+Упатство за превенција и третман на примарна постпартална
+хеморагија · 1 versions, from 2018-07-25 (latest in force: 2018-07-25) · <https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43075>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
