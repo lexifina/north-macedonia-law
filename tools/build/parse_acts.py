@@ -284,7 +284,7 @@ def suffix_key(s: str) -> str:
     return "".join(LAT.get(c, c) for c in s)
 
 
-def split(paras: list[dict], db_title: str = "", word: str = "ЗАКОН") -> tuple[dict, str, str | None]:
+def split(paras: list[dict], db_title: str = "", word: str = "ЗАКОН", new: bool = False) -> tuple[dict, str, str | None]:
     """(units, title, adoption day). The law starts at its upper-case title after the decree."""
     feet = [p["text"] for p in paras if p.get("foot")]
     if getattr(paras, "old_feet", len(feet)) > 6:
@@ -396,14 +396,24 @@ def split(paras: list[dict], db_title: str = "", word: str = "ЗАКОН") -> tu
         if not arts_order:
             raise Hold("no_articles")
         last = units[arts_order[-1]]["lines"]
-        cut = next((j for j in range(1, len(last)) if SIGNATURE.match(last[j])), None)
-        if cut is None or sum(len(x) for x in last[cut:]) > 400:
-            raise Hold("no_signature")
-        # the office printed beside it may start a line or two higher ("Претседател на комисија и"): short lines
-        # that do not end a sentence or item, right above the number
-        while cut > 1 and len(last[cut - 1]) < 60 and not re.search(r"[.,;:“”\"]$", last[cut - 1]):
-            cut -= 1
+        if new:
+            cut, annex = sig_cut(last, True)
+        else:
+            annex = None
+            cut = next((j for j in range(1, len(last)) if SIGNATURE.match(last[j])), None)
+            if cut is None or sum(len(x) for x in last[cut:]) > 400:
+                raise Hold("no_signature")
+            # the office printed beside it may start a line or two higher ("Претседател на комисија и"): short lines
+            # that do not end a sentence or item, right above the number
+            while cut > 1 and len(last[cut - 1]) < 60 and not re.search(r"[.,;:“”\"]$", last[cut - 1]):
+                cut -= 1
         del last[cut:]
+        if annex:
+            if any(units[k]["kind"] != "heading" for k in order[order.index(arts_order[-1]) + 1:]):
+                raise Hold("text_after_signature")
+            key = f"prilog-{sum(1 for x in order if x.startswith('prilog-')) + 1:02d}"
+            units[key] = {"label": annex[0], "kind": "annex", "lines": [f"# {annex[0]}"] + annex[1:]}
+            order.append(key)
         if any(units[k]["kind"] not in ("annex", "heading") for k in order[order.index(arts_order[-1]) + 1:]):
             raise Hold("text_after_signature")
     out = {}
@@ -459,7 +469,32 @@ UNCLEAN = [
 ]
 
 
-def flat_split(paras: list[dict], db_title: str, word: str) -> tuple[dict, str, None]:
+# 2026-11-11 (new kinds only): the act's number under the text also reads "УП1 бр. 08-582/24" (regulators' cases),
+# "О. бр. 02-15/162/2000" (the National Bank's council), "бр." in lower case; and an annex printed after the signature
+# (a regulator's licence under "Прилог") is the act's annex: the signature block ends at the signatory's "с.р.".
+SIGNATURE_ANY = re.compile(r"^(?:(?:УП\s?\d|О\.|У\.)\s*)?(?:[Бб]р\.|Број)\s*:?\s*\d")
+ANNEX_START = re.compile(r"^(?:Прилог|ПРИЛОГ|Анекс|АНЕКС)(?:\s+(?:бр\.\s*)?\S{1,6})?\.?$")
+
+
+def sig_cut(lines: list[str], new: bool) -> tuple[int, list[str] | None]:
+    """(index of the signature's first line, annex lines after the signature block or None); Hold no_signature."""
+    rx = SIGNATURE_ANY if new else SIGNATURE
+    cut = next((j for j in range(1, len(lines)) if rx.match(lines[j])), None)
+    annex = None
+    if new and cut is not None and sum(len(x) for x in lines[cut:]) > 400:
+        end = next((k for k in range(cut, min(len(lines), cut + 8)) if re.search(r"с\.\s?р\.?$", lines[k])), None)
+        if end is not None and end + 1 < len(lines) and ANNEX_START.match(lines[end + 1]) \
+                and sum(len(x) for x in lines[cut:end + 1]) <= 400:
+            annex = lines[end + 1:]
+            del lines[end + 1:]
+    if cut is None or sum(len(x) for x in lines[cut:]) > 400:
+        raise Hold("no_signature")
+    while cut > 1 and len(lines[cut - 1]) < 60 and not re.search(r"[.,;:“”\"]$", lines[cut - 1]):
+        cut -= 1
+    return cut, annex
+
+
+def flat_split(paras: list[dict], db_title: str, word: str, new: bool = False) -> tuple[dict, str, None]:
     """(units, title, None) for an act with no numbered articles at all (a short instruction or order made of points
     or paragraphs): the enacting formula as the preamble and the whole text, up to the signature, as one unit.
     Raises Hold unless the text is clean: no stray characters, no words run together, no letters doubled by a font
@@ -486,12 +521,18 @@ def flat_split(paras: list[dict], db_title: str, word: str) -> tuple[dict, str, 
         title += " " + texts[k]
         k += 1
     body = texts[k:]
-    cut = next((j for j in range(1, len(body)) if SIGNATURE.match(body[j])), None)
-    if cut is None or sum(len(x) for x in body[cut:]) > 400:
-        raise Hold("no_signature")
-    while cut > 1 and len(body[cut - 1]) < 60 and not re.search(r"[.,;:“”\"]$", body[cut - 1]):
-        cut -= 1
+    if new:
+        cut, annex = sig_cut(body, True)
+    else:
+        annex = None
+        cut = next((j for j in range(1, len(body)) if SIGNATURE.match(body[j])), None)
+        if cut is None or sum(len(x) for x in body[cut:]) > 400:
+            raise Hold("no_signature")
+        while cut > 1 and len(body[cut - 1]) < 60 and not re.search(r"[.,;:“”\"]$", body[cut - 1]):
+            cut -= 1
     body = body[:cut]
+    if annex:
+        body = body + annex  # checked for cleanliness with the text, then split off below
     if sum(len(x) for x in body) < 100:
         raise Hold("flat_text_too_short")
     for name, rx in UNCLEAN:
@@ -513,8 +554,12 @@ def flat_split(paras: list[dict], db_title: str, word: str) -> tuple[dict, str, 
     if any(re.fullmatch(r"(?:\d+\s+){3,}\d+|_{3,}.*|.*_{5,}.*", t) for t in body) \
             or sum(1 for t in body if len(t) < 30) > max(2, len(body) // 5):
         raise Hold("flat_text_unclean:table_layout")
+    if annex:
+        body = body[:len(body) - len(annex)]
     units = {"uvod": {"label": "Вовед", "kind": "preamble", "text": "\n".join(preamble) + "\n"},
              "tekst": {"label": "Текст", "kind": "text", "text": "\n".join(body) + "\n"}}
+    if annex:
+        units["prilog-01"] = {"label": annex[0], "kind": "annex", "text": "\n".join([f"# {annex[0]}"] + annex[1:]) + "\n"}
     return units, norm(title), None
 
 
@@ -737,12 +782,12 @@ def main():
                     raise Hold("no_text_layer")
                 paras = paragraphs(merge_rows(data["lines"]))
                 try:
-                    hit = {"ok": split(paras, title, word_of(recs[i])), "meta": data["meta"]}
+                    hit = {"ok": split(paras, title, word_of(recs[i]), recs[i].get("kind") not in OLD_KINDS), "meta": data["meta"]}
                 except Hold as h:
                     if str(h) != "no_articles":
                         raise
                     # no numbered articles at all: the whole text as one unit, when it is clean
-                    hit = {"ok": flat_split(paras, title, word_of(recs[i])), "meta": data["meta"], "flat": True}
+                    hit = {"ok": flat_split(paras, title, word_of(recs[i]), recs[i].get("kind") not in OLD_KINDS), "meta": data["meta"], "flat": True}
             except Hold as h:
                 hit = {"hold": str(h)}
         new_cache[ck] = hit
