@@ -152,6 +152,12 @@ def merge_rows(lines: list) -> list[dict]:
     return [r for r in rows if r["text"] and not PAGE_NO.match(r["text"])]
 
 
+QUOTED_HEAD = re.compile(r"^[„\"“”]?\s*Службен\s+весник\s+на\s+(?:РСМ|РМ|Р\.\s?М\.|Република[^“”\"]{0,40})[“”\"]?\s*,?\s*"
+                         r"(?:бр\.|број)\s*\d*\s*(?:/\s*\d+\s*)?(?:од\s*)?[\d.\s]*(?:од\s*[\d.\s]*)?(?:година|год\.)?\.?\s*$")
+RUBRIC = re.compile(r"^(?:ДЕКЛАРАЦИИ,\s+ЗАЕДНИЧКИ\s+ПОЗИЦИИ\s+И\s+ДЕМ.*|Декларации,\s+заеднички\s+позиции\s+и\s+дем.*"
+                    r"|МЕЃУНАРОДНИ\s+ДОГОВОРИ|ОГЛАСЕН\s+ДЕЛ|СЛУЖБЕН\s+ВЕСНИК\s+НА\s+РЕПУБЛИКА[А-Ш\s]*)\s*$")
+
+
 def paragraphs(rows: list[dict]) -> list[dict]:
     """Paragraphs: a new block, an indented first line, or a centred line starts one."""
     if not rows:
@@ -160,8 +166,22 @@ def paragraphs(rows: list[dict]) -> list[dict]:
     # Running heads and page numbers in the top and bottom margins are not text; anything else there stops the act.
     head = re.compile(r"^(?:Службен весник на (?:РСМ|РМ|Република)[^.]*бр\.\s*\d+ од [\d.]+ ?година|\d{1,4}|Стр\.?\s*\d+.*)$")
     margin = [r for r in rows if r["y"] < 55 or (r["y"] > 762 and r["size"] < size - 0.5) or head.match(r["text"])]
-    if any(not head.match(r["text"]) for r in margin):
-        raise Hold("text_in_margin:" + next(r["text"] for r in margin if not head.match(r["text"]))[:80])
+    # 2026-11-11 (rule 7): in the top or bottom margin, also the running head printed with quotes („Службен весник на
+    # РМ“ бр. 12 од 3.2.2015 година), the issuing body's name in capitals at the top of the act's first page (ВЛАДА НА
+    # РЕПУБЛИКА СЕВЕРНА МАКЕДОНИЈА), and the Gazette's section titles (МЕЃУНАРОДНИ ДОГОВОРИ) are not the act's text.
+    # Only rows in the margins: a line in the text that reads like these stays text.
+    first_page = min(r["page"] for r in rows)
+
+    def margin_ok(r: dict) -> bool:
+        if head.match(r["text"]):
+            return True
+        if QUOTED_HEAD.match(r["text"]) or RUBRIC.match(r["text"]):
+            return True
+        t = r["text"]
+        return r["page"] == first_page and r["y"] < 55 and t == t.upper() and not re.search(r"\d", t) \
+            and bool(re.search(r"[А-Ш]{3}", t)) and len(t) < 120
+    if any(not margin_ok(r) for r in margin):
+        raise Hold("text_in_margin:" + next(r["text"] for r in margin if not margin_ok(r))[:80])
     rows = [r for r in rows if r not in margin]
     # A line's size is its first span's: a small first span is no proof the line is small print (a footnote's first
     # line starts with its small superscript mark, the rest printed at text size; a text line may start with a small
@@ -437,15 +457,25 @@ def split(paras: list[dict], db_title: str = "", word: str = "ЗАКОН", new: 
     return out, norm(title), adopted
 
 
-def own_in_force(units: dict, published: str, rx: re.Pattern = IN_FORCE) -> tuple[str | None, str]:
+def own_in_force(units: dict, published: str, rx: re.Pattern = IN_FORCE, normalize: bool = True) -> tuple[str | None, str]:
     text = " ".join(u["text"].replace("\n", " ") for k, u in units.items() if k.startswith("art-"))
     text = re.sub(r"„[^“”]{40,}?[“”]", " ", text)  # provisions quoted into another act
-    clauses = [m.group(1) for m in rx.finditer(text)]
+    ms = list(rx.finditer(text))
+    clauses = [m.group(1) for m in ms]
     if not clauses:
         return None, "none"
     c = clauses[-1].strip()
     p = date.fromisoformat(published)
-    if rx is IN_FORCE_ANY and re.match(r"^(?:со|од)\s+денот\s+на\s+(?:неговото\s+|нејзиното\s+)?објавувањето", c):
+    if rx is IN_FORCE_ANY:
+        # 2026-11-11 (new kinds, rule 8): "објавување" without the article, "на денот на ..."; and the day of adoption
+        # ("со денот на донесувањето"), which the caller checks against the dates printed in the act
+        if re.match(r"^(?:со|на)\s+денот\s+на\s+(?:неговото\s+|нејзиното\s+)?донесување(?:то)?(?![а-ш])", c):
+            return None, "adoption"
+        if normalize:
+            c = re.sub(r"објавување(?![а-ш])", "објавувањето", c)
+            c = re.sub(r"^на\s+денот\s+на\s+(?=(?:неговото\s+|нејзиното\s+)?објавувањето)", "со денот на ", c)
+    if rx is IN_FORCE_ANY and re.match(r"^(?:со|од)\s+денот\s+на\s+(?:неговото\s+|нејзиното\s+)?објавувањето", c) \
+            and (c.startswith("со") or "произведува" in ms[-1].group(0)):
         return published, "publication"
     if re.match(r"^со\s+денот\s+на\s+(?:неговото\s+)?објавувањето", c):
         return published, "publication"
@@ -595,38 +625,45 @@ def flat_split(paras: list[dict], db_title: str, word: str, new: bool = False) -
         while cut > 1 and len(body[cut - 1]) < 60 and not re.search(r"[.,;:“”\"]$", body[cut - 1]):
             cut -= 1
     body = body[:cut]
-    if new and sum(len(x) for x in body) >= 100:
-        pts = point_units(body)
-        if pts is not None:
-            if any(len(re.sub(r"^\S+\s*", "", u["text"]).strip()) < 3 for u in pts.values() if u["kind"] == "point"):
-                raise Hold("empty_point")
-            units = {"uvod": {"label": "Вовед", "kind": "preamble", "text": "\n".join(preamble) + "\n"}, **pts}
-            if annex:
-                units["prilog-01"] = {"label": annex[0], "kind": "annex", "text": "\n".join([f"# {annex[0]}"] + annex[1:]) + "\n"}
-            return units, norm(title), None
     if annex:
         body = body + annex  # checked for cleanliness with the text, then split off below
-    if sum(len(x) for x in body) < 100:
-        raise Hold("flat_text_too_short")
-    for name, rx in UNCLEAN:
+    try:
+        if sum(len(x) for x in body) < 100:
+            raise Hold("flat_text_too_short")
+        for name, rx in UNCLEAN:
+            for t in [title] + preamble + body:
+                if rx.search(t):
+                    raise Hold(f"flat_text_unclean:{name}:{rx.search(t).group(0)}")
+        # a word split at a line end with its hyphen left in ("лабора-ториски", "си-те"); real compounds ("жиро-сметка")
+        # cannot be told apart from these without a dictionary, so any hyphen between two lower-case letters holds the act
         for t in [title] + preamble + body:
-            if rx.search(t):
-                raise Hold(f"flat_text_unclean:{name}:{rx.search(t).group(0)}")
-    # a word split at a line end with its hyphen left in ("лабора-ториски", "си-те"); real compounds ("жиро-сметка")
-    # cannot be told apart from these without a dictionary, so any hyphen between two lower-case letters holds the act
-    for t in [title] + preamble + body:
-        m = re.search(r"[" + CYR_LO + r"]-[" + CYR_LO + r"]", t)
-        if m:
-            raise Hold(f"flat_text_unclean:hyphen_in_word:{t[max(0, m.start() - 8):m.end() + 8]}")
-    # a paragraph broken in the middle of a sentence: a line ending in a word or a comma and the next one going on in
-    # lower case
-    for a_, b_ in zip(preamble + body, (preamble + body)[1:]):
-        if re.search(r"[" + CYR_LO + CYR_UP + r",]$", a_) and re.match(r"[" + CYR_LO + r"]", b_):
-            raise Hold(f"flat_text_unclean:broken_paragraph:{a_[-20:]}")
-    # forms and tables come out of the PDF as runs of short cells and column numbers, not as text
-    if any(re.fullmatch(r"(?:\d+\s+){3,}\d+|_{3,}.*|.*_{5,}.*", t) for t in body) \
-            or sum(1 for t in body if len(t) < 30) > max(2, len(body) // 5):
-        raise Hold("flat_text_unclean:table_layout")
+            m = re.search(r"[" + CYR_LO + r"]-[" + CYR_LO + r"]", t)
+            if m:
+                raise Hold(f"flat_text_unclean:hyphen_in_word:{t[max(0, m.start() - 8):m.end() + 8]}")
+        # a paragraph broken in the middle of a sentence: a line ending in a word or a comma and the next one going on in
+        # lower case
+        for a_, b_ in zip(preamble + body, (preamble + body)[1:]):
+            if re.search(r"[" + CYR_LO + CYR_UP + r",]$", a_) and re.match(r"[" + CYR_LO + r"]", b_):
+                raise Hold(f"flat_text_unclean:broken_paragraph:{a_[-20:]}")
+        # forms and tables come out of the PDF as runs of short cells and column numbers, not as text
+        if any(re.fullmatch(r"(?:\d+\s+){3,}\d+|_{3,}.*|.*_{5,}.*", t) for t in body) \
+                or sum(1 for t in body if len(t) < 30) > max(2, len(body) // 5):
+            raise Hold("flat_text_unclean:table_layout")
+    except Hold:
+        # 2026-11-11 (new kinds, rule 6): a text the checks above hold is published when it is made of
+        # numbered points (point_units), split into them, with the checks an act made of articles has.
+        if annex:
+            body = body[:len(body) - len(annex)]
+        if new and sum(len(x) for x in body) >= 100:
+            pts = point_units(body)
+            if pts is not None:
+                if any(len(re.sub(r"^\S+\s*", "", u["text"]).strip()) < 3 for u in pts.values() if u["kind"] == "point"):
+                    raise Hold("empty_point")
+                units = {"uvod": {"label": "Вовед", "kind": "preamble", "text": "\n".join(preamble) + "\n"}, **pts}
+                if annex:
+                    units["prilog-01"] = {"label": annex[0], "kind": "annex", "text": "\n".join([f"# {annex[0]}"] + annex[1:]) + "\n"}
+                return units, norm(title), None
+        raise
     if annex:
         body = body[:len(body) - len(annex)]
     units = {"uvod": {"label": "Вовед", "kind": "preamble", "text": "\n".join(preamble) + "\n"},
@@ -727,6 +764,19 @@ def cites_repeal(text: str, issue: str, published: str) -> bool:
             if 0 <= s - m.end() <= 400 and not art.search(text, m.end(), s):
                 return True
     return False
+
+
+def adoption_day(src: Path, i: int, day: str, pub: str) -> str | None:
+    """(new kinds, rule 8) An act in force "on the day it is adopted": LDBIS's in-force day, when it is at most 60 days
+    before publication and the act prints that very date (its signature or session: "2 мај 2024 година",
+    "02.05.2024", "2.5.2024"). Otherwise None (the act is held)."""
+    if not day or not pub or day > pub or (date.fromisoformat(pub) - date.fromisoformat(day)).days > 60:
+        return None
+    t = flat_text(src, i) or ""
+    d = date.fromisoformat(day)
+    month = [m for m, n in MONTHS.items() if n == d.month][0]
+    rx = re.compile(r"(?<!\d)0?" + str(d.day) + r"\s*(?:\.\s*0?" + str(d.month) + r"\s*\.\s*|\s+" + month + r"\s+)" + str(d.year) + r"(?!\d)")
+    return day if rx.search(t) else None
 
 
 def gazette_name(pub: str) -> str:
@@ -1062,6 +1112,10 @@ def main():
             own, how = own_in_force(units, pub, in_force_rx)
             if not day:
                 raise Hold("in_force_missing")
+            if how == "adoption":
+                own = adoption_day(src, i, day, pub)
+            elif new_kind and own and own != day and own_in_force(units, pub, in_force_rx, normalize=False)[0] != own:
+                own = None  # rule 8's wider reading disagrees with LDBIS: read as before (unreadable), not a hold
             if own and own != day:
                 raise Hold(f"in_force_mismatch:ldbis {day} vs own clause {own}")
             if hit.get("flat"):
@@ -1069,11 +1123,15 @@ def main():
                 # text runs to its end
                 own, how = own_in_force({"art-000": {"text": "".join(u["text"] for k, u in units.items()
                                                                      if u["kind"] in ("text", "point"))}}, pub, in_force_rx)
+                if how == "adoption":
+                    own = adoption_day(src, i, day, pub)
+                    if not own:
+                        raise Hold("adoption_day_not_printed:" + day)
                 if not own:
                     raise Hold("flat_text_no_own_clause:" + how[:80])
                 if own != day:
                     raise Hold(f"in_force_mismatch:ldbis {day} vs own clause {own}")
-            if day < pub:
+            if day < pub and not (how == "adoption" and own == day):
                 raise Hold(f"in_force_before_publication:{day}")
             if adopted and not (adopted <= pub <= (date.fromisoformat(adopted) + timedelta(days=60)).isoformat()):
                 raise Hold(f"adoption_day_inconsistent:{adopted}")
