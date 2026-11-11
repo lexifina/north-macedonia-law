@@ -24,6 +24,14 @@
 
 Act id: `uredba-2012-sv157-26932` (tags `uredba-2012-sv157-26932/<day>`; `python tools/on.py <day> uredba-2012-sv157-26932`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување и дополнување на Уредбата за поблиските критериуми во однос на просторот, кадарот и опремата за земање, пресадување и разменување на органите и ткивата, за потребниот простор, опремата и кадарот што треба да ги обезбеди здравствената установа при земање, пренесување, разменување и чување на органи и ткива од човечкото тело заради лекување („Службен весник на Република Северна Македонија“ бр. 9/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58617)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

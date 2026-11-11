@@ -24,6 +24,14 @@
 
 Act id: `pravilnik-2005-sv010-9857` (tags `pravilnik-2005-sv010-9857/<day>`; `python tools/on.py <day> pravilnik-2005-sv010-9857`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за нормативите и стандардите за простор, опрема, стручни кадри и средства потребни за основање и започнување со работа на установа за социјална заштита за стари лица („Службен весник на Република Македонија“ бр. 125/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38007)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

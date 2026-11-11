@@ -23,6 +23,14 @@
 
 Act id: `uredba-2015-sv180-39004` (tags `uredba-2015-sv180-39004/<day>`; `python tools/on.py <day> uredba-2015-sv180-39004`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување и дополнување на Уредбата за критериумите, начинот на давање и примање на дарови, пријавувањето на даровите, начинот на процена на даровите, начинот на доплата за личен дар, како и користењето, чувањето и евиденцијата на стварите што станале државна сопственост по пат на дар („Службен весник на Република Северна Македонија“ бр. 313/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54745)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

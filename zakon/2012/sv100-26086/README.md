@@ -13,6 +13,14 @@
 
 Act id: `zakon-2012-sv100-26086` (tags `zakon-2012-sv100-26086/<day>`; `python tools/on.py <day> zakon-2012-sv100-26086`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за задолжување на Република Македонија со заем кај Европската Банка за обнова и развој по Договорот за заем за проектот „Рехабилитација на источниот дел од железничката пруга на Коридор VIII, фаза 1 - делница Куманово - Бељаковце“ („Службен весник на Република Македонија“ бр. 10/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35290)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

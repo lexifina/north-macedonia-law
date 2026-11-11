@@ -7,6 +7,26 @@
 
 Act id: `zakon-1996-sv026-4093` (tags `zakon-1996-sv026-4093/<day>`; `python tools/on.py <day> zakon-1996-sv026-4093`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за изградба на инвестициони објекти („Службен весник на Република Македонија“ бр. 18/1999)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5426)
+- [Закон за изменување и дополнување на Законот за просторно и урбанистичко планирање („Службен весник на Република Македонија“ бр. 18/1999)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5433)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 40/1999)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5443)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 96/2000)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5937)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 29/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6973)
+- [Закон за изменување и дополнување на Законот за јавни патишта („Службен весник на Република Македонија“ бр. 68/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8939)
+- [Закон за изменување на Законот за јавни патишта („Службен весник на Република Македонија“ бр. 31/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11540)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 30/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13540)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 137/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13104)
+
+Cited by:
+
+- [Закон за просторно и урбанистичко планирање („Службен весник на Република Македонија“ бр. 51/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10098)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

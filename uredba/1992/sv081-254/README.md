@@ -7,6 +7,14 @@
 
 Act id: `uredba-1992-sv081-254` (tags `uredba-1992-sv081-254/<day>`; `python tools/on.py <day> uredba-1992-sv081-254`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување на Уредбата за критериумите за засолнување на населението („Службен весник на Република Македонија“ бр. 12/1998)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5136)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

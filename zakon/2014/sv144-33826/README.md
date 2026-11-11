@@ -81,6 +81,22 @@
 
 Act id: `zakon-2014-sv144-33826` (tags `zakon-2014-sv144-33826/<day>`; `python tools/on.py <day> zakon-2014-sv144-33826`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за задолжителни нафтени резерви („Службен весник на Република Македонија“ бр. 178/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34613)
+- [Закон за изменување на Законот за задолжителни нафтени резерви („Службен весник на Република Македонија“ бр. 199/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39418)
+- [Закон за изменување на Законот за задолжителни нафтени резерви („Службен весник на Република Македонија“ бр. 197/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42657)
+- [Закон за изменување на Законот за задолжителни нафтени резерви („Службен весник на Република Македонија“ бр. 7/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43227)
+- [Закон за изменување на Законот за задолжителни нафтени резерви („Службен весник на Република Северна Македонија“ бр. 275/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51409)
+- [Закон за изменување и дополнување на Законот за задолжителни нафтени резерви („Службен весник на Република Северна Македонија“ бр. 150/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56602)
+- [Закон за дополнување на Законот за задолжителни нафтени резерви („Службен весник на Република Северна Македонија“ бр. 236/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61035)
+- [Закон за изменување и дополнување на Законот за задолжителни нафтени резерви („Службен весник на Република Северна Македонија“ бр. 147/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67298)
+- [Закон за изменување на Законот за задолжителни нафтени резерви („Службен весник на Република Северна Македонија“ бр. 212/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74834)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

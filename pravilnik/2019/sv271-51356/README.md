@@ -30,6 +30,14 @@
 
 Act id: `pravilnik-2019-sv271-51356` (tags `pravilnik-2019-sv271-51356/<day>`; `python tools/on.py <day> pravilnik-2019-sv271-51356`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за просторните, материјално-техничките и безбедносните услови, како и условите во однос на кадарот за правните лица кои вградуваат уреди за погон на течен нафтен гас и/или на компримиран земјен гас во возилата („Службен весник на Република Северна Македонија“ бр. 155/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53094)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

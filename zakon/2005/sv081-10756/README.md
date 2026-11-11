@@ -11,6 +11,14 @@
 
 Act id: `zakon-2005-sv081-10756` (tags `zakon-2005-sv081-10756/<day>`; `python tools/on.py <day> zakon-2005-sv081-10756`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот Суд на Република Македонија, У.бр.228/2005 од 5 април 2006 година („Службен весник на Република Македонија“ бр. 50/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11010)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

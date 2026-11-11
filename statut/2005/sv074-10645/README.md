@@ -84,6 +84,18 @@
 
 Act id: `statut-2005-sv074-10645` (tags `statut-2005-sv074-10645/<day>`; `python tools/on.py <day> statut-2005-sv074-10645`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука за дополнување на Статутот на Акционерското друштво за производство на електрична енергија Електрани на Македонија, во државна сопственост,Скопје („Службен весник на Република Македонија“ бр. 100/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15023)
+- [Одлука за изменување и дополнување на Статутот на Акционерското друштво за производство на електрична енергија, Електрани на Македонија, во државна сопственост, Скопје („Службен весник на Република Македонија“ бр. 162/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15849)
+- [Одлука за изменување и дополнување на Статутот на акционерското друштво за производство на електрична енергија Електрани на Македонија, во државна сопственост, Скопје („Службен весник на Република Македонија“ бр. 21/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35478)
+- [Одлука за изменување и дополнување на Статутот на акционерското друштво за производство на електрична енергија Електрани на Македонија, во државна сопственост, Скопје („Службен весник на Република Северна Македонија“ бр. 63/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=46089)
+- [Одлука за изменување на Статутот на акционерското друштво за производство на електрична енергија Електрани на Македонија, во државна сопственост, Скопје („Службен весник на Република Северна Македонија“ бр. 29/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65904)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

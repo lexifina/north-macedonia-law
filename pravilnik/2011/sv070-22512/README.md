@@ -27,6 +27,15 @@
 
 Act id: `pravilnik-2011-sv070-22512` (tags `pravilnik-2011-sv070-22512/<day>`; `python tools/on.py <day> pravilnik-2011-sv070-22512`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за дополнување на Правилникот за критериумите за финансирање на програмите односно проектите по одделни дејности во културата („Службен весник на Република Македонија“ бр. 16/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27525)
+- [Правилник за престанување на важењето на Правилникот за критериумите за финансирање на програмите односно проектите по одделни дејности во културата („Службен весник на Република Македонија“ бр. 80/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41502)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

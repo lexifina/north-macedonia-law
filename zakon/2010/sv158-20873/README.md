@@ -71,6 +71,24 @@
 
 Act id: `zakon-2010-sv158-20873` (tags `zakon-2010-sv158-20873/<day>`; `python tools/on.py <day> zakon-2010-sv158-20873`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за дополнување на Законот за ревизија („Службен весник на Република Македонија“ бр. 135/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23389)
+- [Одлука од Уставниот Суд на Република Македонија У.бр.209/2011 од 4 април 2012 година („Службен весник на Република Македонија“ бр. 50/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25134)
+- [Закон за изменување и дополнување на Законот за ревизија („Службен весник на Република Македонија“ бр. 188/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30395)
+- [Закон за дополнување на Законот за ревизија („Службен весник на Република Македонија“ бр. 43/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31478)
+- [Закон за изменување и дополнување на Законот за ревизија („Службен весник на Република Македонија“ бр. 138/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33693)
+- [Закон за изменување и дополнување на Законот за ревизија („Службен весник на Република Македонија“ бр. 145/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38273)
+- [Закон за изменување и дополнување на Законот за ревизија („Службен весник на Република Македонија“ бр. 192/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39346)
+- [Закон за изменување и дополнување на Законот за ревизија („Службен весник на Република Македонија“ бр. 23/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40438)
+- [Закон за изменување и дополнување на Законот за ревизија („Службен весник на Република Македонија“ бр. 83/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42954)
+- [Закон за изменување и дополнување на Законот за ревизија („Службен весник на Република Северна Македонија“ бр. 122/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56287)
+- [Закон за изменување и дополнување на Законот за ревизија („Службен весник на Република Северна Македонија“ бр. 148/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74203)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

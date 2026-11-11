@@ -19,6 +19,10 @@ import os as _os
 _KINDS = [k for k in _os.environ.get('GITLAW_LAYOUT_KINDS', '').split(',') if k]
 SLUG_RE = re.compile(r'^(' + '|'.join(map(re.escape, _KINDS or ['zzznone'])) + r')-(\d{4})-([a-z0-9][a-z0-9-]*)$')
 FIXED: dict = {}
+# 2026-11-11: folders a country's parts fix for slugs outside <kind>-<year>-<id> (e.g. local/<municipality>/<year>/...):
+# GITLAW_LAYOUT_FIXED names a JSON file {slug: folder}. Unset: nothing changes.
+if _os.environ.get('GITLAW_LAYOUT_FIXED'):
+    FIXED.update(json.load(open(_os.environ['GITLAW_LAYOUT_FIXED'], encoding='utf-8')))
 AMENDING = re.compile(r'\b(?:amend|izmen|ndryshim|τροποπο|измен|dopun|spremem)', re.I)
 CODE_NAME = re.compile(r'^$a')
 
@@ -35,6 +39,8 @@ def act_path(slug: str, title: str = '') -> str:
 
 def parts_of(path: str) -> tuple[str, str, str]:
     bits = path.split('/')
+    if bits[0] == 'local' and len(bits) >= 4:  # local/<municipality>/<year>/<id>: kind local/<municipality>
+        return f'{bits[0]}/{bits[1]}', bits[2], '/'.join(bits[3:])
     return bits[0], (bits[1] if len(bits) > 1 else ''), (bits[2] if len(bits) > 2 else '')
 
 
@@ -51,7 +57,9 @@ def assign(c: dict, known: dict[str, str]) -> None:
     """Give every act its folder: the recorded one, else its official identifier. Two acts may never share one."""
     seen: dict[str, str] = {}
     for a in c['acts']:
-        p = known.get(a['slug']) or act_path(a['slug'], a.get('title', ''))
+        # 2026-11-11 (croatia-deep): an act may name its own folder (Croatia's local acts: local/<unit>/<year>/<id>);
+        # acts without one are placed as before.
+        p = known.get(a['slug']) or a.get('folder') or act_path(a['slug'], a.get('title', ''))
         if p in seen and seen[p] != a['slug']:
             # Two corpus acts claim one identifier (a duplicate entry): keep publishing, the later one under alte/.
             print(f'layout: {a["slug"]} and {seen[p]} both claim {p}; {a["slug"]} filed under alte/', file=sys.stderr)

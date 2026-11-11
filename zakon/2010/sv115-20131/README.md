@@ -7,6 +7,19 @@
 
 Act id: `zakon-2010-sv115-20131` (tags `zakon-2010-sv115-20131/<day>`; `python tools/on.py <day> zakon-2010-sv115-20131`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 206/2011 од 14 ноември 2012 година („Службен весник на Република Македонија“ бр. 149/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26851)
+- [Закон за изменување и дополнување на Законот за вештачење („Службен весник на Република Македонија“ бр. 12/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30675)
+- [Закон за изменување и дополнување на Законот за вештачење („Службен весник на Република Македонија“ бр. 104/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37677)
+- [Закон за изменување и дополнување на Законот за вештачење („Службен весник на Република Македонија“ бр. 148/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38378)
+- [Закон за изменување и дополнување на Законот за вештачење („Службен весник на Република Македонија“ бр. 192/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39341)
+- [Закон за изменување на Законот за вештачење („Службен весник на Република Македонија“ бр. 64/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42730)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -7,6 +7,21 @@
 
 Act id: `zakon-1996-sv059-4232` (tags `zakon-1996-sv059-4232/<day>`; `python tools/on.py <day> zakon-1996-sv059-4232`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за вршење на нотарските работи („Службен весник на Република Македонија“ бр. 25/1998)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5043)
+- [Закон за изменување и дополнување на Законот за договорна хипотека („Службен весник на Република Македонија“ бр. 86/2000)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5847)
+- [Закон за дополнување на Законот за вршење на нотарските работи („Службен весник на Република Македонија“ бр. 6/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7286)
+- [Закон за изменување и дополнување на Законот за вршење на нотарските работи („Службен весник на Република Македонија“ бр. 66/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11422)
+
+Cited by:
+
+- [Закон за адвокатурата („Службен весник на Република Македонија“ бр. 59/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6969)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

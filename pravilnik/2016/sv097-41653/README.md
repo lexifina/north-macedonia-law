@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2016-sv097-41653` (tags `pravilnik-2016-sv097-41653/<day>`; `python tools/on.py <day> pravilnik-2016-sv097-41653`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за формата и содржината на барањето за добивање на одобрение за локација за поставување на објект на водна површина и формата и содржината на одобрението за локација за поставување на објект на водна површина („Службен весник на Република Северна Македонија“ бр. 51/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43299)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

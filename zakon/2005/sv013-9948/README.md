@@ -7,6 +7,27 @@
 
 Act id: `zakon-2005-sv013-9948` (tags `zakon-2005-sv013-9948/<day>`; `python tools/on.py <day> zakon-2005-sv013-9948`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за електронските комуникации („Службен весник на Република Македонија“ бр. 14/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12670)
+- [Закон за изменување и дополнување на Законот за електронските комуникации („Службен весник на Република Македонија“ бр. 55/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12327)
+- [Закон за изменување и дополнување на Законот за електронските комуникации („Службен весник на Република Македонија“ бр. 98/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14941)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.180/2008 од 15 април 2009 година („Службен весник на Република Македонија“ бр. 56/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16839)
+- [Закон за изменување и дополнување на Законот за електронските комуникации („Службен весник на Република Македонија“ бр. 83/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19641)
+- [Одлука на Уставен суд на Република Македонија, У.бр. 139/2010 од 15 декември 2010 година („Службен весник на Република Македонија“ бр. 171/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21097)
+- [Закон за изменување и дополнување на Законот за електронските комуникации („Службен весник на Република Македонија“ бр. 13/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24487)
+- [Закон за изменување и дополнување на Законот за електронските комуникации („Службен весник на Република Македонија“ бр. 59/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25352)
+- [Закон за изменување и дополнување на Законот за електронските комуникации („Службен весник на Република Македонија“ бр. 123/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26371)
+- [Закон за изменување и дополнување на Законот за електронските комуникации („Службен весник на Република Македонија“ бр. 23/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27566)
+
+Cited by:
+
+- [Закон за даночна постапка („Службен весник на Република Македонија“ бр. 13/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11057)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

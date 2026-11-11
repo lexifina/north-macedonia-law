@@ -17,6 +17,15 @@
 
 Act id: `zakon-2010-sv057-19294` (tags `zakon-2010-sv057-19294/<day>`; `python tools/on.py <day> zakon-2010-sv057-19294`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Македонија, У.бр.246/2009 од 14 јули 2010 година („Службен весник на Република Македонија“ бр. 98/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19930)
+- [Одлука на Уставниот суд на Република Македонија,у.бр.14/2010 од 15 септември 2010 година („Службен весник на Република Македонија“ бр. 127/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20342)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -7,6 +7,15 @@
 
 Act id: `zakon-1996-sv024-4394` (tags `zakon-1996-sv024-4394/<day>`; `python tools/on.py <day> zakon-1996-sv024-4394`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Македонија, У.бр.226/2008 од 1 јули 2009 година („Службен весник на Република Македонија“ бр. 88/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17466)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр.81/2023 од 5 декември 2023 година („Службен весник на Република Северна Македонија“ бр. 269/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65086)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

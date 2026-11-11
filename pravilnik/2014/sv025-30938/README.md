@@ -15,6 +15,14 @@
 
 Act id: `pravilnik-2014-sv025-30938` (tags `pravilnik-2014-sv025-30938/<day>`; `python tools/on.py <day> pravilnik-2014-sv025-30938`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за дополнување на Правилникот за формата и содржината на образецот на барањето за правото на закуп на земјоделско земјиште во државна сопственост за потребите на јавните научни и државно образовни институции од областа на земјоделството, за потребите на казнено- поправните и воспитно-поправните установи и сопствениците на долгогодишен насад, оранжерии или објекти и потребната документација („Службен весник на Република Македонија“ бр. 92/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41618)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

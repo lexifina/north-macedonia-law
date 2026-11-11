@@ -7,6 +7,21 @@
 
 Act id: `zakon-2005-sv062-10424` (tags `zakon-2005-sv062-10424/<day>`; `python tools/on.py <day> zakon-2005-sv062-10424`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за основање на Агенцијата за енергетика на Република Македонија („Службен весник на Република Македонија“ бр. 41/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31156)
+- [Одлука на Уставен суд на Република Македонија У. бр.125/2014 од 10 јули 2015 година („Службен весник на Република Македонија“ бр. 120/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37920)
+- [Закон за изменување на Законот за основање на Агенцијата за енергетика на Република Македонија („Службен весник на Република Македонија“ бр. 83/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42822)
+- [Закон за изменување и дополнување на Законот за основање на Агенцијата за енергетика на Република Македонија („Службен весник на Република Северна Македонија“ бр. 87/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62793)
+
+Cited by:
+
+- [Закон за енергетика („Службен весник на Република Македонија“ бр. 63/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11371)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -105,6 +105,19 @@
 
 Act id: `zakon-2014-sv012-30657` (tags `zakon-2014-sv012-30657/<day>`; `python tools/on.py <day> zakon-2014-sv012-30657`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за финансиската полиција („Службен весник на Република Македонија“ бр. 43/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31378)
+- [Закон за изменување и дополнување на Законот за финансиската полиција („Службен весник на Република Македонија“ бр. 33/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35831)
+- [Закон за изменување на Законот за финансиската полиција („Службен весник на Република Македонија“ бр. 27/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40599)
+- [Закон за изменување и дополнување на Законот за финансиската полиција („Службен весник на Република Македонија“ бр. 83/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42789)
+- [Закон за изменување и дополнување на Законот за финансиската полиција („Службен весник на Република Македонија“ бр. 198/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43158)
+- [Закон за изменување и дополнување на Законот за финансиската полиција („Службен весник на Република Северна Македонија“ бр. 17/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69140)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

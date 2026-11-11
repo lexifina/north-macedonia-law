@@ -39,6 +39,17 @@
 
 Act id: `zakon-2002-sv002-7120` (tags `zakon-2002-sv002-7120/<day>`; `python tools/on.py <day> zakon-2002-sv002-7120`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за дополнување на Законот за посебните права на припадниците на безбедносните сили на Република Македонија и на членовите на нивните семејства („Службен весник на Република Македонија“ бр. 17/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8197)
+- [Закон за изменување на Законот за посебните права на припадниците на безбедносните сили на Република Македонија и членовите на нивните семејства („Службен весник на Република Македонија“ бр. 30/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8668)
+- [Закон за изменување и дополнување на Законот за посебните права на припадниците на безбедносните сили и членовите на нивните семејства („Службен весник на Република Македонија“ бр. 66/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12532)
+- [Закон за изменување и дополнување на Законот за посебните права на припадниците на безбедносните сили и членовите на нивните семејства („Службен весник на Република Северна Македонија“ бр. 53/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55355)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

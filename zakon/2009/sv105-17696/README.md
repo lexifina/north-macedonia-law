@@ -46,6 +46,17 @@
 
 Act id: `zakon-2009-sv105-17696` (tags `zakon-2009-sv105-17696/<day>`; `python tools/on.py <day> zakon-2009-sv105-17696`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за употреба на знаковниот јазик („Службен весник на Република Македонија“ бр. 150/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38918)
+- [Закон за изменување и дополнување на Законот за употреба на знаковниот јазик („Службен весник на Република Македонија“ бр. 30/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40595)
+- [Закон за изменување на Законот за употреба на знаковниот јазик („Службен весник на Република Северна Македонија“ бр. 103/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55867)
+- [Закон за изменување на Законот за употреба на знаковниот јазик („Службен весник на Република Северна Македонија“ бр. 192/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71634)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -7,6 +7,17 @@
 
 Act id: `zakon-2002-sv004-7224` (tags `zakon-2002-sv004-7224/<day>`; `python tools/on.py <day> zakon-2002-sv004-7224`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за преземање на акционерските друштва („Службен весник на Република Македонија“ бр. 37/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7060)
+- [Закон за изменување и дополнување на Законот за преземање на акционерски друштва („Службен весник на Република Македонија“ бр. 36/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13625)
+- [Закон за изменување и дополнување на Законот за преземање на акционерските друштва („Службен весник на Република Македонија“ бр. 67/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19452)
+- [Закон за изменување и дополнување на Законот за преземање на акционерските друштва („Службен весник на Република Македонија“ бр. 35/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21857)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

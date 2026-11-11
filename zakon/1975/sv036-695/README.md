@@ -56,6 +56,23 @@
 
 Act id: `zakon-1975-sv036-695` (tags `zakon-1975-sv036-695/<day>`; `python tools/on.py <day> zakon-1975-sv036-695`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за промет со земјиште и згради („Службен весник на Република Македонија“ бр. 51/1988)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12050)
+- [Закон за изменување и дополнување на Законот за промет со земјишта и згради („Службен весник на Република Македонија“ бр. 38/1991)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=2032)
+- [Закон за изменување на Законот за промет со земјиште и згради („Службен весник на Република Македонија“ бр. 4/1993)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3209)
+- [Закон за изменување и дополнување на Законот за вршење на нотарските работи („Службен весник на Република Македонија“ бр. 25/1998)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5043)
+
+Cited by:
+
+- [Закон за заштита и користење на земјоделското земјиште („Службен весник на Република Македонија“ бр. 7/1986)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=2596)
+- [Закон за облигационите односи („Службен весник на Република Македонија“ бр. 18/2001)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6538)
+- [Закон за сопственост и други стварни права („Службен весник на Република Македонија“ бр. 18/2001)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6552)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

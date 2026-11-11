@@ -173,6 +173,27 @@
 
 Act id: `zakon-2013-sv184-30291` (tags `zakon-2013-sv184-30291/<day>`; `python tools/on.py <day> zakon-2013-sv184-30291`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за аудио и аудиовизуелни медиумски услуги („Службен весник на Република Македонија“ бр. 13/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30703)
+- [Закон за изменување на Законот за аудио и аудиовизуелни медиумски услуги („Службен весник на Република Македонија“ бр. 44/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31265)
+- [Закон за изменување и дополнување на Законот за аудио и аудиовизуелни медиумски услуги („Службен весник на Република Македонија“ бр. 101/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32553)
+- [Закон за изменување и дополнување на Законот за аудио и аудиовизуелни медиумски услуги („Службен весник на Република Македонија“ бр. 132/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33609)
+- [Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги („Службен весник на Република Македонија“ бр. 142/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42242)
+- [Закон за изменување на Законот за aудио и аудиовизуелни медиумски услуги („Службен весник на Република Македонија“ бр. 132/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42597)
+- [Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги („Службен весник на Република Македонија“ бр. 168/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43140)
+- [Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги („Службен весник на Република Македонија“ бр. 248/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43213)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 13/2020 од 17 февруари 2021 година („Службен весник на Република Северна Македонија“ бр. 48/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55300)
+- [Закон за изменување на Законот за aудио и аудиовизуелни медиумски услуги („Службен весник на Република Северна Македонија“ бр. 77/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55644)
+- [Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги („Службен весник на Република Северна Македонија“ бр. 154/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63685)
+- [Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги („Службен весник на Република Северна Македонија“ бр. 55/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66274)
+- [Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги („Службен весник на Република Северна Македонија“ бр. 193/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67776)
+- [Закон за изменување и дополнување на Законот за aудио и аудиовизуелни медиумски услуги („Службен весник на Република Северна Македонија“ бр. 247/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72285)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

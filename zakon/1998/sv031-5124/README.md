@@ -153,6 +153,30 @@
 
 Act id: `zakon-1998-sv031-5124` (tags `zakon-1998-sv031-5124/<day>`; `python tools/on.py <day> zakon-1998-sv031-5124`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за културата („Службен весник на Република Македонија“ бр. 49/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8180)
+- [Закон за изменување на Законот за културата („Службен весник на Република Македонија“ бр. 82/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10707)
+- [Закон за изменување и дополнување на Законот за културата („Службен весник на Република Македонија“ бр. 24/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13214)
+- [Одлука на Уставниот суд на Република Македонија со која се укинува член 28 став 2 точка 5, во делот „односно актот за распределба на плати" од Законот за култура („Службен весник на Република Македонија“ бр. 15/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14479)
+- [Закон за изменување и дополнување на Законот за културата („Службен весник на Република Македонија“ бр. 116/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20156)
+- [Закон за изменување и дополнување на Законот за културата („Службен весник на Република Македонија“ бр. 47/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22103)
+- [Закон за изменување и дополнување на Законот за културата („Службен весник на Република Македонија“ бр. 51/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22166)
+- [Закон за изменување и дополнување на Законот за културата („Службен весник на Република Македонија“ бр. 136/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26669)
+- [Закон за изменување на Законот за културата („Службен весник на Република Македонија“ бр. 23/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27559)
+- [Закон за изменување и дополнување на Законот за културата („Службен весник на Република Македонија“ бр. 187/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30410)
+- [Закон за изменување и дополнување на Законот за културата („Службен весник на Република Македонија“ бр. 44/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31254)
+- [Закон за изменување и дополнување на Законот за културата („Службен весник на Република Македонија“ бр. 61/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36844)
+- [Закон за изменување и дополнување на Законот за културата („Службен весник на Република Македонија“ бр. 39/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40779)
+- [Закон за изменување и дополнување на Законот за културата („Службен весник на Република Македонија“ бр. 11/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42639)
+- [Закон за изменување и дополнување на Законот за културата („Службен весник на Република Македонија“ бр. 11/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42644)
+- [Закон за изменување и дополнување на Законот за културата („Службен весник на Република Северна Македонија“ бр. 265/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68705)
+- [Закон за изменување на Законот за културата („Службен весник на Република Северна Македонија“ бр. 132/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70803)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

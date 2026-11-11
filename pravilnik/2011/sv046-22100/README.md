@@ -7,6 +7,18 @@
 
 Act id: `pravilnik-2011-sv046-22100` (tags `pravilnik-2011-sv046-22100/<day>`; `python tools/on.py <day> pravilnik-2011-sv046-22100`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за полициските воздухоплови и персоналот во воздухопловството во Министерството за внатрешни работи („Службен весник на Република Северна Македонија“ бр. 234/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53831)
+- [Правилник за изменување на Правилникот за полициските воздухоплови и персоналот во воздухопловството во Министерството за внатрешни работи („Службен весник на Република Северна Македонија“ бр. 225/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57663)
+- [Правилник за изменување на Правилникот за полициските воздухоплови и персоналот во воздухопловството во Министерството за внатрешни работи („Службен весник на Република Северна Македонија“ бр. 32/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58796)
+- [Правилник за изменување и дополнување на Правилникот за полициските воздухоплови и персоналот во воздухопловството во Министерството за внатрешни работи („Службен весник на Република Северна Македонија“ бр. 133/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59782)
+- [Правилник за изменување на Правилникот за полициските воздухоплови и персоналот во воздухопловството во Министерството за внатрешни работи („Службен весник на Република Северна Македонија“ бр. 274/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61535)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

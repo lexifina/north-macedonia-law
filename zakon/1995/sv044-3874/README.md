@@ -7,6 +7,25 @@
 
 Act id: `zakon-1995-sv044-3874` (tags `zakon-1995-sv044-3874/<day>`; `python tools/on.py <day> zakon-1995-sv044-3874`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за основното образование („Службен весник на Република Македонија“ бр. 24/1996)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4395)
+- [Закон за дополнување на Законот за основното образование („Службен весник на Република Македонија“ бр. 34/1996)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4269)
+- [Закон за изменување и дополнување на Законот за основното образование („Службен весник на Република Македонија“ бр. 35/1997)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4559)
+- [Закон за изменување и дополнување на Законот за основното образование („Службен весник на Република Македонија“ бр. 29/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6962)
+- [Закон за дополнување на Законот за основното образование („Службен весник на Република Македонија“ бр. 40/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7870)
+- [Закон за дополнување на Законот за основното образование („Службен весник на Република Македонија“ бр. 42/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7990)
+- [Закон за изменување и дополнување на Законот за основното образование („Службен весник на Република Македонија“ бр. 63/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8772)
+- [Закон за изменување и дополнување на Законот за основното образование („Службен весник на Република Македонија“ бр. 55/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10237)
+- [Закон за изменување на Законот за основното образование („Службен весник на Република Македонија“ бр. 113/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10487)
+- [Закон за изменување и дополнување на Законот за основното образование („Службен весник на Република Македонија“ бр. 35/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11729)
+- [Закон за изменување и дополнување на Законот за основното образование („Службен весник на Република Македонија“ бр. 70/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11543)
+- [Закон за изменување и дополнување на Законот за основното образование („Службен весник на Република Македонија“ бр. 51/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12155)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

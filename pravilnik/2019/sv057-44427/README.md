@@ -18,6 +18,14 @@
 
 Act id: `pravilnik-2019-sv057-44427` (tags `pravilnik-2019-sv057-44427/<day>`; `python tools/on.py <day> pravilnik-2019-sv057-44427`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за униформата и видот на оружјето што го носат припадниците на шумската полиција („Службен весник на Република Северна Македонија“ бр. 220/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57617)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

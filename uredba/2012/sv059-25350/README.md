@@ -7,6 +7,14 @@
 
 Act id: `uredba-2012-sv059-25350` (tags `uredba-2012-sv059-25350/<day>`; `python tools/on.py <day> uredba-2012-sv059-25350`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување на Уредбата за начинот и поблиските критериуми за доделување на финансиска поддршка на домашни и странски авиопревозници и потребната документација која треба да се достави од корисниците на финансиската поддршка („Службен весник на Република Македонија“ бр. 111/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26234)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

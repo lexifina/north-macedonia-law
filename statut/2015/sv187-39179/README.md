@@ -72,6 +72,17 @@
 
 Act id: `statut-2015-sv187-39179` (tags `statut-2015-sv187-39179/<day>`; `python tools/on.py <day> statut-2015-sv187-39179`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука за изменување и дополнување на Статутот на Акционерско друштво Водостопанство на Република Македонија во државна сопственост („Службен весник на Република Македонија“ бр. 94/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41620)
+- [Одлукa за изменување и дополнување на Статутот на Акционерското друштво Водостопанство на Република Македонија, во државна сопственост („Службен весник на Република Македонија“ бр. 158/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42347)
+- [Одлукa за изменување и дополнување на Статутот на Акционерското друштво Водостопанство на Република Македонија, во државна сопственост („Службен весник на Република Македонија“ бр. 146/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47723)
+- [Одлукa за изменување на Статутот на Акционерското друштво Водостопанство на Република Македонија, во државна сопственост („Службен весник на Република Северна Македонија“ бр. 114/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49297)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

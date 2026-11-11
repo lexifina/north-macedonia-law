@@ -22,6 +22,15 @@
 
 Act id: `pravilnik-2013-sv159-29858` (tags `pravilnik-2013-sv159-29858/<day>`; `python tools/on.py <day> pravilnik-2013-sv159-29858`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за начинот на менување на границите на катастарските општини и за определување на катастарските општини кои се одржуваат во Центарот за катастар на недвижности Скопје и секторите за катастар на недвижности во Република Македонија („Службен весник на Република Северна Македонија“ бр. 183/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50384)
+- [Правилник за измена на Правилникот за начинот на менување на границите на катастарските општини и за определување на катастарските општини кои се одржуваат во Центарот за катастар на недвижности Скопје и секторите за катастар на недвижности во Република Македонија („Службен весник на Република Северна Македонија“ бр. 162/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63761)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

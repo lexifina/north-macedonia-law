@@ -11,6 +11,16 @@
 
 Act id: `zakon-2024-sv053-66245` (tags `zakon-2024-sv053-66245/<day>`; `python tools/on.py <day> zakon-2024-sv053-66245`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Северна Македонија, У.бр.138/2025 од 23 септември 2026 година („Службен весник на Република Северна Македонија“ бр. 237/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75117)
+- [Одлука на Уставен суд на Република Северна Македонија, У.бр.23/2025 од 23 септември 2026 година („Службен весник на Република Северна Македонија“ бр. 250/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75246)
+- [Одлука на Уставен суд на Република Северна Македонија, У.бр.75/2025, У. бр. 84/2025, У. бр. 104/2025 од 23 септември 2026 година („Службен весник на Република Северна Македонија“ бр. 250/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75248)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

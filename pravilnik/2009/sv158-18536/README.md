@@ -27,6 +27,19 @@
 
 Act id: `pravilnik-2009-sv158-18536` (tags `pravilnik-2009-sv158-18536/<day>`; `python tools/on.py <day> pravilnik-2009-sv158-18536`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за утврдување на критериуми и постапка за одредување на референтни цени на лекови („Службен весник на Република Македонија“ бр. 138/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20475)
+- [Правилник за изменување и дополнување на Правилникот за начинот и методологијата за утврдување на референтни цени на лекови („Службен весник на Република Македонија“ бр. 129/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42945)
+- [Правилник за дополнување на Правилникот за начинот и методологијата за утврдување на референтни цени на лекови („Службен весник на Република Северна Македонија“ бр. 283/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58250)
+- [Правилник за изменување и дополнување на Правилникот за начинот и методологијата за утврдување на референтни цени на лекови („Службен весник на Република Северна Македонија“ бр. 77/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62691)
+- [Правилник за изменување и дополнување на Правилникот за начинот и методологијата за утврдување на референтни цени на лекови („Службен весник на Република Северна Македонија“ бр. 76/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66503)
+- [Правилник за изменување и дополнување на Правилникот за начинот и методологијата за утврдување на референтни цени на лекови („Службен весник на Република Северна Македонија“ бр. 98/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66772)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

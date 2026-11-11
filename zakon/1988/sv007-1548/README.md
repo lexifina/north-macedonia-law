@@ -7,6 +7,15 @@
 
 Act id: `zakon-1988-sv007-1548` (tags `zakon-1988-sv007-1548/<day>`; `python tools/on.py <day> zakon-1988-sv007-1548`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за учество на Социјалистичка Република Македонија во финансирањето на штедењето, сусптитуцијата и рационалното користење на сите видови енергија („Службен весник на Република Македонија“ бр. 29/1989)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1593)
+- [Закон за дополнување на Законот за учеството на Социјалистичка Република Македонија во финансирањето на штедењето, супституцијата и рационалното користење на сите видови енергија („Службен весник на Република Македонија“ бр. 36/1989)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1640)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

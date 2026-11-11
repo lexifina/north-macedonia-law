@@ -78,6 +78,15 @@
 
 Act id: `statut-2005-sv074-10650` (tags `statut-2005-sv074-10650/<day>`; `python tools/on.py <day> statut-2005-sv074-10650`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука за дополнување на Статутот на Акционерското друштво за производство на електрична енергија ТЕЦ Неготино, во државна сопственост, Неготино („Службен весник на Република Македонија“ бр. 76/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14933)
+- [Одлука за дополнување на Статутот на Акционерското друштво за производство на електрична енергија Неготино, во државна сопственост, Неготино („Службен весник на Република Македонија“ бр. 18/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35532)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

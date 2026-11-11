@@ -23,6 +23,14 @@
 
 Act id: `uredba-2013-sv168-30066` (tags `uredba-2013-sv168-30066/<day>`; `python tools/on.py <day> uredba-2013-sv168-30066`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за дополнување на Уредбата за начинот на земање, чување и употреба на крвотворни матични клетки („Службен весник на Република Северна Македонија“ бр. 9/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58616)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

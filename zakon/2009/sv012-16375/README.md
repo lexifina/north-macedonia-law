@@ -180,6 +180,21 @@
 
 Act id: `zakon-2009-sv012-16375` (tags `zakon-2009-sv012-16375/<day>`; `python tools/on.py <day> zakon-2009-sv012-16375`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за инвестициски фондови („Службен весник на Република Македонија“ бр. 67/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19468)
+- [Закон за изменување и дополнување на Законот за инвестициски фондови („Службен весник на Република Македонија“ бр. 24/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21603)
+- [Закон за изменување и дополнување на Законот за инвестициски фондови („Службен весник на Република Македонија“ бр. 188/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30397)
+- [Закон за изменување и дополнување на Законот за инвестициски фондови („Службен весник на Република Македонија“ бр. 145/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38256)
+- [Закон за изменување и дополнување на Законот за инвестициски фондови („Службен весник на Република Македонија“ бр. 23/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40462)
+- [Закон за изменување на Законот за инвестициски фондови („Службен весник на Република Северна Македонија“ бр. 31/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51995)
+- [Закон за изменување и дополнување на Законот за инвестициски фондови („Службен весник на Република Северна Македонија“ бр. 150/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56604)
+- [Закон за изменување и дополнување на Законот за инвестициски фондови („Службен весник на Република Северна Македонија“ бр. 288/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58287)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

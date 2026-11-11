@@ -150,6 +150,17 @@
 
 Act id: `zakon-2022-sv203-60545` (tags `zakon-2022-sv203-60545/<day>`; `python tools/on.py <day> zakon-2022-sv203-60545`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр.192/2023 и 193/2023 од 31 јануари 2024 година („Службен весник на Република Северна Македонија“ бр. 39/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66079)
+- [Закон за изменување и дополнување на Законот за буџетите („Службен весник на Република Северна Македонија“ бр. 76/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66496)
+- [Закон за изменување и дополнување на Законот за буџетите („Службен весник на Република Северна Македонија“ бр. 272/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68791)
+- [Закон за изменување на Законот за буџетите („Службен весник на Република Северна Македонија“ бр. 258/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72401)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

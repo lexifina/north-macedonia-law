@@ -301,6 +301,15 @@
 
 Act id: `zakon-2025-sv135-70869` (tags `zakon-2025-sv135-70869/<day>`; `python tools/on.py <day> zakon-2025-sv135-70869`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за електронските комуникации („Службен весник на Република Северна Македонија“ бр. 269/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72606)
+- [Закон за дополнување на Законот за електронските комуникации („Службен весник на Република Северна Македонија“ бр. 132/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74048)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

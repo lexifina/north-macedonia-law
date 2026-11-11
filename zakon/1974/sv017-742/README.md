@@ -9,6 +9,16 @@
 
 Act id: `zakon-1974-sv017-742` (tags `zakon-1974-sv017-742/<day>`; `python tools/on.py <day> zakon-1974-sv017-742`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за дополнување на Законот за определување на градежното земјиште во одделни градови и населби од градски карактер, Битола, Прилеп, Струга, Свети Николе, Џумајлија, Пробиштип и Демир Хисар („Службен весник на Република Македонија“ бр. 23/1975)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=656)
+- [Закон за дополнување на Законот за определување на градежното земјиште во одделни градови и населби од градски карактер Битола, Прилеп, Струга, Свети Николе, Џумајлија, Пробиштип, Демир Хисар и Куманово („Службен весник на Република Македонија“ бр. 33/1976)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=907)
+- [Закон за изменување и дополнување на Законот за определување на градежно земјиште во одделни градови и населби од градски карактер Битола, Прилеп, Струга, Свети Николе, Џумајлија, Пробиштип, Демир Хисар, Куманово, Гевгелија, Богданци, Стар Дојран, Гостивар, Дебар, Кавадарци, Кичево, Македонски Брод и Радовиш („Службен весник на Република Македонија“ бр. 36/1977)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=701)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

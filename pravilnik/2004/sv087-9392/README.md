@@ -12,6 +12,14 @@
 
 Act id: `pravilnik-2004-sv087-9392` (tags `pravilnik-2004-sv087-9392/<day>`; `python tools/on.py <day> pravilnik-2004-sv087-9392`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за формата и содржината на образецот за исполнувањето на минималните технички услови на просториите во кои се врши занаетчиската дејност („Службен весник на Република Македонија“ бр. 189/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34800)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

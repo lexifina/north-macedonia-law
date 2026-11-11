@@ -13,6 +13,14 @@
 
 Act id: `upatstvo-2014-sv050-31621` (tags `upatstvo-2014-sv050-31621/<day>`; `python tools/on.py <day> upatstvo-2014-sv050-31621`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Упатство за медицинското згрижување при карцином на панкреас („Службен весник на Република Македонија“ бр. 41/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36297)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

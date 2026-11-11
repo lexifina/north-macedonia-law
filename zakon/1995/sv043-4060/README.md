@@ -11,6 +11,15 @@
 
 Act id: `zakon-1995-sv043-4060` (tags `zakon-1995-sv043-4060/<day>`; `python tools/on.py <day> zakon-1995-sv043-4060`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за преземање на гаранции по користени кредити од Европската инвестициона банка („Службен весник на Република Македонија“ бр. 36/1997)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4613)
+- [Закон за изменување на Законот за преземање на гаранции по користени кредити од Европската инвестициона банка („Службен весник на Република Македонија“ бр. 103/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15207)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -37,6 +37,20 @@
 
 Act id: `zakon-2013-sv087-28753` (tags `zakon-2013-sv087-28753/<day>`; `python tools/on.py <day> zakon-2013-sv087-28753`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за продажба на земјоделското земјиште во државна сопственост („Службен весник на Република Македонија“ бр. 106/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29083)
+- [Закон за изменување и дополнување на Законот за продажба на земјоделското земјиште во државна сопственост („Службен весник на Република Македонија“ бр. 137/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29543)
+- [Закон за изменување на Законот за продажба на земјоделското земјиште во државна сопственост („Службен весник на Република Македонија“ бр. 61/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36846)
+- [Закон за дополнување на Законот за продажба на земјоделското земјиште во државна сопственост („Службен весник на Република Македонија“ бр. 97/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37567)
+- [Закон за изменување и дополнување на Законот за продажба на земјоделското земјиште во државна сопственост („Службен весник на Република Македонија“ бр. 215/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39776)
+- [Закон за изменување на Законот за продажба на земјоделското земјиште во државна сопственост („Службен весник на Република Македонија“ бр. 53/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40968)
+- [Закон за изменување и дополнување на Законот за продажба на земјоделското земјиште во државна сопственост („Службен весник на Република Македонија“ бр. 51/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42700)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -58,6 +58,21 @@
 
 Act id: `zakon-2006-sv039-11930` (tags `zakon-2006-sv039-11930/<day>`; `python tools/on.py <day> zakon-2006-sv039-11930`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за градежните производи („Службен весник на Република Македонија“ бр. 86/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14527)
+- [Закон за изменување и дополнување на Законот за градежните производи („Службен весник на Република Македонија“ бр. 47/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22115)
+- [Закон за дополнување на Законот за градежните производи („Службен весник на Република Македонија“ бр. 136/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23421)
+- [Закон за изменување на Законот за градежните производи („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29934)
+
+Cited by:
+
+- [Закон за градежните производи („Службен весник на Република Македонија“ бр. 104/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37674)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

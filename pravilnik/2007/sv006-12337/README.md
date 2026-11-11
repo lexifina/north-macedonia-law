@@ -15,6 +15,19 @@
 
 Act id: `pravilnik-2007-sv006-12337` (tags `pravilnik-2007-sv006-12337/<day>`; `python tools/on.py <day> pravilnik-2007-sv006-12337`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за начин на потврдување на прифаќањето на налог за тргување со хартии од вредност („Службен весник на Република Македонија“ бр. 21/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16514)
+- [Правилник за изменување и дополнување на Правилникот за начин на потврдување на прифаќање на налог за тргување со хартии oд вредност („Службен весник на Република Македонија“ бр. 101/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29015)
+
+Cited by:
+
+- [Правилник за начинот на потврдување на прифаќањето или одбивањето на налог за тргувањен со хартии од вредност („Службен весник на Република Македонија“ бр. 4/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40290)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

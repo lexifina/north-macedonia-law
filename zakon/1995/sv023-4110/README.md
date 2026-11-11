@@ -72,6 +72,21 @@
 
 Act id: `zakon-1995-sv023-4110` (tags `zakon-1995-sv023-4110/<day>`; `python tools/on.py <day> zakon-1995-sv023-4110`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за угостителската и туристичката дејност („Службен весник на Република Македонија“ бр. 33/2000)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5952)
+- [Закон за изменување и дополнување на Законот за угостителската и туристичката дејност („Службен весник на Република Македонија“ бр. 25/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6879)
+- [Закон за изменување и дополнување на Законот за угостителската и туристичката дејност („Службен весник на Република Македонија“ бр. 38/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7793)
+
+Cited by:
+
+- [Закон за угостителската дејност („Службен весник на Република Македонија“ бр. 62/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8747)
+- [Закон за туристичката дејност („Службен весник на Република Македонија“ бр. 62/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8750)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

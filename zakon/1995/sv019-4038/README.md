@@ -7,6 +7,24 @@
 
 Act id: `zakon-1995-sv019-4038` (tags `zakon-1995-sv019-4038/<day>`; `python tools/on.py <day> zakon-1995-sv019-4038`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за дополнување на Законот за внатрешни работи („Службен весник на Република Македонија“ бр. 55/1997)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4605)
+- [Закон за дополнување на Законот за внатрешни работи („Службен весник на Република Македонија“ бр. 38/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7073)
+- [Закон за изменување и дополнување на Законот за внатрешни работи („Службен весник на Република Македонија“ бр. 33/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8718)
+- [Закон за изменување и дополнување на Законот за внатрешни работи („Службен весник на Република Македонија“ бр. 19/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9458)
+- [Закон за изменување и дополнување на Законот за внатрешни работи („Службен весник на Република Македонија“ бр. 51/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10084)
+- [Закон за дополнување на Законот за внатрешни работи („Службен весник на Република Македонија“ бр. 84/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14271)
+- [Закон за изменување и дополнување на Законот за внатрешни работи („Службен весник на Република Македонија“ бр. 6/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16401)
+
+Cited by:
+
+- [Закон за полиција („Службен весник на Република Македонија“ бр. 114/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11511)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

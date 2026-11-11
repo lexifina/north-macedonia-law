@@ -46,6 +46,32 @@
 
 Act id: `zakon-1993-sv017-3404` (tags `zakon-1993-sv017-3404/<day>`; `python tools/on.py <day> zakon-1993-sv017-3404`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 20/1996)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4345)
+- [Закон за изменување и дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 7/1998)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5004)
+- [Закон за изменување и дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 13/2001)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6439)
+- [Закон за изменување и дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 24/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8449)
+- [Закон за изменување и дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 19/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9438)
+- [Закон за изменување и дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 61/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8785)
+- [Закон за изменување и дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 95/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9982)
+- [Закон за изменување и дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 70/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11533)
+- [Закон за изменување и дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 92/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13681)
+- [Закон за изменување и дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 88/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14530)
+- [Закон за дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 130/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15682)
+- [Закон за изменување и дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 6/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18624)
+- [Закон за изменување и дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 145/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20604)
+- [Закон за изменување и дополнување на Законот за административните такси („Службен весник на Република Македонија“ бр. 17/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21447)
+- [Закон за изменување на Законот за административните такси („Службен весник на Република Македонија“ бр. 84/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25787)
+- [Закон за изменување на Законот за административните такси („Службен весник на Република Македонија“ бр. 192/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39352)
+- [Закон за изменување и дополнување на законот за административните такси („Службен весник на Република Македонија“ бр. 23/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40445)
+- [Закон за изменување на Законот за административните такси („Службен весник на Република Северна Македонија“ бр. 151/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56612)
+- [Закон за изменување на Законот за административните такси („Службен весник на Република Северна Македонија“ бр. 3/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68930)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

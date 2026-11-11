@@ -7,6 +7,15 @@
 
 Act id: `pravilnik-2011-sv161-23735` (tags `pravilnik-2011-sv161-23735/<day>`; `python tools/on.py <day> pravilnik-2011-sv161-23735`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за стручно оспособување, проверки, дозволи и овластувања на персоналот кој врши работи во врска со утврдување на условите на летот и со постапките за подготвување на летот („Службен весник на Република Македонија“ бр. 108/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26214)
+- [Правилник за изменување на Правилникот за стручно оспособување, дозволи и овластувања на персоналот кој врши работи во врска со утврдување на условите на летот и со постапките за подготвување на летот (flight dispatcher) („Службен весник на Република Македонија“ бр. 9/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40343)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

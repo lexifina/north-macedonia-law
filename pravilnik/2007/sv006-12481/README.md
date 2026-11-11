@@ -27,6 +27,16 @@
 
 Act id: `pravilnik-2007-sv006-12481` (tags `pravilnik-2007-sv006-12481/<day>`; `python tools/on.py <day> pravilnik-2007-sv006-12481`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за начин и време на запишување и бришење на акционерско друштво, содржина и начин на водење, ажурирање на податоците и пристап на јавноста до Регистарот на акционерски друштва со посебни обврски за известување („Службен весник на Република Македонија“ бр. 31/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21723)
+- [Правилник за изменување и дополнување на правилникот за начин и време на запишување и бришење на акционерско друштво, содржина и начин на водење, ажурирање на податоците и пристап на јавноста до регистарот на акционерски друштва со посебни обврски за известување ("Службен весник на Република Македонија" бр. 6/2007 и 31/2011) („Службен весник на Република Македонија“ бр. 76/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28505)
+- [Правилник за изменување и дополнување на Правилникот за начинот и времето на зaпишување и бришење на акционерско друштво, содржина и начин на водење, ажурирање на податоците и пристап на јавноста до Регистарот на акционерски друштва со посебни обврски за известување („Службен весник на Република Македонија“ бр. 84/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32164)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -104,6 +104,22 @@
 
 Act id: `zakon-2004-sv067-8910` (tags `zakon-2004-sv067-8910/<day>`; `python tools/on.py <day> zakon-2004-sv067-8910`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за квалитетот на амбиентниот воздух („Службен весник на Република Македонија“ бр. 92/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13691)
+- [Закон за изменување и дополнување на Законот за квалитет на амбиентниот воздух („Службен весник на Република Македонија“ бр. 35/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19027)
+- [Закон за изменување и дополнување на Законот за квалитетот на амбиентниот воздух („Службен весник на Република Македонија“ бр. 47/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22108)
+- [Закон за изменување и дополнување на Законот за квалитетот на амбиентниот воздух („Службен весник на Република Македонија“ бр. 59/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25348)
+- [Закон за изменување на Законот за квалитет на амбиентниот воздух („Службен весник на Република Македонија“ бр. 163/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29902)
+- [Закон за изменување и дополнување на Законот за квалитет на амбиентниот воздух („Службен весник на Република Македонија“ бр. 10/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35301)
+- [Закон за изменување и дополнување на Законот за квалитет на амбиентниот воздух („Службен весник на Република Македонија“ бр. 146/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38333)
+- [Закон за изменување и дополнување на Законот за квалитет на амбиентниот воздух („Службен весник на Република Северна Македонија“ бр. 151/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56611)
+- [Закон за изменување на Законот за квалитет на амбиентниот воздух („Службен весник на Република Северна Македонија“ бр. 3/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68935)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

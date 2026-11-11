@@ -29,6 +29,18 @@
 
 Act id: `pravilnik-2009-sv082-17331` (tags `pravilnik-2009-sv082-17331/<day>`; `python tools/on.py <day> pravilnik-2009-sv082-17331`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за начинот и постапката за финансирање на научно - истражувачки проекти односно програми („Службен весник на Република Македонија“ бр. 149/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18323)
+- [Правилник за дополнување на Правилникот за начинот и постапката за финансирање, создавање и усовршување на научно - истражувачки кадри („Службен весник на Република Македонија“ бр. 28/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18950)
+- [Правилник за дополнување на Правилникот за начинот и постапката за финансирање на научно-истражувачки проекти, односно програми („Службен весник на Република Македонија“ бр. 34/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21766)
+- [Правилник за изменување и дополнување на Правилникот за начинот и постапката за финансирање на научно-истражувачки проекти односно програми („Службен весник на Република Македонија“ бр. 129/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29459)
+- [Правилник за изменување и дополнување на Правилникот за начинот и постапката за финансирање, создавање и усовршување на научно - истражувачките кадри („Службен весник на Република Македонија“ бр. 74/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37090)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

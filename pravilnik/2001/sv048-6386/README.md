@@ -24,6 +24,19 @@
 
 Act id: `pravilnik-2001-sv048-6386` (tags `pravilnik-2001-sv048-6386/<day>`; `python tools/on.py <day> pravilnik-2001-sv048-6386`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за начинот на плаќањето на здравствените услуги во примарна здравствена заштита („Службен весник на Република Македонија“ бр. 31/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8652)
+- [Правилник за изменување и дополнување на Правилникот за начинот на плаќање на здравствените услуги во примарната здравствена заштита („Службен весник на Република Македонија“ бр. 137/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11984)
+- [Правилник за изменување и дополнување на Правилникот за начинот на плаќање на здравствените услуги во примарна здравствена заштита („Службен весник на Република Македонија“ бр. 25/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13171)
+- [Правилник за измена и дополнување на Правилникот за начинот на плаќањето на здравствените услуги во примарната здравствена заштита („Службен весник на Република Македонија“ бр. 151/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13494)
+- [Правилник за изменување и дополнување на Правилникот за начинот на плаќање на здравствените услуги во примарната здравствена заштита („Службен весник на Република Македонија“ бр. 44/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19160)
+- [Правилник за изменување и дополнување на Правилникот за начинот на плаќање на здравствените услуги во примарната здравствена заштита („Службен весник на Република Македонија“ бр. 62/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22411)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -7,6 +7,20 @@
 
 Act id: `pravilnik-2003-sv002-7826` (tags `pravilnik-2003-sv002-7826/<day>`; `python tools/on.py <day> pravilnik-2003-sv002-7826`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за определување на висината на правото на еднократна парична помош („Службен весник на Република Македонија“ бр. 57/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8385)
+- [Правилник за изменување и дополнување на Правилникот за определување на висината на правото на еднократна парична помош („Службен весник на Република Македонија“ бр. 23/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10253)
+- [Правилник за дополнување на Правилникот за определување на висината на правото на еднократна парична помош („Службен весник на Република Македонија“ бр. 105/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10206)
+- [Правилник за дополнување на Правилникот за определување на висината на правото на еднократна парична помош („Службен весник на Република Македонија“ бр. 56/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11279)
+- [Правилник за изменување и дополнување на Правилникот за определување на висината на правото на еднократна парична помош („Службен весник на Република Македонија“ бр. 71/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11621)
+- [Правилник за изменување и дополнување на Правилникот за определување на висината на правото на еднократна парична помош („Службен весник на Република Македонија“ бр. 78/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11937)
+- [Правилник за дополнување на Правилникот за определување на висината на правото на еднократна парична помош („Службен весник на Република Македонија“ бр. 150/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13356)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

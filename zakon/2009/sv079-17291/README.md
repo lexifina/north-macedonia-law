@@ -7,6 +7,34 @@
 
 Act id: `zakon-2009-sv079-17291` (tags `zakon-2009-sv079-17291/<day>`; `python tools/on.py <day> zakon-2009-sv079-17291`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука за Уставниот суд на Република Македонија, У.бр.165/2009 од 7 април 2010 година („Службен весник на Република Македонија“ бр. 51/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19243)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 36/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21830)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 51/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22169)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 166/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27081)
+- [Закон за изменување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 15/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27490)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 79/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28562)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29997)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 187/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30387)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 38/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31113)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 44/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31255)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 116/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33098)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 180/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34656)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 33/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35828)
+- [Закон за изменување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 72/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37033)
+- [Закон за дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 104/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37665)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 150/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38420)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 173/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38871)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 192/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39344)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 30/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40518)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 163/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42609)
+- [Закон за изменување и дополнување на Законот за социјалната заштита („Службен весник на Република Македонија“ бр. 51/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42697)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

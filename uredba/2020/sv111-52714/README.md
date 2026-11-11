@@ -18,6 +18,15 @@
 
 Act id: `uredba-2020-sv111-52714` (tags `uredba-2020-sv111-52714/<day>`; `python tools/on.py <day> uredba-2020-sv111-52714`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба со законска сила за изменување и дополнување на Уредбата со законска сила за финансиска поддршка на работодавачите погодени од здравствено-економската криза предизвикана од коронавирусот COVID-19, заради исплата на платите за месеците април и мај 2020 година („Службен весник на Република Северна Македонија“ бр. 113/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52735)
+- [Уредба со законска сила за изменување и дополнување на Уредбата со законска сила за финансиска поддршка на работодавачите погодени од здравствено-економската криза предизвикана од коронавирусот COVID-19, заради исплата на платите за месеците април и мај 2020 година („Службен весник на Република Северна Македонија“ бр. 154/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53085)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

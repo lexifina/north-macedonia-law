@@ -27,6 +27,17 @@
 
 Act id: `pravilnik-2010-sv055-19275` (tags `pravilnik-2010-sv055-19275/<day>`; `python tools/on.py <day> pravilnik-2010-sv055-19275`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за начинот и постапката за прием на учениците во јавните ученички домови („Службен весник на Република Македонија“ бр. 49/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22132)
+- [Правилник за изменување на Правилникот за начинот и постапката за прием на учениците во јавните ученички домови („Службен весник на Република Македонија“ бр. 50/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36679)
+- [Правилник за изменување и дополнување на Правилникот за начинот и постапката за прием на учениците во јавните ученички домови („Службен весник на Република Македонија“ бр. 59/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41195)
+- [Правилник за изменување на Правилникот за начинот и постапката за прием на учениците во јавните ученички домови („Службен весник на Република Македонија“ бр. 41/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44922)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2019-sv126-49548` (tags `pravilnik-2019-sv126-49548/<day>`; `python tools/on.py <day> pravilnik-2019-sv126-49548`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за начинот за остварување на правото на надоместок за помош и нега од друго лице, образецот на барањето и потребната документација, образецот за дадено мислење од страна на матичниот лекар за потребата од помош и нега од друго лице, начинот на работа на стручната комисија, составот и начинот на работата на второстепената комисија, начинот на водење евиденција за издадените наоди и формата и содржината на образецот за давање на наод, оцена и мислење за потребата од помош и нега од друго лице („Службен весник на Република Северна Македонија“ бр. 192/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53406)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -41,6 +41,15 @@
 
 Act id: `pravilnik-2019-sv268-51309` (tags `pravilnik-2019-sv268-51309/<day>`; `python tools/on.py <day> pravilnik-2019-sv268-51309`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за начинот и обемот на социјалните услуги, нормативите и стандардите за давање на социјалните услуги, помош и нега во домот („Службен весник на Република Северна Македонија“ бр. 198/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57377)
+- [Правилник за изменување и дополнување на Правилникот за начинот и обемот на социјалните услуги, нормативите и стандардите за давање на социјалните услуги, помош и нега во домот („Службен весник на Република Северна Македонија“ бр. 75/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62670)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

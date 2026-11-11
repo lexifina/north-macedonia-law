@@ -25,6 +25,15 @@
 
 Act id: `zakon-2006-sv128-11808` (tags `zakon-2006-sv128-11808/<day>`; `python tools/on.py <day> zakon-2006-sv128-11808`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија со која се укинува член 24-а став 3 и член 57-а од Законот за трговија („Службен весник на Република Македонија“ бр. 48/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16811)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 114/2022 од 20 април 2023 година („Службен весник на Република Северна Македонија“ бр. 93/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62842)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

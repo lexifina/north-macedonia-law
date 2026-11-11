@@ -9,6 +9,14 @@
 
 Act id: `zakon-2009-sv114-17814` (tags `zakon-2009-sv114-17814/<day>`; `python tools/on.py <day> zakon-2009-sv114-17814`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија,у.бр 160/2009 од 10 март 2010 година („Службен весник на Република Македонија“ бр. 39/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19095)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

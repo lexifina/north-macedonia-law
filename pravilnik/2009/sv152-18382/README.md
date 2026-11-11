@@ -23,6 +23,14 @@
 
 Act id: `pravilnik-2009-sv152-18382` (tags `pravilnik-2009-sv152-18382/<day>`; `python tools/on.py <day> pravilnik-2009-sv152-18382`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за посебните услови кои треба да ги исполнуваат преработените животински протеини и други преработени производи кои можат да се користат како материјал за исхрана на животните во однос на стандардите за преработка, суровините, складирањето, увозот и хигиенските услови како и условите кои треба да ги исполнуваат објектите за производство на храна за домашни миленици и технички објекти и посебните технички услови за храната за домашни миленици и кучешки грицкалици во однос на суровините, стандардите за преработка и увозот („Службен весник на Република Македонија“ бр. 35/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44909)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

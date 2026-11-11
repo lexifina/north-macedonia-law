@@ -38,6 +38,18 @@
 
 Act id: `zakon-2008-sv082-14176` (tags `zakon-2008-sv082-14176/<day>`; `python tools/on.py <day> zakon-2008-sv082-14176`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија, У.бр.169/2008 од 15 април 2009 година („Службен весник на Република Македонија“ бр. 56/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16838)
+- [Закон за изменување на Законот за постапување по претставки и предлози („Службен весник на Република Македонија“ бр. 13/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27399)
+- [Закон за дополнување на Законот за постапување по претставки и предлози („Службен весник на Република Македонија“ бр. 156/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38573)
+- [Закон за изменување и дополнување на Законот за постапување по претставки и предлози („Службен весник на Република Македонија“ бр. 193/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39258)
+- [Закон за изменување и дополнување на Законот за постапување по претставки и предлози („Службен весник на Република Северна Македонија“ бр. 208/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67951)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

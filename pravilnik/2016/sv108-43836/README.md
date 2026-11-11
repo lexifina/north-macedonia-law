@@ -28,6 +28,14 @@
 
 Act id: `pravilnik-2016-sv108-43836` (tags `pravilnik-2016-sv108-43836/<day>`; `python tools/on.py <day> pravilnik-2016-sv108-43836`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за соодветноста на видот на образованието и описот на стручните звања во дејноста за заштита на аудиовизуелните добра, програмата за полагање на стручниот испит, формата и содржината на обрасците на барањата за избор и реизбор во стручни звања, начинот на полагање на стручниот испит, начинот на вршење избор, односно реизбор во стручни звања и начинот на утврдување на бодовите за избор, односно реизбор во стручните звања („Службен весник на Република Северна Македонија“ бр. 228/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57679)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

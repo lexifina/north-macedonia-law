@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2011-sv010-21330` (tags `pravilnik-2011-sv010-21330/<day>`; `python tools/on.py <day> pravilnik-2011-sv010-21330`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за начинот на бодирање на првиот и вториот дел од испитот за вештаци и формата и содржината на уверението за положен испит за вештаци („Службен весник на Република Македонија“ бр. 160/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42378)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

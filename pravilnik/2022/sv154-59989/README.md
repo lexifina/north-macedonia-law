@@ -18,6 +18,15 @@
 
 Act id: `pravilnik-2022-sv154-59989` (tags `pravilnik-2022-sv154-59989/<day>`; `python tools/on.py <day> pravilnik-2022-sv154-59989`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за дополнителните услови за верификација на одредени видови на мерила, постапката за овластувањето на правното лице, задачите на овластеното правно лице и оцената на исполнетоста на барањата за овластување („Службен весник на Република Северна Македонија“ бр. 220/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60827)
+- [Правилник за изменување на Правилникот за дополнителните услови за верификација на одредени видови на мерила, постапката за овластувањето на правното лице, задачите на овластеното правно лице и оцената на исполнетоста на барањата за овластување („Службен весник на Република Северна Македонија“ бр. 175/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71461)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

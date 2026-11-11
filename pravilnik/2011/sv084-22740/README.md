@@ -13,6 +13,14 @@
 
 Act id: `pravilnik-2011-sv084-22740` (tags `pravilnik-2011-sv084-22740/<day>`; `python tools/on.py <day> pravilnik-2011-sv084-22740`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за престанување на важењето на Правилникот за формата и содржината на образецот на барањето заради неиздавање на дозвола, односно недонесување на решение за одбивање на барањето за добивање на дозвола („Службен весник на Република Македонија“ бр. 161/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42390)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

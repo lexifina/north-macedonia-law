@@ -7,6 +7,16 @@
 
 Act id: `pravilnik-2020-sv258-54112` (tags `pravilnik-2020-sv258-54112/<day>`; `python tools/on.py <day> pravilnik-2020-sv258-54112`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за видот на студентските стипендии и начинот на доделување на студентските стипендии на студентите кои студираат во Република Северна Македонија („Службен весник на Република Северна Македонија“ бр. 160/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56823)
+- [Правилник за изменување на Правилникот за видот на студентските стипендии и начинот на доделување на студентските стипендии на студентите кои студираат во Република Северна Македонија („Службен весник на Република Северна Македонија“ бр. 47/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62300)
+- [Правилник за изменување на Правилникот за видот на студентските стипендии и начинот на доделување на студентските стипендии на студентите кои студираат во Република Северна Македонија („Службен весник на Република Северна Македонија“ бр. 172/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67531)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

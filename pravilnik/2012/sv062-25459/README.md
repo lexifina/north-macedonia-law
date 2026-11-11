@@ -32,6 +32,14 @@
 
 Act id: `pravilnik-2012-sv062-25459` (tags `pravilnik-2012-sv062-25459/<day>`; `python tools/on.py <day> pravilnik-2012-sv062-25459`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за дополнување на правилникот за начинот на внесување на податоците на осудените лица во посебниот регистар за лица осудени со правосилна пресуда за кривични дела за сексуална злоупотреба на малолетни лица и педофилија и начинот на меѓусебно известување и соработка („Службен весник на Република Македонија“ бр. 88/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25828)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

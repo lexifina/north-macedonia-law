@@ -16,6 +16,16 @@
 
 Act id: `pravilnik-2013-sv058-28185` (tags `pravilnik-2013-sv058-28185/<day>`; `python tools/on.py <day> pravilnik-2013-sv058-28185`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за потребната документација и начинот за стекнување квалификувано учество во друштво за осигурување, осигурително брокерско друштво и друштво за застапување во осигурување („Службен весник на Република Македонија“ бр. 35/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44904)
+- [Правилник за изменување и дополнување на Правилникот за потребната документација и начинот за стекнување квалификувано учество во друштво за осигурување, осигурително брокерско друштво и друштво за застапување во осигурување („Службен весник на Република Македонија“ бр. 138/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=45727)
+- [Правилник за изменување и дополнување на Правилникот за потребната документација и начинот за стекнување квалификувано учество во друштво за осигурување, осигурително брокерско друштво и друштво за застапување во осигурување („Службен весник на Република Северна Македонија“ бр. 69/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47027)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -7,6 +7,14 @@
 
 Act id: `uredba-1992-sv084-361` (tags `uredba-1992-sv084-361/<day>`; `python tools/on.py <day> uredba-1992-sv084-361`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за дополнување на Уредбата за утврдување на зоните во кои се ограничува слободата на движењето, престојот, или населувањето во Република Македонија („Службен весник на Република Македонија“ бр. 16/1996)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4264)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

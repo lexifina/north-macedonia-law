@@ -12,6 +12,14 @@
 
 Act id: `pravilnik-2012-sv077-25634` (tags `pravilnik-2012-sv077-25634/<day>`; `python tools/on.py <day> pravilnik-2012-sv077-25634`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за формата и содржината на барањето за регистрација на ознака за потеклото или географска ознака („Службен весник на Република Македонија“ бр. 183/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30285)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

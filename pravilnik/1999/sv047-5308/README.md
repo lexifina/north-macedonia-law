@@ -15,6 +15,16 @@
 
 Act id: `pravilnik-1999-sv047-5308` (tags `pravilnik-1999-sv047-5308/<day>`; `python tools/on.py <day> pravilnik-1999-sv047-5308`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за утврдување на висината на надоместоците за користење на доделени броеви, серии на броеви, имиња и адреси од планот за нумерација за телекомуникациските мрежи во Република Македонија („Службен весник на Република Македонија“ бр. 57/2001)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6602)
+- [Правилник за дополнување на Правилникот за утврдување на висината на надоместоците за користење на доделени броеви, серии на броеви, имиња и адреси од Планот за нумерација за телекомуникациските мрежи во Република Македонија („Службен весник на Република Македонија“ бр. 39/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7088)
+- [Правилник за изменување на Правилникот за утврдување на висината на надоместоците за користење на доделени броеви, серии на броеви, имиња и адреси од Планот за нумерација за телекомуникациските мрежи во Република Македонија („Службен весник на Република Македонија“ бр. 68/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7083)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

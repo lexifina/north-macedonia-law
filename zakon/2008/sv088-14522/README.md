@@ -47,6 +47,23 @@
 
 Act id: `zakon-2008-sv088-14522` (tags `zakon-2008-sv088-14522/<day>`; `python tools/on.py <day> zakon-2008-sv088-14522`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за шумарска и ловна инспекција („Службен весник на Република Македонија“ бр. 6/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18623)
+- [Закон за изменување и дополнување на Законот за шумарска и ловна инспекција („Службен весник на Република Македонија“ бр. 36/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21806)
+- [Закон за изменување на Законот за шумарска и ловна инспекција („Службен весник на Република Македонија“ бр. 74/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25585)
+- [Закон за изменување и дополнување на Законот за шумарска и ловна инспекција („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29989)
+- [Закон за изменување на Законот за шумарска и ловна инспекција („Службен весник на Република Македонија“ бр. 43/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31413)
+- [Закон за изменување и дополнување на Законот за шумарска и ловна инспекција („Службен весник на Република Македонија“ бр. 33/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35842)
+- [Закон за изменување и дополнување на Законот за шумарска и ловна инспекција („Службен весник на Република Македонија“ бр. 149/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38445)
+- [Закон за изменување на Законот за шумарска и ловна инспекција („Службен весник на Република Македонија“ бр. 53/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40962)
+- [Закон за изменување и дополнување на Законот за шумарска и ловна инспекција („Службен весник на Република Македонија“ бр. 83/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42787)
+- [Закон за изменување и дополнување на Законот за шумарска и ловна инспекција („Службен весник на Република Северна Македонија“ бр. 3/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68922)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

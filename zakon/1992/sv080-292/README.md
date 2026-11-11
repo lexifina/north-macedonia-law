@@ -332,6 +332,37 @@
 
 Act id: `zakon-1992-sv080-292` (tags `zakon-1992-sv080-292/<day>`; `python tools/on.py <day> zakon-1992-sv080-292`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за семејството („Службен весник на Република Македонија“ бр. 9/1996)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4198)
+- [Закон за изменување и дополнување на Законот за семејството („Службен весник на Република Македонија“ бр. 38/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8864)
+- [Закон за изменување и дополнување на Законот за семејството („Службен весник на Република Македонија“ бр. 33/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11671)
+- [Закон за изменување и дополнување на Законот за семејството („Службен весник на Република Македонија“ бр. 84/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14305)
+- [Одлука на Уставниот суд на Република Македонија у.бр 2/2009 од 9 септември 2009 година („Службен весник на Република Македонија“ бр. 117/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17765)
+- [Закон за изменување и дополнување на Законот за семејството („Службен весник на Република Македонија“ бр. 67/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19454)
+- [Закон за изменување и дополнување на Законот за семејството („Службен весник на Република Македонија“ бр. 156/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20844)
+- [Закон за изменување на Законот за семејството („Службен весник на Република Македонија“ бр. 39/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24932)
+- [Закон за изменување и дополнување на Законот за семејството („Службен весник на Република Македонија“ бр. 44/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25005)
+- [Закон за изменување и дополнување на Законот за семејството („Службен весник на Република Македонија“ бр. 38/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31093)
+- [Закон за изменување и дополнување на Законот за семејството („Службен весник на Република Македонија“ бр. 115/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33063)
+- [Закон за дополнување на Законот за семејството („Службен весник на Република Македонија“ бр. 104/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37689)
+- [Закон за изменување и дополнување на Законот за семејството („Службен весник на Република Македонија“ бр. 150/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38919)
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 153/2017 од 20 јуни 2018 година („Службен весник на Република Македонија“ бр. 122/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42860)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 29/2020 од 24 февруари 2021 година („Службен весник на Република Северна Македонија“ бр. 51/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55341)
+- [Закон за изменување и дополнување на Законот за семејството („Службен весник на Република Северна Македонија“ бр. 53/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55353)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 273/2020 од 3 март 2021 година („Службен весник на Република Северна Македонија“ бр. 59/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55479)
+- [Закон за изменување и дополнување на Законот за семејството („Службен весник на Република Северна Македонија“ бр. 199/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64238)
+- [Закон за изменување на Законот за семејството („Службен весник на Република Северна Македонија“ бр. 192/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71629)
+
+Cited by:
+
+- [Закон за сопственост и други стварни права („Службен весник на Република Македонија“ бр. 18/2001)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6552)
+- [Закон за превенција, спречување и заштита од семејно насилство („Службен весник на Република Македонија“ бр. 138/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33715)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

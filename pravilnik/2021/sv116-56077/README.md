@@ -14,6 +14,15 @@
 
 Act id: `pravilnik-2021-sv116-56077` (tags `pravilnik-2021-sv116-56077/<day>`; `python tools/on.py <day> pravilnik-2021-sv116-56077`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за определување на категориите и видовите мерила за кои е задолжителна верификацијата, постапките за верификација, роковите на периодичната верификација, како и категориите и видовите мерила за кои може да се добие овластување за верификација („Службен весник на Република Северна Македонија“ бр. 198/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71701)
+- [Правилник за изменување на Правилникот за определување на категориите и видовите мерила за кои е задолжителна верификацијата, постапките за верификација, роковите на периодичната верификација, како и категориите и видовите мерила за кои може да се добие овластување за верификација („Службен весник на Република Северна Македонија“ бр. 238/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72137)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

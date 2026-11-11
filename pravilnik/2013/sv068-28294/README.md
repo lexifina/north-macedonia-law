@@ -14,6 +14,14 @@
 
 Act id: `pravilnik-2013-sv068-28294` (tags `pravilnik-2013-sv068-28294/<day>`; `python tools/on.py <day> pravilnik-2013-sv068-28294`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за формата и содржината на барањето и упатството за пополнување на барањето за издавање на сертификат на субјектот задолжен за одржување на железнички возила, формата и содржината на сертификатот за одржување на железнички возила како и формата и содржината на регистарот на издадени сертификати („Службен весник на Република Македонија“ бр. 94/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32388)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

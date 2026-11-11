@@ -11,6 +11,14 @@
 
 Act id: `uredba-2022-sv286-61651` (tags `uredba-2022-sv286-61651/<day>`; `python tools/on.py <day> uredba-2022-sv286-61651`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување и дополнување на Уредбата за утврдување на посебните специјалности од особено значење за Армијата на Република Северна Македонија („Службен весник на Република Северна Македонија“ бр. 282/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65269)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

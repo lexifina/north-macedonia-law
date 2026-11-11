@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2011-sv045-22076` (tags `pravilnik-2011-sv045-22076/<day>`; `python tools/on.py <day> pravilnik-2011-sv045-22076`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за видот и начинот на жигосување, начинот на издавање на испратница, пуштање во промет на исечено дрво, формата и соржината на регистарот на издадени и заверени испаратници, формата и содржината на испратниците,формата и содржината на барањето за издавање на испратница и висината на надоместокот за издадени испратници („Службен весник на Република Македонија“ бр. 102/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29042)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

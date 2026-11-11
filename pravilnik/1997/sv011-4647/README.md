@@ -13,6 +13,14 @@
 
 Act id: `pravilnik-1997-sv011-4647` (tags `pravilnik-1997-sv011-4647/<day>`; `python tools/on.py <day> pravilnik-1997-sv011-4647`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за применување на урбани санациони мерки („Службен весник на Република Македонија“ бр. 97/2000)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6014)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

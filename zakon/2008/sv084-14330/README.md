@@ -104,6 +104,37 @@
 
 Act id: `zakon-2008-sv084-14330` (tags `zakon-2008-sv084-14330/<day>`; `python tools/on.py <day> zakon-2008-sv084-14330`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 52/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17168)
+- [Закон за изменување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 114/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17814)
+- [Одлука на Уставниот суд на Република Македонија,у.бр 160/2009 од 10 март 2010 година („Службен весник на Република Македонија“ бр. 39/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19095)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 124/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20276)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 23/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21575)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 53/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22277)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 44/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25001)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 168/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27083)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 163/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29936)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 187/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30385)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 39/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31141)
+- [Закон за изменување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 42/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31213)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 166/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34392)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 44/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36347)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 116/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37824)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 150/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38427)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 31/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40594)
+- [Закон за дополнување на Законот за јавните патишта („Службен весник на Република Македонија“ бр. 71/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41210)
+- [Закон за дополнување на Законот за јавните патишта-1 („Службен весник на Република Македонија“ бр. 163/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42413)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Северна Македонија“ бр. 174/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57046)
+- [Закон за дополнување на Законот за јавните патишта („Службен весник на Република Северна Македонија“ бр. 253/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64878)
+- [Закон за изменување на Законот за јавните патишта („Службен весник на Република Северна Македонија“ бр. 224/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68198)
+- [Закон за изменување и дополнување на Законот за јавните патишта („Службен весник на Република Северна Македонија“ бр. 135/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70876)
+- [Закон за дополнување на Законот за јавните патишта („Службен весник на Република Северна Македонија“ бр. 269/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72605)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

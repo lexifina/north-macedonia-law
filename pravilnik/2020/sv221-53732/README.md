@@ -40,6 +40,14 @@
 
 Act id: `pravilnik-2020-sv221-53732` (tags `pravilnik-2020-sv221-53732/<day>`; `python tools/on.py <day> pravilnik-2020-sv221-53732`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за програмата за дополнителна обука и проверка на стручните знаења и способности на здравствените работници со високо образование од областа на фармацијата, составот на Испитната комисија и начинот на спроведување на проверката („Службен весник на Република Северна Македонија“ бр. 182/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64029)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

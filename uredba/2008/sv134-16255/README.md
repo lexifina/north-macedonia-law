@@ -34,6 +34,17 @@
 
 Act id: `uredba-2008-sv134-16255` (tags `uredba-2008-sv134-16255/<day>`; `python tools/on.py <day> uredba-2008-sv134-16255`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување и дополнување на Уредбата за воспоставувањето и начинот на користење на информациониот систем за обработка на податоци во електронски облик и електронски потпис при увоз, извоз и транзит на стоки („Службен весник на Република Македонија“ бр. 13/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21363)
+- [Уредба за изменување и дополнување на Уредбата за воспоставувањето и начинот на користење на информациониот систем за обработка на податоци во електронски облик и електронски потпис при постапки за увоз, извоз и транзит („Службен весник на Република Македонија“ бр. 138/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29579)
+- [Уредба за изменување и дополнување на Уредбата за воспоставувањето и начинот на користење на информациониот систем за обработка на податоци во електронски облик и електронски потпис при постапки за увоз, извоз и транзит („Службен весник на Република Македонија“ бр. 208/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39692)
+- [Уредба за изменување на Уредбата за воспоставувањето и начинот на користење на информациониот систем за обработка на податоци во електронски облик и електронски потпис при постапки за увоз, извоз и транзит („Службен весник на Република Северна Македонија“ бр. 232/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50858)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

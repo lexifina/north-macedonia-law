@@ -20,6 +20,14 @@
 
 Act id: `pravilnik-1993-sv069-3288` (tags `pravilnik-1993-sv069-3288/<day>`; `python tools/on.py <day> pravilnik-1993-sv069-3288`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за дополнување на Правилникот за обрасците на дипломатските и службените пасоши и визи на државјаните на Република Македонија и начинот на водење евиденција за издадените дипломатски и службени пасоши и визи („Службен весник на Република Северна Македонија“ бр. 38/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43413)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

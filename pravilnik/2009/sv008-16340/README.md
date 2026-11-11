@@ -13,6 +13,17 @@
 
 Act id: `pravilnik-2009-sv008-16340` (tags `pravilnik-2009-sv008-16340/<day>`; `python tools/on.py <day> pravilnik-2009-sv008-16340`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за начинот на утврдување на износот на средствата за исплата на плати, составување на пресметките и доставување на пресметките до Министерството за финансии - Управа за јавни приходи („Службен весник на Република Македонија“ бр. 105/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17665)
+- [Правилник за изменување на Правилникот за начинот на утврдување на износот на средствата за исплата на плати, составување на пресметките и доставување на пресметките до Министерството за финансии - Управа за јавни приходи („Службен весник на Република Македонија“ бр. 141/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20512)
+- [Правилник за изменување на Правилникот за начинот на утврдување на износот на средствата за исплата на плати, составување на пресметките и доставување на пресметките до Министерството за финансии - Управа за јавни приходи („Службен весник на Република Македонија“ бр. 23/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24721)
+- [Правилник за изменување на Правилникот за начинот на утврдување на износот на средствата за исплата на плати, составување на пресметките и доставување на пресметките до Министерството за финансии - Управа за јавни приходи („Службен весник на Република Македонија“ бр. 158/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26933)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

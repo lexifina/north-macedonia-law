@@ -7,6 +7,17 @@
 
 Act id: `zakon-2005-sv051-10089` (tags `zakon-2005-sv051-10089/<day>`; `python tools/on.py <day> zakon-2005-sv051-10089`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија, У. бр.155/2005 од 22 март 2006 година („Службен весник на Република Македонија“ бр. 44/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10805)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.76/2006 од 16 мај 2007 година („Службен весник на Република Македонија“ бр. 72/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12589)
+- [Одлука на Уставниот суд на Република Македонија со која се укинуваат член 101 став 1 во делот „ односно на деловните простории“ од Законот за сопственост и други стварни права („Службен весник на Република Македонија“ бр.18/2001) и член 83 став 3 алинеја 2 во делот „ односно на деловните простории“ од Законот за градење („Службен весник на Република Македонија“ бр. 51/2005) („Службен весник на Република Македонија“ бр. 31/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15542)
+- [Закон за изменување и дополнување на Законот за градење („Службен весник на Република Македонија“ бр. 82/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14140)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

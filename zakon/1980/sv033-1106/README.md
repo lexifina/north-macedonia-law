@@ -7,6 +7,16 @@
 
 Act id: `zakon-1980-sv033-1106` (tags `zakon-1980-sv033-1106/<day>`; `python tools/on.py <day> zakon-1980-sv033-1106`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за заштита на националните паркови („Службен весник на Република Македонија“ бр. 10/1990)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1510)
+- [Закон за изменување на Законот за заштита на националните паркови („Службен весник на Република Македонија“ бр. 62/1993)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3158)
+- [Закон за изменување и дополнување на Законот за просторно и урбанистичко планирање („Службен весник на Република Македонија“ бр. 18/1999)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5433)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

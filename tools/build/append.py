@@ -603,6 +603,22 @@ def append(folder: Path, repo: Path, docs_date: str, dry_run: bool = False, comm
     # Of the acts this corpus doesn't have, keep the withdrawn and those with history (held back this cycle).
     no_text = [a for a in extra if not a.get('_withdrawn') and a['slug'] not in tagged]
     extra = [a for a in extra if a not in no_text]
+    # 2026-11-10: an act this corpus does not hold keeps the label main's data/acts.json gives it ("amended, not
+    # consolidated", "repealed, not consolidated", "cited later, not consolidated", written by a parser or a label
+    # commit), with its amended_by / cited_by; acts with no such label are listed exactly as before.
+    _aj = subprocess.run(['git', 'show', f'main:{DP}data/acts.json'], cwd=repo, capture_output=True, text=True,
+                         encoding='utf-8')
+    try:
+        _main_rows = {r['slug']: r for r in json.loads(_aj.stdout).get('acts', [])} if not _aj.returncode else {}
+    except ValueError:
+        _main_rows = {}
+    for a in extra:
+        r = _main_rows.get(a['slug']) or {}
+        if str(r.get('status', '')).endswith(', not consolidated') and not a.get('_withdrawn'):
+            a['label'] = r['status']
+            for k in ('amended_by', 'cited_by'):
+                if r.get(k):
+                    a[k] = r[k]
     index = {**c, 'acts': c_pub['acts'] + extra}
     # READMEs that earlier documentation commits wrote into folders with no text are removed (documentation, not
     # history: each documentation commit regenerates it).

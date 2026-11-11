@@ -13,6 +13,14 @@
 
 Act id: `pravilnik-2011-sv065-22452` (tags `pravilnik-2011-sv065-22452/<day>`; `python tools/on.py <day> pravilnik-2011-sv065-22452`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за престанување на важењето на Правилникот за формата и содржината на барањето за донесување на решение за издавање на дозвола за основање и работа на финансиско друштво, односно за одбивање на барањето за основање и работа на финансиско друштво („Службен весник на Република Македонија“ бр. 161/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42391)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

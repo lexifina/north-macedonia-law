@@ -7,6 +7,23 @@
 
 Act id: `zakon-2006-sv063-11371` (tags `zakon-2006-sv063-11371/<day>`; `python tools/on.py <day> zakon-2006-sv063-11371`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за енергетика („Службен весник на Република Македонија“ бр. 36/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13624)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.201/2006 од 19 септември 2007 година („Службен весник на Република Македонија“ бр. 123/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12514)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.47/2007 од 13 март 2008 година („Службен весник на Република Македонија“ бр. 40/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13960)
+- [Закон за изменување и дополнување на Законот за енергетика („Службен весник на Република Македонија“ бр. 106/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15291)
+- [Одлука на Уставниот суд на Република Македонија, У.бр. 117/2008 од 17 март 2010 година („Службен весник на Република Македонија“ бр. 45/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19182)
+- [Закон за изменување и дополнување на Законот за енергетика („Службен весник на Република Македонија“ бр. 119/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20174)
+
+Cited by:
+
+- [Закон за задолжителни резерви на нафта и нафтени деривати („Службен весник на Република Македонија“ бр. 84/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14339)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

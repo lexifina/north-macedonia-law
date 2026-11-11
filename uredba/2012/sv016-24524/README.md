@@ -24,6 +24,14 @@
 
 Act id: `uredba-2012-sv016-24524` (tags `uredba-2012-sv016-24524/<day>`; `python tools/on.py <day> uredba-2012-sv016-24524`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување и дополнување на Уредбата за видот на средствата и добитокот кои граѓаните, трговските друштва, јавните претпријатија, установите и службите се должни да ги даваат на користење на Министерството за одбрана, за потребите на Армијата на Република Македонија во воена и вонредна состојба, како и при изведување на вежбовни активности во мир, начинот на водењето на евиденцијата и определување на висината на надоместокот за нивното користење, оштетување и уништување („Службен весник на Република Северна Македонија“ бр. 41/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58890)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

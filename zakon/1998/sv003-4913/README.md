@@ -34,6 +34,22 @@
 
 Act id: `zakon-1998-sv003-4913` (tags `zakon-1998-sv003-4913/<day>`; `python tools/on.py <day> zakon-1998-sv003-4913`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за пасиштата („Службен весник на Република Македонија“ бр. 101/2000)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14631)
+- [Закон за изменување и дополнување на Законот за пасиштата („Службен весник на Република Македонија“ бр. 89/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14622)
+- [Закон за изменување на Законот за пасиштатa („Службен весник на Република Македонија“ бр. 105/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17688)
+- [Закон за изменување и дополнување на Законот за пасишта („Службен весник на Република Македонија“ бр. 42/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19129)
+- [Закон за изменување и дополнување на Законот за пасиштата („Службен весник на Република Македонија“ бр. 116/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20151)
+- [Закон за изменување и дополнување на Законот за пасиштата („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30025)
+- [Закон за изменување и дополнување на Законот за пасиштата („Службен весник на Република Македонија“ бр. 193/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39276)
+- [Закон за изменување на Законот за пасиштата („Службен весник на Република Македонија“ бр. 215/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39779)
+- [Закон за изменување на Законот за пасиштата („Службен весник на Република Северна Македонија“ бр. 110/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55999)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

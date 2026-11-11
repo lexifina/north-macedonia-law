@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2012-sv084-25776` (tags `pravilnik-2012-sv084-25776/<day>`; `python tools/on.py <day> pravilnik-2012-sv084-25776`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за формата и содржината на известувањето на кандидатите односно понудувачите за одлуките во врска со извршената претквалификација, доделувањето на договорот за јавна набавка, склучувањето на рамковната спогодба или поништувањето на постапката за доделување на договорот („Службен весник на Република Македонија“ бр. 170/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34487)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

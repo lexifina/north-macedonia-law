@@ -7,6 +7,16 @@
 
 Act id: `pravilnik-2010-sv159-20900` (tags `pravilnik-2010-sv159-20900/<day>`; `python tools/on.py <day> pravilnik-2010-sv159-20900`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за формата и содржината на картичката за здравствено осигурување и за начинот на нејзиното издавање, водење, користење и доказот за платен придонес за задолжително здравствено осигурување („Службен весник на Република Македонија“ бр. 24/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21585)
+- [Правилник за изменување и дополнување на Правилникот за формата и содржината на картичката за здравствено осигурување и за начинот на нејзиното издавање, водење, користење и доказот за платен придонес за задолжително здравствено осигурување („Службен весник на Република Македонија“ бр. 62/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22416)
+- [Правилник за изменување и дополнување на Правилникот за формата и содржината на картичката за здравствено осигурување и за начинот на нејзиното издавање, водење, користење и доказот за платен придонес за задолжително здравствено осигурување („Службен весник на Република Македонија“ бр. 159/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26993)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

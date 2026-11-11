@@ -50,6 +50,26 @@
 
 Act id: `zakon-1995-sv008-3934` (tags `zakon-1995-sv008-3934/<day>`; `python tools/on.py <day> zakon-1995-sv008-3934`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за матичната евиденција („Службен весник на Република Македонија“ бр. 38/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7077)
+- [Закон за изменување и дополнување на Законот за матичната евиденција („Службен весник на Република Македонија“ бр. 66/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12499)
+- [Закон за изменување и дополнување на Законот за матичната евиденција („Службен весник на Република Македонија“ бр. 98/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14944)
+- [Закон за изменување и дополнување на Законот за матичната евиденција („Службен весник на Република Македонија“ бр. 67/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17192)
+- [Закон за дополнување на Законот за матичната евиденција („Службен весник на Република Македонија“ бр. 13/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27419)
+- [Закон за изменување и дополнување на Законот за матичната евиденција („Службен весник на Република Македонија“ бр. 43/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31233)
+- [Закон за изменување и дополнување на Законот за матичната евиденција („Службен весник на Република Македонија“ бр. 148/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38393)
+- [Закон за изменување и дополнување на Законот за матичната евиденција („Службен весник на Република Македонија“ бр. 27/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40514)
+- [Закон за изменување на Законот за матичната евиденција („Службен весник на Република Македонија“ бр. 64/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42731)
+- [Закон за изменување и дополнување на Законот за матичната евиденција („Службен весник на Република Северна Македонија“ бр. 14/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51721)
+- [Закон за изменување и дополнување на Законот за матичната евиденција („Службен весник на Република Северна Македонија“ бр. 129/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63336)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр.92/2023 од 28 февруари 2024 година („Службен весник на Република Северна Македонија“ бр. 83/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66576)
+- [Закон за изменување и дополнување на Законот за матичната евиденција („Службен весник на Република Северна Македонија“ бр. 255/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68579)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

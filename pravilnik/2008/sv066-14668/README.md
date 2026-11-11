@@ -13,6 +13,15 @@
 
 Act id: `pravilnik-2008-sv066-14668` (tags `pravilnik-2008-sv066-14668/<day>`; `python tools/on.py <day> pravilnik-2008-sv066-14668`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за известувањето од страна на акционерско друштво со посебни обврски за известување за стекнати, односно оттуѓени хартии од вредност на правни и физички лица („Службен весник на Република Северна Македонија“ бр. 192/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50479)
+- [Правилник за изменување и дополнување на Правилникот за известувањето од страна на акционерско друштво со посебни обврски за известување за стекнати, односно оттуѓени хартии од вредност на правни и физички лица („Службен весник на Република Северна Македонија“ бр. 90/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56108)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

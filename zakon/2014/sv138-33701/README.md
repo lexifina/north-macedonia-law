@@ -12,6 +12,14 @@
 
 Act id: `zakon-2014-sv138-33701` (tags `zakon-2014-sv138-33701/<day>`; `python tools/on.py <day> zakon-2014-sv138-33701`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Македонија, У. бр. 38/2018 од 12 декември 2018 година („Службен весник на Република Македонија“ бр. 239/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43200)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

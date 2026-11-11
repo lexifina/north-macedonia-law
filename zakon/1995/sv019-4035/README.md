@@ -7,6 +7,21 @@
 
 Act id: `zakon-1995-sv019-4035` (tags `zakon-1995-sv019-4035/<day>`; `python tools/on.py <day> zakon-1995-sv019-4035`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за изградба на инвестициони објекти („Службен весник на Република Македонија“ бр. 18/1999)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5426)
+- [Закон за изменување и дополнување на Законот за просторно и урбанистичко планирање („Службен весник на Република Македонија“ бр. 18/1999)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5433)
+
+Cited by:
+
+- [Закон за лековите, помошните лековити средства и медицинските помагала („Службен весник на Република Македонија“ бр. 21/1998)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4911)
+- [Закон за заштита од јонизирачко зрачење и радијациона сигурност („Службен весник на Република Македонија“ бр. 48/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7316)
+- [Закон за безбедност на храната и на производите и материјалите што доаѓаат во контакт со храната („Службен весник на Република Македонија“ бр. 54/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7481)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -11,6 +11,15 @@
 
 Act id: `zakon-2006-sv126-11771` (tags `zakon-2006-sv126-11771/<day>`; `python tools/on.py <day> zakon-2006-sv126-11771`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија со која се укинува член 20 став 4 точка 4 и став 5 алинеја 3, член 21 точка 1, член 24 став 1 алинеја 4, член 25 став 1 алинеја 4 и член 30 став 1 точка 5 од Законот за стечај („Службен весник на Република Македонија” бр.34/2006 и 126/2006) („Службен весник на Република Македонија“ бр. 3/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14027)
+- [Одлука на Уставниот суд на Република Македонија У.бр. 11/2009 од 23 септември 2009 година („Службен весник на Република Македонија“ бр. 122/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17855)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

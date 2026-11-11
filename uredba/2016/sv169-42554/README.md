@@ -67,6 +67,18 @@
 
 Act id: `uredba-2016-sv169-42554` (tags `uredba-2016-sv169-42554/<day>`; `python tools/on.py <day> uredba-2016-sv169-42554`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување на Уредбата за униформата и ознаките на униформата на полицијата („Службен весник на Република Северна Македонија“ бр. 270/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51325)
+- [Уредба за изменување на Уредбата за униформата и ознаките на униформата на полицијата („Службен весник на Република Северна Македонија“ бр. 59/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55462)
+- [Уредба за изменување и дополнување на Уредбата за униформата и ознаките на униформата на полицијата („Службен весник на Република Северна Македонија“ бр. 67/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59055)
+- [Уредба за изменување на Уредбата за униформата и ознаките на униформата на полицијата („Службен весник на Република Северна Македонија“ бр. 65/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62580)
+- [Уредба за изменување и дополнување на Уредбата за униформата и ознаките на униформата на полицијата („Службен весник на Република Северна Македонија“ бр. 120/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63186)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

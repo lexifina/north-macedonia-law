@@ -22,6 +22,17 @@
 
 Act id: `pravilnik-2009-sv073-17228` (tags `pravilnik-2009-sv073-17228/<day>`; `python tools/on.py <day> pravilnik-2009-sv073-17228`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за начинот на регистрирање на возилата на полицијата во Министерството за внатрешни работи, како и за формата и содржината на регистарските таблици („Службен весник на Република Македонија“ бр. 180/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42504)
+- [Правилник за изменување на Правилникот за начинот на регистрирање на возилата на полицијата во Министерството за внатрешни работи, како и за формата и содржината на регистарските таблици („Службен весник на Република Северна Македонија“ бр. 270/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51347)
+- [Правилник за изменување на Правилникот за начинот на регистрирање на возилата на полицијата во Министерството за внатрешни работи, како и за формата и содржината на регистарските таблици („Службен весник на Република Северна Македонија“ бр. 52/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55339)
+- [Правилник за изменување на Правилникот за начинот на регистрирање на возилата на полицијата во Министерството за внатрешни работи, како и за формата и содржината на регистарските таблици („Службен весник на Република Северна Македонија“ бр. 96/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62860)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

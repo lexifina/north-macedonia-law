@@ -7,6 +7,15 @@
 
 Act id: `zakon-1978-sv022-855` (tags `zakon-1978-sv022-855/<day>`; `python tools/on.py <day> zakon-1978-sv022-855`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за измени и дополненија на Законот за евиденциите во областа на здравството („Службен весник на Република Македонија“ бр. 18/1988)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1610)
+- [Закон за изменување на Законот за евиденциите во областа на здравството („Службен весник на Република Македонија“ бр. 15/1995)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3986)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

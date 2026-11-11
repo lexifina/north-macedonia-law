@@ -165,6 +165,20 @@
 
 Act id: `pravilnik-2014-sv028-30971` (tags `pravilnik-2014-sv028-30971/<day>`; `python tools/on.py <day> pravilnik-2014-sv028-30971`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за стандардите и нормативите за вршење на дејноста на установите за деца („Службен весник на Република Македонија“ бр. 40/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31134)
+- [Правилник за изменување и дополнување на Правилникот за стандардите и нормативите за вршење на дејноста на установите за деца („Службен весник на Република Македонија“ бр. 136/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33659)
+- [Правилник за изменување и дополнување на Правилникот за стандардите и нормативите за вршење на дејноста на установите за деца („Службен весник на Република Македонија“ бр. 71/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37029)
+- [Правилник за изменување и дополнување на Правилникот за стандардите и нормативите за вршење на дејноста на установите за деца („Службен весник на Република Македонија“ бр. 170/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42565)
+- [Правилник за изменување и дополнување на Правилникот за стандардите и нормативите за вршење на дејноста на установите за деца („Службен весник на Република Македонија“ бр. 151/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47752)
+- [Правилник за изменување на Правилникот за стандардите и нормативите за вршење на дејноста на установите за деца („Службен весник на Република Северна Македонија“ бр. 110/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59581)
+- [Правилник за изменување на Правилникот за стандардите и нормативите за вршење на дејноста на установите за деца („Службен весник на Република Северна Македонија“ бр. 259/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68673)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

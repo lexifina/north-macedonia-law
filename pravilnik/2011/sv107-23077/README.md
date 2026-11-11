@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2011-sv107-23077` (tags `pravilnik-2011-sv107-23077/<day>`; `python tools/on.py <day> pravilnik-2011-sv107-23077`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за престанување на важење на Правилникот за формата и содржината на образецот на барањето до министерот за внатрешни работи за донесување на решение по поднесено барање за промена на личното име („Службен весник на Република Македонија“ бр. 212/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44155)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -164,6 +164,30 @@
 
 Act id: `zakon-2009-sv099-17613` (tags `zakon-2009-sv099-17613/<day>`; `python tools/on.py <day> zakon-2009-sv099-17613`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за домување („Службен весник на Република Македонија“ бр. 57/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19294)
+- [Одлука на Уставен суд на Република Македонија, У.бр.246/2009 од 14 јули 2010 година („Службен весник на Република Македонија“ бр. 98/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19930)
+- [Одлука на Уставниот суд на Република Македонија,у.бр.14/2010 од 15 септември 2010 година („Службен весник на Република Македонија“ бр. 127/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20342)
+- [Закон за изменување и дополнување на Законот за домување („Службен весник на Република Македонија“ бр. 36/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21811)
+- [Закон за изменување и дополнување на Законот за домување („Службен весник на Република Македонија“ бр. 54/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22247)
+- [Закон за дополнување на Законот за домување („Службен весник на Република Македонија“ бр. 13/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24484)
+- [Закон за изменување и дополнување на Законот за домување („Службен весник на Република Македонија“ бр. 55/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28137)
+- [Закон за изменување и дополнување на Законот за домување („Службен весник на Република Македонија“ бр. 163/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29943)
+- [Закон за изменување и дополнување на Законот за домување („Службен весник на Република Македонија“ бр. 42/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31228)
+- [Закон за изменување и дополнување на Законот за домување („Службен весник на Република Македонија“ бр. 199/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34914)
+- [Закон за изменување и дополнување на Законот за домување („Службен весник на Република Македонија“ бр. 146/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38337)
+- [Закон за изменување и дополнување на Законот за домување („Службен весник на Република Македонија“ бр. 31/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40604)
+- [Закон за изменување и дополнување на Законот за домување („Службен весник на Република Македонија“ бр. 64/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42747)
+- [Закон за изменување на Законот за домување („Службен весник на Република Северна Македонија“ бр. 302/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54584)
+- [Закон за изменување на Законот за домување („Службен весник на Република Северна Македонија“ бр. 150/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59956)
+- [Закон за изменување на Законот за домување („Службен весник на Република Северна Македонија“ бр. 224/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68188)
+- [Закон за изменување и дополнување на Законот за домување („Службен весник на Република Северна Македонија“ бр. 160/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71292)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

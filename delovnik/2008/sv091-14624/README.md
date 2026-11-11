@@ -269,6 +269,21 @@
 
 Act id: `delovnik-2008-sv091-14624` (tags `delovnik-2008-sv091-14624/<day>`; `python tools/on.py <day> delovnik-2008-sv091-14624`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија, У.бр. 259/2008 од 27 јануари 2010 година („Службен весник на Република Македонија“ бр. 14/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18767)
+- [Деловник за изменување и дополнување на Деловникот на Собранието на Република Македонија („Службен весник на Република Македонија“ бр. 119/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20181)
+- [Деловник за изменување и дополнување на Деловникот на Собранието нa Република Македонија („Службен весник на Република Македонија“ бр. 23/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27565)
+- [Деловник за изменување и дополнување на Деловникот на Собранието нa Република Македонија („Службен весник на Република Северна Македонија“ бр. 152/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49964)
+
+Cited by:
+
+- [Деловник на Собранието на Република Северна Македонија („Службен весник на Република Северна Македонија“ бр. 248/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64839)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

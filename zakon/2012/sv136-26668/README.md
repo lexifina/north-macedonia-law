@@ -173,6 +173,29 @@
 
 Act id: `zakon-2012-sv136-26668` (tags `zakon-2012-sv136-26668/<day>`; `python tools/on.py <day> zakon-2012-sv136-26668`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Македонија“ бр. 25/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27658)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Македонија“ бр. 93/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28910)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Македонија“ бр. 44/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31256)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Македонија“ бр. 160/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34181)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Македонија“ бр. 129/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38034)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Македонија“ бр. 192/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39275)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Македонија“ бр. 39/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40767)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Македонија“ бр. 53/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40977)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Македонија“ бр. 120/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41758)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Македонија“ бр. 7/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43224)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Северна Македонија“ бр. 99/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59456)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Северна Македонија“ бр. 129/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63340)
+- [Закон за дополнување на Законот за минерални суровини („Службен весник на Република Северна Македонија“ бр. 253/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64880)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Северна Македонија“ бр. 147/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67297)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Северна Македонија“ бр. 49/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69656)
+- [Закон за изменување и дополнување на Законот за минерални суровини („Службен весник на Република Северна Македонија“ бр. 96/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73713)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

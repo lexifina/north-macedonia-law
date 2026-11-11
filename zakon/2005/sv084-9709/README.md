@@ -34,6 +34,19 @@
 
 Act id: `zakon-2005-sv084-9709` (tags `zakon-2005-sv084-9709/<day>`; `python tools/on.py <day> zakon-2005-sv084-9709`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија, У.бр. 177/2005 од 24 мај 2006 година („Службен весник на Република Македонија“ бр. 71/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11595)
+- [Одлука на Уставниот суд на Република Македонија со која се укинува член 14 став 3 точка 3 и член 18 став 2 точка 3 од Законот за трговските друштва („Службен весник на Република Македонија“ бр. 17/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16457)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.153/2008 од 11 февруари 2009 година („Службен весник на Република Македонија“ бр. 23/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16643)
+- [Одлука на Уставниот суд на Република Македонија, У.бр. 75/2010 од 12 јануари 2011 година („Службен весник на Република Македонија“ бр. 8/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21288)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.169/2010 од 9 февруари 2011 година („Службен весник на Република Македонија“ бр. 21/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21515)
+- [Одлука на Уставен суд на Република Македонија, У. бр. 38/2018 од 12 декември 2018 година („Службен весник на Република Македонија“ бр. 239/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43200)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

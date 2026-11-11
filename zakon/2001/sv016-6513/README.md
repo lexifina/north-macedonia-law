@@ -82,6 +82,16 @@
 
 Act id: `zakon-2001-sv016-6513` (tags `zakon-2001-sv016-6513/<day>`; `python tools/on.py <day> zakon-2001-sv016-6513`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за попис на населението, домаќинствата и становите во Република Македонија, 2001 година („Службен весник на Република Македонија“ бр. 37/2001)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6974)
+- [Закон за изменување на Законот за попис на населението, домаќинствата и становите во Република Македонија, 2001 година („Службен весник на Република Македонија“ бр. 70/2001)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6784)
+- [Закон за изменување и дополнување на Законот за попис на населението, домаќинствата и становите во Република Македонија, 2002 година („Службен весник на Република Македонија“ бр. 43/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7185)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

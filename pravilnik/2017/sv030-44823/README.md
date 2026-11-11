@@ -47,6 +47,15 @@
 
 Act id: `pravilnik-2017-sv030-44823` (tags `pravilnik-2017-sv030-44823/<day>`; `python tools/on.py <day> pravilnik-2017-sv030-44823`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за поблиските критериуми, начинот на работа на автошколите, наставниот план и програма за обука, стручниот кадар, опремата со која треба да располагаат, како и евиденциите што треба да ги водат автошколите за оспособување на кандидати за возачи („Службен весник на Република Северна Македонија“ бр. 162/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50084)
+- [Правилник за изменување и дополнување на Правилникот за поблиските критериуми, начинот на работа на автошколите, наставниот план и програма за обука, стручниот кадар, опремата со која треба да располагаат, како и евиденциите што треба да ги водат автошколите за оспособување на кандидати за возачи („Службен весник на Република Северна Македонија“ бр. 149/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74217)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -22,6 +22,23 @@
 
 Act id: `zakon-1995-sv036-4009` (tags `zakon-1995-sv036-4009/<day>`; `python tools/on.py <day> zakon-1995-sv036-4009`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за заштита од пушењето („Службен весник на Република Македонија“ бр. 70/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8087)
+- [Закон за изменување на Законот за заштита од пушењето („Службен весник на Република Македонија“ бр. 29/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8586)
+- [Закон за изменување на Законот за заштита од пушењето („Службен весник на Република Македонија“ бр. 37/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9534)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.39/2006 од 6 јуни 2007 година („Службен весник на Република Македонија“ бр. 79/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12779)
+- [Закон за изменување и дополнување на Законот за заштита од пушењето („Службен весник на Република Македонија“ бр. 103/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15201)
+- [Закон за изменување и дополнување на Законот за заштита од пушењето („Службен весник на Република Македонија“ бр. 140/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15933)
+- [Закон за изменување и дополнување на Законот за заштита од пушењето („Службен весник на Република Македонија“ бр. 35/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19021)
+- [Закон за дополнување на Законот за заштита од пушењето („Службен весник на Република Македонија“ бр. 100/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22971)
+- [Закон за изменување и дополнување на Законот за заштита од пушењето („Службен весник на Република Македонија“ бр. 157/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29852)
+- [Закон за изменување на Законот за заштита од пушењето („Службен весник на Република Македонија“ бр. 51/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42693)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

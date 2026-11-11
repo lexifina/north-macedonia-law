@@ -402,7 +402,16 @@ def start_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[st
     trailers += [f'Act: {act["short"]}', f'Provisions: {len(v["units"])}']
     if v.get('source_url'):
         trailers.append(f'Consolidated: {v["source_url"]}')
+    trailers += text_method_trailers([v])
     return author, msg, trailers
+def text_method_trailers(vs: list[dict]) -> list[str]:
+    """2026-11-11: a version read from a PDF's text layer or by OCR says so (Text-method: pdf-text | ocr <engine>)."""
+    out = set()
+    for v in vs:
+        m = v.get('text_method')
+        if m in ('pdf-text', 'ocr'):
+            out.add(f'Text-method: {m}' + (f' ({v["ocr_engine"]})' if m == 'ocr' and v.get('ocr_engine') else ''))
+    return sorted(out)
 def change_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[str]]:
     day = x['day']
     parts = x['parts']
@@ -489,6 +498,7 @@ def change_message(c: dict, x: dict) -> tuple[tuple[str, str], list[str], list[s
         # Provisions the source credits to this law whose words it left unchanged (e.g. a ruling that also reads one).
         trailers.append(f'Also-concerns: {concerns}')
     trailers += sorted({f'Consolidated: {p["cur"]["source_url"]}' for p in parts if p['cur'].get('source_url')})
+    trailers += text_method_trailers([p['cur'] for p in parts])
     return author, msg, trailers
 def check_trailers(trailers: list[str]):
     for t in trailers:
@@ -666,8 +676,23 @@ def tables(c: dict, log: list[dict]) -> dict[str, str]:
                 '| Provision | File | Changes | Last changed |', '| --- | --- | ---: | --- |']
         for k in sorted(units):
             rows.append(f'| {units[k]["label"]} | [{k}.md]({k}.md) | {counts.get(k, 0)} | {last.get(k, "")} |')
-        rows += ['', f'Act id: `{a["slug"]}` (tags `{a["slug"]}/<day>`; `python tools/on.py <day> {a["slug"]}`).']
-        dec = [n for n in map(public_note, a.get('_decisions', [])) if n]
+        rows += ['', f'Act id: `{a["slug"]}` (tags `{a["slug"]}/<day>`; `python {os.environ.get("GITLAW_DOCS_PREFIX", "")}tools/on.py <day> {a["slug"]}`).']
+        # 2026-11-10: a label the country's parser sets ("amended, not consolidated", "repealed, not consolidated",
+        # "cited later, not consolidated") and the acts behind it, as in data/acts.json. Acts without one: unchanged.
+        if a.get('label'):
+            rows += ['', '## Status', '', f'**{a["label"]}**: the text here is the act as published; the official '
+                     'sources name later acts that change or cite it, and no official consolidated text exists.']
+            for key, head in (('amended_by', 'Amended or repealed by'), ('cited_by', 'Cited by')):
+                refs = a.get(key) or []
+                if refs:
+                    rows += ['', f'{head}:', '']
+                    for r in refs:
+                        if isinstance(r, dict):
+                            t = r.get('title') or r.get('ref') or ''
+                            rows.append(f'- [{t}]({r["url"]})' if r.get('url') else f'- {t}')
+                        else:
+                            rows.append(f'- {r}')
+        dec =[n for n in map(public_note, a.get('_decisions', [])) if n]
         if dec:
             rows += ['', '## Decisions made by hand', ''] + [f'- {n}' for n in dec]
         # Credits corrected after publishing (append.py, data/credits.csv): the latest row per day and provision.
@@ -833,8 +858,11 @@ def reproduce(c: dict, folder: Path, raw: bytes, log: list[dict], tags: dict, do
     n_start = sum(1 for e in log if e['kind'] == 'start')
     n_future = sum(1 for e in log if e['branch'] != 'main')
     n_clamped = sum(1 for e in log if e['clamped'])
-    src_rows = '\n'.join(f'| {public_note(s.get("name", ""))} | <{s.get("url", "")}> | {s.get("retrieved", "")} | '
-                         f'{public_note(s.get("licence", ""))} |' for s in c.get('sources', []))
+    # 2026-11-10: one row per distinct source (every corpus part repeats its own, so a corpus of many parts listed the
+    # same row once per part)
+    src_rows = '\n'.join(dict.fromkeys(f'| {public_note(s.get("name", ""))} | <{s.get("url", "")}> | '
+                                       f'{s.get("retrieved", "")} | {public_note(s.get("licence", ""))} |'
+                                       for s in c.get('sources', [])))
     act_rows = (f'| {len(c["acts"])} acts | every act, with its kind, number, status and span, is listed in '
                 f'[ACTS.md](ACTS.md) | {sum(len(a["versions"]) for a in c["acts"])} | |')
     # A check or second build counts only for the corpus it ran on: a main build (verified parts only) must not quote

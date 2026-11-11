@@ -47,6 +47,14 @@
 
 Act id: `zakon-1978-sv027-848` (tags `zakon-1978-sv027-848/<day>`; `python tools/on.py <day> zakon-1978-sv027-848`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за дополнување на Законот за упис во судскиот регистар на задругите, самоуправните интересни заедници и другите субјекти определени со закон („Службен весник на Република Македонија“ бр. 29/1989)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1598)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

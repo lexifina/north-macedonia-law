@@ -7,6 +7,14 @@
 
 Act id: `zakon-2008-sv101-15063` (tags `zakon-2008-sv101-15063/<day>`; `python tools/on.py <day> zakon-2008-sv101-15063`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за употреба на јазикот што го зборуваат најмалку 20% од граѓаните во Република Македонија и во единиците на локалната самоуправа („Службен весник на Република Македонија“ бр. 100/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22967)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

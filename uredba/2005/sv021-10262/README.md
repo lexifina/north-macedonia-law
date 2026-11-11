@@ -34,6 +34,14 @@
 
 Act id: `uredba-2005-sv021-10262` (tags `uredba-2005-sv021-10262/<day>`; `python tools/on.py <day> uredba-2005-sv021-10262`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за дополнување на Уредбата за употреба на средства за присила како и носење и употреба на огнено оружје од страна на царинските служби („Службен весник на Република Македонија“ бр. 60/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31779)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

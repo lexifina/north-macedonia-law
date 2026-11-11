@@ -14,6 +14,14 @@
 
 Act id: `pravilnik-2011-sv074-22579` (tags `pravilnik-2011-sv074-22579/<day>`; `python tools/on.py <day> pravilnik-2011-sv074-22579`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за поблиските услови што треба да ги исполнуваат правните лица што вршат стручно оспособување, програмата за спроведување на обуката како и формата и содржината на потврда за учество во обука за стручно оспособување за управување и/или постапување со отпад („Службен весник на Република Македонија“ бр. 109/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32784)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

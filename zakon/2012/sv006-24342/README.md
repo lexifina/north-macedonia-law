@@ -82,6 +82,24 @@
 
 Act id: `zakon-2012-sv006-24342` (tags `zakon-2012-sv006-24342/<day>`; `python tools/on.py <day> zakon-2012-sv006-24342`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за концесии и јавно приватно партнерство („Службен весник на Република Македонија“ бр. 144/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33798)
+- [Закон за дополнување на Законот за концесии и јавно приватно партнерство („Службен весник на Република Македонија“ бр. 33/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35846)
+- [Закон за дополнување на Законот за концесии и јавно приватно партнерство („Службен весник на Република Македонија“ бр. 104/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37669)
+- [Закон за дополнување на Законот за концесии и јавно приватно партнерство („Службен весник на Република Македонија“ бр. 215/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39800)
+- [Закон за изменување и дополнување на Законот за концесии и јавно приватно партнерство („Службен весник на Република Северна Македонија“ бр. 153/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49970)
+- [Закон за изменување и дополнување на Законот за концесии и јавно приватно партнерство („Службен весник на Република Северна Македонија“ бр. 261/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51198)
+- [Закон за изменување и дополнување на Законот за концесии и јавно приватно партнерство („Службен весник на Република Северна Македонија“ бр. 89/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59291)
+- [Закон за дополнување на Законот за концесии и јавно приватно партнерство („Службен весник на Република Северна Македонија“ бр. 65/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62573)
+- [Закон за изменување и дополнување на Законот за концесии и јавно приватно партнерство („Службен весник на Република Северна Македонија“ бр. 147/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67301)
+- [Закон за дополнување на Законот за концесии и јавно приватно партнерство („Службен весник на Република Северна Македонија“ бр. 241/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68381)
+- [Закон за изменување и дополнување на Законот за концесии и јавно приватно партнерство („Службен весник на Република Северна Македонија“ бр. 96/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73715)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

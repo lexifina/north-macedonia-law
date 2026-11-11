@@ -152,6 +152,33 @@
 
 Act id: `zakon-2006-sv114-11511` (tags `zakon-2006-sv114-11511/<day>`; `python tools/on.py <day> zakon-2006-sv114-11511`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија у.бр.211/2006 од 5 ноември 2008 година („Службен весник на Република Македонија“ бр. 148/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16155)
+- [Закон за дополнување на Законот за полиција („Службен весник на Република Македонија“ бр. 6/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16404)
+- [Закон за изменување и дополнување на Законот за полиција („Службен весник на Република Македонија“ бр. 145/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26747)
+- [Закон за изменување и дополнување на Законот за полиција („Службен весник на Република Македонија“ бр. 41/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31202)
+- [Закон за изменување и дополнување на Законот за полиција („Службен весник на Република Македонија“ бр. 33/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35826)
+- [Закон за изменување на законот за полиција („Службен весник на Република Македонија“ бр. 31/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40584)
+- [Закон за изменување и дополнување на Законот за полиција („Службен весник на Република Македонија“ бр. 106/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41704)
+- [Закон за изменување на Законот за полиција („Службен весник на Република Македонија“ бр. 120/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41763)
+- [Закон за изменување и дополнување на Законот за полиција („Службен весник на Република Македонија“ бр. 21/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42666)
+- [Закон за изменување и дополнување на Законот за полиција („Службен весник на Република Македонија“ бр. 21/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42667)
+- [Закон за изменување и дополнување на Законот за полиција („Службен весник на Република Македонија“ бр. 64/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42714)
+- [Закон за изменување на Законот за полиција („Службен весник на Република Северна Македонија“ бр. 294/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58408)
+- [Закон за изменување и дополнување на Законот за полиција („Службен весник на Република Северна Македонија“ бр. 89/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59290)
+- [Закон за изменување и дополнување на Законот за полиција („Службен весник на Република Северна Македонија“ бр. 160/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71291)
+- [Закон за изменување на Законот за полиција („Службен весник на Република Северна Македонија“ бр. 258/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72400)
+- [Закон за изменување и дополнување на Законот за полиција („Службен весник на Република Северна Македонија“ бр. 15/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72822)
+
+Cited by:
+
+- [Закон за внатрешни работи („Службен весник на Република Македонија“ бр. 92/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17541)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -27,6 +27,22 @@
 
 Act id: `zakon-1992-sv036-153` (tags `zakon-1992-sv036-153/<day>`; `python tools/on.py <day> zakon-1992-sv036-153`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за пријавување на живеалиштето и престојувалиштето на граѓаните („Службен весник на Република Македонија“ бр. 12/1993)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3363)
+- [Закон за изменување на Законот за пријавување на живеалиштето и престојувалиштето на граѓаните („Службен весник на Република Македонија“ бр. 43/2000)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6117)
+- [Закон за изменување и дополнување на Законот за пријавување на живеалиштето и престојувалиштето на граѓаните („Службен весник на Република Македонија“ бр. 66/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12551)
+- [Закон за дополнување на Законот за пријавување на живеалиштето и престојувалиштето на граѓаните („Службен весник на Република Македонија“ бр. 51/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22206)
+- [Закон за изменување и дополнување на Законот за пријавување на живеалиштето и престојувалиштето на граѓаните („Службен весник на Република Македонија“ бр. 152/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38465)
+- [Закон за изменување на Законот за пријавување на живеалиштето и престојувалиштето на граѓаните („Службен весник на Република Македонија“ бр. 55/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41007)
+- [Закон за изменување на Законот за пријавување на живеалиштето и престојувалиштето на граѓаните („Службен весник на Република Северна Македонија“ бр. 302/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54587)
+- [Закон за изменување и дополнување на Законот за пријавување на живеалиштето и престојувалиштето на граѓаните („Службен весник на Република Северна Македонија“ бр. 67/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59047)
+- [Закон за изменување и дополнување на Законот за пријавување на живеалиштето и престојувалиштето на граѓаните („Службен весник на Република Северна Македонија“ бр. 209/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64369)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

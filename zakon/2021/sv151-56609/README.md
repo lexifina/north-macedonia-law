@@ -15,6 +15,16 @@
 
 Act id: `zakon-2021-sv151-56609` (tags `zakon-2021-sv151-56609/<day>`; `python tools/on.py <day> zakon-2021-sv151-56609`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр.80/2023 од 27 март 2024 година („Службен весник на Република Северна Македонија“ бр. 118/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66982)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр.685/24 од 4 јуни 2024 година („Службен весник на Република Северна Македонија“ бр. 119/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67007)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 75/2022 од 18 септември 2024 година („Службен весник на Република Северна Македонија“ бр. 226/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68215)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

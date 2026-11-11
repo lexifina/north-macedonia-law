@@ -7,6 +7,14 @@
 
 Act id: `uredba-1986-sv034-1437` (tags `uredba-1986-sv034-1437/<day>`; `python tools/on.py <day> uredba-1986-sv034-1437`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување на Уредбата за висината на условите под кои ќе се исплатува еднократна парична помош на обрвзниците на обучувањето за општонародната одбрана („Службен весник на Република Македонија“ бр. 11/1990)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1517)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

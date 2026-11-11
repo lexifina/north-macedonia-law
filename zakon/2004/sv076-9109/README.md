@@ -58,6 +58,17 @@
 
 Act id: `zakon-2004-sv076-9109` (tags `zakon-2004-sv076-9109/<day>`; `python tools/on.py <day> zakon-2004-sv076-9109`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за политичките партии („Службен весник на Република Македонија“ бр. 5/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12248)
+- [Закон за изменување и дополнување на Законот за политичките партии („Службен весник на Република Македонија“ бр. 5/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14099)
+- [Закон за дополнување на Законот за политичките партии („Службен весник на Република Македонија“ бр. 23/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27549)
+- [Закон за изменување и дополнување на Законот за политичките партии („Службен весник на Република Северна Македонија“ бр. 236/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61033)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

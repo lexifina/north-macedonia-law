@@ -43,6 +43,20 @@
 
 Act id: `zakon-2005-sv038-9662` (tags `zakon-2005-sv038-9662/<day>`; `python tools/on.py <day> zakon-2005-sv038-9662`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за царински мерки за заштита на правата од интелектуална сопственост („Службен весник на Република Македонија“ бр. 107/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13469)
+- [Закон за изменување и дополнување на Законот за царинските мерки за заштита на правата од интелектуална сопственост („Службен весник на Република Македонија“ бр. 135/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23383)
+- [Закон за изменување и дополнување на Законот за царински мерки за заштита на права од интелектуална сопственост („Службен весник на Република Македонија“ бр. 69/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28317)
+
+Cited by:
+
+- [Закон за царински мерки за спроведување на заштита на правата од интелектуална сопственост („Службен весник на Република Македонија“ бр. 88/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37352)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

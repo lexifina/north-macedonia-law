@@ -26,6 +26,14 @@
 
 Act id: `pravilnik-2006-sv053-11034` (tags `pravilnik-2006-sv053-11034/<day>`; `python tools/on.py <day> pravilnik-2006-sv053-11034`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за начинот на користење, дистрибуција, пристап, издавање, чување и заштита на податоците од Геодетско Катастарскиот Информационен Систем и за начинот на издавање на податоци од катастарот на недвижности („Службен весник на Република Македонија“ бр. 118/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15714)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

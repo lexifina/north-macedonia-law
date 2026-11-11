@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2009-sv023-16630` (tags `pravilnik-2009-sv023-16630/<day>`; `python tools/on.py <day> pravilnik-2009-sv023-16630`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за траењето на непрекината работа, траењето на смените и должините на дневниот одмор на контролорот на летање и помошникот на контролорот на летање („Службен весник на Република Македонија“ бр. 94/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32438)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

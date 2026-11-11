@@ -48,6 +48,15 @@
 
 Act id: `pravilnik-2013-sv081-28605` (tags `pravilnik-2013-sv081-28605/<day>`; `python tools/on.py <day> pravilnik-2013-sv081-28605`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за измена на Правилникот за условите за увоз на семе за вештачко осеменување, ембриони и јајце клетки, листи на трети земји од кои е дозволен нивниот увоз и содржината и формата на ветеринарно-здравствениот сертификат или друг документ што ја придружува пратката („Службен весник на Република Македонија“ бр. 195/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34931)
+- [Правилник за изменување на Правилникот за условите за увоз на семе за вештачко осеменување, ембриони и јајце клетки, листи на трети земји од кои е дозволен нивниот увоз и содржината и формата на ветеринарно-здравствениот сертификат или друг документ што ја придружува пратката („Службен весник на Република Македонија“ бр. 34/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=46822)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

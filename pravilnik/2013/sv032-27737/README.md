@@ -17,6 +17,14 @@
 
 Act id: `pravilnik-2013-sv032-27737` (tags `pravilnik-2013-sv032-27737/<day>`; `python tools/on.py <day> pravilnik-2013-sv032-27737`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за начинот на вршење на обезбедување на транспорт на пари и вредности („Службен весник на Република Македонија“ бр. 201/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39433)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

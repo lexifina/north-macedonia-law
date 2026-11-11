@@ -164,6 +164,24 @@
 
 Act id: `zakon-2015-sv015-35384` (tags `zakon-2015-sv015-35384/<day>`; `python tools/on.py <day> zakon-2015-sv015-35384`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за градежно земјиште („Службен весник на Република Македонија“ бр. 98/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37603)
+- [Закон за изменување и дополнување на Законот за градежно земјиште („Службен весник на Република Македонија“ бр. 193/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39300)
+- [Закон за изменување на Законот за градежно земјиште („Службен весник на Република Македонија“ бр. 226/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39995)
+- [Закон за изменување и дополнување на Законот за градежно земјиште („Службен весник на Република Македонија“ бр. 31/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40590)
+- [Закон за изменување и дополнување на Законот за градежно земјиште („Службен весник на Република Македонија“ бр. 142/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42268)
+- [Закон за изменување на Законот за градежно земјиште („Службен весник на Република Македонија“ бр. 190/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42521)
+- [Закон за изменување и дополнување на Законот за градежно земјиште („Службен весник на Република Северна Македонија“ бр. 275/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51416)
+- [Закон за изменување на Законот за градежно земјиште („Службен весник на Република Северна Македонија“ бр. 224/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68189)
+- [Закон за дополнување на Законот за градежно земјиште („Службен весник на Република Северна Македонија“ бр. 233/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68304)
+- [Закон за изменување на Законот за градежно земјиште („Службен весник на Република Северна Македонија“ бр. 87/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70197)
+- [Закон за изменување и дополнување на Законот за градежно земјиште („Службен весник на Република Северна Македонија“ бр. 51/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73241)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

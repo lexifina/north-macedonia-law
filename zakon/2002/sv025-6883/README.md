@@ -7,6 +7,18 @@
 
 Act id: `zakon-2002-sv025-6883` (tags `zakon-2002-sv025-6883/<day>`; `python tools/on.py <day> zakon-2002-sv025-6883`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за дополнување на Законот за концесии („Службен весник на Република Македонија“ бр. 24/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8430)
+
+Cited by:
+
+- [Закон за даночна постапка („Службен весник на Република Македонија“ бр. 13/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11057)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

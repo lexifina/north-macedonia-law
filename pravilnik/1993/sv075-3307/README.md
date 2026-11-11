@@ -7,6 +7,15 @@
 
 Act id: `pravilnik-1993-sv075-3307` (tags `pravilnik-1993-sv075-3307/<day>`; `python tools/on.py <day> pravilnik-1993-sv075-3307`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилник за образецот на барање за признавање право на азил, начинот на земање на отпечатоци од прсти и фотографирање на барателите на право на азил, образецот и постапката за издавање и замена на исправи на баратели на право на азил и лица на кои им е признаено право на азил или привремена заштита во Република Македонија и за начинот на водење на евиденција („Службен весник на Република Македонија“ бр. 48/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9193)
+- [Правилник за начинот на издавање на визи за странци, продолжување, скратување на нивната важност, отповикување и поништување на визи како и за образецот на визи и за водење на евиденција („Службен весник на Република Македонија“ бр. 71/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12999)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

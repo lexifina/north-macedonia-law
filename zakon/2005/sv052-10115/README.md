@@ -114,6 +114,26 @@
 
 Act id: `zakon-2005-sv052-10115` (tags `zakon-2005-sv052-10115/<day>`; `python tools/on.py <day> zakon-2005-sv052-10115`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за ученички стандард („Службен весник на Република Македонија“ бр. 117/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15314)
+- [Закон за изменување и дополнување на Законот за ученичкиот стандард („Службен весник на Република Македонија“ бр. 17/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21463)
+- [Закон за изменување и дополнување на Законот за ученичкиот стандард („Службен весник на Република Македонија“ бр. 135/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23371)
+- [Закон за изменување и дополнување на Законот за ученичкиот стандард („Службен весник на Република Македонија“ бр. 15/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27501)
+- [Закон за изменување и дополнување на Законот за ученичкиот стандард („Службен весник на Република Македонија“ бр. 41/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31163)
+- [Закон за изменување и дополнување на Законот за ученичкиот стандард („Службен весник на Република Македонија“ бр. 146/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38351)
+- [Закон за изменување и дополнување на Законот за ученичкиот стандард („Службен весник на Република Македонија“ бр. 30/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40521)
+- [Закон за изменување и дополнување на Законот за ученичкиот стандард („Службен весник на Република Македонија“ бр. 64/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42764)
+- [Закон за дополнување на Законот за ученичкиот стандард („Службен весник на Република Македонија“ бр. 20/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43236)
+- [Закон за дополнување на Законот за ученичкиот стандард („Службен весник на Република Северна Македонија“ бр. 248/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53998)
+- [Закон за изменување и дополнување на Законот за ученичкиот стандард („Службен весник на Република Северна Македонија“ бр. 302/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54590)
+- [Закон за изменување на Законот за ученичкиот стандард („Службен весник на Република Северна Македонија“ бр. 235/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68315)
+- [Закон за изменување на Законот за ученичкиот стандард („Службен весник на Република Северна Македонија“ бр. 111/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73840)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

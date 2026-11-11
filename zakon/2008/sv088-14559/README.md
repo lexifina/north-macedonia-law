@@ -39,6 +39,19 @@
 
 Act id: `zakon-2008-sv088-14559` (tags `zakon-2008-sv088-14559/<day>`; `python tools/on.py <day> zakon-2008-sv088-14559`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија, У.бр.218/2008 од 22 април 2009 година („Службен весник на Република Македонија“ бр. 56/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16836)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.121/2011 од 29 ноември 2011 година („Службен весник на Република Македонија“ бр. 7/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24315)
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 202/2011 од 21 март 2012 година („Службен весник на Република Македонија“ бр. 45/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25047)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.130/2011 од 2 мај 2012 година („Службен весник на Република Македонија“ бр. 60/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25388)
+- [Одлука на Уставен суд на Република Македонија, У.бр. 122/2011 од 16 мај 2012 година („Службен весник на Република Македонија“ бр. 64/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25478)
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 129/2011 од 6 февруари 2013 година („Службен весник на Република Македонија“ бр. 23/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27608)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

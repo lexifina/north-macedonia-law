@@ -17,6 +17,14 @@
 
 Act id: `uredba-2023-sv050-62316` (tags `uredba-2023-sv050-62316/<day>`; `python tools/on.py <day> uredba-2023-sv050-62316`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување и дополнување на Уредбата за утврдување на на поблиските критериуми и начинот на утврдување на висината за остварување на правото на додаток на плата на вработените во буџетските корисници на централната власт („Службен весник на Република Северна Македонија“ бр. 191/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64167)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

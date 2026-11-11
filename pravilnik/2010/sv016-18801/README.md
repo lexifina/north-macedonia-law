@@ -42,6 +42,31 @@
 
 Act id: `pravilnik-2010-sv016-18801` (tags `pravilnik-2010-sv016-18801/<day>`; `python tools/on.py <day> pravilnik-2010-sv016-18801`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 62/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19354)
+- [Правилник за изменување и дополнување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 105/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20038)
+- [Правилник за дополнување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 13/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21374)
+- [Правилник за измена и дополнување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 39/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21905)
+- [Правилник за дополнување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 169/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23866)
+- [Правилник за изменување и дополнување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 185/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24134)
+- [Правилник за дополнување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 84/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25786)
+- [Правилник за изменување на правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 132/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26638)
+- [Правилник за дополнување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 153/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26916)
+- [Правилник за изменување и дополнување на правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 59/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28205)
+- [Правилник за дополнување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 138/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29589)
+- [Правилник за изменување и дополнување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 29/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30994)
+- [Правилник за изменување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 35/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31072)
+- [Правилник за изменување и дополнување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 119/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33223)
+- [Правилник за дополнување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 168/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34418)
+- [Правилник за изменување и дополнување на Правилникот за единечно одобрување на возило („Службен весник на Република Македонија“ бр. 182/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=46442)
+- [Правилник за дополнување на Правилникот за единечно одобрување на возило („Службен весник на Република Северна Македонија“ бр. 30/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54984)
+- [Правилник за изменување на Правилникот за единечно одобрување на возило („Службен весник на Република Северна Македонија“ бр. 37/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73112)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -100,6 +100,35 @@
 
 Act id: `zakon-2004-sv046-9111` (tags `zakon-2004-sv046-9111/<day>`; `python tools/on.py <day> zakon-2004-sv046-9111`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за Царинската управа („Службен весник на Република Македонија“ бр. 81/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10769)
+- [Закон за изменување и дополнување на Законот за Царинската управа („Службен весник на Република Македонија“ бр. 107/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13467)
+- [Закон за изменување и дополнување на Законот за Царинската управа („Службен весник на Република Македонија“ бр. 103/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15123)
+- [Закон за изменување на Законот за Царинската управа („Службен весник на Република Македонија“ бр. 64/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16924)
+- [Закон за изменување и дополнување на Законот за царинската управа („Службен весник на Република Македонија“ бр. 105/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17684)
+- [Закон за изменување и дополнување на Законот за царинскатa управа („Службен весник на Република Македонија“ бр. 48/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19220)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.148/2009 од 21 април 2010 година („Службен весник на Република Македонија“ бр. 67/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19460)
+- [Закон за изменување и дополнување на Законот за Царинската управа („Службен весник на Република Македонија“ бр. 158/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20867)
+- [Закон за изменување и дополнување на Законот за царинската управа („Службен весник на Република Македонија“ бр. 53/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22269)
+- [Закон за изменување и дополнување на Законот за Царинската управа („Службен весник на Република Македонија“ бр. 113/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26262)
+- [Закон за изменување и дополнување на Законот за Царинската управа („Службен весник на Република Македонија“ бр. 43/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31426)
+- [Закон за изменување и дополнување на Законот за царинската управа („Службен весник на Република Македонија“ бр. 167/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34432)
+- [Закон за изменување и дополнување на Законот за царинската управа („Службен весник на Република Македонија“ бр. 33/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35836)
+- [Закон за изменување и дополнување на Законот за Царинската управа („Службен весник на Република Македонија“ бр. 61/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36852)
+- [Закон за изменување и дополнување на Законот за Царинската управа („Службен весник на Република Македонија“ бр. 129/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38021)
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 100/2016 од 4 октомври 2017 година („Службен весник на Република Македонија“ бр. 151/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=45853)
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 60/2017 од 31 јануари 2018 година („Службен весник на Република Македонија“ бр. 26/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42673)
+- [Закон за изменување и дополнување на Законот за Царинската управа („Службен весник на Република Македонија“ бр. 120/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42841)
+- [Закон за изменување и дополнување на Законот за Царинската управа („Службен весник на Република Македонија“ бр. 248/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43214)
+- [Закон за изменување и дополнување на Законот за Царинската управа („Службен весник на Република Северна Македонија“ бр. 122/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56279)
+- [Закон за изменување на Законот за Царинската управа („Службен весник на Република Северна Македонија“ бр. 3/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68957)
+- [Закон за изменување и дополнување на Законот за Царинската управа („Службен весник на Република Северна Македонија“ бр. 212/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74843)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

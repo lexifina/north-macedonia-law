@@ -170,6 +170,26 @@
 
 Act id: `zakon-2010-sv048-19217` (tags `zakon-2010-sv048-19217/<day>`; `python tools/on.py <day> zakon-2010-sv048-19217`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за железничкиот систем („Службен весник на Република Македонија“ бр. 23/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21571)
+- [Закон за изменување и дополнување на Законот за железничкиот систем („Службен весник на Република Македонија“ бр. 80/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25682)
+- [Закон за изменување на Законот за железничкиот систем („Службен весник на Република Македонија“ бр. 155/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26943)
+- [Закон за изменување на Законот за железничкиот систем („Службен весник на Република Македонија“ бр. 163/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29941)
+- [Закон за изменување и дополнување на Законот за железничкиот систем („Службен весник на Република Македонија“ бр. 42/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31223)
+- [Закон за изменување и дополнување на Законот за железничкиот систем („Службен весник на Република Македонија“ бр. 130/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33616)
+- [Закон за изменување и дополнување на Законот за сигурност во железничкиот систем („Службен весник на Република Македонија“ бр. 166/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34393)
+- [Закон за изменување и дополнување на Законот за железничкиот систем („Службен весник на Република Македонија“ бр. 152/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38456)
+- [Закон за изменување и дополнување на Законот за железничкиот систем („Службен весник на Република Македонија“ бр. 31/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40600)
+- [Закон за изменување и дополнување на Законот за железничкиот систем („Службен весник на Република Македонија“ бр. 178/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42486)
+- [Закон за изменување и дополнување на Законот за железничкиот систем („Службен весник на Република Македонија“ бр. 64/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42738)
+- [Закон за изменување и дополнување на Законот за железничкиот систем („Службен весник на Република Северна Македонија“ бр. 302/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54594)
+- [Закон за изменување и дополнување на Законот за железничкиот систем („Службен весник на Република Северна Македонија“ бр. 253/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64879)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

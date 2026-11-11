@@ -62,6 +62,19 @@
 
 Act id: `zakon-1991-sv053-1941` (tags `zakon-1991-sv053-1941/<day>`; `python tools/on.py <day> zakon-1991-sv053-1941`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за здравствена исправност на животните намирници и на предметите за општа употреба („Службен весник на Република Македонија“ бр. 15/1995)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3974)
+
+Cited by:
+
+- [Закон за безбедност на храната и на производите и материјалите што доаѓаат во контакт со храната („Службен весник на Република Македонија“ бр. 54/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7481)
+- [Закон за безбедност на козметичките производи („Службен весник на Република Македонија“ бр. 55/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12289)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

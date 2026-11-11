@@ -7,6 +7,16 @@
 
 Act id: `pravilnik-2011-sv031-21718` (tags `pravilnik-2011-sv031-21718/<day>`; `python tools/on.py <day> pravilnik-2011-sv031-21718`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за формата и содржината на барањето, потребната документација и образецот на решението за изведување на градбите односно поставување на опремата за кои не е потребно одобрение за градба („Службен весник на Република Македонија“ бр. 13/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27418)
+- [Правилник за изменување и дополнување на Правилникот за формата и содржината на барањето, потребната документација и образецот на решението за изведување на градбите односно поставување на опремата за кои не е потребно одобрение за градење („Службен весник на Република Македонија“ бр. 95/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32472)
+- [Правилник за дополнување на Правилникот за формата и содржината на барањето, потребната документација и образецот на решението за изведување на градбите односно поставување на опремата за кои не е потребно одобрение за градење („Службен весник на Република Македонија“ бр. 152/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34041)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

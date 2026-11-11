@@ -18,6 +18,17 @@
 
 Act id: `pravilnik-2010-sv102-19983` (tags `pravilnik-2010-sv102-19983/<day>`; `python tools/on.py <day> pravilnik-2010-sv102-19983`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за дополнување на Правилникот за поблиските услови кои треба да ги исполнуваат откупувачите за земјоделски производи и поблиските услови кои треба да ги исполнуваат откупните места на земјоделски производи („Службен весник на Република Македонија“ бр. 144/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20565)
+- [правилник за изменување и дополнување на Правилникот за поблиските услови кои треба да ги исполнуваат откупувачите на земјоделски производи и поблиските услови кои треба да ги исполнуваат откупните места на земјоделски производи („Службен весник на Република Македонија“ бр. 40/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27805)
+- [Правилник за изменување и дополнување на Правилникот за поблиските услови кои треба да ги исполнуваат откупувачите на земјоделски производи и поблиските услови кои треба да ги исполнуваат откупните места на земјоделски производи („Службен весник на Република Македонија“ бр. 138/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29590)
+- [Правилник за изменување и дополнување на Правилникот за поблиските услови кои треба да ги исполнуваат откупувачите на земјоделски производи и поблиските услови кои треба да ги исполнуваат откупните места на земјоделски производи („Службен весник на Република Македонија“ бр. 12/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30689)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -15,6 +15,14 @@
 
 Act id: `zakon-1998-sv021-4917` (tags `zakon-1998-sv021-4917/<day>`; `python tools/on.py <day> zakon-1998-sv021-4917`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за празниците на Република Македонија („Службен весник на Република Македонија“ бр. 18/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12912)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -157,6 +157,20 @@
 
 Act id: `pravilnik-2012-sv060-25386` (tags `pravilnik-2012-sv060-25386/<day>`; `python tools/on.py <day> pravilnik-2012-sv060-25386`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за стандарди и нормативи за урбанистичко планирање („Службен весник на Република Македонија“ бр. 126/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26439)
+- [Правилник за дополнување на Правилникот за стандарди и нормативи за урбанистичко планирање („Службен весник на Република Македонија“ бр. 125/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33393)
+- [Правилник за изменување и дополнување на Правилникот за стандарди и нормативи за проектирање („Службен весник на Република Македонија“ бр. 29/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35676)
+- [Правилник за изменување и дополнување на Правилникот за стандарди и нормативи за урбанистичко планирање („Службен весник на Република Македонија“ бр. 65/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36933)
+- [Правилник за дополнување на Правилникот на стандарди и нормативи за проектирање („Службен весник на Република Македонија“ бр. 32/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40702)
+- [Правилник за дополнување на Правилникот за стандарди и нормативи за проектирање („Службен весник на Република Македонија“ бр. 114/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41891)
+- [Правилник за дополнување на Правилникот за стандарди и нормативи за проектирање („Службен весник на Република Северна Македонија“ бр. 211/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53590)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

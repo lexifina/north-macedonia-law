@@ -7,6 +7,19 @@
 
 Act id: `pravilnik-2011-sv011-21331` (tags `pravilnik-2011-sv011-21331/<day>`; `python tools/on.py <day> pravilnik-2011-sv011-21331`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилник за формата и содржината на финансиските извештаи на пензиско друштво („Службен весник на Република Македонија“ бр. 30/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24805)
+- [Правилник за изменување и дополнување на Правилникот за формата и содржината на финансиските извештаи и детална содржина на годишниот извештај за работењето на друштвата за осигурување и/или реосигурување („Службен весник на Република Македонија“ бр. 61/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41140)
+- [Правилник за измена на Правилник за формата и содржината на финансиските извештаи на пензиско друштво („Службен весник на Република Македонија“ бр. 138/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=45724)
+- [Правилник за измена на Правилникот за формата и содржината на финансиските извештаи на пензиско друштво („Службен весник на Република Македонија“ бр. 32/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=46830)
+- [Правилник за изменување и дополнување на Правилникот за формата и содржината на финансиските извештаи и детална содржина на годишниот извештај за работењето на друштвата за осигурување и/или реосигурување („Службен весник на Република Северна Македонија“ бр. 170/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50131)
+- [Правилник за изменување и дополнување на Правилникот за формата и содржината на финансиските извештаи и детална содржина на годишниот извештај за работењето на друштвата за осигурување и/или реосигурување („Службен весник на Република Северна Македонија“ бр. 118/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59685)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

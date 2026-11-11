@@ -7,6 +7,23 @@
 
 Act id: `zakon-1995-sv033-3939` (tags `zakon-1995-sv033-3939/<day>`; `python tools/on.py <day> zakon-1995-sv033-3939`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за експропријација („Службен весник на Република Македонија“ бр. 20/1998)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4947)
+- [Закон за изменување и дополнување на Законот за експропријација („Службен весник на Република Македонија“ бр. 40/1999)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5438)
+- [Закон за изменување и дополнување на Законот за експропријација („Службен весник на Република Македонија“ бр. 31/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8680)
+- [Закон за дополнување на Законот за експропријација („Службен весник на Република Македонија“ бр. 46/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9845)
+- [Закон за изменување и дополнување на Законот за експропријација („Службен весник на Република Македонија“ бр. 10/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14270)
+- [Закон за изменување и дополнување на Законот за експропријација („Службен весник на Република Македонија“ бр. 106/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15287)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.200/2007 од 11 февруари 2009 година („Службен весник на Република Македонија“ бр. 23/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16645)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.173/2009 од 26 мај 2010 година („Службен весник на Република Македонија“ бр. 76/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19583)
+- [Закон за изменување и дополнување на Законот за експропријација („Службен весник на Република Македонија“ бр. 156/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20838)
+- [Закон за дополнување на Законот за експропријација („Службен весник на Република Македонија“ бр. 6/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24338)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

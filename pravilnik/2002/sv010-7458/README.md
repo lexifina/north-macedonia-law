@@ -7,6 +7,17 @@
 
 Act id: `pravilnik-2002-sv010-7458` (tags `pravilnik-2002-sv010-7458/<day>`; `python tools/on.py <day> pravilnik-2002-sv010-7458`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за содржината и начинот на составување на годишниот даночен биланс за обврзниците кои вршат самостојна дејност и водат деловни книги („Службен весник на Република Македонија“ бр. 58/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6901)
+- [Правилник за изменување на Правилникот за содржината и начинот на составување на годишниот даночен биланс за обврзниците кои вршат самостојна дејност и водат деловни книги („Службен весник на Република Македонија“ бр. 1/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12129)
+- [Правилник за изменување на Правилникот за содржината и начинот на составување на годишниот даночен биланс за обврзниците кои вршат самостојна дејност и водат деловни книги („Службен весник на Република Македонија“ бр. 3/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14035)
+- [Правилник за изменување на Правилникот за содржината и начинот на составување на годишниот даночен биланс за обврзниците кои вршат самостојна дејност и водат деловни книги („Службен весник на Република Македонија“ бр. 22/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21570)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -62,6 +62,18 @@
 
 Act id: `zakon-2012-sv095-25919` (tags `zakon-2012-sv095-25919/<day>`; `python tools/on.py <day> zakon-2012-sv095-25919`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за дополнување на Законот за идентификација и регистрација на животните („Службен весник на Република Македонија“ бр. 27/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30985)
+- [Закон за изменување и дополнување на Законот за идентификација и регистрација на животните („Службен весник на Република Македонија“ бр. 149/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38442)
+- [Закон за изменување и дополнување на Законот за идентификација и регистрација на животните („Службен весник на Република Македонија“ бр. 53/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40940)
+- [Закон за изменување и дополнување на Законот за идентификација и регистрација на животните („Службен весник на Република Северна Македонија“ бр. 150/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56598)
+- [Закон за изменување на Законот за идентификација и регистрација на животните („Службен весник на Република Северна Македонија“ бр. 43/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73139)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

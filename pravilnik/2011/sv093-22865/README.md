@@ -13,6 +13,15 @@
 
 Act id: `pravilnik-2011-sv093-22865` (tags `pravilnik-2011-sv093-22865/<day>`; `python tools/on.py <day> pravilnik-2011-sv093-22865`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за постапката за издавање на согласност за градење на помошни објекти, оранжерија или објект за примарна обработка на земјоделски производи на земјоделско земјиште, образецот на барањето и потребната документација („Службен весник на Република Македонија“ бр. 152/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23633)
+- [Правилник за изменување на Правилникот за постапката за издавање на согласност за градење на помошен објект, оранжерија или објект за примарна обработка на земјоделски производи на земјоделско земјиште, образецот на барањето и потребната документација („Службен весник на Република Македонија“ бр. 61/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31813)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

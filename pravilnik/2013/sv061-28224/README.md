@@ -28,6 +28,14 @@
 
 Act id: `pravilnik-2013-sv061-28224` (tags `pravilnik-2013-sv061-28224/<day>`; `python tools/on.py <day> pravilnik-2013-sv061-28224`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на правилникот за формата, содржината и начинот на водење на Централниот регистар на установи за деца, Регистарот на јавните установи за деца основани од општината и општината во Градот Скопје, Регистарoт на агенции за давање услуги за чување и нега на деца од предучилишна возраст и Регистарот на физички лица кои самостојно вршат одредени работи од дејноста згрижување и воспитание на деца како професионална дејност („Службен весник на Република Македонија“ бр. 158/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42350)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

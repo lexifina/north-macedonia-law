@@ -93,6 +93,24 @@
 
 Act id: `zakon-2011-sv047-22077` (tags `zakon-2011-sv047-22077/<day>`; `python tools/on.py <day> zakon-2011-sv047-22077`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за дополнување на Законот за земање и пресадување на делови од човечкото тело заради лекување („Службен весник на Република Македонија“ бр. 136/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23409)
+- [Закон за изменување и дополнување на Законот за земање и пресадување на делови од човечкото тело заради лекување („Службен весник на Република Македонија“ бр. 91/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28912)
+- [Закон за изменување на Законот за земање и пресадување на делови на човечкото тело заради лекување („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30016)
+- [Закон за дополнување на Законот за земање и пресадување на делови на човечкото тело заради лекување („Службен весник на Република Македонија“ бр. 27/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30973)
+- [Закон за дополнување на Законот за земање и пресадување на делови од човечкото тело заради лекување („Службен весник на Република Македонија“ бр. 112/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32988)
+- [Закон за изменување на Законот за земање и пресадување на делови од човечкото тело заради лекување („Службен весник на Република Македонија“ бр. 144/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33822)
+- [Закон за изменување и дополнување на Законот за земање и пресадување на делови од човечкото тело заради лекување („Службен весник на Република Македонија“ бр. 124/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37956)
+- [Закон за изменување и дополнување на Законот за земање и пресадување на делови на човечкото тело заради лекување („Службен весник на Република Македонија“ бр. 149/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38447)
+- [Закон за изменување и дополнување на Законот за земање и пресадување на делови на човечкото тело заради лекување („Службен весник на Република Македонија“ бр. 37/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40720)
+- [Закон за изменување на Законот за земање и пресадување на делови на човечкото тело заради лекување („Службен весник на Република Северна Македонија“ бр. 236/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61037)
+- [Закон за изменување и дополнување на Законот за земање и пресадување на делови на човечкото тело заради лекување („Службен весник на Република Северна Македонија“ бр. 148/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74207)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

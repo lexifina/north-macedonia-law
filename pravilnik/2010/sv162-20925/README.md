@@ -26,6 +26,14 @@
 
 Act id: `pravilnik-2010-sv162-20925` (tags `pravilnik-2010-sv162-20925/<day>`; `python tools/on.py <day> pravilnik-2010-sv162-20925`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за видот на активностите кои се предмет на поддршка, условите за финансирање, дефинирање на корисниците, општите и посебни услови за доделување на поддршката, детален преглед на прифатливи трошоци и начинот и правилата за визуелен идентитет на активностите („Службен весник на Република Македонија“ бр. 80/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28593)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -75,6 +75,26 @@
 
 Act id: `zakon-2001-sv034-6934` (tags `zakon-2001-sv034-6934/<day>`; `python tools/on.py <day> zakon-2001-sv034-6934`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за девизното работење („Службен весник на Република Македонија“ бр. 49/2001)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6417)
+- [Закон за изменување на Законот за девизното работење („Службен весник на Република Македонија“ бр. 103/2001)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6840)
+- [Закон за изменување и дополнување на Законот за девизното работење („Службен весник на Република Македонија“ бр. 54/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7453)
+- [Закон за изменување и дополнување на Законот за девизното работење („Службен весник на Република Македонија“ бр. 51/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8294)
+- [Закон за изменување и дополнување на Законот за девизното работење („Службен весник на Република Македонија“ бр. 81/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13998)
+- [Закон за изменување и дополнување на Законот за девизното работење („Службен весник на Република Македонија“ бр. 24/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21605)
+- [Закон за дополнување на Законот за девизното работење („Службен весник на Република Македонија“ бр. 135/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23390)
+- [Закон за изменување и дополнување на Законот за девизно работење („Службен весник на Република Македонија“ бр. 188/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30400)
+- [Закон за изменување и дополнување на Законот за девизното работење („Службен весник на Република Македонија“ бр. 97/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37572)
+- [Закон за изменување и дополнување на Законот за девизното работење („Службен весник на Република Македонија“ бр. 153/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38483)
+- [Закон за изменување на Законот за девизното работење („Службен весник на Република Македонија“ бр. 23/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40464)
+- [Закон за изменување и дополнување на Законот за девизното работење („Службен весник на Република Северна Македонија“ бр. 110/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55996)
+- [Закон за изменување и дополнување на Законот за девизното работење („Службен весник на Република Северна Македонија“ бр. 37/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69501)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

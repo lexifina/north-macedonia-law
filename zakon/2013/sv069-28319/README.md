@@ -104,6 +104,19 @@
 
 Act id: `zakon-2013-sv069-28319` (tags `zakon-2013-sv069-28319/<day>`; `python tools/on.py <day> zakon-2013-sv069-28319`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за преземање на акционерските друштва („Службен весник на Република Македонија“ бр. 188/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30416)
+- [Закон за дополнување на Законот за преземање на акционерските друштва („Службен весник на Република Македонија“ бр. 166/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34396)
+- [Закон за изменување и дополнување на Законот за преземање на акционерските друштва („Службен весник на Република Македонија“ бр. 154/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38544)
+- [Закон за изменување и дополнување на Законот за преземање на акционерските друштва („Службен весник на Република Македонија“ бр. 23/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40433)
+- [Закон за изменување и дополнување на Законот за преземање на акционерските друштва („Службен весник на Република Македонија“ бр. 248/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43209)
+- [Закон за изменување и дополнување на Законот за преземање на акционерските друштва („Службен весник на Република Северна Македонија“ бр. 31/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51993)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

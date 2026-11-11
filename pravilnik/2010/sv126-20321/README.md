@@ -11,6 +11,17 @@
 
 Act id: `pravilnik-2010-sv126-20321` (tags `pravilnik-2010-sv126-20321/<day>`; `python tools/on.py <day> pravilnik-2010-sv126-20321`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за формата и содржината на писмените инструкции („Службен весник на Република Македонија“ бр. 15/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21412)
+- [Правилник за изменување на Правилникот за формата и содржината на писмените инструкции („Службен весник на Република Македонија“ бр. 43/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36411)
+- [Правилник за изменување на Правилникот за формата и содржината на писмените инструкции („Службен весник на Република Македонија“ бр. 204/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39571)
+- [Правилник за изменување на Правилникот за формата и содржината на писмените инструкции („Службен весник на Република Македонија“ бр. 173/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=46047)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

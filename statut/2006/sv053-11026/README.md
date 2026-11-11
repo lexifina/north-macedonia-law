@@ -85,6 +85,17 @@
 
 Act id: `statut-2006-sv053-11026` (tags `statut-2006-sv053-11026/<day>`; `python tools/on.py <day> statut-2006-sv053-11026`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука за дополнување на Статутот на Акционерското друштво „Македонска информативна агенција АД“ - Скопје, во државна сопственост („Службен весник на Република Македонија“ бр. 157/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13628)
+- [Статутарна одлука за изменување на Статутот на Акционерското друштво „Македонска информативна агенција" - Скопје, во државна сопственост („Службен весник на Република Македонија“ бр. 138/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29582)
+- [Одлука за дополнување на Статутот на Акционерското друштво „Македонска информативна агенција“ -Скопје, во државна сопственост („Службен весник на Република Македонија“ бр. 202/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37001)
+- [Одлука за дополнување на Статутот на АД „Македонска информативна агенција" - Скопје („Службен весник на Република Македонија“ бр. 28/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35659)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2011-sv031-21740` (tags `pravilnik-2011-sv031-21740/<day>`; `python tools/on.py <day> pravilnik-2011-sv031-21740`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за измена на Правилникот за условите, начинот и постапката за издавање копија од снимка на објавена информација во рамките на програмскиот сервис на радиодифузерите на државно ниво во РМ и радиодифузерите од регионот Скопје (градот Скопје и неговата околина), бр.01-861/1 од 11.03.2011 („Службен весник на Република Македонија“ бр. 151/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23609)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

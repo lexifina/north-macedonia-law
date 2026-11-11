@@ -53,6 +53,14 @@
 
 Act id: `pravilnik-2010-sv031-18979` (tags `pravilnik-2010-sv031-18979/<day>`; `python tools/on.py <day> pravilnik-2010-sv031-18979`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за задолжителната опрема на возилото, велосипедот и запрежното возило за безбедно учество во сообраќајот на патиштата, како и на трактори за безбедно извршување на земјоделски, односно шумски работи („Службен весник на Република Македонија“ бр. 48/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19214)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

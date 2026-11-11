@@ -7,6 +7,16 @@
 
 Act id: `pravilnik-2001-sv103-6854` (tags `pravilnik-2001-sv103-6854/<day>`; `python tools/on.py <day> pravilnik-2001-sv103-6854`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за формата, содржината и начинот на пополнување на годишната даночна пријава за утврдување на персоналниот данок на доход („Службен весник на Република Македонија“ бр. 138/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12005)
+- [Правилник за изменување и дополнување на Правилникот за формата, содржината и начинот на пополнување на годишната даночна пријава за утврдување на персоналниот данок на доход („Службен весник на Република Македонија“ бр. 3/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14032)
+- [Правилник за изменување на Правилникот за формата, содржината и начинот за пополнување на годишната даночна пријава за утврдување на персоналниот данок на доход („Службен весник на Република Македонија“ бр. 19/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16648)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

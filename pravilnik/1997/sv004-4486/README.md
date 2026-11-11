@@ -17,6 +17,16 @@
 
 Act id: `pravilnik-1997-sv004-4486` (tags `pravilnik-1997-sv004-4486/<day>`; `python tools/on.py <day> pravilnik-1997-sv004-4486`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за начинот на привремено користење на неизградено градежно земјиште („Службен весник на Република Македонија“ бр. 60/1997)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4757)
+- [Правилник за изменување на Правилникот за начинот на привремено користење на неизградено градежно земјиште („Службен весник на Република Македонија“ бр. 52/1999)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5368)
+- [Правилник за изменување на Правилникот за начинот на привремено користење на неизградено градежно земјиште („Службен весник на Република Македонија“ бр. 43/2001)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6366)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

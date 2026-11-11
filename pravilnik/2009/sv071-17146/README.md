@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2009-sv071-17146` (tags `pravilnik-2009-sv071-17146/<day>`; `python tools/on.py <day> pravilnik-2009-sv071-17146`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за начинот и постапката за еквиваленција и признавање на странските високообразовни квалификации и потребната документација („Службен весник на Република Македонија“ бр. 7/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21275)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

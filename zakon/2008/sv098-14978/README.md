@@ -7,6 +7,25 @@
 
 Act id: `zakon-2008-sv098-14978` (tags `zakon-2008-sv098-14978/<day>`; `python tools/on.py <day> zakon-2008-sv098-14978`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за учебници за основно и средно образование („Службен весник на Република Македонија“ бр. 99/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17616)
+- [Закон за изменување на Законот за учебници за основно и средно образование („Службен весник на Република Македонија“ бр. 83/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19653)
+- [Закон за изменување и дополнување на Законот за учебници за основно и средно образование („Службен весник на Република Македонија“ бр. 36/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21817)
+- [Закон за изменување и дополнување на Законот за учебници за основно и средно образование („Службен весник на Република Македонија“ бр. 135/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23372)
+- [Закон за изменување и дополнување на Законот за учебници за основно и средно образование („Службен весник на Република Македонија“ бр. 46/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25074)
+- [Закон за изменување и дополнување на Законот за учебници за основно и средно образование („Службен весник на Република Македонија“ бр. 24/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27625)
+- [Закон за изменување и дополнување на Законот за учебници за основно и средно образование („Службен весник на Република Македонија“ бр. 120/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29338)
+- [Закон за изменување и дополнување на Законот за учебници за основно и средно образование („Службен весник на Република Македонија“ бр. 29/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30959)
+- [Закон за изменување и дополнување на Законот за учебници за основно и средно образование („Службен весник на Република Македонија“ бр. 146/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38353)
+- [Закон за изменување и дополнување на Законот за учебници за основно и средно образование („Службен весник на Република Македонија“ бр. 217/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39849)
+- [Закон за изменување и дополнување на Законот за учебници за основно и средно образование („Службен весник на Република Македонија“ бр. 30/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40610)
+- [Закон за изменување и дополнување на Законот за учебници за основно и средно образование („Службен весник на Република Македонија“ бр. 21/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42669)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

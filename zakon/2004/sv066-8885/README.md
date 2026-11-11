@@ -54,6 +54,19 @@
 
 Act id: `zakon-2004-sv066-8885` (tags `zakon-2004-sv066-8885/<day>`; `python tools/on.py <day> zakon-2004-sv066-8885`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за определување на имиња на улици, плоштади, мостови и на други инфраструктурни објекти („Службен весник на Република Македонија“ бр. 55/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12335)
+- [Закон за изменување и дополнување на Законот за определување на имиња на улици, плоштади, мостови и на други инфраструктурни објекти („Службен весник на Република Македонија“ бр. 145/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20591)
+- [Закон за дополнување на Законот за определување на имиња на улици, плоштади, мостови и на други инфраструктурни објекти („Службен весник на Република Македонија“ бр. 136/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23395)
+- [Закон за изменување и дополнување на Законот за определување на имиња на улици, плоштади, мостови и на други инфраструктурни објекти („Службен весник на Република Македонија“ бр. 163/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29911)
+- [Закон за изменување и дополнување на Законот за определување на имиња на улици, плоштади, мостови и на други инфраструктурни објекти („Службен весник на Република Македонија“ бр. 147/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38360)
+- [Закон за изменување на Законот за определување на имиња на улици, плоштади, мостови и на други инфраструктурни објекти („Службен весник на Република Северна Македонија“ бр. 224/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68197)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

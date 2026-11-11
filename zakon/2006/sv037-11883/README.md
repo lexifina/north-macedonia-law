@@ -9,6 +9,19 @@
 
 Act id: `zakon-2006-sv037-11883` (tags `zakon-2006-sv037-11883/<day>`; `python tools/on.py <day> zakon-2006-sv037-11883`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија, У.бр.60/2006 од 3 октомври 2006 година („Службен весник на Република Македонија“ бр. 109/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11348)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.40/2007 од 4 јули 2007 година („Службен весник на Република Македонија“ бр. 88/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13059)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.167/2006 од 27 јуни 2007 година („Службен весник на Република Македонија“ бр. 88/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13066)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.199/2008 од 18 март 2009 година („Службен весник на Република Македонија“ бр. 45/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16765)
+- [Одлука на Уставниот суд на Република Македонија, У.бр. 109/2009 и У.бр. 185/2009 од 27 јануари 2010 година („Службен весник на Република Македонија“ бр. 14/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18766)
+- [Одлука на Уставниот суд на Република Македонија, У. бр.114/2011 од 16 ноември 2011 година („Службен весник на Република Македонија“ бр. 166/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23833)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

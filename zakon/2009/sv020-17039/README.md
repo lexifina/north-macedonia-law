@@ -54,6 +54,24 @@
 
 Act id: `zakon-2009-sv020-17039` (tags `zakon-2009-sv020-17039/<day>`; `python tools/on.py <day> zakon-2009-sv020-17039`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за Државниот инспекторат за земјоделство („Службен весник на Република Македонија“ бр. 53/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22272)
+- [Закон за изменување и дополнување на Законот за Државниот инспекторат за земјоделство („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29951)
+- [Закон за дополнување на Законот за Државниот инспекторат за земјоделство („Службен весник на Република Македонија“ бр. 43/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31477)
+- [Закон за дополнување на Законот за Државниот инспекторат за земјоделство („Службен весник на Република Македонија“ бр. 33/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35819)
+- [Закон за изменување и дополнување на Законот за Државниот инспекторат за земјоделство („Службен весник на Република Македонија“ бр. 88/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37353)
+- [Закон за изменување и дополнување на Законот за Државниот инспекторат за земјоделство („Службен весник на Република Македонија“ бр. 149/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38473)
+- [Закон за изменување на Законот за Државниот инспекторат за земјоделство („Службен весник на Република Македонија“ бр. 39/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40749)
+- [Закон за изменување и дополнување на Законот за Државниот инспекторат за земјоделство („Службен весник на Република Македонија“ бр. 172/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42457)
+- [Закон за изменување и дополнување на Законот за Државниот инспекторат за земјоделство („Службен весник на Република Македонија“ бр. 83/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42786)
+- [Закон за изменување на Законот за Државниот инспекторат за земјоделство („Службен весник на Република Северна Македонија“ бр. 3/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68939)
+- [Закон за изменување и дополнување на Законот за Државниот инспекторат за земјоделство („Службен весник на Република Северна Македонија“ бр. 212/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74845)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

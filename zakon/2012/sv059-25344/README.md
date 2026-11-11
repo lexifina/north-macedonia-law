@@ -41,6 +41,17 @@
 
 Act id: `zakon-2012-sv059-25344` (tags `zakon-2012-sv059-25344/<day>`; `python tools/on.py <day> zakon-2012-sv059-25344`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за задолжница („Службен весник на Република Македонија“ бр. 12/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30652)
+- [Закон за изменување и дополнување на Законот за задолжница („Службен весник на Република Македонија“ бр. 201/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35180)
+- [Закон за изменување и дополнување на Законот за задолжница („Службен весник на Република Македонија“ бр. 145/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38288)
+- [Закон за изменување на Законот за задолжница („Службен весник на Република Северна Македонија“ бр. 77/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55650)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

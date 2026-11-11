@@ -26,6 +26,21 @@
 
 Act id: `pravilnik-2012-sv042-24995` (tags `pravilnik-2012-sv042-24995/<day>`; `python tools/on.py <day> pravilnik-2012-sv042-24995`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за начинот на плаќање на здравствените услуги во примарната стоматолошка здравствена заштита („Службен весник на Република Македонија“ бр. 42/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24996)
+- [Правилник за изменување и дополнување на Правилникот за начинот на плаќањето на здравствените услуги во примарна здравствена заштита („Службен весник на Република Македонија“ бр. 176/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30215)
+- [Правилник за изменување и дополнување на Правилникот за начинот на плаќањето на здравствените услуги во примарна здравствена заштита („Службен весник на Република Македонија“ бр. 47/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31320)
+- [Правилник за дополнување на Правилникот за начинот на плаќањето на здравствените услуги во примарната здравствена заштита („Службен весник на Република Македонија“ бр. 160/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47830)
+- [Правилник за изменување и дополнување на Правилникот за начинот на плаќањето на здравствените услуги во примарната здравствена заштита („Службен весник на Република Северна Македонија“ бр. 188/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53380)
+- [Правилник за изменување на Правилникот за начинот на плаќањето на здравствените услуги во примарната здравствена заштита („Службен весник на Република Северна Македонија“ бр. 251/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68549)
+- [Правилник за изменување на Правилникот за начинот на плаќањето на здравствените услуги во примарната здравствена заштита („Службен весник на Република Северна Македонија“ бр. 34/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69488)
+- [Правилник за дополнување на Правилникот за начинот на плаќањето на здравствените услуги во примарната здравствена заштита („Службен весник на Република Северна Македонија“ бр. 87/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73610)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -14,6 +14,14 @@
 
 Act id: `zakon-2003-sv049-8211` (tags `zakon-2003-sv049-8211/<day>`; `python tools/on.py <day> zakon-2003-sv049-8211`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за амнестија на граѓаните на Република Македонија кои не ја извршиле воената обврска („Службен весник на Република Македонија“ бр. 49/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9237)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -7,6 +7,15 @@
 
 Act id: `zakon-1994-sv020-3566` (tags `zakon-1994-sv020-3566/<day>`; `python tools/on.py <day> zakon-1994-sv020-3566`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за избор на Претседател на Република Македонија („Службен весник на Република Македонија“ бр. 48/1999)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5326)
+- [Закон за изменување и дополнување на Законот за избор на Претседател на Република Македонија („Службен весник на Република Македонија“ бр. 11/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9290)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

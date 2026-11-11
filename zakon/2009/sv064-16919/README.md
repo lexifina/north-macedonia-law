@@ -7,6 +7,15 @@
 
 Act id: `zakon-2009-sv064-16919` (tags `zakon-2009-sv064-16919/<day>`; `python tools/on.py <day> zakon-2009-sv064-16919`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија, У.бр. 42/2008 и У.бр. 77/2008 од 24 март 2010 година („Службен весник на Република Македонија“ бр. 45/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19180)
+- [Одлука на Уставниот Суд на Република Македонија У.бр. 52/2011 У.бр.76/2011 од 28 март 2012 година („Службен весник на Република Македонија“ бр. 48/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25100)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

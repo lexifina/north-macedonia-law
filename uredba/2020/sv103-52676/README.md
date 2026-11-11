@@ -13,6 +13,14 @@
 
 Act id: `uredba-2020-sv103-52676` (tags `uredba-2020-sv103-52676/<day>`; `python tools/on.py <day> uredba-2020-sv103-52676`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба со законска сила за дополнување на Уредбата со законска сила за примена на Законот за донации и за спонзорства во јавните дејности за време на вонредна состојба („Службен весник на Република Северна Македонија“ бр. 140/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52999)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

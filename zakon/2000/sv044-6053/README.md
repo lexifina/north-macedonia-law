@@ -41,6 +41,27 @@
 
 Act id: `zakon-2000-sv044-6053` (tags `zakon-2000-sv044-6053/<day>`; `python tools/on.py <day> zakon-2000-sv044-6053`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за вработување на инвалидни лица („Службен весник на Република Македонија“ бр. 16/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9372)
+- [Закон за изменување и дополнување на Законот за вработување на инвалидни лица („Службен весник на Република Македонија“ бр. 62/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10422)
+- [Закон за изменување и дополнување на Законот за вработување на инвалидни лица („Службен весник на Република Македонија“ бр. 113/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10475)
+- [Закон за изменување на Законот за вработување на инвалидни лица („Службен весник на Република Македонија“ бр. 29/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13374)
+- [Закон за изменување и дополнување на Законот за вработување на инвалидни лица („Службен весник на Република Македонија“ бр. 88/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14579)
+- [Закон за изменување и дополнување на Законот за вработување на инвалидни лица („Службен весник на Република Македонија“ бр. 161/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16146)
+- [Закон за изменување и дополнување на Законот за вработување на инвалидни лица („Службен весник на Република Македонија“ бр. 99/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17621)
+- [Закон за изменување и дополнување на Законот за вработување на инвалидни лица („Службен весник на Република Македонија“ бр. 136/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23412)
+- [Закон за дополнување на Законот за вработување на инвалидни лица („Службен весник на Република Македонија“ бр. 129/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38020)
+- [Закон за изменување и дополнување на Законот за вработување на инвалидни лица („Службен весник на Република Македонија“ бр. 147/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38386)
+- [Закон за изменување и дополнување на Законот за вработување на инвалидни лица („Службен весник на Република Македонија“ бр. 27/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40589)
+- [Закон за изменување и дополнување на Законот за вработување на инвалидни лица („Службен весник на Република Македонија“ бр. 99/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42830)
+- [Закон за изменување и дополнување на Законот за вработување на инвалидни лица („Службен весник на Република Северна Македонија“ бр. 103/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55873)
+- [Закон за изменување на Законот за вработување на инвалидни лица („Службен весник на Република Северна Македонија“ бр. 192/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71628)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

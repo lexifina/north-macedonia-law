@@ -44,6 +44,21 @@
 
 Act id: `zakon-1999-sv080-5570` (tags `zakon-1999-sv080-5570/<day>`; `python tools/on.py <day> zakon-1999-sv080-5570`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за детективската дејност („Службен весник на Република Македонија“ бр. 66/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12495)
+- [Закон за дополнување на Законот за детективската дејност („Службен весник на Република Македонија“ бр. 86/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14481)
+- [Закон за изменување и дополнување на Законот за детективската дејност („Службен весник на Република Македонија“ бр. 51/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22203)
+- [Закон за изменување и дополнување на Законот за детективската дејност („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30033)
+- [Закон за изменување и дополнување на Законот за детективската дејност („Службен весник на Република Македонија“ бр. 148/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38383)
+- [Закон за изменување и дополнување на Законот за детективската дејност („Службен весник на Република Македонија“ бр. 193/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39249)
+- [Закон за изменување и дополнување на Законот за детективската дејност („Службен весник на Република Македонија“ бр. 55/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40934)
+- [Закон за изменување на Законот за детективската дејност („Службен весник на Република Северна Македонија“ бр. 171/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60164)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

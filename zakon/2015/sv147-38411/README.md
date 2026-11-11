@@ -13,6 +13,14 @@
 
 Act id: `zakon-2015-sv147-38411` (tags `zakon-2015-sv147-38411/<day>`; `python tools/on.py <day> zakon-2015-sv147-38411`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 83/2016 од 27 септември 2017 година („Службен весник на Република Македонија“ бр. 147/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=45726)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

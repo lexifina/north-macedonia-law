@@ -60,6 +60,18 @@
 
 Act id: `zakon-1995-sv014-3966` (tags `zakon-1995-sv014-3966/<day>`; `python tools/on.py <day> zakon-1995-sv014-3966`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за санација и реконструкција на дел од банките во Република Македонија („Службен весник на Република Македонија“ бр. 17/1996)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4280)
+- [Закон за изменување и дополнување на Законот за санација и реконструирање на дел од банките во Република Македонија („Службен весник на Република Македонија“ бр. 36/1997)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4604)
+- [Закон за изменување и дополнување на Законот за санација и реконструирање на дел од банките во Република Македонија („Службен весник на Република Македонија“ бр. 20/1998)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4943)
+- [Закон за дополнување на Законот за санација и реконструкција на дел од банките во Република Македонија („Службен весник на Република Македонија“ бр. 31/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8675)
+- [Закон за изменување на Законот за санација и реконструирање на дел од банките во Република Македонија („Службен весник на Република Македонија“ бр. 55/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28140)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

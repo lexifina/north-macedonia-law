@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2006-sv081-10783` (tags `pravilnik-2006-sv081-10783/<day>`; `python tools/on.py <day> pravilnik-2006-sv081-10783`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за условите по однос на просторот,опремата и кадарот што треба да ги исполнуваат здравствените установи што земаат,обработуваат,испитуваат совпаѓање на ткива, чуваат,разменуваат и пресадуваат делови од човековото тело заради лекување и за посебната евиденција што тие треба да ја водат („Службен весник на Република Македонија“ бр. 25/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18894)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

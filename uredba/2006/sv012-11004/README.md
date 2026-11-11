@@ -28,6 +28,14 @@
 
 Act id: `uredba-2006-sv012-11004` (tags `uredba-2006-sv012-11004/<day>`; `python tools/on.py <day> uredba-2006-sv012-11004`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување на Уредбата за висината и начинот на остварувањето на надоместокот на граѓаните во извршувањето на правата и должностите во заштитата и спасувањето („Службен весник на Република Македонија“ бр. 34/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19018)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

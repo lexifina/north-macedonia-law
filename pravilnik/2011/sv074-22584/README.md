@@ -7,6 +7,15 @@
 
 Act id: `pravilnik-2011-sv074-22584` (tags `pravilnik-2011-sv074-22584/<day>`; `python tools/on.py <day> pravilnik-2011-sv074-22584`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за потребната дополнителна документација за добивање согласност за стекнување на квалификувано учество во брокерска куќа, берза на хартии од вредност или депозитар за хартии од вредност („Службен весник на Република Македонија“ бр. 33/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=46815)
+- [Правилник за изменување и дополнување на Правилникот за потребната дополнителна документација за добивање согласност за стекнување на квалификувано учество во брокерска куќа, берза на хартии од вредност или депозитар за хартии од вредност („Службен весник на Република Северна Македонија“ бр. 192/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50484)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

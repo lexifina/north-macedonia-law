@@ -7,6 +7,15 @@
 
 Act id: `uredba-2010-sv142-20534` (tags `uredba-2010-sv142-20534/<day>`; `python tools/on.py <day> uredba-2010-sv142-20534`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување и дополнување на Уредбата за посебните услови, начинот и постапката за добивање на одобрение за летање („Службен весник на Република Македонија“ бр. 50/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22160)
+- [Уредба за изменување и дополнување на Уредбата за посебните услови, начинот и постапката за добивање на одобрение за летање („Службен весник на Република Македонија“ бр. 56/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25314)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

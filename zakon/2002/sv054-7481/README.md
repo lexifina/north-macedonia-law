@@ -7,6 +7,18 @@
 
 Act id: `zakon-2002-sv054-7481` (tags `zakon-2002-sv054-7481/<day>`; `python tools/on.py <day> zakon-2002-sv054-7481`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за безбедност на храната и на производите и материјалите што доаѓаат во контакт со храната („Службен весник на Република Македонија“ бр. 84/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12957)
+
+Cited by:
+
+- [Закон за тутун и тутунски производи („Службен весник на Република Македонија“ бр. 24/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11366)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

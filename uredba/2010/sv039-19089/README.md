@@ -15,6 +15,16 @@
 
 Act id: `uredba-2010-sv039-19089` (tags `uredba-2010-sv039-19089/<day>`; `python tools/on.py <day> uredba-2010-sv039-19089`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување и дополнување на Уредбата за начинот за утврдување на максималните количини и вредности на загубите во поглед на хемиските и физичките својства на стоката преку кало, растур, кршење, расипување и евапорација во работењето со стоковните резерви („Службен весник на Република Северна Македонија“ бр. 175/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57053)
+- [Уредба за изменување на Уредбата за начинот за утврдување на максималните количини и вредности на загубите во поглед на хемиските и физичките својства на стоката преку кало, растур, кршење, расипување и евапорација во работењето со стоковните резерви („Службен весник на Република Северна Македонија“ бр. 93/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59346)
+- [Уредба за изменување на Уредбата за начинот за утврдување на максималните количини и вредности на загубите во поглед на хемиските и физичките својства на стоката преку кало, растур, кршење, расипување и евапорација во работењето со стоковните резерви („Службен весник на Република Северна Македонија“ бр. 104/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70426)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -11,6 +11,15 @@
 
 Act id: `pravilnik-2025-sv174-71443` (tags `pravilnik-2025-sv174-71443/<day>`; `python tools/on.py <day> pravilnik-2025-sv174-71443`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за дополнување на Правилникот за утврдување на работните места на кои стажот на сигурување се смета со зголемено траење („Службен весник на Република Северна Македонија“ бр. 74/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73483)
+- [Правилник за дополнување на Правилникот за утврдување на работните места на кои стажот на сигурување се смета со зголемено траење („Службен весник на Република Северна Македонија“ бр. 158/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74285)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

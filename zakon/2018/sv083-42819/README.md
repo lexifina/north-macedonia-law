@@ -12,6 +12,14 @@
 
 Act id: `zakon-2018-sv083-42819` (tags `zakon-2018-sv083-42819/<day>`; `python tools/on.py <day> zakon-2018-sv083-42819`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 22/2019 од 21 април 2021 година („Службен весник на Република Северна Македонија“ бр. 107/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55973)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -7,6 +7,17 @@
 
 Act id: `pravilnik-2006-sv122-11670` (tags `pravilnik-2006-sv122-11670/<day>`; `python tools/on.py <day> pravilnik-2006-sv122-11670`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за начинот и условите за полагање на стручен испит за работење со хартии од вредност („Службен весник на Република Македонија“ бр.122/2006) („Службен весник на Република Македонија“ бр. 155/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13600)
+- [Правилник за изменување и дополнување на Правилникот за начинот и условите за полагање на стручен испит за работење со хартии од вредност („Службен весник на Република Македонија“ бр. 28/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15137)
+- [Правилник за дополнување на Правилникот за обука и полагање на стручен испит за работење со хартии од вредност („Службен весник на Република Македонија“ бр. 84/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14236)
+- [Одлука на Уставниот суд на Република Македонија У.бр.209/2008 од 20 мај 2009 година („Службен весник на Република Македонија“ бр. 69/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17024)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

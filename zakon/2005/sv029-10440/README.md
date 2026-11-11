@@ -111,6 +111,26 @@
 
 Act id: `zakon-2005-sv029-10440` (tags `zakon-2005-sv029-10440/<day>`; `python tools/on.py <day> zakon-2005-sv029-10440`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за здравјето на растенијата („Службен весник на Република Македонија“ бр. 81/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14088)
+- [Закон за изменување и дополнување на Законот за здравјето на растенијата („Службен весник на Република Македонија“ бр. 20/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17059)
+- [Закон за дополнување на Законот за здравјето на растенијата („Службен весник на Република Македонија“ бр. 57/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19290)
+- [Закон за изменување и дополнување на Законот за здравјето на растенијата („Службен весник на Република Македонија“ бр. 17/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21473)
+- [Закон за изменување и дополнување на Законот за здравјето на растенијата („Службен весник на Република Македонија“ бр. 148/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23558)
+- [Закон за изменување и дополнување на Законот за здравјето на растенијата („Службен весник на Република Македонија“ бр. 69/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28331)
+- [Закон за изменување и дополнување на Законот за здравјето на растенијата („Службен весник на Република Македонија“ бр. 43/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31476)
+- [Закон за изменување и дополнување на Законот за здравјето на растенијата („Службен весник на Република Македонија“ бр. 158/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34201)
+- [Закон за изменување и дополнување на Законот за здравјето на растенијата („Службен весник на Република Македонија“ бр. 149/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38453)
+- [Закон за изменување и дополнување на Законот за здравјето на растенијата („Службен весник на Република Македонија“ бр. 39/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40777)
+- [Закон за изменување и дополнување на Законот за здравјето на растенијата („Службен весник на Република Македонија“ бр. 83/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42785)
+- [Закон за изменување на Законот за здравјето на растенијата („Службен весник на Република Северна Македонија“ бр. 150/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56594)
+- [Закон за изменување и дополнување на Законот за здравјето на растенијата („Службен весник на Република Северна Македонија“ бр. 212/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74833)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

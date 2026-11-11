@@ -35,6 +35,15 @@
 
 Act id: `zakon-2014-sv044-31267` (tags `zakon-2014-sv044-31267/<day>`; `python tools/on.py <day> zakon-2014-sv044-31267`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Северна Македонија, У бр.113/2025 од 20 мај 2026 година („Службен весник на Република Северна Македонија“ бр. 125/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73954)
+- [Одлука на Уставен суд на Република Северна Македонија, У.бр.112/2025 од 15 јули 2026 година („Службен весник на Република Северна Македонија“ бр. 183/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74614)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

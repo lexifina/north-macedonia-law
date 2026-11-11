@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2011-sv184-24113` (tags `pravilnik-2011-sv184-24113/<day>`; `python tools/on.py <day> pravilnik-2011-sv184-24113`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за начинот и постапката за издавање на мислење, потребната документација и висината на трошоците во постапката за издавање мислење по барање на странка за производство и увоз на додатоци на исхрана, храна за посебна нутритивна употреба и збогатена храна, храна на која и се додадени витамини и минерали („Службен весник на Република Македонија“ бр. 20/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24594)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

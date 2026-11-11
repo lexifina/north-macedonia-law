@@ -7,6 +7,17 @@
 
 Act id: `pravilnik-2015-sv011-35327` (tags `pravilnik-2015-sv011-35327/<day>`; `python tools/on.py <day> pravilnik-2015-sv011-35327`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за содржината и начинот на подготовката на актите за внатрешна организација и систематизација на работните места, како и содржината на функционалната анализа на институциите во јавниот сектор („Службен весник на Република Северна Македонија“ бр. 217/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57572)
+- [Правилник за дополнување на Правилникот за содржината и начинот на подготовката на актите за внатрешна организација и систематизација на работните места, како и содржината на функционалната анализа на институциите во јавниот сектор („Службен весник на Република Северна Македонија“ бр. 159/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=60054)
+- [Правилник за изменување на Правилникот за содржината и начинот на подготовката на актите за внатрешна организација и систематизација на работните места, како и содржината на функционалната анализа на институциите во јавниот сектор („Службен весник на Република Северна Македонија“ бр. 259/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61342)
+- [Правилник за изменување на Правилникот за содржината и начинот на подготовката на актите за внатрешна организација и систематизација на работните места, како и содржината на функционалната анализа на институциите во јавниот сектор („Службен весник на Република Северна Македонија“ бр. 254/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64904)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

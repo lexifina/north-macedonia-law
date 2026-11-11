@@ -76,6 +76,20 @@ KINDS = {"Закон": ("zakon", "ЗАКОН", "law"), "Правилник": ("p
          "Уредба": ("uredba", "УРЕДБА", "decree"), "Упатство": ("upatstvo", "УПАТСТВО", "decree"),
          "Наредба": ("naredba", "НАРЕДБА", "decree"), "Статут": ("statut", "СТАТУТ", "decree"),
          "Деловник": ("delovnik", "ДЕЛОВНИК", "decree")}
+# 2026-11-11 (deep completion): every other kind LDBIS records is in scope too. These acts' heading word is read from
+# each record's own title (LDBIS files some decisions titled "Решение" under Одлука, some "Правила" under Останато), and
+# their slug kind is kind_slug() of the LDBIS kind, as the law keys of such acts already were. The seven kinds above
+# keep every rule they had (OLD_KINDS), so nothing already published reads differently.
+OLD_KINDS = KINDS
+NEW_KINDS = {"Одлука", "Решение", "Останато", "Исправка (на закон или друг пропис)", "Договор", "Указ", "Декларација",
+             "Резолуција", "Заклучок", "Заедничка позиција", "Узанси", "Уставен закон", "Препорака",
+             "Амандман на Уставот", "Устав"}
+SCOPE = set(OLD_KINDS) | NEW_KINDS
+# The Constitution (1991 text and Amendments I-XXXVI) is built by hand in ustav/ (corpus.json): its LDBIS records are
+# never published twice.
+CONSTITUTION_KINDS = {"Амандман на Уставот", "Устав"}
+IN_FORCE_ANY = re.compile(r"(?:Овој|Оваа|Ова|Овие|Овоj)\s+[а-шѓќјљњџѕ]+(?:\s+[а-шѓќјљњџѕ]+)?\s+влегува(?:ат)?\s+во\s+сила"
+                          r"\s+([^.]*?)(?:\.|,\s*а\s|$)", re.S)
 
 
 def title_start(word: str) -> re.Pattern:
@@ -412,10 +426,10 @@ def split(paras: list[dict], db_title: str = "", word: str = "ЗАКОН") -> tu
     return out, norm(title), adopted
 
 
-def own_in_force(units: dict, published: str) -> tuple[str | None, str]:
+def own_in_force(units: dict, published: str, rx: re.Pattern = IN_FORCE) -> tuple[str | None, str]:
     text = " ".join(u["text"].replace("\n", " ") for k, u in units.items() if k.startswith("art-"))
     text = re.sub(r"„[^“”]{40,}?[“”]", " ", text)  # provisions quoted into another act
-    clauses = [m.group(1) for m in IN_FORCE.finditer(text)]
+    clauses = [m.group(1) for m in rx.finditer(text)]
     if not clauses:
         return None, "none"
     c = clauses[-1].strip()
@@ -530,7 +544,7 @@ def only_cites(src: Path, a: dict, lrec: dict | None, lid: int) -> bool:
     if (lrec.get("kind") or "").startswith("Исправка") or lt.startswith("Исправка") or AMENDING.match(lt) \
             or COURT.search(lt) or re.search(r"пречистен|изменување|дополнување|престанување|укинување|вон\s+сила", lt, re.I):
         return False
-    if lrec.get("kind") not in KINDS or lrec["kind"] == "Закон":
+    if lrec.get("kind") not in OLD_KINDS or lrec["kind"] == "Закон":
         return False  # a law's text has no enacting formula to cite from
     t = flat_text(src, lid)
     if t is None or len(t) < 300:
@@ -540,7 +554,7 @@ def only_cites(src: Path, a: dict, lrec: dict | None, lid: int) -> bool:
     hits = list(gazette_cite(str(a["issue"]), dmy(a["published"])).finditer(t))
     if not hits:
         return False
-    word = KINDS[lrec["kind"]][1]
+    word = OLD_KINDS[lrec["kind"]][1]
     tstart = re.search(r"\s?".join(word) + r"\s+(?:ЗА|НА)\s", t)
     if not tstart:
         return False
@@ -601,9 +615,18 @@ def gazette_name(pub: str) -> str:
     return "Службен весник на Република Северна Македонија" if pub >= "2019-02-12" else "Службен весник на Република Македонија"
 
 
+def word_of(r: dict) -> str:
+    """The heading word an act's text starts its title with: the kind's own for the seven first kinds, otherwise the
+    first word of the record's title (Latin look-alike letters read as Cyrillic), in capitals."""
+    if r.get("kind") in OLD_KINDS:
+        return OLD_KINDS[r["kind"]][1]
+    w = re.split(r"[\s(,]", norm(r.get("title") or "").translate(LOOKALIKE))[0]
+    return re.sub(r"[^А-Яа-яЃЌЀЍѓќѐѝЈјЉљЊњЏџЅѕ]", "", w).upper() or "ОДЛУКА"
+
+
 def kind_slug(kind: str) -> str:
-    if kind in KINDS:
-        return KINDS[kind][0]
+    if kind in OLD_KINDS:
+        return OLD_KINDS[kind][0]
     word = re.split(r"[\s(]", kind.strip().lower())[0]
     return re.sub(r"[^a-z]", "", "".join(LAT.get(c, c) for c in word)) or "akt"
 
@@ -619,8 +642,8 @@ def act_key(i: int, r: dict) -> str | None:
 def law_entry(i: int, r: dict, adopted: str | None) -> dict:
     title = norm(r.get("title") or "")
     pub = dmy(r["published"])
-    if r.get("kind") in KINDS:
-        lkind = KINDS[r["kind"]][2]
+    if r.get("kind") in OLD_KINDS:
+        lkind = OLD_KINDS[r["kind"]][2]
     elif COURT.search(title):
         lkind = "court"
     else:
@@ -689,12 +712,12 @@ def main():
         m = CORRECTION.match(r.get("title") or "")
         if m and r.get("published"):
             corrections[subject(m.group(1))].append((dmy(r["published"]) or "", i))
-    laws = {i: r for i, r in recs.items() if r.get("kind") in KINDS and (r.get("text") or {}).get("sha256")}
+    laws = {i: r for i, r in recs.items() if r.get("kind") in SCOPE and (r.get("text") or {}).get("sha256")}
     parts: dict[tuple, dict] = defaultdict(lambda: {"laws": {}, "acts": []})
     holds = []
     # 2026-11-09: in-scope records whose LDBIS page serves no PDF are held with a row, not dropped silently.
     for i, r in sorted(recs.items()):
-        if r.get("kind") in KINDS and not (r.get("text") or {}).get("sha256"):
+        if r.get("kind") in SCOPE and not (r.get("text") or {}).get("sha256"):
             p_ = dmy(r.get("published")) or ""
             holds.append({"id": i, "sv": f"{r.get('issue')}/{p_[:4]}", "title": norm(r.get("title") or "")[:160],
                           "reason": "no_text_on_ldbis"})
@@ -714,12 +737,12 @@ def main():
                     raise Hold("no_text_layer")
                 paras = paragraphs(merge_rows(data["lines"]))
                 try:
-                    hit = {"ok": split(paras, title, KINDS[recs[i]["kind"]][1]), "meta": data["meta"]}
+                    hit = {"ok": split(paras, title, word_of(recs[i])), "meta": data["meta"]}
                 except Hold as h:
                     if str(h) != "no_articles":
                         raise
                     # no numbered articles at all: the whole text as one unit, when it is clean
-                    hit = {"ok": flat_split(paras, title, KINDS[recs[i]["kind"]][1]), "meta": data["meta"], "flat": True}
+                    hit = {"ok": flat_split(paras, title, word_of(recs[i])), "meta": data["meta"], "flat": True}
             except Hold as h:
                 hit = {"hold": str(h)}
         new_cache[ck] = hit
@@ -728,7 +751,7 @@ def main():
     def adopted_of(i: int) -> str | None:
         """The adoption day read from a law's text, when it is consistent with its publication (else None)."""
         r = recs[i]
-        if r.get("kind") not in KINDS or not (r.get("text") or {}).get("sha256"):
+        if r.get("kind") not in OLD_KINDS or not (r.get("text") or {}).get("sha256"):
             return None
         hit = split_of(i, norm(r.get("title") or ""))
         if not hit or "ok" not in hit:
@@ -824,8 +847,8 @@ def main():
             before = [c[1] for c in later if c[1] != rep and c[2] < end]
             if any(link_class(c) == "consolidated" for c in before):
                 raise Hold("later_consolidated_text:" + ",".join(str(c) for c in before if link_class(c) == "consolidated"))
-            if any(link_class(c) == "correction" for c in before):
-                raise Hold("correction:" + ",".join(str(c) for c in before if link_class(c) == "correction"))
+            # 2026-11-11: a correction (Исправка) published before the end no longer holds the act: it is labelled
+            # with it (in the main loop), as with amendments.
         return end, rep, is_named, before
 
     for i in sorted(laws):
@@ -838,13 +861,18 @@ def main():
                 raise Hold("rejected:" + str(rejects[str(i)])[:200])
             if title.startswith("Исправка"):
                 raise Hold("correction_record")
+            if r.get("kind") in CONSTITUTION_KINDS:
+                raise Hold("built_elsewhere:ustav (the Constitution and its amendments, built by hand from the official texts)")
+            new_kind = r.get("kind") not in OLD_KINDS
+            if new_kind and "Пречистена" in (r.get("version") or ""):
+                raise Hold("consolidated_version_not_yet_placed")
             if not pub or not str(r.get("issue") or "").isdigit():
                 raise Hold("no_gazette_issue_or_day")
             iss, year = int(r["issue"]), int(pub[:4])
             if (title, iss, year) in BUILT_ELSEWHERE:
                 raise Hold("built_elsewhere")
             ended = (r.get("ended") or "").strip()
-            amending = r.get("version") == "Текст измена/дополна" or bool(AMENDING.match(title))
+            amending = r.get("version") == "Текст измена/дополна" or bool(AMENDING.match(title))                 or (new_kind and bool(re.match(r"^\S+\s+за\s+(?:изменување|дополнување|изменувања|дополнувања)", title, re.I)))
             later = []
             for ct, ciss, cday, cid in r.get("chain") or []:
                 if cid == i:
@@ -866,9 +894,6 @@ def main():
                     cons = [c[1] for c in later if link_class(c[1]) == "consolidated"]
                     if cons:
                         raise Hold("later_consolidated_text:" + ",".join(map(str, cons[:5])))
-                    corr = [c[1] for c in later if link_class(c[1]) == "correction"]
-                    if corr:
-                        raise Hold("correction:" + ",".join(map(str, corr[:5])))
                     marks = marks_of([c[1] for c in later if not only_cites(src, r, recs.get(c[1]), c[1])])
                 else:
                     cited_only = True  # every later linked act only cites it (bylaws made under it)
@@ -878,16 +903,34 @@ def main():
                     # 2026-11-09 (Romania standard): an amending act later amended or ruled on: published as
                     # enacted, labelled with those acts. A correction of it (Исправка) or a consolidated text still
                     # holds it.
-                    for cls in ("correction", "consolidated"):
-                        hit_ = [c for c in bad if link_class(c) == cls]
-                        if hit_:
-                            raise Hold(("correction:" if cls == "correction" else "later_consolidated_text:")
-                                       + ",".join(map(str, hit_[:5])))
+                    hit_ = [c for c in bad if link_class(c) == "consolidated"]
+                    if hit_:
+                        raise Hold("later_consolidated_text:" + ",".join(map(str, hit_[:5])))
                     marks = marks_of(bad)
+            # 2026-11-11 (Romania standard): a correction (Исправка) of the act no longer holds it back: the act is
+            # published as published and labelled with the correction ("corrected, not consolidated", or "amended,
+            # not consolidated" when amendments are there too; amended_by lists both). A correction is the act's when
+            # LDBIS links it to the act, or when its title names the act's title and its text cites the act's gazette
+            # number; one whose text cites only other numbers is another act's (same title); one citing no number
+            # at all cannot be placed and holds the act.
+            corr_ids = [c[1] for c in later if link_class(c[1]) == "correction"]
             for d, cid in corrections.get(subject(title), []):
-                if d >= pub:
-                    raise Hold(f"correction:{cid}")
-            kslug, word, lkind = KINDS[r["kind"]]
+                if d < pub or cid in corr_ids:
+                    continue
+                ct_ = flat_text(src, cid)
+                if ct_ is not None and gazette_cite(str(r["issue"]), pub).search(ct_):
+                    corr_ids.append(cid)
+                elif ct_ is not None and re.search(r"(?<![\d/.])\d{1,3}\s*/\s*(?:19|20)?\d{2}(?!\d)|(?:број|бр\.)\s*\d{1,3}\s+од\s+\d", ct_):
+                    continue
+                else:
+                    raise Hold(f"correction_unplaced:{cid}")
+            if new_kind:
+                kslug, word = kind_slug(r["kind"]), word_of(r)
+                lkind = "court" if COURT.search(title) else ("law" if r["kind"].endswith("акон") else "decree")
+                in_force_rx = IN_FORCE_ANY
+            else:
+                kslug, word, lkind = KINDS[r["kind"]]
+                in_force_rx = IN_FORCE
             hit = split_of(i, title)
             if hit is None:
                 raise Hold("no_text_file")
@@ -898,7 +941,7 @@ def main():
             if not same_title(text_title, title):
                 raise Hold("title_mismatch:" + text_title[:100])
             day = dmy(r.get("in_force"))
-            own, how = own_in_force(units, pub)
+            own, how = own_in_force(units, pub, in_force_rx)
             if not day:
                 raise Hold("in_force_missing")
             if own and own != day:
@@ -906,7 +949,7 @@ def main():
             if hit.get("flat"):
                 # one text with no articles: its own in-force clause must be there and agree, which also shows the
                 # text runs to its end
-                own, how = own_in_force({"art-000": units["tekst"]}, pub)
+                own, how = own_in_force({"art-000": units["tekst"]}, pub, in_force_rx)
                 if not own:
                     raise Hold("flat_text_no_own_clause:" + how[:80])
                 if own != day:
@@ -953,7 +996,17 @@ def main():
                                          "престанува да важи не е утврден."})
         act = {"slug": slug, "short": title, "title": title, "url": PAGE_URL.format(id=i), "first_law": slug,
                "earlier_laws": [], "versions": versions}
-        if marks and (marks["amended_by"] or marks["cited_by"]):
+        if corr_ids:
+            marks = marks or {"amended_by": [], "cited_by": []}
+            am = [x for x in marks["amended_by"] if x["ref"] not in {f"ldbis:{c}" for c in corr_ids}]
+            cr = sorted((ref_of(c) for c in set(corr_ids)), key=lambda x: x["_key"])
+            for x in cr:
+                x.pop("_key")
+            marks = {"amended_by": sorted(am + cr, key=lambda x: (dmy((recs.get(int(x["ref"][6:])) or {}).get("published")) or "", int(x["ref"][6:]))),
+                     "cited_by": marks["cited_by"]}
+            act["label"] = "amended, not consolidated" if am else "corrected, not consolidated"
+            act.update({k: v for k, v in marks.items() if v})
+        elif marks and (marks["amended_by"] or marks["cited_by"]):
             act["label"] = "amended, not consolidated" if marks["amended_by"] else "cited later, not consolidated"
             act.update({k: v for k, v in marks.items() if v})
         parts[(pk, year)]["acts"].append(act)

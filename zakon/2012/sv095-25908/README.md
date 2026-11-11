@@ -64,6 +64,24 @@
 
 Act id: `zakon-2012-sv095-25908` (tags `zakon-2012-sv095-25908/<day>`; `python tools/on.py <day> zakon-2012-sv095-25908`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за комунални дејности („Службен весник на Република Македонија“ бр. 163/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29899)
+- [Закон за дополнување на Законот за комуналните дејности („Службен весник на Република Македонија“ бр. 42/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31209)
+- [Закон за изменување и дополнување на Законот за комуналните дејности („Службен весник на Република Македонија“ бр. 44/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36373)
+- [Закон за изменување и дополнување на Законот за комуналните дејности („Службен весник на Република Македонија“ бр. 147/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38409)
+- [Закон за изменување и дополнување на Законот за комуналните дејности („Службен весник на Република Македонија“ бр. 31/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40630)
+- [Закон за изменување и дополнување на Законот за комуналните дејности („Службен весник на Република Македонија“ бр. 64/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42739)
+- [Закон за изменување и дополнување на Законот за комуналните дејности („Службен весник на Република Северна Македонија“ бр. 302/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54581)
+- [Закон за изменување и дополнување на Законот за комуналните дејности („Службен весник на Република Северна Македонија“ бр. 255/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68577)
+- [Закон за изменување на Законот за комуналните дејности („Службен весник на Република Северна Македонија“ бр. 3/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68915)
+- [Закон за изменување на Законот за комуналните дејности („Службен весник на Република Северна Македонија“ бр. 17/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69139)
+- [Закон за изменување на Законот за комуналните дејности („Службен весник на Република Северна Македонија“ бр. 223/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74960)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

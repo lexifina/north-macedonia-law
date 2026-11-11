@@ -11,6 +11,16 @@
 
 Act id: `pravilnik-2020-sv299-54641` (tags `pravilnik-2020-sv299-54641/<day>`; `python tools/on.py <day> pravilnik-2020-sv299-54641`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за формата и содржината на изјавата за точност на внесените податоци и за формата, содржината и образецот на пријавата за стекнување со правото на субвенциониран студентски оброк („Службен весник на Република Северна Македонија“ бр. 164/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56920)
+- [Правилник за изменување на Правилникот за формата и содржината на изјавата за точност на внесените податоци и за формата, содржината и образецот на пријавата за стекнување со правото на субвенциониран студентски оброк („Службен весник на Република Северна Македонија“ бр. 161/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=63757)
+- [Правилник за изменување на Правилникот за формата и содржината на изјавата за точност на внесените податоци и за формата, содржината и образецот на пријавата за стекнување со правото на субвенциониран студентски оброк („Службен весник на Република Северна Македонија“ бр. 78/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70043)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

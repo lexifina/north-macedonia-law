@@ -7,6 +7,20 @@
 
 Act id: `pravilnik-2009-sv146-18276` (tags `pravilnik-2009-sv146-18276/<day>`; `python tools/on.py <day> pravilnik-2009-sv146-18276`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за начинот на остварување и користење на правото на социјална парична помош („Службен весник на Република Македонија“ бр. 59/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22335)
+- [Правилник за изменување на Правилникот за начинот на остварување и користење на правото на социјална парична помош („Службен весник на Република Македонија“ бр. 123/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23254)
+- [Правилник за дополнување на Правилникот за начинот на остварување и користење на правото на социјална парична помош („Службен весник на Република Македонија“ бр. 139/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23441)
+- [Правилник за дополнување на Правилникот за начинот на остварување и користење на правото на социјална парична помош („Службен весник на Република Македонија“ бр. 35/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24864)
+- [Правилник за изменување и дополнување на Правилникот за начинот на остварување и користење на правото на социјална парична помош („Службен весник на Република Македонија“ бр. 62/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25457)
+- [Правилник за дополнување на Правилникот за начинот на остварување и користење на правото на социјална парична помош („Службен весник на Република Македонија“ бр. 116/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26291)
+- [Правилник за изменување на Правилникот за начинот на остварување и користење на правото на социјална парична помош („Службен весник на Република Македонија“ бр. 150/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26852)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

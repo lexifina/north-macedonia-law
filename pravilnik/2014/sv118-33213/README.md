@@ -24,6 +24,14 @@
 
 Act id: `pravilnik-2014-sv118-33213` (tags `pravilnik-2014-sv118-33213/<day>`; `python tools/on.py <day> pravilnik-2014-sv118-33213`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за начинот и постапката за спроведување на стручен испит за вршење работи на застапување во осигурување („Службен весник на Република Македонија“ бр. 16/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44825)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

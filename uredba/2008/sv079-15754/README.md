@@ -16,6 +16,14 @@
 
 Act id: `uredba-2008-sv079-15754` (tags `uredba-2008-sv079-15754/<day>`; `python tools/on.py <day> uredba-2008-sv079-15754`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за дополнување на Уредбата за Методологијата за утврдување на критериуми за распределба на блок дотации за средното образование по општини и Градот Скопје за 2009 година („Службен весник на Република Македонија“ бр. 159/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16207)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

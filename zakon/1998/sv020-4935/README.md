@@ -81,6 +81,21 @@
 
 Act id: `zakon-1998-sv020-4935` (tags `zakon-1998-sv020-4935/<day>`; `python tools/on.py <day> zakon-1998-sv020-4935`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за денационализација („Службен весник на Република Македонија“ бр. 31/2000)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5873)
+- [Закон за изменување на Законот за денационализација („Службен весник на Република Македонија“ бр. 42/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8002)
+- [Закон за изменување и дополнување на Законот за денационализација („Службен весник на Република Македонија“ бр. 44/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13899)
+- [Закон за изменување и дополнување на Законот за денационализација („Службен весник на Република Македонија“ бр. 72/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19518)
+- [Закон за изменување на Законот за денационализација („Службен весник на Република Македонија“ бр. 171/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21121)
+- [Закон за дополнување на Законот за денационализација („Службен весник на Република Македонија“ бр. 55/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28148)
+- [Закон за изменување на Законот за денационализација („Службен весник на Република Македонија“ бр. 33/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35825)
+- [Закон за изменување и дополнување на Законот за денационализација („Службен весник на Република Македонија“ бр. 104/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37688)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

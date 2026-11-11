@@ -7,6 +7,22 @@
 
 Act id: `zakon-2005-sv100-10141` (tags `zakon-2005-sv100-10141/<day>`; `python tools/on.py <day> zakon-2005-sv100-10141`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за радиодифузната дејност („Службен весник на Република Македонија“ бр. 19/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12897)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.126/2006 од 12 септември 2007 година („Службен весник на Република Македонија“ бр. 115/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12403)
+- [Одлука на Уставниот суд на Република Македонија со која се укинува член 140 став 3 во делот: „или странски“ од Законот зар адиодифузната дејност („Службен весник на Република Македонија“ бр.100/2005 и 19/2007) („Службен весник на Република Македонија“ бр. 8/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14196)
+- [Закон за изменување и дополнување на Законот за радиодифузната дејност („Службен весник на Република Македонија“ бр. 103/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15130)
+- [Закон за изменување на Законот за радиодифузната дејност („Службен весник на Република Македонија“ бр. 6/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18628)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.191/2009 од 31.03.2010 година („Службен весник на Република Македонија“ бр. 51/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19247)
+- [Закон за изменување и дополнување на Законот за радиодифузната дејност („Службен весник на Република Македонија“ бр. 145/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20593)
+- [Закон за изменување и дополнување на Законот за радиодифузната дејност („Службен весник на Република Македонија“ бр. 97/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22947)
+- [Закон за изменување и дополнување на Законот за радиодифузната дејност („Службен весник на Република Македонија“ бр. 72/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28395)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

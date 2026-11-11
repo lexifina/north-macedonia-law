@@ -12,6 +12,14 @@
 
 Act id: `pravilnik-2011-sv086-22743` (tags `pravilnik-2011-sv086-22743/<day>`; `python tools/on.py <day> pravilnik-2011-sv086-22743`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за престанување на важењето на Правилникот за формата и содржината на Образецот на барање за почеток со работа на кинотека и за формата и содржината на Образецот на барање за донесување на решение за исполнување на посебните услови за почеток со работа на кинотеката („Службен весник на Република Македонија“ бр. 80/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41501)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

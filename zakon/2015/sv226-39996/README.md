@@ -9,6 +9,15 @@
 
 Act id: `zakon-2015-sv226-39996` (tags `zakon-2015-sv226-39996/<day>`; `python tools/on.py <day> zakon-2015-sv226-39996`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 138/2017 од 03 октомври 2018 година („Службен весник на Република Македонија“ бр. 191/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43145)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 59/2018 од 27 март 2019 година („Службен весник на Република Северна Македонија“ бр. 70/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47172)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

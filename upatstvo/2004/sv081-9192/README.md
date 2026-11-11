@@ -24,6 +24,14 @@
 
 Act id: `upatstvo-2004-sv081-9192` (tags `upatstvo-2004-sv081-9192/<day>`; `python tools/on.py <day> upatstvo-2004-sv081-9192`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Упатство за изменување на Упатството за соработка на органите на државната управа, јавните претпријатија, јавните установи и други правни лица што располагаат со државен капитал со Државната комисија за спречување на корупцијата („Службен весник на Република Македонија“ бр. 135/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11904)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

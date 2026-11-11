@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2006-sv078-11939` (tags `pravilnik-2006-sv078-11939/<day>`; `python tools/on.py <day> pravilnik-2006-sv078-11939`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за поблиската содржина, размер и начин на графичка обработка на урбанистичките планови („Службен весник на Република Македонија“ бр. 37/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31082)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

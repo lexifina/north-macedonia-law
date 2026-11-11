@@ -36,6 +36,14 @@
 
 Act id: `pravilnik-2016-sv217-44314` (tags `pravilnik-2016-sv217-44314/<day>`; `python tools/on.py <day> pravilnik-2016-sv217-44314`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот начинот и правилата на летање со крила за слободно летање („Службен весник на Република Северна Македонија“ бр. 122/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49605)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

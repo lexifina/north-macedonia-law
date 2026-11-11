@@ -73,6 +73,26 @@
 
 Act id: `zakon-2002-sv055-7514` (tags `zakon-2002-sv055-7514/<day>`; `python tools/on.py <day> zakon-2002-sv055-7514`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за метрологијата („Службен весник на Република Македонија“ бр. 84/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12944)
+- [Закон за изменување и дополнување на Законот за метрологијата („Службен весник на Република Македонија“ бр. 120/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17850)
+- [Закон за изменување и дополнување на Законот за метрологијата („Службен весник на Република Македонија“ бр. 136/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23399)
+- [Закон за изменување и дополнување на Законот за метрологијата („Службен весник на Република Македонија“ бр. 6/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24344)
+- [Закон за изменување и дополнување на Законот за метрологијата („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29950)
+- [Закон за дополнување на Законот за метрологијата („Службен весник на Република Македонија“ бр. 41/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31177)
+- [Закон за изменување и дополнување на Законот за метрологијата („Службен весник на Република Македонија“ бр. 192/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39255)
+- [Закон за изменување и дополнување на Законот за метрологијата („Службен весник на Република Македонија“ бр. 53/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40986)
+- [Закон за изменување и дополнување на Законот за метрологијата („Службен весник на Република Македонија“ бр. 64/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42726)
+- [Закон за изменување на Законот за метрологијата („Службен весник на Република Северна Македонија“ бр. 215/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57549)
+- [Закон за изменување и дополнување на Законот за метрологијата („Службен весник на Република Северна Македонија“ бр. 147/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67303)
+- [Закон за изменување и дополнување на Законот за метрологијата („Службен весник на Република Северна Македонија“ бр. 156/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71400)
+- [Закон за изменување на Законот за метрологијата („Службен весник на Република Северна Македонија“ бр. 212/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74849)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

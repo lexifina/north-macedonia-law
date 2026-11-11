@@ -23,6 +23,14 @@
 
 Act id: `uredba-2008-sv127-15816` (tags `uredba-2008-sv127-15816/<day>`; `python tools/on.py <day> uredba-2008-sv127-15816`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување на Уредбата за условите, критериумите и начинот на доделување на категоријата спортист - спортска надеж („Службен весник на Република Македонија“ бр. 107/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26223)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -11,6 +11,14 @@
 
 Act id: `pravilnik-2011-sv176-23986` (tags `pravilnik-2011-sv176-23986/<day>`; `python tools/on.py <day> pravilnik-2011-sv176-23986`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Правилникот за формата и содржината на образецот на барањето за издавање дозвола за увоз, извоз и транзит на токсични хемикалии и нивните прекурзори за целите кои не се забранети („Службен весник на Република Македонија“ бр. 192/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34847)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

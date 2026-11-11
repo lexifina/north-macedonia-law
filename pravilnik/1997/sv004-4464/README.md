@@ -7,6 +7,15 @@
 
 Act id: `pravilnik-1997-sv004-4464` (tags `pravilnik-1997-sv004-4464/<day>`; `python tools/on.py <day> pravilnik-1997-sv004-4464`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за определување на посебните податоци потребни за системот на државната евиденција и за пропишување на формата и содржината на образецот за системот на државната евиденција („Службен весник на Република Македонија“ бр. 6/2000)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5621)
+- [Правилник за изменување на Правилникот за определување на посебните податоци потребни за системот на државната евиденција и за пропишување на формата и содржината на образецот за системот на државната евиденција („Службен весник на Република Македонија“ бр. 9/2001)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6376)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

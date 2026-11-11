@@ -39,6 +39,16 @@
 
 Act id: `zakon-2003-sv024-8485` (tags `zakon-2003-sv024-8485/<day>`; `python tools/on.py <day> zakon-2003-sv024-8485`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за сметководството за непрофитните организации („Службен весник на Република Македонија“ бр. 17/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21429)
+- [Закон за изменување и дополнување на Законот за сметководството за непрофитните организации („Службен весник на Република Македонија“ бр. 154/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38540)
+- [Закон за изменување на Законот за сметководството за непрофитните организации („Службен весник на Република Северна Македонија“ бр. 122/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56286)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

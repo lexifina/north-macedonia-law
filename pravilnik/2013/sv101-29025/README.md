@@ -23,6 +23,14 @@
 
 Act id: `pravilnik-2013-sv101-29025` (tags `pravilnik-2013-sv101-29025/<day>`; `python tools/on.py <day> pravilnik-2013-sv101-29025`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за начинот и постапката за издавање, обновување, одземање на овластувања за изработка на проектна документација, за ревизија на проектна документација, за инженер за изведба и за надзорен инженер, формата и содржината на образецот на овластувањата, како и формата, содржината и начинот на водењето на регистарот за издадени и одземени овластувања („Службен весник на Република Северна Македонија“ бр. 53/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43292)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

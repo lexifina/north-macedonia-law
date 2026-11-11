@@ -7,6 +7,18 @@
 
 Act id: `upatstvo-2007-sv003-12221` (tags `upatstvo-2007-sv003-12221/<day>`; `python tools/on.py <day> upatstvo-2007-sv003-12221`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Упатство за изменување на Упатството за начинот на пресметување и плаќање на аконтациите на персоналниот данок на доход по одбивка („Службен весник на Република Македонија“ бр. 28/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13385)
+- [Упатство за изменување и дополнување на Упатството за начинот на пресметување и плаќање на аконтациите на персоналниот данок на доход по одбивка („Службен весник на Република Македонија“ бр. 3/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14026)
+- [Упатство за изменување на Упатството за начинот на пресметување и плаќање на аконтациите на персоналниот данок на доход по одбивка („Службен весник на Република Македонија“ бр. 9/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16472)
+- [Упатство за изменување на Упатството за начинот на пресметување и плаќање на аконтациите на персоналниот данок на доход по одбивка („Службен весник на Република Македонија“ бр. 16/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16501)
+- [Упатство за изменување на Упатството за начинот на пресметување и плаќање на аконтациите на персоналниот данок на доход по одбивка („Службен весник на Република Македонија“ бр. 15/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18781)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

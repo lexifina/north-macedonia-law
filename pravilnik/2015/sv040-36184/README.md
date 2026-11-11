@@ -19,6 +19,15 @@
 
 Act id: `pravilnik-2015-sv040-36184` (tags `pravilnik-2015-sv040-36184/<day>`; `python tools/on.py <day> pravilnik-2015-sv040-36184`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за начинот на водење, формата и содржината на Регистарот на цени и закупнини и формата и содржината на изјавата дадена од продавачот/закуподавецот заверена кај нотар („Службен весник на Република Македонија“ бр. 64/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36907)
+- [Правилник за изменување на Правилникот за начинот на водење, формата и содржината на Регистарот на цени и закупнини и формата и содржината на изјавата дадена од продавачот/закуподавецот заверена кај нотар („Службен весник на Република Македонија“ бр. 52/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=45112)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

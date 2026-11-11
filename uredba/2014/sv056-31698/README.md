@@ -43,6 +43,16 @@
 
 Act id: `uredba-2014-sv056-31698` (tags `uredba-2014-sv056-31698/<day>`; `python tools/on.py <day> uredba-2014-sv056-31698`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување на Уредбата за личностите и објектите што се обезбедуваат, видовите на мерки и активности и степените на обезбедување („Службен весник на Република Македонија“ бр. 161/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42388)
+- [Уредба за изменување и дополнување на Уредбата за личностите и објектите што се обезбедуваат, видовите на мерки и активности и степените на обезбедување („Службен весник на Република Северна Македонија“ бр. 267/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51305)
+- [Уредба за изменување на Уредбата за личностите и објектите што се обезбедуваат, видовите на мерки и активности и степените на обезбедување („Службен весник на Република Северна Македонија“ бр. 244/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64827)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

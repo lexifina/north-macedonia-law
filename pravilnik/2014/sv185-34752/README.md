@@ -7,6 +7,15 @@
 
 Act id: `pravilnik-2014-sv185-34752` (tags `pravilnik-2014-sv185-34752/<day>`; `python tools/on.py <day> pravilnik-2014-sv185-34752`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за измена и дополнување на Правилникот за обезбедување на услугите опфатени со универзална услуга („Службен весник на Република Северна Македонија“ бр. 75/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55638)
+- [Правилник за измена и дополнување на Правилникот за обезбедување на услугите опфатени со универзална услуга („Службен весник на Република Северна Македонија“ бр. 113/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73857)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

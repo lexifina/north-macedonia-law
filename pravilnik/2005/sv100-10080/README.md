@@ -12,6 +12,14 @@
 
 Act id: `pravilnik-2005-sv100-10080` (tags `pravilnik-2005-sv100-10080/<day>`; `python tools/on.py <day> pravilnik-2005-sv100-10080`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за дополнување на Правилникот за трошоците за работите извршени надвор од управната постапка, по барање на странката („Службен весник на Република Македонија“ бр. 62/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19360)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

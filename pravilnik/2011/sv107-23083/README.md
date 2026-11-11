@@ -7,6 +7,19 @@
 
 Act id: `pravilnik-2011-sv107-23083` (tags `pravilnik-2011-sv107-23083/<day>`; `python tools/on.py <day> pravilnik-2011-sv107-23083`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за дополнување на Правилникот за формата и содржината на регистарските таблици и на пробните таблици на возилата и начинот и постапката на нивно издавање („Службен весник на Република Македонија“ бр. 29/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24794)
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 224/2011 од 14 ноември 2012 година („Службен весник на Република Македонија“ бр. 149/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26854)
+- [Правилник за изменување и дополнување на Правилникот за формата и содржината на регистарските таблици и на пробните таблици на возилата и начинот и постапката на нивно издавање („Службен весник на Република Македонија“ бр. 164/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27017)
+- [Правилник за дополнување на Правилникот за формата и содржината на регистарските таблици и на пробните таблици на возилата и начинот и постапката на нивно издавање („Службен весник на Република Македонија“ бр. 114/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33076)
+- [Правилник за изменување и дополнување на Правилникот за содржината на регистарските таблици и на пробните таблици на возилата и начинот и постапката на нивно издавање („Службен весник на Република Македонија“ бр. 32/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35803)
+- [Правилник за дополнување на Правилникот за формата и содржината на регистарските таблици и на пробните таблици на возилата и начинот и постапката на нивно издавање („Службен весник на Република Македонија“ бр. 119/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37957)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

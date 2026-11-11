@@ -7,6 +7,21 @@
 
 Act id: `zakon-2009-sv161-18543` (tags `zakon-2009-sv161-18543/<day>`; `python tools/on.py <day> zakon-2009-sv161-18543`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за управување со пакување и отпад од пакување („Службен весник на Република Македонија“ бр. 17/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21465)
+- [Закон за изменување и дополнување на Законот за управување со пакување и отпад од пакување („Службен весник на Република Македонија“ бр. 47/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22087)
+- [Закон за дополнување на Законот за управување со пакување и отпад од пакување („Службен весник на Република Македонија“ бр. 136/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23394)
+- [Закон за изменување и дополнување на Законот за управување со пакување и отпад од пакување („Службен весник на Република Македонија“ бр. 6/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24341)
+- [Закон за изменување и дополнување на Законот за управување со пакување и отпад од пакување („Службен весник на Република Македонија“ бр. 39/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24929)
+- [Закон за изменување на Законот за управување со пакување и отпад од пакување („Службен весник на Република Македонија“ бр. 163/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29935)
+- [Закон за изменување и дополнување на Законот за управување со пакување и отпад од пакување („Службен весник на Република Македонија“ бр. 146/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38331)
+- [Закон за изменување и дополнување на Законот за управување со пакување и отпад од пакувањето („Службен весник на Република Македонија“ бр. 39/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40752)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

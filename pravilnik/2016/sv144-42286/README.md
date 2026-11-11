@@ -11,6 +11,14 @@
 
 Act id: `pravilnik-2016-sv144-42286` (tags `pravilnik-2016-sv144-42286/<day>`; `python tools/on.py <day> pravilnik-2016-sv144-42286`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за образецот на пријавата за учество на јавен оглас за избор и акредитација на програми за обуки и понудувачи на услуги за професионално усовршување на воспитно - образовниот кадар во основните и средните училишта во Република Македонија („Службен весник на Република Северна Македонија“ бр. 96/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56144)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

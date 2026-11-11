@@ -22,6 +22,15 @@
 
 Act id: `pravilnik-2023-sv105-62983` (tags `pravilnik-2023-sv105-62983/<day>`; `python tools/on.py <day> pravilnik-2023-sv105-62983`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за барањата што треба да се исполнат од страна на субјектите за добивање на дозвола за управување со отпад, формата и содржината на образецот на барањето за добивање на дозвола за управување со отпад и начинот на доставување на барањето, како и формата и содржината на образецот на дозволата за вршење на дејност за управување со отпад („Службен весник на Република Северна Македонија“ бр. 204/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64306)
+- [Правилник за изменување на Правилникот за барањата што треба да се исполнат од страна на субјектите за добивање на дозвола за управување со отпад, формата и содржината на образецот на барањето за добивање на дозвола за управување со отпад и начинот на доставување на барањето, како и формата и содржината на образецот на дозволата за вршење на дејност за управување со отпад („Службен весник на Република Северна Македонија“ бр. 249/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64848)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -13,6 +13,16 @@
 
 Act id: `pravilnik-2016-sv161-42393` (tags `pravilnik-2016-sv161-42393/<day>`; `python tools/on.py <day> pravilnik-2016-sv161-42393`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за дополнување на Правилникот за образецот на барањето за сместување во студентски дом и образецот на барањето за добивање стипендија („Службен весник на Република Македонија“ бр. 220/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44348)
+- [Правилник за изменување на Правилникот за образецот на барањето за сместување во студентски дом и образецот на барањето за добивање стипендија („Службен весник на Република Северна Македонија“ бр. 157/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50011)
+- [Правилник за изменување на Правилникот за образецот на барањето за сместување во студентски дом и образецот на барањето за добивање стипендија („Службен весник на Република Северна Македонија“ бр. 178/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57134)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

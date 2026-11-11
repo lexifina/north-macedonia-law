@@ -37,6 +37,21 @@
 
 Act id: `pravilnik-2013-sv143-29632` (tags `pravilnik-2013-sv143-29632/<day>`; `python tools/on.py <day> pravilnik-2013-sv143-29632`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за измена на Правилникот за начинот и постапката на маркетинг на пензиски фондови („Службен весник на Република Македонија“ бр. 182/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34889)
+- [правилник за измена и дополнување на Правилникот за начинот и постапката на маркетинг на пензиски фондови („Службен весник на Република Македонија“ бр. 166/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42540)
+- [Правилник за измена и дополнување на Правилникот за начинот и постапката на маркетинг на пензиски фондови („Службен весник на Република Македонија“ бр. 9/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43399)
+- [Правилник за измена и дополнување на Правилникот за начинот и постапката на маркетинг на пензиски фондови („Службен весник на Република Северна Македонија“ бр. 41/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43400)
+- [Правилник за измена и дополнување на Правилникот за начинот и постапката на маркетинг на пензиски фондови („Службен весник на Република Северна Македонија“ бр. 235/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50904)
+- [Правилник за измена на Правилникот за начинот и постапката на маркетинг на пензиски фондови („Службен весник на Република Северна Македонија“ бр. 116/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52767)
+- [Правилник за измена на Правилникот за начинот и постапката на маркетинг на пензиски фондови („Службен весник на Република Северна Македонија“ бр. 253/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57890)
+- [Правилник за измена и дополнување на Правилникот за начинот и постапката на маркетинг на пензиски фондови („Службен весник на Република Северна Македонија“ бр. 142/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70966)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -7,6 +7,20 @@
 
 Act id: `zakon-2002-sv059-6969` (tags `zakon-2002-sv059-6969/<day>`; `python tools/on.py <day> zakon-2002-sv059-6969`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за адвокатурата („Службен весник на Република Македонија“ бр. 60/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11254)
+- [Закон за изменување и дополнување на Законот за адвокатурата („Службен весник на Република Македонија“ бр. 29/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13360)
+- [Одлука на Уставниот суд на Република Македонија со која се укинуваат член 12-а став 4 и член 12-б од Законот за адвокатурата („Службен весник на Република Македонија“ број 59/2002 и 60/2006) („Службен весник на Република Македонија“ бр. 8/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14189)
+- [Закон за изменување и дополнување на Законот за адвокатура („Службен весник на Република Македонија“ бр. 106/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15273)
+- [Закон за дополнување на Законот за адвокатура („Службен весник на Република Македонија“ бр. 135/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23386)
+- [Закон за изменување и дополнување на Законот за адвокатура („Службен весник на Република Македонија“ бр. 113/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26263)
+- [Закон за изменување и дополнување на Законот за адвокатурата („Службен весник на Република Македонија“ бр. 148/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38374)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

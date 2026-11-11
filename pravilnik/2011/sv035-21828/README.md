@@ -15,6 +15,14 @@
 
 Act id: `pravilnik-2011-sv035-21828` (tags `pravilnik-2011-sv035-21828/<day>`; `python tools/on.py <day> pravilnik-2011-sv035-21828`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за начинот на означување на јајцата наменети за пазар и јајцата наменети за инкубација, ознаките и употребата на ознаките („Службен весник на Република Македонија“ бр. 85/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28713)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

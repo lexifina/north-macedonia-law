@@ -21,6 +21,17 @@
 
 Act id: `zakon-2014-sv130-33622` (tags `zakon-2014-sv130-33622/<day>`; `python tools/on.py <day> zakon-2014-sv130-33622`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за основање на Државна комисија за одлучување во втор степен во областа на инспекцискиот надзор и прекршочната постапка („Службен весник на Република Македонија“ бр. 53/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40978)
+- [Закон за изменување и дополнување на Законот за основање на Државна комисија за одлучување во втор степен во областа на инспекцискиот надзор и прекршочната постапка („Службен весник на Република Македонија“ бр. 11/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42635)
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 63/2017 од 20 јуни 2018 година („Службен весник на Република Македонија“ бр. 122/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42859)
+- [Закон за престанување на важењето на Законот за основање на Државна комисија за одлучување во втор степен во областа на инспекцискиот надзор и прекршочната постапка („Службен весник на Република Северна Македонија“ бр. 194/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67800)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

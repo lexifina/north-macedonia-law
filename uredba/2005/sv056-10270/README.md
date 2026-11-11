@@ -15,6 +15,14 @@
 
 Act id: `uredba-2005-sv056-10270` (tags `uredba-2005-sv056-10270/<day>`; `python tools/on.py <day> uredba-2005-sv056-10270`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување и дополнување на Уредбата за определување на реонизација на зони на градовите и населените места во Република Македонија („Службен весник на Република Македонија“ бр. 87/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13550)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

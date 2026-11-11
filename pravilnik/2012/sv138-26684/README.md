@@ -31,6 +31,14 @@
 
 Act id: `pravilnik-2012-sv138-26684` (tags `pravilnik-2012-sv138-26684/<day>`; `python tools/on.py <day> pravilnik-2012-sv138-26684`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за подготвување, донесување и изменување на годишниот план на приходи и расходи за финансирање на јавните здравствени установи за остварување на правата од здравственото осигурување („Службен весник на Република Македонија“ бр. 203/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=48304)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

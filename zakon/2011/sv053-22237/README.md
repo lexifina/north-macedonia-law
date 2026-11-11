@@ -11,6 +11,14 @@
 
 Act id: `zakon-2011-sv053-22237` (tags `zakon-2011-sv053-22237/<day>`; `python tools/on.py <day> zakon-2011-sv053-22237`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 123/2019 од 9 декември 2020 година („Службен весник на Република Северна Македонија“ бр. 308/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54626)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

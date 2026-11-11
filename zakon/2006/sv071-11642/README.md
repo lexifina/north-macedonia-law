@@ -36,6 +36,15 @@
 
 Act id: `zakon-2006-sv071-11642` (tags `zakon-2006-sv071-11642/<day>`; `python tools/on.py <day> zakon-2006-sv071-11642`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за дополнување на Законот за забрана на развивање, производство, складирање и употреба на хемиски оружја („Службен весник на Република Македонија“ бр. 136/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23402)
+- [Закон за изменување и дополнување на Законот за забрана на развивање, производство, складирање и употреба на хемиски оружја („Службен весник на Република Македонија“ бр. 37/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40707)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -22,6 +22,17 @@
 
 Act id: `zakon-1998-sv003-4910` (tags `zakon-1998-sv003-4910/<day>`; `python tools/on.py <day> zakon-1998-sv003-4910`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за дополнување на Законот за основање на Агенција за поттикнување на развојот на земјоделството („Службен весник на Република Македонија“ бр. 43/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31473)
+- [Закон за изменување на Законот за основање на Агенција за поттикнување на развојот на земјоделството („Службен весник на Република Македонија“ бр. 64/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42715)
+- [Закон за изменување и дополнување на Законот за основање на Агенција за поттикнување на развојот на земјоделството („Службен весник на Република Македонија“ бр. 27/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43243)
+- [Закон за изменување и дополнување на Законот за основање на Агенција за поттикнување на развојот на земјоделството („Службен весник на Република Северна Македонија“ бр. 212/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74864)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

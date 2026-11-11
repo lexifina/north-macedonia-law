@@ -7,6 +7,28 @@
 
 Act id: `zakon-1972-sv045-590` (tags `zakon-1972-sv045-590/<day>`; `python tools/on.py <day> zakon-1972-sv045-590`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за комуналните такси („Службен весник на Република Македонија“ бр. 39/1977)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=721)
+- [Закон за изменување и дополнување на Законот за комуналните такси („Службен весник на Република Македонија“ бр. 42/1980)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1125)
+- [Закон за изменување на Законот за комуналните такси („Службен весник на Република Македонија“ бр. 51/1988)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1789)
+- [Закон за изменување и дополнување на Законот за комуналните такси („Службен весник на Република Македонија“ бр. 11/1991)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1959)
+- [Закон за изменување и дополнување на Законот за комуналните такси („Службен весник на Република Македонија“ бр. 28/1991)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1928)
+- [Закон за изменување на Законот за комуналните такси („Службен весник на Република Македонија“ бр. 4/1993)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3196)
+- [Закон за изменување и дополнување на Законот за комуналните такси („Службен весник на Република Македонија“ бр. 17/1993)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3411)
+- [Закон за изменување на Законот за комуналните такси („Службен весник на Република Македонија“ бр. 45/1993)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3258)
+- [Закон за дополнување на Законот за комуналните такси („Службен весник на Република Македонија“ бр. 33/1995)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3936)
+- [Закон за изменување и дополнување на Законот за комуналните такси („Службен весник на Република Македонија“ бр. 71/1996)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4385)
+
+Cited by:
+
+- [Закон за таксата за привремен престој („Службен весник на Република Македонија“ бр. 19/1996)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4318)
+- [Закон за утврдување и наплата на јавните приходи („Службен весник на Република Македонија“ бр. 13/2001)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6453)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -24,6 +24,14 @@
 
 Act id: `uredba-2011-sv013-21370` (tags `uredba-2011-sv013-21370/<day>`; `python tools/on.py <day> uredba-2011-sv013-21370`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување и дополнување на Уредбата за воспоставување и начин на користење на информацискиот систем за обработка на податоци во електронски облик и електронски потпис при поднесување барања и пријави до Агенцијата за катастар на недвижности („Службен весник на Република Македонија“ бр. 158/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38699)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

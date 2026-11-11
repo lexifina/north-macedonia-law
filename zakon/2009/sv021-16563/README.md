@@ -354,6 +354,22 @@
 
 Act id: `zakon-2009-sv021-16563` (tags `zakon-2009-sv021-16563/<day>`; `python tools/on.py <day> zakon-2009-sv021-16563`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за индустриската сопственост („Службен весник на Република Македонија“ бр. 24/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21612)
+- [Закон за дополнување на Законот за индустриската сопственост („Службен весник на Република Македонија“ бр. 12/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30678)
+- [Закон за изменување и дополнување на Законот за индустриска сопственост („Службен весник на Република Македонија“ бр. 41/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31165)
+- [Закон за изменување и дополнување на Законот за индустрискатa сопственост („Службен весник на Република Македонија“ бр. 152/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38457)
+- [Закон за изменување на Законот за индустриска сопственост („Службен весник на Република Македонија“ бр. 53/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40983)
+- [Закон за изменување и дополнување на Законот за индустриската сопственост („Службен весник на Република Македонија“ бр. 83/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42817)
+- [Закон за изменување и дополнување на Законот за индустриската сопственост („Службен весник на Република Северна Македонија“ бр. 31/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51990)
+- [Закон за изменување и дополнување на Законот за индустриската сопственост („Службен весник на Република Северна Македонија“ бр. 86/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70167)
+- [Закон за изменување и дополнување на Законот за индустриската сопственост („Службен весник на Република Северна Македонија“ бр. 212/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74871)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

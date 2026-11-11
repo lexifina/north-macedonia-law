@@ -53,6 +53,17 @@
 
 Act id: `pravilnik-2015-sv077-37120` (tags `pravilnik-2015-sv077-37120/<day>`; `python tools/on.py <day> pravilnik-2015-sv077-37120`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за полагање на приемен испит во Академијата за судии и јавни обвинители „Павел Шатев“ („Службен весник на Република Македонија“ бр. 195/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39364)
+- [Правилник за изменување и дополнување на Правилникот за полагање на приемен испит во Академијата за судии и јавни обвинители „Павел Шатев“ („Службен весник на Република Македонија“ бр. 15/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44550)
+- [Правилник за изменување и дополнување на Правилникот за полагање на приемен испит во Академијата за судии и јавни обвинители „Павел Шатев“ („Службен весник на Република Северна Македонија“ бр. 115/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49374)
+- [Правилник за изменување и дополнување на Правилникот за полагање на приемен испит во Академијата за судии и јавни обвинители „Павел Шатев“ („Службен весник на Република Северна Македонија“ бр. 193/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53430)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

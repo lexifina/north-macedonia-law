@@ -7,6 +7,14 @@
 
 Act id: `zakon-1990-sv017-1546` (tags `zakon-1990-sv017-1546/<day>`; `python tools/on.py <day> zakon-1990-sv017-1546`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за евиденциите во областа на трудот („Службен весник на Република Македонија“ бр. 12/1993)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3310)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

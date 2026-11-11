@@ -25,6 +25,15 @@
 
 Act id: `pravilnik-2009-sv108-17766` (tags `pravilnik-2009-sv108-17766/<day>`; `python tools/on.py <day> pravilnik-2009-sv108-17766`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за мерките за заштита на животната средина кои мораат да ги преземат производителите, сопствениците и субјектите кои постапуваат со искористените возила, нивните компоненти и материјали, целите и роковите за нивно постигнување и начинот и условите за складирање, формата и содржината на потврдата за преземање на возилото за уништување, формата и содржината на образецот за известување како и начинот на водење на евиденцијата („Службен весник на Република Македонија“ бр. 164/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20973)
+- [Правилник за изменување на Правилникот за мерките за заштита на животната средина кои мораат да ги превземат производителите, сопственицитe и субјектите кои постапуваат со искористените возила, нивните компонети и материјали, целите и роковите за нивно постигнување и начинот и условите за складирање, формата и содржината на потврдата за преземање на возилото за уништување, формата и содржината на образецот за известување како и начинот на водење на евиденцијата („Службен весник на Република Македонија“ бр. 114/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33121)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

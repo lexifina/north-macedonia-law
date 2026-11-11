@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2014-sv150-34001` (tags `pravilnik-2014-sv150-34001/<day>`; `python tools/on.py <day> pravilnik-2014-sv150-34001`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за начинот за остварување на правото на мобилност и слепило, потребната документација, составот на лекарите специјалисти за давање на конзилијарно мислење и наод во прв и втор степен за потребата од остварување на ова право, формата и содржината на конзилијарното мислење, како и надоместокот за издавање на конзилијарно мислење („Службен весник на Република Македонија“ бр. 164/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34341)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

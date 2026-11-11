@@ -52,6 +52,21 @@
 
 Act id: `zakon-1995-sv023-4094` (tags `zakon-1995-sv023-4094/<day>`; `python tools/on.py <day> zakon-1995-sv023-4094`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за контрола на предметите од скапоцени метали („Службен весник на Република Македонија“ бр. 22/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13085)
+- [Закон за изменување и дополнување на Законот за контрола на предмети од скапоцени метали („Службен весник на Република Македонија“ бр. 136/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23401)
+- [Закон за изменување на Законот за контрола на предметите од скапоцени метали („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29949)
+- [Закон за изменување и дополнување на Законот за контрола на предмети од скапоцени метали („Службен весник на Република Македонија“ бр. 192/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39306)
+- [Закон за изменување и дополнување на Законот за контрола на предметите од скапоцени метали („Службен весник на Република Македонија“ бр. 53/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40971)
+- [Закон за изменување на Законот за контрола на предметите од скапоцени метали („Службен весник на Република Македонија“ бр. 140/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42929)
+- [Закон за изменување на Законот за контрола на предметите од скапоцени метали („Службен весник на Република Северна Македонија“ бр. 215/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57551)
+- [Закон за изменување и дополнување на Законот за контрола на предметите од скапоцени метали („Службен весник на Република Северна Македонија“ бр. 147/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67299)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

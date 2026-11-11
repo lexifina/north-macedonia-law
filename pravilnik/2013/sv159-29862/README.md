@@ -27,6 +27,25 @@
 
 Act id: `pravilnik-2013-sv159-29862` (tags `pravilnik-2013-sv159-29862/<day>`; `python tools/on.py <day> pravilnik-2013-sv159-29862`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за геодетски работи за посебни намени („Службен весник на Република Македонија“ бр. 88/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32289)
+- [Правилник за дополнување на Правилникот за геодетски работи за посебни намени („Службен весник на Република Македонија“ бр. 110/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32848)
+- [Правилник за дополнување на Правилникот за геодетски работи за посебни намени („Службен весник на Република Македонија“ бр. 132/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33590)
+- [Правилник за изменување на Правилникот за геодетски работи за посебни намени („Службен весник на Република Македонија“ бр. 56/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36783)
+- [Правилник за дополнување на Правилникот за геодетски работи за посебни намени („Службен весник на Република Македонија“ бр. 195/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43981)
+- [Правилник за дополнување на Правилникот за геодетски работи за посебни намени („Службен весник на Република Македонија“ бр. 2/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=44449)
+- [Правилник за изменување и дополнување на Правилникот за геодетски работи за посебни намени („Службен весник на Република Македонија“ бр. 41/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=46976)
+- [Правилник за изменување и дополнување на Правилникот за геодетски работи за посебни намени („Службен весник на Република Северна Македонија“ бр. 48/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43326)
+- [Правилник за изменување и дополнување на Правилникот за геодетски работи за посебни намени („Службен весник на Република Северна Македонија“ бр. 183/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50381)
+- [Правилник за изменување и дополнување на Правилникот за геодетски работи за посебни намени („Службен весник на Република Северна Македонија“ бр. 265/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54164)
+- [Правилник за изменување и дополнување на Правилникот за геодетски работи за посебни намени („Службен весник на Република Северна Македонија“ бр. 69/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55589)
+- [Правилник за изменување и дополнување на Правилникот за геодетски работи за посебни намени („Службен весник на Република Северна Македонија“ бр. 52/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62347)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

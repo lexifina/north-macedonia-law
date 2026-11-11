@@ -128,6 +128,16 @@
 
 Act id: `zakon-2019-sv101-49117` (tags `zakon-2019-sv101-49117/<day>`; `python tools/on.py <day> zakon-2019-sv101-49117`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за електронски документи, електронска идентификација и доверливи услуги („Службен весник на Република Северна Македонија“ бр. 275/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51413)
+- [Закон за изменување и дополнување на Законот за електронски документи, електронска идентификација и доверливи услуги („Службен весник на Република Северна Македонија“ бр. 3/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68927)
+- [Закон за изменување и дополнување на Законот за електронски документи, електронска идентификација и доверливи услуги („Службен весник на Република Северна Македонија“ бр. 135/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70868)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -17,6 +17,15 @@
 
 Act id: `uredba-2021-sv208-57466` (tags `uredba-2021-sv208-57466/<day>`; `python tools/on.py <day> uredba-2021-sv208-57466`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за за изменување на Уредбата за начинот на утврдување, пресметување и висината на надоместокот за задолжителни резерви на сурова нафта и/или нафтени деривати и содржината, начинот и роковите за достава на податоци за пласманот на нафтени деривати на домашниот пазар („Службен весник на Република Северна Македонија“ бр. 225/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57655)
+- [Уредба за за изменување на Уредбата за начинот на утврдување, пресметување и висината на надоместокот за задолжителни резерви на сурова нафта и/или нафтени деривати и содржината, начинот и роковите за достава на податоци за пласманот на нафтени деривати на домашниот пазар („Службен весник на Република Северна Македонија“ бр. 176/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74504)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

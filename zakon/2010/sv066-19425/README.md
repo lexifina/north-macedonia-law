@@ -55,6 +55,20 @@
 
 Act id: `zakon-2010-sv066-19425` (tags `zakon-2010-sv066-19425/<day>`; `python tools/on.py <day> zakon-2010-sv066-19425`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за ревизија на инструментот за претпристапна помош (ИПА) („Службен весник на Република Македонија“ бр. 43/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31423)
+- [Закон за изменување и дополнување на Законот за ревизија на инструментот за претпристапна помош (ИПА) („Службен весник на Република Македонија“ бр. 154/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38539)
+- [Закон за изменување на Законот за ревизија на инструментот за претпристапна помош (ИПА) („Службен весник на Република Македонија“ бр. 27/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40509)
+- [Закон за изменување и дополнување на Закон за ревизија на инструментот за претпристапна помош (ИПА) („Службен весник на Република Македонија“ бр. 190/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42524)
+- [Закон за изменување и дополнување на Закон за ревизија на инструментот за претпристапна помош (ИПА) („Службен весник на Република Македонија“ бр. 83/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42803)
+- [Закон за изменување и дополнување на Закон за ревизија на инструментот за претпристапна помош (ИПА) („Службен весник на Република Северна Македонија“ бр. 251/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61238)
+- [Закон за изменување и дополнување на Закон за ревизија на инструментот за претпристапна помош (ИПА) („Службен весник на Република Северна Македонија“ бр. 262/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65006)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

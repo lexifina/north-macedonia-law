@@ -17,6 +17,15 @@
 
 Act id: `pravilnik-2015-sv223-39937` (tags `pravilnik-2015-sv223-39937/<day>`; `python tools/on.py <day> pravilnik-2015-sv223-39937`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за условите и начинот на полагање на испитот за медијатор („Службен весник на Република Македонија“ бр. 67/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41350)
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 7/2017 од 20 декември 2017 година („Службен весник на Република Македонија“ бр. 193/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=46367)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

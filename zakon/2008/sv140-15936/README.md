@@ -118,6 +118,31 @@
 
 Act id: `zakon-2008-sv140-15936` (tags `zakon-2008-sv140-15936/<day>`; `python tools/on.py <day> zakon-2008-sv140-15936`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за безбедност на сообраќајот на патиштата („Службен весник на Република Македонија“ бр. 64/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16914)
+- [Закон за дополнување на Законот за возила („Службен весник на Република Македонија“ бр. 53/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22237)
+- [Закон за изменување и дополнување на Законот за возила („Службен весник на Република Македонија“ бр. 123/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26391)
+- [Закон за изменување и дополнување на Законот за возила („Службен весник на Република Македонија“ бр. 70/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28997)
+- [Закон за изменување и дополнување на Законот за возила („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29948)
+- [Закон за изменување и дополнување на Законот за возила („Службен весник на Република Македонија“ бр. 138/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33714)
+- [Закон за изменување и дополнување на Законот за возила („Службен весник на Република Македонија“ бр. 154/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38567)
+- [Закон за изменување и дополнување на Законот за возила („Службен весник на Република Македонија“ бр. 192/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39290)
+- [Закон за изменување и дополнување на Законот за возила („Службен весник на Република Македонија“ бр. 39/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40778)
+- [Закон за изменување и дополнување на Законот за возила („Службен весник на Република Северна Македонија“ бр. 161/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50072)
+- [Закон за изменување на Законот за возила („Службен весник на Република Северна Македонија“ бр. 161/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50088)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 123/2019 од 9 декември 2020 година („Службен весник на Република Северна Македонија“ бр. 308/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54626)
+- [Закон за дополнување на Законот за возила („Службен весник на Република Северна Македонија“ бр. 87/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62790)
+- [Закон за изменување и дополнување на Законот за возила („Службен весник на Република Северна Македонија“ бр. 148/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71069)
+- [Закон за изменување и дополнување на Законот за возила („Службен весник на Република Северна Македонија“ бр. 160/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71294)
+- [Закон за изменување и дополнување на Законот за возила („Службен весник на Република Северна Македонија“ бр. 258/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72403)
+- [Закон за изменување и дополнување на Законот за возила („Службен весник на Република Северна Македонија“ бр. 58/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73332)
+- [Закон за изменување и дополнување на Законот за возила („Службен весник на Република Северна Македонија“ бр. 145/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74166)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

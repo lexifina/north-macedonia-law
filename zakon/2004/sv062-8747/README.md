@@ -100,6 +100,29 @@
 
 Act id: `zakon-2004-sv062-8747` (tags `zakon-2004-sv062-8747/<day>`; `python tools/on.py <day> zakon-2004-sv062-8747`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за угостителската дејност („Службен весник на Република Македонија“ бр. 89/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14662)
+- [Закон за изменување и дополнување на Законот за угостителската дејност („Службен весник на Република Македонија“ бр. 115/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20138)
+- [Закон за изменување и дополнување на Законот за угостителската дејност („Службен весник на Република Македонија“ бр. 53/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22279)
+- [Закон за изменување и дополнување на законот за угостителската дејност („Службен весник на Република Македонија“ бр. 141/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26710)
+- [Закон за изменување на Законот за угостителска дејност („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29942)
+- [Закон за изменување и дополнување на Законот за угостителска дејност („Службен весник на Република Македонија“ бр. 187/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30396)
+- [Закон за изменување и дополнување на Законот за угостителска дејност („Службен весник на Република Македонија“ бр. 166/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34389)
+- [Закон за дополнување на Законот за угостителска дејност („Службен весник на Република Македонија“ бр. 199/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34919)
+- [Закон за изменување и дополнување на Законот за угостителска дејност („Службен весник на Република Македонија“ бр. 129/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38032)
+- [Закон за изменување и дополнување на Законот за угостителска дејност („Службен весник на Република Македонија“ бр. 192/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39347)
+- [Закон за изменување и дополнување на Законот за угостителска дејност („Службен весник на Република Македонија“ бр. 39/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40771)
+- [Закон за изменување и дополнување на Законот за угостителската дејност („Службен весник на Република Македонија“ бр. 53/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40991)
+- [Закон за изменување на Законот за угостителска дејност („Службен весник на Република Македонија“ бр. 71/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41201)
+- [Закон за изменување на Законот за угостителска дејност („Службен весник на Република Северна Македонија“ бр. 31/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51989)
+- [Закон за изменување и дополнување на Законот за угостителска дејност („Службен весник на Република Северна Македонија“ бр. 16/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69126)
+- [Закон за изменување и дополнување на Законот за угостителска дејност („Службен весник на Република Северна Македонија“ бр. 134/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74067)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

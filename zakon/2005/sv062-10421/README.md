@@ -48,6 +48,20 @@
 
 Act id: `zakon-2005-sv062-10421` (tags `zakon-2005-sv062-10421/<day>`; `python tools/on.py <day> zakon-2005-sv062-10421`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Македонија, У.бр.49/2006 од 13 декември 2006 година („Службен весник на Република Македонија“ бр. 137/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12016)
+- [Закон за изменување и дополнување на Законот за јавен долг („Службен весник на Република Македонија“ бр. 88/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14539)
+- [Закон за изменување и дополнување на Законот за јавен долг („Службен весник на Република Македонија“ бр. 35/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21848)
+- [Закон за изменување и дополнување на Законот за јавен долг („Службен весник на Република Македонија“ бр. 139/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33660)
+- [Закон за изменување и дополнување на Законот за јавен долг („Службен весник на Република Северна Македонија“ бр. 98/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49090)
+- [Закон за изменување и дополнување на Законот за јавен долг („Службен весник на Република Северна Македонија“ бр. 151/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56613)
+- [Закон за изменување и дополнување на Законот за јавен долг („Службен весник на Република Северна Македонија“ бр. 12/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69068)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

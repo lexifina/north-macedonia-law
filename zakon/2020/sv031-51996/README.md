@@ -25,6 +25,17 @@
 
 Act id: `zakon-2020-sv031-51996` (tags `zakon-2020-sv031-51996/<day>`; `python tools/on.py <day> zakon-2020-sv031-51996`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за субвенциониран студентски оброк („Службен весник на Република Северна Македонија“ бр. 150/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56588)
+- [Закон за изменување и дополнување на Законот за субвенциониран студентски оброк („Службен весник на Република Северна Македонија“ бр. 91/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62815)
+- [Закон за изменување на Законот за субвенциониран студентски оброк („Службен весник на Република Северна Македонија“ бр. 30/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=65915)
+- [Закон за изменување на Законот за субвенциониран студентски оброк („Службен весник на Република Северна Македонија“ бр. 74/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69998)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

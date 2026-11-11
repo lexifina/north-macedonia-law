@@ -14,6 +14,19 @@
 
 Act id: `pravilnik-2011-sv056-22254` (tags `pravilnik-2011-sv056-22254/<day>`; `python tools/on.py <day> pravilnik-2011-sv056-22254`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за стандарди за вклопување на бесправни објекти во урбанистичко планска документација („Службен весник на Република Македонија“ бр. 162/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36912)
+- [Правилник за дополнување на Правилникот за стандарди за вклопување на бесправни објекти во урбанистичко планска документација („Службен весник на Република Македонија“ бр. 95/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28938)
+- [Правилник за изменување на Правилникот за стандарди за вклопување на бесправни објекти во урбанистичко планска документација („Службен весник на Република Македонија“ бр. 109/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32792)
+- [Правилник за дополнување на Правилникот за стандарди за вклопување на бесправни објекти во урбанистичко планска документација („Службен весник на Република Македонија“ бр. 64/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36906)
+- [Правилник за изменување на Правилникот за стандарди за вклопување на бесправни објекти во урбанистичко планска документација („Службен весник на Република Македонија“ бр. 217/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39843)
+- [Правилник за дополнување на Правилникот за стандарди за вклопување на бесправни објекти во урбанистичко планска документација („Службен весник на Република Македонија“ бр. 52/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40913)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

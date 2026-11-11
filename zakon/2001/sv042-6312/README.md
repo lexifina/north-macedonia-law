@@ -206,6 +206,20 @@
 
 Act id: `zakon-2001-sv042-6312` (tags `zakon-2001-sv042-6312/<day>`; `python tools/on.py <day> zakon-2001-sv042-6312`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за одбрана („Службен весник на Република Македонија“ бр. 5/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7947)
+- [Закон за изменување и дополнување на Законот за одбрана („Службен весник на Република Македонија“ бр. 58/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11187)
+- [Закон за изменување и дополнување на Законот за одбрана („Службен весник на Република Македонија“ бр. 110/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15262)
+- [Закон за изменување и дополнување на Законот за одбрана („Службен весник на Република Македонија“ бр. 51/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22184)
+- [Закон за изменување на Законот за одбрана („Службен весник на Република Македонија“ бр. 151/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23612)
+- [Закон за дополнување на Законот за одбрана („Службен весник на Република Македонија“ бр. 215/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39794)
+- [Закон за изменување и дополнување на Законот за одбрана („Службен весник на Република Северна Македонија“ бр. 42/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52052)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

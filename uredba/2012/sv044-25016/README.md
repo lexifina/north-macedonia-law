@@ -17,6 +17,14 @@
 
 Act id: `uredba-2012-sv044-25016` (tags `uredba-2012-sv044-25016/<day>`; `python tools/on.py <day> uredba-2012-sv044-25016`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување на Уредбата за формата, содржината и начинот на водење на Регистарот на доделени договори за воспоставување на јавно приватно партнерство и за формата и содржината на образецот на податоци за доделени договори за воспоставување на јавно приватно партнерство („Службен весник на Република Северна Македонија“ бр. 178/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71475)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -38,6 +38,14 @@
 
 Act id: `uredba-1996-sv034-4267` (tags `uredba-1996-sv034-4267/<day>`; `python tools/on.py <day> uredba-1996-sv034-4267`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Уредба за ознаките за звањата и униформата на припадниците на судската полиција („Службен весник на Република Македонија“ бр. 5/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27337)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

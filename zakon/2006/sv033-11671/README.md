@@ -18,6 +18,17 @@
 
 Act id: `zakon-2006-sv033-11671` (tags `zakon-2006-sv033-11671/<day>`; `python tools/on.py <day> zakon-2006-sv033-11671`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија у.бр 2/2009 од 9 септември 2009 година („Службен весник на Република Македонија“ бр. 117/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17765)
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 153/2017 од 20 јуни 2018 година („Службен весник на Република Македонија“ бр. 122/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42860)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 29/2020 од 24 февруари 2021 година („Службен весник на Република Северна Македонија“ бр. 51/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55341)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 273/2020 од 3 март 2021 година („Службен весник на Република Северна Македонија“ бр. 59/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55479)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

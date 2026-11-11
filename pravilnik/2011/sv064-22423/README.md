@@ -13,6 +13,19 @@
 
 Act id: `pravilnik-2011-sv064-22423` (tags `pravilnik-2011-sv064-22423/<day>`; `python tools/on.py <day> pravilnik-2011-sv064-22423`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за формата и содржината на барањето за издавање на првата потврда и дополнителната потврда за пуштање во употреба на железничко возило, како и за формата и содржината на првата потврда и дополнителната потврда за пуштање во употреба на железничко возило(*) („Службен весник на Република Македонија“ бр. 88/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32314)
+- [Правилник за изменување на Правилникот за формата и содржината на барањето за издавање на првата потврда и дополнителната потврда за пуштање во употреба на железничко возило, како и за формата и содржината на првата потврда и дополнителната потврда за пуштање во употреба на железничко возило(*) („Службен весник на Република Северна Македонија“ бр. 123/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49591)
+
+Cited by:
+
+- [Правилник за формата и содржината на барањето за издавање на првата потврда и дополнителната потврда за пуштање во употреба на железничко возило, како и за формата и содржината на првата потврда и дополнителната потврда за пуштање во употреба на железничко возило („Службен весник на Република Северна Македонија“ бр. 77/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70034)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -7,6 +7,15 @@
 
 Act id: `zakon-1992-sv080-302` (tags `zakon-1992-sv080-302/<day>`; `python tools/on.py <day> zakon-1992-sv080-302`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за Јавното обвинителство („Службен весник на Република Македонија“ бр. 19/1993)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3447)
+- [Закон за изменување на Законот за Јавното обвинителство („Службен весник на Република Македонија“ бр. 9/1994)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3762)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

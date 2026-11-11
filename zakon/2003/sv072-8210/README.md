@@ -15,6 +15,14 @@
 
 Act id: `zakon-2003-sv072-8210` (tags `zakon-2003-sv072-8210/<day>`; `python tools/on.py <day> zakon-2003-sv072-8210`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за гаранција на Република Македонија по Договорот за заем што ќе се склучи меѓу Европската банка за обнова и развој и Електростопанство на Македонија А.Д. за реализација на Проектот за изградба на 400 KW далекувод од Штип (Република Македонија) до Црвена Могила (Република Бугарија) („Службен весник на Република Македонија“ бр. 46/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9850)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

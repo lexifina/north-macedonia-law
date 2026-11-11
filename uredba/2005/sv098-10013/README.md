@@ -18,6 +18,16 @@
 
 Act id: `uredba-2005-sv098-10013` (tags `uredba-2005-sv098-10013/<day>`; `python tools/on.py <day> uredba-2005-sv098-10013`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување на Уредбата на начинот на работа на комисиите за процена и утврдување на висината на штета настаната од природни непогоди,епидемии,епизоотии,епифитотии и други несреќи („Службен весник на Република Македонија“ бр. 152/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20720)
+- [Уредба за дополнување на Уредбата за начинот на работа на комисиите за процена и утврдување на висината на штета настаната од природни непогоди и други несреќи („Службен весник на Република Македонија“ бр. 90/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37440)
+- [Уредба за изменување на Уредбата за начинот на работа на комисиите за процена и утврдување на висината на штета настаната од природни непогоди и други несреќи („Службен весник на Република Северна Македонија“ бр. 194/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50506)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

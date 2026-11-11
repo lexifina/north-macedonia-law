@@ -306,6 +306,25 @@
 
 Act id: `zakon-2013-sv055-28139` (tags `zakon-2013-sv055-28139/<day>`; `python tools/on.py <day> zakon-2013-sv055-28139`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за катастар на недвижности („Службен весник на Република Македонија“ бр. 41/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31166)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.67/2013 од 11 јуни 2014 година („Службен весник на Република Македонија“ бр. 101/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32569)
+- [Закон за изменување и дополнување на Законот за катастар на недвижности („Службен весник на Република Македонија“ бр. 115/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33071)
+- [Закон за изменување и дополнување на Законот за катастар на недвижности („Службен весник на Република Македонија“ бр. 116/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37818)
+- [Закон за изменување и дополнување на Законот за катастар на недвижности („Службен весник на Република Македонија“ бр. 153/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38509)
+- [Закон за изменување и дополнување на Законот за катастар на недвижности („Службен весник на Република Македонија“ бр. 192/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39655)
+- [Закон за изменување и дополнување на Законот за катастар на недвижности („Службен весник на Република Македонија“ бр. 61/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41151)
+- [Закон за дополнување на Законот за катастар на недвижности („Службен весник на Република Македонија“ бр. 172/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42461)
+- [Закон за изменување и дополнување на Законот за катастар на недвижности („Службен весник на Република Македонија“ бр. 64/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42733)
+- [Закон за изменување и дополнување на Законот за катастар на недвижности („Службен весник на Република Северна Македонија“ бр. 124/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49501)
+- [Закон за дополнување на Законот за катастар на недвижности („Службен весник на Република Северна Македонија“ бр. 155/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67388)
+- [Закон за за изменување и дополнување на Законот за катастар на недвижности („Службен весник на Република Северна Македонија“ бр. 212/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74856)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

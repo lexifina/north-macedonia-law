@@ -7,6 +7,16 @@
 
 Act id: `upatstvo-2001-sv051-6497` (tags `upatstvo-2001-sv051-6497/<day>`; `python tools/on.py <day> upatstvo-2001-sv051-6497`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Упатство за изменување на Упатството за начинот на пресметување и плаќање на аконтациите на персоналниот данок на доход на личните примања („Службен весник на Република Македонија“ бр. 69/2001)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6764)
+- [Упатство за изменување и дополнување на Упатството за начинот на пресметување и плаќање на аконтациите на персоналниот данок на доход на личните примања („Службен весник на Република Македонија“ бр. 95/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9610)
+- [Упатство за дополнување на Упатството за начинот на пресметување и плаќање на аконтациите на персоналниот данок на доход на личните примања („Службен весник на Република Македонија“ бр. 43/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9794)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

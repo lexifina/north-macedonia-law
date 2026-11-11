@@ -17,6 +17,15 @@
 
 Act id: `zakon-2019-sv146-49836` (tags `zakon-2019-sv146-49836/<day>`; `python tools/on.py <day> zakon-2019-sv146-49836`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 27/2020 и У. бр. 289/2020 од 1 декември 2022 година („Службен весник на Република Северна Македонија“ бр. 273/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61516)
+- [Одлука на Уставен суд на Република Северна Македонија, У.бр.47/2026 од 7 октомври 2026 година („Службен весник на Република Северна Македонија“ бр. 259/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75339)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

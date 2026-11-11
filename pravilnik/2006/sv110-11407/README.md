@@ -7,6 +7,16 @@
 
 Act id: `pravilnik-2006-sv110-11407` (tags `pravilnik-2006-sv110-11407/<day>`; `python tools/on.py <day> pravilnik-2006-sv110-11407`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за кадровска, техничка и организациона оспособеност за основање и работа на овластено правно лице за вршење услуги со хартии од вредност („Службен весник на Република Македонија“ бр. 7/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18649)
+- [Правилник за изменување и дополнување на Правилникот за кадровска,техничка и организциона оспособеност за основање и работа на овластено правно лице за вршење услуги со хартии од вредност („Службен весник на Република Македонија“ бр. 31/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18994)
+- [Правилник за изменување и дополнување на Правилникот за кадровска, техничка и организациона оспособеност за основање и работа на овластено правно лице за вршење услуги со хартии од вредност („Службен весник на Република Македонија“ бр. 195/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34926)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -21,6 +21,14 @@
 
 Act id: `upatstvo-2015-sv022-35542` (tags `upatstvo-2015-sv022-35542/<day>`; `python tools/on.py <day> upatstvo-2015-sv022-35542`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Упатство за изменување и дополнување на Упатството за начинот на постапување на министерствата и другите органи на државната управа при подготвувањето и следењето на спроведувањето на Годишната програма за работа на Владата на Република Македонија („Службен весник на Република Северна Македонија“ бр. 222/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50821)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

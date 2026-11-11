@@ -136,6 +136,32 @@
 
 Act id: `zakon-2009-sv064-16910` (tags `zakon-2009-sv064-16910/<day>`; `python tools/on.py <day> zakon-2009-sv064-16910`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за шумите („Службен весник на Република Македонија“ бр. 24/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21593)
+- [Закон за дополнување на Законот за шумите („Службен весник на Република Македонија“ бр. 53/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22241)
+- [Закон за дополнување на Законот за шумите („Службен весник на Република Македонија“ бр. 25/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27657)
+- [Закон за изменување и дополнување на Законот за шумите („Службен весник на Република Македонија“ бр. 79/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28555)
+- [Закон за изменување и дополнување на Законот за шумите („Службен весник на Република Македонија“ бр. 147/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29698)
+- [Закон за изменување и дополнување на Законот за шумите („Службен весник на Република Македонија“ бр. 43/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31417)
+- [Закон за изменување и дополнување на Законот за шумите („Службен весник на Република Македонија“ бр. 160/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34180)
+- [Закон за изменување и дополнување на Законот за шумите („Службен весник на Република Македонија“ бр. 33/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35821)
+- [Закон за изменување на Законот за шумите („Службен весник на Република Македонија“ бр. 44/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36331)
+- [Закон за изменување и дополнување на Законот за шумите („Службен весник на Република Македонија“ бр. 147/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38411)
+- [Закон за изменување на Законот за шумите („Службен весник на Република Македонија“ бр. 7/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40296)
+- [Закон за изменување и дополнување на Законот за шумите („Службен весник на Република Македонија“ бр. 39/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40760)
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 83/2016 од 27 септември 2017 година („Службен весник на Република Македонија“ бр. 147/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=45726)
+- [Закон за изменување и дополнување на Законот за шумите („Службен весник на Република Северна Македонија“ бр. 274/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61529)
+- [Закон за изменување и дополнување на Законот за шумите („Службен весник на Република Северна Македонија“ бр. 255/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68575)
+- [Закон за изменување и дополнување на Законот за шумите („Службен весник на Република Северна Македонија“ бр. 59/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69772)
+- [Закон за изменување и дополнување на Законот за шумите („Службен весник на Република Северна Македонија“ бр. 58/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73334)
+- [Закон за изменување на Законот за шумите („Службен весник на Република Северна Македонија“ бр. 134/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74063)
+- [Закон за изменување на Законот за шумите („Службен весник на Република Северна Македонија“ бр. 242/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=75155)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

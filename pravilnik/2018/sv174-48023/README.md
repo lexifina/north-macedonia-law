@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2018-sv174-48023` (tags `pravilnik-2018-sv174-48023/<day>`; `python tools/on.py <day> pravilnik-2018-sv174-48023`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за начинот, постапката и програмата за полагање на испитот за добивање на СПК на лице одговорно за превоз, формата и содржината на пријавата за полагање на испит, записникот за положен испит и на сертификатот („Службен весник на Република Северна Македонија“ бр. 103/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49144)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

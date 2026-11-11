@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2009-sv142-18147` (tags `pravilnik-2009-sv142-18147/<day>`; `python tools/on.py <day> pravilnik-2009-sv142-18147`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за начинот и постапката на полагање на стручниот испит за оспособеност за извршување на работи на техничкиот преглед, формата и содржината на образецот на потврдата за положен испит, начинот на работа на комисијата за спроведување на стручниот испит и програмата за полагање на стручниот испит, како и начинот на водење на евиденцијата за спроведените стручни испити од страна на комисијата („Службен весник на Република Македонија“ бр. 58/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28173)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

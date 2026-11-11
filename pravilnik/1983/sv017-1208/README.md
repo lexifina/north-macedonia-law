@@ -19,6 +19,14 @@
 
 Act id: `pravilnik-1983-sv017-1208` (tags `pravilnik-1983-sv017-1208/<day>`; `python tools/on.py <day> pravilnik-1983-sv017-1208`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за дополнување на Правилникот за начинот на определување и одржување на заштитни зони околу изворите на водата за пиење („Службен весник на Република Македонија“ бр. 15/1989)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1547)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

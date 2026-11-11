@@ -60,6 +60,16 @@
 
 Act id: `pravilnik-2009-sv073-17233` (tags `pravilnik-2009-sv073-17233/<day>`; `python tools/on.py <day> pravilnik-2009-sv073-17233`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за стручно оспособување, проверки, дозволи и овластувања на персоналот за поставување, одржување, контрола и мониторирање на техничките средства, уредите и опремата, за давање на услуги на воздухопловна навигација („Службен весник на Република Македонија“ бр. 139/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43113)
+- [Правилник за изменување на Правилникот за стручно оспособување, проверки, дозволи и овластувања на персоналот за поставување, одржување, контрола и мониторирање на техничките средства, уредите и опремата, за давање на услуги на воздухопловна навигација („Службен весник на Република Северна Македонија“ бр. 111/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49283)
+- [Правилник за изменување и дополнување на Правилникот за стручно оспособување, проверки, дозволи и овластувања на персоналот за поставување, одржување, контрола и мониторирање на техничките средства, уредите и опремата, за давање на услуги на воздухопловна навигација („Службен весник на Република Северна Македонија“ бр. 245/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54026)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

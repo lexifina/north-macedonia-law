@@ -26,6 +26,15 @@
 
 Act id: `pravilnik-1996-sv051-4178` (tags `pravilnik-1996-sv051-4178/<day>`; `python tools/on.py <day> pravilnik-1996-sv051-4178`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за формата, содржината и начинот на издавање на контролните маркици за означување на преработките од тутун („Службен весник на Република Македонија“ бр. 21/1997)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4418)
+- [Правилник за изменување на Правилникот за формата, содржината и начинот на издавање на контролните маркици за означување на преработките на тутун („Службен весник на Република Македонија“ бр. 44/1999)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5508)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

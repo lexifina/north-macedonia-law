@@ -7,6 +7,15 @@
 
 Act id: `pravilnik-2019-sv002-43578` (tags `pravilnik-2019-sv002-43578/<day>`; `python tools/on.py <day> pravilnik-2019-sv002-43578`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за правилата за утврдување на листата на превозници кои се предмет на оперативна забрана („Службен весник на Република Северна Македонија“ бр. 113/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49293)
+- [Правилник за изменување и дополнување на Правилникот за правилата за утврдување на листата на превозници кои се предмет на оперативна забрана („Службен весник на Република Северна Македонија“ бр. 171/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53253)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

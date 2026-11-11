@@ -7,6 +7,22 @@
 
 Act id: `zakon-2006-sv024-11366` (tags `zakon-2006-sv024-11366/<day>`; `python tools/on.py <day> zakon-2006-sv024-11366`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за тутун и тутунски производи („Службен весник на Република Македонија“ бр. 88/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14575)
+- [Закон за изменување и дополнување на Законот за тутун и тутунски производи („Службен весник на Република Македонија“ бр. 36/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21807)
+- [Закон за изменување и дополнување на Законот за тутун и тутунски производи („Службен весник на Република Македонија“ бр. 53/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22275)
+- [Закон за изменување на Законот за тутун и тутунски производи („Службен весник на Република Македонија“ бр. 93/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28909)
+- [Закон за изменување и дополнување на Законот за тутун и тутунски производи („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29967)
+- [Закон за изменување и дополнување на Законот за тутун и тутунски производи („Службен весник на Република Македонија“ бр. 151/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34027)
+- [Закон за изменување и дополнување на Законот за тутун и тутунски производи („Службен весник на Република Македонија“ бр. 193/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39248)
+- [Закон за изменување и дополнување на Законот за тутун и тутунски производи („Службен весник на Република Македонија“ бр. 213/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39751)
+- [Закон за изменување и дополнување на Законот за тутун и тутунски производи („Службен весник на Република Македонија“ бр. 39/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40780)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -82,6 +82,43 @@
 
 Act id: `zakon-2004-sv016-9396` (tags `zakon-2004-sv016-9396/<day>`; `python tools/on.py <day> zakon-2004-sv016-9396`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за трговијата („Службен весник на Република Македонија“ бр. 128/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11808)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 63/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12636)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 88/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14573)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 159/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16217)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 20/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17058)
+- [Одлука на Уставниот суд на Република Македонија со која се укинува член 24-а став 3 и член 57-а од Законот за трговија („Службен весник на Република Македонија“ бр. 48/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16811)
+- [Закон за изменување и дополнување на законот за трговија („Службен весник на Република Македонија“ бр. 99/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17615)
+- [Закон за дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 105/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17674)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 115/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20137)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 158/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20865)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 36/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21832)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 53/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22300)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 148/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29735)
+- [Закон за изменување на Законот за трговија („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29946)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 97/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37580)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 129/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38023)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 53/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40969)
+- [Закон за изменување на Законот за трговија („Службен весник на Република Македонија“ бр. 120/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42845)
+- [Закон за изменување на Законот за трговија на зелени пазари („Службен весник на Република Македонија“ бр. 27/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43249)
+- [Закон за дополнување на Законот за трговија („Службен весник на Република Северна Македонија“ бр. 77/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55646)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Северна Македонија“ бр. 215/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57555)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Северна Македонија“ бр. 295/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58323)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Северна Македонија“ бр. 150/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59958)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 114/2022 од 20 април 2023 година („Службен весник на Република Северна Македонија“ бр. 93/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62842)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Северна Македонија“ бр. 16/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69137)
+- [Закон за изменување на Законот за трговија („Службен весник на Република Северна Македонија“ бр. 269/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72600)
+
+Cited by:
+
+- [Закон за трговија на зелени пазари („Службен весник на Република Македонија“ бр. 11/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42631)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

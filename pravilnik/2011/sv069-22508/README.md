@@ -47,6 +47,18 @@
 
 Act id: `pravilnik-2011-sv069-22508` (tags `pravilnik-2011-sv069-22508/<day>`; `python tools/on.py <day> pravilnik-2011-sv069-22508`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за поблиските дополнителни услови за поддршката од мерките за рурален развој, прифатливите трошоци и висината на поддршката за прифатливите трошоци по корисник за поединечна мерка („Службен весник на Република Македонија“ бр. 35/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40687)
+
+Cited by:
+
+- [Правилник за поблиските дополнителни услови за поддршката од мерките за рурален развој, прифатливите трошоци и висината на поддршката за прифатливите трошоци по корисник за поединечна мерка („Службен весник на Република Македонија“ бр. 124/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23267)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

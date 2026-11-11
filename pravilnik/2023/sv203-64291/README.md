@@ -14,6 +14,14 @@
 
 Act id: `pravilnik-2023-sv203-64291` (tags `pravilnik-2023-sv203-64291/<day>`; `python tools/on.py <day> pravilnik-2023-sv203-64291`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за формата и содржината на записникот за извршена финансиска инспекција, формата и содржината на конечниот записник за извршена финансиска инспекција кога субјектите на финансиската инспекција не доставиле забелешки во хартиена форма, формата и содржината на конечниот записник за извршена финансиска инспекција кога субјектите на финансиската инспекција навремено доставиле забелешки во хартиена форма, но истите не се прифатени од финансискиот инспектор и формата и содржината на конечниот записник за извршена финансиска инспекција кога субјектите на финансиската инспекција доставиле забелешки во хартиена форма со нови факти и материјални докази кои се од влијание за промена на фактичката состојба утврдена во записникот и истите се прифатени од финансискиот инспектор („Службен весник на Република Северна Македонија“ бр. 277/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68861)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

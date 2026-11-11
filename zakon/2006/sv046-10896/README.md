@@ -113,6 +113,21 @@
 
 Act id: `zakon-2006-sv046-10896` (tags `zakon-2006-sv046-10896/<day>`; `python tools/on.py <day> zakon-2006-sv046-10896`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија, У.бр.80/2006 од 7 ноември 2007 година („Службен весник на Република Македонија“ бр. 140/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13273)
+- [Закон за изменување и дополнување на Законот за надворешни работи („Службен весник на Република Македонија“ бр. 107/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15180)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.225/2007 од 8 октомври 2008 година („Службен весник на Република Македонија“ бр. 131/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15438)
+- [Закон за изменување и дополнување на Законот за надворешни работи („Службен весник на Република Македонија“ бр. 26/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27656)
+- [Закон за изменување и дополнување на Законот за надворешни работи („Службен весник на Република Македонија“ бр. 39/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31137)
+- [Закон за изменување на Законот за надворешни работи („Службен весник на Република Македонија“ бр. 61/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36847)
+- [Закон за изменување и дополнување на Законот за надворешни работи („Службен весник на Република Македонија“ бр. 226/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39998)
+- [Закон за изменување и дополнување на Законот за надворешни работи („Службен весник на Република Северна Македонија“ бр. 104/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70422)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -7,6 +7,18 @@
 
 Act id: `pravilnik-2006-sv078-11946` (tags `pravilnik-2006-sv078-11946/<day>`; `python tools/on.py <day> pravilnik-2006-sv078-11946`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за стандарди и нормативи за урбанистичко планирање („Службен весник на Република Македонија“ бр. 140/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13156)
+- [Правилник за изменување и дополнување на Правилникот за стандарди и нормативи за урбанистичко планирање („Службен весник на Република Македонија“ бр. 12/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16369)
+- [Правилник за дополнување на Правилникот за стандарди и нормативи за урбанистичко планирање („Службен весник на Република Македонија“ бр. 93/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17552)
+- [Правилник за изменување и дополнување на Правилникот за стандарди и нормативи за урбанистичко планирање („Службен весник на Република Македонија“ бр. 52/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19263)
+- [Правилник за изменување на Правилникот за стандарди и нормативи за урбанистичко планирање („Службен весник на Република Македонија“ бр. 62/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19363)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

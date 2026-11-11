@@ -14,6 +14,14 @@
 
 Act id: `zakon-1998-sv020-4952` (tags `zakon-1998-sv020-4952/<day>`; `python tools/on.py <day> zakon-1998-sv020-4952`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за гаранција на Република Македонија по Договорот за заем по Проектот за подобрување на енергетскиот систем од Меѓународната банка за обнова и развој („Службен весник на Република Македонија“ бр. 13/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10979)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

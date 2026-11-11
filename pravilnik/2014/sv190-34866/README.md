@@ -37,6 +37,15 @@
 
 Act id: `pravilnik-2014-sv190-34866` (tags `pravilnik-2014-sv190-34866/<day>`; `python tools/on.py <day> pravilnik-2014-sv190-34866`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за обезбедување на битстрим пристап и препродажба на битстрим услуга („Службен весник на Република Македонија“ бр. 50/2017)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=45050)
+- [Правилник за изменување и дополнување на Правилникот за обезбедување на битстрим пристап и препродажба на битстрим услуга („Службен весник на Република Северна Македонија“ бр. 92/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49035)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

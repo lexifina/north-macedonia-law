@@ -20,6 +20,15 @@
 
 Act id: `zakon-2016-sv030-40597` (tags `zakon-2016-sv030-40597/<day>`; `python tools/on.py <day> zakon-2016-sv030-40597`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Македонија, У. бр. 12/2017 од 31 јануари 2018 година („Службен весник на Република Македонија“ бр. 27/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=46758)
+- [Одлука на Уставниот суд на Република Македонија, У. бр. 63/2018 од 5 декември 2018 година („Службен весник на Република Македонија“ бр. 231/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43189)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

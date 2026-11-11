@@ -15,6 +15,15 @@
 
 Act id: `zakon-1994-sv048-3523` (tags `zakon-1994-sv048-3523/<day>`; `python tools/on.py <day> zakon-1994-sv048-3523`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за уредување на односите во врска со отплатата на користени кредити од меѓународни финансиски организации („Службен весник на Република Македонија“ бр. 36/1997)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4621)
+- [Закон за изменување на Законот за уредување на односите во врска со отплатата на користени кредити од меѓународните финансиски организации („Службен весник на Република Македонија“ бр. 103/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15325)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

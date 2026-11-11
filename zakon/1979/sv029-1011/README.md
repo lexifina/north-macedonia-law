@@ -7,6 +7,16 @@
 
 Act id: `zakon-1979-sv029-1011` (tags `zakon-1979-sv029-1011/<day>`; `python tools/on.py <day> zakon-1979-sv029-1011`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за управната инспекција („Службен весник на Република Македонија“ бр. 22/1987)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1302)
+- [Закон за изменување на Законот за управната инспекција („Службен весник на Република Македонија“ бр. 23/1990)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1589)
+- [Закон за изменување на Законот за управната инспекција („Службен весник на Република Македонија“ бр. 12/1993)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3344)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

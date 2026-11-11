@@ -105,6 +105,29 @@
 
 Act id: `zakon-2002-sv029-6977` (tags `zakon-2002-sv029-6977/<day>`; `python tools/on.py <day> zakon-2002-sv029-6977`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за спортот („Службен весник на Република Македонија“ бр. 66/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8873)
+- [Закон за изменување и дополнување на Законот за спортот („Службен весник на Република Македонија“ бр. 81/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14034)
+- [Закон за изменување и дополнување на Законот за спортот („Службен весник на Република Македонија“ бр. 18/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21459)
+- [Закон за изменување и дополнување на Законот за спортот („Службен весник на Република Македонија“ бр. 51/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22172)
+- [Закон за изменување и дополнување на Законот за спортот („Службен весник на Република Македонија“ бр. 148/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29738)
+- [Закон за дополнување на Законот за спортот („Службен весник на Република Македонија“ бр. 138/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=33703)
+- [Закон за изменување и дополнување на Законот за спортот („Службен весник на Република Македонија“ бр. 72/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37030)
+- [Закон за изменување и дополнување на Законот за спортот („Службен весник на Република Македонија“ бр. 153/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38518)
+- [Закон за изменување и дополнување на Законот за спортот („Службен весник на Република Македонија“ бр. 55/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41008)
+- [Закон за изменување и дополнување на Законот за спортот („Службен весник на Република Македонија“ бр. 61/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41154)
+- [Закон за изменување и дополнување на Законот за спортот („Службен весник на Република Македонија“ бр. 190/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42527)
+- [Закон за изменување на Законот за спортот („Службен весник на Република Северна Македонија“ бр. 98/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49097)
+- [Закон за изменување на Законот за спортот („Службен весник на Република Северна Македонија“ бр. 244/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51015)
+- [Закон за изменување на Законот за спортот („Службен весник на Република Северна Македонија“ бр. 53/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66250)
+- [Закон за изменување и дополнување на Законот за спортот („Службен весник на Република Северна Македонија“ бр. 170/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67516)
+- [Закон за изменување и дополнување на Законот за спортот („Службен весник на Република Северна Македонија“ бр. 59/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69768)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

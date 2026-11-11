@@ -147,6 +147,15 @@
 
 Act id: `zakon-2018-sv064-42735` (tags `zakon-2018-sv064-42735/<day>`; `python tools/on.py <day> zakon-2018-sv064-42735`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за меѓународна и привремена заштита („Службен весник на Република Северна Македонија“ бр. 45/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69620)
+- [Закон за изменување и дополнување на Законот за меѓународна и привремена заштита („Службен весник на Република Северна Македонија“ бр. 172/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74429)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

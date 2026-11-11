@@ -7,6 +7,18 @@
 
 Act id: `uredba-2020-sv076-52366` (tags `uredba-2020-sv076-52366/<day>`; `python tools/on.py <day> uredba-2020-sv076-52366`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување и дополнување на Уредбата со законска сила за примена на Законот за здравствената заштита за време на вонредна состојба („Службен весник на Република Северна Македонија“ бр. 84/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52498)
+- [Уредба со законска сила за дополнување на Уредбата со законска сила за примена на Законот за здравствената заштита за време на вонредна состојба („Службен весник на Република Северна Македонија“ бр. 100/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52635)
+- [Уредба за дополнување на Уредбата со законска сила за примена на Законот за здравствената заштита за време на вонредна состојба („Службен весник на Република Северна Македонија“ бр. 140/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52997)
+- [Уредба за дополнување на Уредбата со законска сила за примена на Законот за здравствената заштита за време на вонредна состојба („Службен весник на Република Северна Македонија“ бр. 156/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53104)
+- [Уредба за изменување и дополнување на Уредбата со законска сила за примена на Законот за здравствената заштита за време на вонредна состојба („Службен весник на Република Северна Македонија“ бр. 169/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53216)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

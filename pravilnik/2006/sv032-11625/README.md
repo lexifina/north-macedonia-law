@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2006-sv032-11625` (tags `pravilnik-2006-sv032-11625/<day>`; `python tools/on.py <day> pravilnik-2006-sv032-11625`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за критериумите за утврдување на организационите единици во јавните здравствени установи кои не можат да се издаваат под закуп („Службен весник на Република Македонија“ бр. 4/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12156)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

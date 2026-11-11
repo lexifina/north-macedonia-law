@@ -53,6 +53,20 @@
 
 Act id: `zakon-2000-sv054-6178` (tags `zakon-2000-sv054-6178/<day>`; `python tools/on.py <day> zakon-2000-sv054-6178`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за жичари и ски - лифтови („Службен весник на Република Македонија“ бр. 103/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15116)
+- [Закон за изменување и дополнување на Законот за жичари и ски - лифтови („Службен весник на Република Македонија“ бр. 23/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21583)
+- [Закон за дополнување на Законот за жичари и ски-лифтови („Службен весник на Република Македонија“ бр. 53/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22309)
+- [Закон за изменување на Законот за жичари и ски - лифтови („Службен весник на Република Македонија“ бр. 163/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29907)
+- [Закон за изменување и дополнување на Законот за жичари и скилифтови („Службен весник на Република Македонија“ бр. 146/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38450)
+- [Закон за изменување на Законот за жичари и скилифтови („Службен весник на Република Северна Македонија“ бр. 285/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54323)
+- [Закон за изменување на Законот за жичари и скилифтови („Службен весник на Република Северна Македонија“ бр. 224/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68195)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -7,6 +7,25 @@
 
 Act id: `zakon-2006-sv014-11094` (tags `zakon-2006-sv014-11094/<day>`; `python tools/on.py <day> zakon-2006-sv014-11094`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за воздухопловство („Службен весник на Република Македонија“ бр. 24/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13221)
+- [Закон за изменување и дополнување на Законот за воздухопловство („Службен весник на Република Македонија“ бр. 67/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19457)
+- [Закон за дополнување на Законот за воздухопловство („Службен весник на Република Македонија“ бр. 24/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24737)
+- [Закон за изменување и дополнување на Законот за воздухопловство („Службен весник на Република Македонија“ бр. 80/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25681)
+- [Закон за изменување и дополнување на Законот за воздухопловство („Службен весник на Република Македонија“ бр. 155/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26942)
+- [Закон за изменување и дополнување на Законот за воздухопловство („Службен весник на Република Македонија“ бр. 42/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31230)
+- [Закон за изменување и дополнување на Законот за воздухопловство („Службен весник на Република Македонија“ бр. 97/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37563)
+- [Закон за изменување и дополнување на Законот за воздухопловство („Службен весник на Република Македонија“ бр. 152/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38469)
+- [Закон за изменување на Законот за воздухопловство („Службен весник на Република Македонија“ бр. 27/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40522)
+- [Закон за изменување и дополнување на Законот за воздухопловство („Службен весник на Република Македонија“ бр. 31/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40652)
+- [Закон за изменување и дополнување на Законот за воздухопловство („Службен весник на Република Македонија“ бр. 64/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42736)
+- [Закон за изменување и дополнување на Законот за воздухопловство („Службен весник на Република Северна Македонија“ бр. 220/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50772)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

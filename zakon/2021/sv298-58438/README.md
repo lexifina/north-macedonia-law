@@ -144,6 +144,14 @@
 
 Act id: `zakon-2021-sv298-58438` (tags `zakon-2021-sv298-58438/<day>`; `python tools/on.py <day> zakon-2021-sv298-58438`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за развој, производство и промет на воени стоки („Службен весник на Република Северна Македонија“ бр. 58/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73331)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

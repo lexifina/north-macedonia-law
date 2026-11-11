@@ -246,6 +246,21 @@
 
 Act id: `pravilnik-2020-sv225-53773` (tags `pravilnik-2020-sv225-53773/<day>`; `python tools/on.py <day> pravilnik-2020-sv225-53773`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 219/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=57591)
+- [Правилник за изменување и дополнување на Правилникот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 104/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59544)
+- [Правилник за изменување и дополнување на Правилникот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 99/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62907)
+- [Правилник за изменување и дополнување на Правилникот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 7/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69034)
+- [Правилник за изменување и дополнување на Правилникот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 143/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70973)
+- [Правилник за изменување и дополнување на Правилникот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 241/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=72175)
+- [Правилник за изменување и дополнување на Правилникот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 30/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73023)
+- [Правилник за изменување и дополнување на Правилникот за урбанистичко планирање („Службен весник на Република Северна Македонија“ бр. 87/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73601)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

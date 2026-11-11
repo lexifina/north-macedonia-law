@@ -39,6 +39,14 @@
 
 Act id: `pravilnik-2019-sv103-49147` (tags `pravilnik-2019-sv103-49147/<day>`; `python tools/on.py <day> pravilnik-2019-sv103-49147`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за начинот и постапката за вршење на контрола и надзор („Службен весник на Република Северна Македонија“ бр. 172/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53258)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -13,6 +13,14 @@
 
 Act id: `pravilnik-2010-sv139-20490` (tags `pravilnik-2010-sv139-20490/<day>`; `python tools/on.py <day> pravilnik-2010-sv139-20490`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за процедуралните правила за работа на стручната комисија за потврдување на стручните работи од областа на одобрувањето на производите за заштита на растенијата („Службен весник на Република Македонија“ бр. 121/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37955)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

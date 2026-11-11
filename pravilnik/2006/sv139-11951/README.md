@@ -7,6 +7,16 @@
 
 Act id: `pravilnik-2006-sv139-11951` (tags `pravilnik-2006-sv139-11951/<day>`; `python tools/on.py <day> pravilnik-2006-sv139-11951`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за дополнување на Правилникот за Методологијата за пресметување на годишниот надоместок за надзор на пазарот за електронски комуникации („Службен весник на Република Македонија“ бр. 5/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12201)
+- [Правилник за изменување и дополнување на Правилникот за Методологијата за пресметување на годишниот надоместок за надзор на пазарот за електронски комуникации („Службен весник на Република Македонија“ бр. 33/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13559)
+- [Правилник за изменување на Правилникот за методологијата за пресметување на годишниот надоместок за надзор на пазарот за електронски комуникации („Службен весник на Република Македонија“ бр. 5/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14071)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

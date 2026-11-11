@@ -7,6 +7,20 @@
 
 Act id: `zakon-2005-sv008-9800` (tags `zakon-2005-sv008-9800/<day>`; `python tools/on.py <day> zakon-2005-sv008-9800`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за користење и располагање со стварите на државните органи („Службен весник на Република Македонија“ бр. 150/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=13370)
+- [Закон за изменување и дополнување на Законот за користење и располагање со стварите на државните органи („Службен весник на Република Македонија“ бр. 35/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21843)
+- [Закон за изменување и дополнување на Законот за користење и располагање со стварите на државните органи („Службен весник на Република Македонија“ бр. 166/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27067)
+- [Закон за изменување и дополнување на Законот за користење и располагање со стварите на државните органи („Службен весник на Република Македонија“ бр. 137/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29548)
+- [Закон за изменување и дополнување на Законот за користење и располагање со стварите на државните органи („Службен весник на Република Македонија“ бр. 188/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30399)
+- [Закон за дополнување на Законот за користење и располагање со стварите на државните органи („Службен весник на Република Македонија“ бр. 27/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30975)
+- [Закон за изменување и дополнување на Законот за користење и располагање со стварите на државните органи („Службен весник на Република Македонија“ бр. 180/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34641)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

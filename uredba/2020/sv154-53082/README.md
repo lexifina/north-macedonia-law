@@ -14,6 +14,14 @@
 
 Act id: `uredba-2020-sv154-53082` (tags `uredba-2020-sv154-53082/<day>`; `python tools/on.py <day> uredba-2020-sv154-53082`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба со законска сила за изменување на Уредбата со законска сила за финансиска поддршка на естрадните уметници за време на вонредна состојба („Службен весник на Република Северна Македонија“ бр. 163/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=53163)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

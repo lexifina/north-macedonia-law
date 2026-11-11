@@ -7,6 +7,18 @@
 
 Act id: `pravilnik-2007-sv006-12285` (tags `pravilnik-2007-sv006-12285/<day>`; `python tools/on.py <day> pravilnik-2007-sv006-12285`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за дополнителните информации кои треба да ги содржи барањето за издавање на дозвола за работење на брокерска куќа („Службен весник на Република Македонија“ бр. 81/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=32128)
+- [Правилник за изменување и дополнување на Правилникот за дополнителните информации кои треба да ги содржи барањето за издавање на дозвола за работење на брокерска куќа („Службен весник на Република Македонија“ бр. 57/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41078)
+- [Правилник за изменување и дополнување на Правилникот за дополнителните информации кои треба да ги содржи барањето за издавање на дозвола за работење на брокерска куќа („Службен весник на Република Македонија“ бр. 182/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=46478)
+- [Одлука на Уставен суд на Република Македонија, У. бр. 52/2018 од 6 февруари 2019 година („Службен весник на Република Северна Македонија“ бр. 42/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43363)
+- [Правилник за изменување и дополнување на Правилникот за дополнителните информации кои треба да ги содржи барањето за издавање на дозвола за работење на брокерска куќа („Службен весник на Република Северна Македонија“ бр. 97/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49088)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

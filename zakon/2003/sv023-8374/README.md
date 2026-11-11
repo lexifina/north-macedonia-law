@@ -16,6 +16,31 @@
 
 Act id: `zakon-2003-sv023-8374` (tags `zakon-2003-sv023-8374/<day>`; `python tools/on.py <day> zakon-2003-sv023-8374`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за Царинската тарифа („Службен весник на Република Македонија“ бр. 69/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9010)
+- [Закон за изменување и дополнување на Законот за царинската тарифа („Службен весник на Република Македонија“ бр. 10/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14269)
+- [Закон за изменување и дополнување на Законот за царинската тарифа („Службен весник на Република Македонија“ бр. 160/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16213)
+- [Закон за изменување и дополнување на Законот за Царинската тарифа („Службен весник на Република Македонија“ бр. 35/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19025)
+- [Закон за изменување и дополнување на Законот за Царинска тарифа („Службен весник на Република Македонија“ бр. 11/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=24399)
+- [Закон за изменување и дополнување на Законот за царинската тарифа („Службен весник на Република Македонија“ бр. 93/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28908)
+- [Одлука за усогласување и менување на Царинската тарифа за 2014 година („Службен весник на Република Македонија“ бр. 179/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30260)
+- [Закон за изменување и дополнување на Законот за Царинската тарифа („Службен весник на Република Македонија“ бр. 44/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36377)
+- [Закон за изменување и дополнување на Законот за Царинската тарифа („Службен весник на Република Македонија“ бр. 81/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=37345)
+- [Закон за изменување на Законот за царинската тарифа („Службен весник на Република Македонија“ бр. 192/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39307)
+- [Закон за изменување и дополнување на Законот за царинската тарифа („Службен весник на Република Северна Македонија“ бр. 124/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=49510)
+- [Закон за изменување на Законот за царинската тарифа („Службен весник на Република Северна Македонија“ бр. 39/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58871)
+- [Закон за изменување и дополнување на Законот за царинската тарифа („Службен весник на Република Северна Македонија“ бр. 130/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70787)
+- [Закон за изменување на Законот за царинската тарифа („Службен весник на Република Северна Македонија“ бр. 161/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74329)
+
+Cited by:
+
+- [Одлука за менување на Царинската тарифа за 2006 година („Службен весник на Република Македонија“ бр. 103/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10149)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

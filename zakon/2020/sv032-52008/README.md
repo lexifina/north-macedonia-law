@@ -98,6 +98,18 @@
 
 Act id: `zakon-2020-sv032-52008` (tags `zakon-2020-sv032-52008/<day>`; `python tools/on.py <day> zakon-2020-sv032-52008`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за енергетска ефикасност („Службен весник на Република Северна Македонија“ бр. 110/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55998)
+- [Закон за изменување и дополнување на Законот за енергетска ефикасност („Службен весник на Република Северна Македонија“ бр. 236/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61034)
+- [Закон за изменување и дополнување на Законот за енергетска ефикасност („Службен весник на Република Северна Македонија“ бр. 147/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=67295)
+- [Закон за изменување на Законот за енергетска ефикасност („Службен весник на Република Северна Македонија“ бр. 74/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70000)
+- [Закон за изменување и дополнување на Законот за енергетска ефикасност („Службен весник на Република Северна Македонија“ бр. 193/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71644)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

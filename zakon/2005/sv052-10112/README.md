@@ -57,6 +57,27 @@
 
 Act id: `zakon-2005-sv052-10112` (tags `zakon-2005-sv052-10112/<day>`; `python tools/on.py <day> zakon-2005-sv052-10112`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за просветната инспекција („Службен весник на Република Македонија“ бр. 81/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14092)
+- [Закон за дополнување на Законот за просветната инспекција („Службен весник на Република Македонија“ бр. 148/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18297)
+- [Закон за изменување и дополнување на Законот за просветната инспекција („Службен весник на Република Македонија“ бр. 57/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19291)
+- [Закон за изменување и дополнување на Законот за просветната инспекција („Службен весник на Република Македонија“ бр. 51/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22167)
+- [Закон за дополнување на Законот за просветната инспекција („Службен весник на Република Македонија“ бр. 24/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27631)
+- [Закон за дополнување на Законот за просветната инспекција („Службен весник на Република Македонија“ бр. 137/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29551)
+- [Закон за изменување и дополнување на Законот за просветната инспекција („Службен весник на Република Македонија“ бр. 164/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29908)
+- [Закон за изменување и дополнување на Законот за просветната инспекција („Службен весник на Република Македонија“ бр. 41/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31181)
+- [Закон за изменување и дополнување на Законот за просветната инспекција („Службен весник на Република Македонија“ бр. 33/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=35843)
+- [Закон за изменување и дополнување на Законот за просветната инспекција („Службен весник на Република Македонија“ бр. 145/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38262)
+- [Закон за изменување на Законот за просветната инспекција („Службен весник на Република Македонија“ бр. 30/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40503)
+- [Закон за изменување и дополнување на Законот за просветната инспекција („Службен весник на Република Македонија“ бр. 64/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42717)
+- [Закон за изменување на Законот за просветната инспекција („Службен весник на Република Северна Македонија“ бр. 3/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68941)
+- [Закон за изменување на Законот за просветната инспекција („Службен весник на Република Северна Македонија“ бр. 74/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69999)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

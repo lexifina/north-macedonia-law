@@ -27,6 +27,15 @@
 
 Act id: `pravilnik-2014-sv180-34650` (tags `pravilnik-2014-sv180-34650/<day>`; `python tools/on.py <day> pravilnik-2014-sv180-34650`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за измена на Правилникот за условите, начинот и постапката за издавање копија од снимка на објавена информација во рамките на програмскиот сервис на радиодифузерите на државно, регионално и локално ниво во Република Македонија („Службен весник на Република Македонија“ бр. 172/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=48003)
+- [Правилник за изменување на Правилникот за условите, начинот и постапката за издавање копија од снимка на објавена информација во рамките на програмскиот сервис на радиодифузерите на државно, регионално и локално ниво во Република Македонија бр.01-5988/1 од 04.12.2014 година, со измена бр.01-4077/1 од 12.09.2018 година („Службен весник на Република Северна Македонија“ бр. 158/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50033)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

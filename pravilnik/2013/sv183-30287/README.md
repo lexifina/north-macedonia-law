@@ -19,6 +19,14 @@
 
 Act id: `pravilnik-2013-sv183-30287` (tags `pravilnik-2013-sv183-30287/<day>`; `python tools/on.py <day> pravilnik-2013-sv183-30287`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за измена и дополнување на Правилникот за известување на Агенцијата за супервизија на капитално финансирано пензиско осигурување од страна на чуварот на имот („Службен весник на Република Северна Македонија“ бр. 294/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=54466)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

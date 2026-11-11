@@ -23,6 +23,14 @@
 
 Act id: `naredba-2014-sv195-34935` (tags `naredba-2014-sv195-34935/<day>`; `python tools/on.py <day> naredba-2014-sv195-34935`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменување на Наредбата за извршување на ветеринарните мерки и контроли за заштита на јавното здравство од контаминенти или резидуи кои се пренесуваат од животните или производите од животинско потекло во 2015 година („Службен весник на Република Македонија“ бр. 66/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36954)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

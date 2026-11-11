@@ -7,6 +7,16 @@
 
 Act id: `zakon-1995-sv023-4105` (tags `zakon-1995-sv023-4105/<day>`; `python tools/on.py <day> zakon-1995-sv023-4105`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за трговијата („Службен весник на Република Македонија“ бр. 43/1995)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=4049)
+- [Закон за изменување на Законот за трговија („Службен весник на Република Македонија“ бр. 23/1999)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5502)
+- [Закон за изменување и дополнување на Законот за трговија („Службен весник на Република Македонија“ бр. 43/1999)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=5510)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

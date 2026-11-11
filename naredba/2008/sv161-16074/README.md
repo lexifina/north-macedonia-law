@@ -12,6 +12,16 @@
 
 Act id: `naredba-2008-sv161-16074` (tags `naredba-2008-sv161-16074/<day>`; `python tools/on.py <day> naredba-2008-sv161-16074`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за изменување и дополнување на Наредбата за забрана за собирање заради користење и трговија на автохтони самоникни габи-смрчки од родовите Morchella, Verpa и Ptichoverpa („Службен весник на Република Македонија“ бр. 56/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16841)
+- [Наредба за изменување и дополнување на Наредбата за забрана за собирање заради користење и трговија на автохтони самоникни габи-смрчки од родовите Morchella, Verpa и Ptichoverpa („Службен весник на Република Македонија“ бр. 86/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19715)
+- [Наредба за изменување на Наредбата за забрана за собирање заради користење и трговија на автохтони самоникни габи-смрчки од родовите Morchella, Verpa и Ptichoverpa („Службен весник на Република Македонија“ бр. 108/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26192)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

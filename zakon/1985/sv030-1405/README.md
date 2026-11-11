@@ -55,6 +55,20 @@
 
 Act id: `zakon-1985-sv030-1405` (tags `zakon-1985-sv030-1405/<day>`; `python tools/on.py <day> zakon-1985-sv030-1405`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за измени на Законот за прометот на експлозивни материи („Службен весник на Република Македонија“ бр. 6/1989)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1509)
+- [Закон за измени на Законот за промет на експлозивни материи („Службен весник на Република Македонија“ бр. 53/1991)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=1939)
+- [Закон за изменување на Законот за промет на експлозивни материи („Службен весник на Република Македонија“ бр. 12/1993)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=3327)
+- [Закон за изменување на Законот за промет на експлозивни материи („Службен весник на Република Македонија“ бр. 66/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12543)
+- [Закон за изменување и дополнување на Законот за прометот на експлозивни материи („Службен весник на Република Македонија“ бр. 86/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14509)
+- [Закон за изменување и дополнување на Законот за прометот со експлозивни материи („Службен весник на Република Македонија“ бр. 148/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38371)
+- [Закон за изменување и дополнување на Законот за прометот на експлозивни материи („Службен весник на Република Северна Македонија“ бр. 294/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=58401)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

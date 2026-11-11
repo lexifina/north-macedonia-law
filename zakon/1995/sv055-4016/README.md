@@ -19,6 +19,18 @@
 
 Act id: `zakon-1995-sv055-4016` (tags `zakon-1995-sv055-4016/<day>`; `python tools/on.py <day> zakon-1995-sv055-4016`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за јавните собири („Службен весник на Република Македонија“ бр. 19/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11300)
+- [Одлука на Уставниот суд на Република Македонија, У.бр.31/2006 од 1 ноември 2006 година („Службен весник на Република Македонија“ бр. 119/2006)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=11592)
+- [Закон за изменување и дополнување на Законот за јавните собири („Службен весник на Република Македонија“ бр. 66/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12496)
+- [Закон за изменување и дополнување на Законот за јавните собири („Службен весник на Република Македонија“ бр. 152/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38460)
+- [Закон за изменување на Законот за јавните собири („Службен весник на Република Северна Македонија“ бр. 31/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=52002)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

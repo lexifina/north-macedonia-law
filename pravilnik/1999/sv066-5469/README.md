@@ -7,6 +7,18 @@
 
 Act id: `pravilnik-1999-sv066-5469` (tags `pravilnik-1999-sv066-5469/<day>`; `python tools/on.py <day> pravilnik-1999-sv066-5469`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за обрасците на сообраќајната дозвола, возачката дозвола, сообраќајната дозвола за земјоделски трактор, потврдата за регистрација, дозволата за возач на трактор и возачката потврда („Службен весник на Република Македонија“ бр. 51/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=9998)
+
+Cited by:
+
+- [Правилник за формата и содржината на образецот на возачката дозвола, начинот на нејзиното издавање и заменување и за начинот на водење на евиденцијата за издадени возачки дозволи во Mинистерството за внатрешни работи („Службен весник на Република Македонија“ бр. 116/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12356)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

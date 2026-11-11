@@ -7,6 +7,19 @@
 
 Act id: `zakon-2004-sv009-9240` (tags `zakon-2004-sv009-9240/<day>`; `python tools/on.py <day> zakon-2004-sv009-9240`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за класифицирани информации („Службен весник на Република Македонија“ бр. 113/2007)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=12254)
+- [Закон за изменување на Законот за класифицирани информации („Службен весник на Република Македонија“ бр. 145/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=20609)
+- [Закон за изменување на Законот за класифицирани информации („Службен весник на Република Македонија“ бр. 80/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25685)
+- [Закон за дополнување на Законот за класифицирани информации („Службен весник на Република Македонија“ бр. 41/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31185)
+- [Закон за дополнување на Законот за класифицирани информации („Службен весник на Република Македонија“ бр. 21/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42664)
+- [Закон за изменување и дополнување на Законот за класифицирани информации („Службен весник на Република Македонија“ бр. 83/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42780)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

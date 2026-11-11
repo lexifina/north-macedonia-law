@@ -26,6 +26,18 @@
 
 Act id: `zakon-2010-sv057-19298` (tags `zakon-2010-sv057-19298/<day>`; `python tools/on.py <day> zakon-2010-sv057-19298`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен Суд на Република Македонија, У.бр.191/2010 од 2 март 2011 година („Службен весник на Република Македонија“ бр. 35/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21797)
+- [Закон за дополнување на Законот за основање на Агенција за странски инвестиции и промоција на извозот на Република Македонија („Службен весник на Република Македонија“ бр. 36/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21847)
+- [Закон за изменување на Законот за основање на Агенција за странски инвестиции и промоција на извозот на Република Македонија („Службен весник на Република Македонија“ бр. 41/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31201)
+- [Закон за изменување на Законот за основање на Агенција за странски инвестиции и промоција на извозот на Република Македонија („Службен весник на Република Македонија“ бр. 64/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42727)
+- [Закон за изменување и дополнување на Законот за основање на Агенција за странски инвестиции и промоција на извозот на Република Македонија („Службен весник на Република Северна Македонија“ бр. 212/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74872)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

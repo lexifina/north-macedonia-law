@@ -29,6 +29,14 @@
 
 Act id: `upatstvo-2024-sv277-68874` (tags `upatstvo-2024-sv277-68874/<day>`; `python tools/on.py <day> upatstvo-2024-sv277-68874`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Упатство за изменување и дополнување на Упатството за начинот на подготовка на макроекономските и фискалните проекции и процесот на координација меѓу организациските единици и институции поврзани со макроекономското и фискалното проектирање („Службен весник на Република Северна Македонија“ бр. 75/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=73486)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

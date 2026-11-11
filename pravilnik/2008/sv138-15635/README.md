@@ -29,6 +29,19 @@
 
 Act id: `pravilnik-2008-sv138-15635` (tags `pravilnik-2008-sv138-15635/<day>`; `python tools/on.py <day> pravilnik-2008-sv138-15635`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за измена и дополнување на Правилникот за проценка на средствата на задолжителните и доброволните пензиски фондови („Службен весник на Република Македонија“ бр. 55/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28165)
+- [Правилник за измена и дополнување на Правилникот за проценка на средствата на задолжителните и доброволните пензиски фондови („Службен весник на Република Македонија“ бр. 218/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=48450)
+- [Правилник дополнување на Правилникот за проценка на средствата на задолжителните и доброволните пензиски фондови („Службен весник на Република Северна Македонија“ бр. 41/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=43397)
+- [Правилник за измена и дополнување на Правилникот за проценка на средствата на задолжителните и доброволните пензиски фондови („Службен весник на Република Северна Македонија“ бр. 250/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51094)
+- [Правилник за измена и дополнување на Правилникот за проценка на средствата на задолжителните и доброволните пензиски фондови („Службен весник на Република Северна Македонија“ бр. 103/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=66812)
+- [Правилник за измена на Правилникот за проценка на средствата на задолжителните и доброволните пензиски фондови („Службен весник на Република Северна Македонија“ бр. 51/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69703)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

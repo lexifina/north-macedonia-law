@@ -7,6 +7,14 @@
 
 Act id: `zakon-1993-sv062-8653` (tags `zakon-1993-sv062-8653/<day>`; `python tools/on.py <day> zakon-1993-sv062-8653`).
 
+## Status
+
+**cited later, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Cited by:
+
+- [Закон за заштита на природата („Службен весник на Република Македонија“ бр. 67/2004)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8919)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

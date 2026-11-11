@@ -92,6 +92,25 @@
 
 Act id: `zakon-2006-sv039-11955` (tags `zakon-2006-sv039-11955/<day>`; `python tools/on.py <day> zakon-2006-sv039-11955`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за семенски и саден материјал за земјоделски растенија („Службен весник на Република Македонија“ бр. 89/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14630)
+- [Закон за изменување и дополнување на Законот за семенски и саден материјал за земјоделски растенија („Службен весник на Република Македонија“ бр. 171/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21119)
+- [Закон за изменување и дополнување на Законот за семенски и саден материјал за земјоделски растенија („Службен весник на Република Македонија“ бр. 53/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22315)
+- [Закон за изменување и дополнување на Законот за семенски и саден материјал за земјоделски растенија („Службен весник на Република Македонија“ бр. 69/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28336)
+- [Закон за изменување и дополнување на Законот за семенски и саден материјал за земјоделски растенија („Службен весник на Република Македонија“ бр. 187/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30384)
+- [Закон за изменување на Законот за семенски и саден материјал за земјоделски растенија („Службен весник на Република Македонија“ бр. 43/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31420)
+- [Закон за изменување и дополнување на Законот за семенски и саден материјал за земјоделски растенија („Службен весник на Република Македонија“ бр. 129/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38028)
+- [Закон за изменување и дополнување на Законот за семенски и саден материјал за земјоделски растенија („Службен весник на Република Македонија“ бр. 39/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40736)
+- [Закон за дополнување на Законот за семенски и саден материјал за земјоделски растенија („Службен весник на Република Македонија“ бр. 71/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41215)
+- [Закон за изменување и дополнување на Законот за семенски и саден материјал за земјоделски растенија („Службен весник на Република Македонија“ бр. 83/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42794)
+- [Закон за изменување и дополнување на Законот за семенски и саден материјал за земјоделски растенија („Службен весник на Република Северна Македонија“ бр. 122/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56291)
+- [Закон за дополнување на Законот за семенски и саден материјал за земјоделски растенија („Службен весник на Република Северна Македонија“ бр. 199/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=64236)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

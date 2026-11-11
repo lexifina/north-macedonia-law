@@ -12,6 +12,14 @@
 
 Act id: `naredba-2006-sv109-11340` (tags `naredba-2006-sv109-11340/<day>`; `python tools/on.py <day> naredba-2006-sv109-11340`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Наредба за престанување на важење на Наредбата за забрана на употреба на протеини по потекло од животните во исхраната на животните („Службен весник на Република Македонија“ бр. 42/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=31219)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

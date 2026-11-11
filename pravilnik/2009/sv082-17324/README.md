@@ -21,6 +21,18 @@
 
 Act id: `pravilnik-2009-sv082-17324` (tags `pravilnik-2009-sv082-17324/<day>`; `python tools/on.py <day> pravilnik-2009-sv082-17324`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за постапката и поблиските критериуми за софинансирање на издавачката дејност („Службен весник на Република Македонија“ бр. 25/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21641)
+
+Cited by:
+
+- [Правилник за остварување на правото на еднократна награда за објавување на научен труд и за надомест на средствата платени за објавување на трудови („Службен весник на Република Македонија“ бр. 102/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=47531)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

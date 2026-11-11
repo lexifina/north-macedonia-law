@@ -22,6 +22,15 @@
 
 Act id: `zakon-2002-sv061-6967` (tags `zakon-2002-sv061-6967/<day>`; `python tools/on.py <day> zakon-2002-sv061-6967`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за правата на прогонуваните и затвораните лица за идеите на самобитноста на македонскиот народ и неговата државност и на членовите на нивните семејства („Службен весник на Република Македонија“ бр. 58/2005)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=10290)
+- [Закон за изменување на Законот за правата на прогонуваните и затвораните лица за идеите на самобитноста на македонскиот народ и неговата државност и на членовите на нивните семејства („Службен весник на Република Северна Македонија“ бр. 193/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=71642)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

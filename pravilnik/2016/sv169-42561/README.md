@@ -26,6 +26,14 @@
 
 Act id: `pravilnik-2016-sv169-42561` (tags `pravilnik-2016-sv169-42561/<day>`; `python tools/on.py <day> pravilnik-2016-sv169-42561`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување на Правилникот за видот на податоците за планираните количини за откуп на земјоделски производи за наредната година и податоците за реализиран откуп за претходната година и податоците за реализиран откуп на земјоделски производи од претходниот месец и за планираниот откуп на земјоделски производи за наредниот месец, начинот на доставување и формата и содржината на образецот за доставување („Службен весник на Република Северна Македонија“ бр. 97/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62871)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

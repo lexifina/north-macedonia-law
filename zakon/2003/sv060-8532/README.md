@@ -69,6 +69,18 @@
 
 Act id: `zakon-2003-sv060-8532` (tags `zakon-2003-sv060-8532/<day>`; `python tools/on.py <day> zakon-2003-sv060-8532`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Македонија,у.бр.111/2007 од 29 октомври 2008 година („Службен весник на Република Македонија“ бр. 143/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=15942)
+- [Закон за изменување и дополнување на Законот за народниот правобранител („Службен весник на Република Македонија“ бр. 114/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=17821)
+- [Закон за изменување и дополнување на Законот за Народниот правобранител („Службен весник на Република Македонија“ бр. 181/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42533)
+- [Закон за изменување и дополнување на Законот за народниот правобранител („Службен весник на Република Македонија“ бр. 189/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42551)
+- [Закон за изменување и дополнување на Законот за народниот правобранител („Службен весник на Република Македонија“ бр. 35/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42680)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

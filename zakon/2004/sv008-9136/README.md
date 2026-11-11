@@ -13,6 +13,16 @@
 
 Act id: `zakon-2004-sv008-9136` (tags `zakon-2004-sv008-9136/<day>`; `python tools/on.py <day> zakon-2004-sv008-9136`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за основање на Државен универзитет во Тетово („Службен весник на Република Македонија“ бр. 81/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14033)
+- [Закон за изменување и дополнување на Законот за основање на Државен универзитет во Тетово („Службен весник на Република Македонија“ бр. 226/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39971)
+- [Закон за изменување и дополнување на Законот за основање на Универзитет во Тетово („Службен весник на Република Македонија“ бр. 120/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41750)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

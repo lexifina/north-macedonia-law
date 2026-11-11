@@ -15,6 +15,16 @@
 
 Act id: `uredba-2005-sv009-9851` (tags `uredba-2005-sv009-9851/<day>`; `python tools/on.py <day> uredba-2005-sv009-9851`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Уредба за изменување и дополнување на Уредбата за утврдување на критериумите за особен научен, економски, културен, спортски или друг национален интерес за стекнување на државјанство на Република Македонија („Службен весник на Република Македонија“ бр. 161/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=26978)
+- [Уредба за изменување на Уредбата за утврдување на критериумите за особен научен, економски, културен, спортски или друг национален интерес за стекнување на државјанство на Република Македонија („Службен весник на Република Северна Македонија“ бр. 255/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51141)
+- [Уредба за дополнување на Уредбата за утврдување на критериумите за особен научен, економски, културен, спортски или друг национален интерес за стекнување на државјанство на Република Северна Македонија („Службен весник на Република Северна Македонија“ бр. 42/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=55221)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

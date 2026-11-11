@@ -18,6 +18,16 @@
 
 Act id: `pravilnik-2011-sv005-21190` (tags `pravilnik-2011-sv005-21190/<day>`; `python tools/on.py <day> pravilnik-2011-sv005-21190`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Правилник за изменување и дополнување на Правилникот за статистичките осигурителни стандарди на друштвата за осигурување и/или реосигурување („Службен весник на Република Македонија“ бр. 189/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=30494)
+- [Правилник за изменување и дополнување на Правилникот за статистичките осигурителни обрасци на друштвата за осигурување и/или реосигурување („Службен весник на Република Македонија“ бр. 22/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40475)
+- [Правилник за изменување и дополнување на Правилникот за статистичките осигурителни стандарди на друштвата за осигурување и/или реосигурување („Службен весник на Република Северна Македонија“ бр. 118/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59689)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

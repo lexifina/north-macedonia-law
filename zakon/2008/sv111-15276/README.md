@@ -58,6 +58,25 @@
 
 Act id: `zakon-2008-sv111-15276` (tags `zakon-2008-sv111-15276/<day>`; `python tools/on.py <day> zakon-2008-sv111-15276`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за јавна чистота („Службен весник на Република Македонија“ бр. 64/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16915)
+- [Закон за изменување и дополнување на Законот за јавна чистота („Службен весник на Република Македонија“ бр. 88/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19726)
+- [Закон за изменување и дополнување на Законот за јавна чистота („Службен весник на Република Македонија“ бр. 23/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21572)
+- [Закон за дополнување на Законот за јавна чистота („Службен весник на Република Македонија“ бр. 53/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22310)
+- [Закон за изменување и дополнување на Законот за јавна чистота („Службен весник на Република Македонија“ бр. 80/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25700)
+- [Закон за изменување и дополнување на Законот за јавна чистота („Службен весник на Република Македонија“ бр. 163/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29915)
+- [Закон за изменување и дополнување на Законот за јавна чистота („Службен весник на Република Македонија“ бр. 44/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=36378)
+- [Закон за изменување и дополнување на Законот за јавна чистота („Службен весник на Република Македонија“ бр. 147/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38406)
+- [Закон за изменување и дополнување на законот за јавна чистота („Службен весник на Република Македонија“ бр. 31/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40611)
+- [Закон за изменување и дополнување на законот за јавна чистота („Службен весник на Република Северна Македонија“ бр. 122/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56273)
+- [Закон за изменување и дополнување на Законот за јавна чистота („Службен весник на Република Северна Македонија“ бр. 255/2024)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68573)
+- [Закон за изменување и дополнување на Законот за јавна чистота („Службен весник на Република Северна Македонија“ бр. 101/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=70399)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

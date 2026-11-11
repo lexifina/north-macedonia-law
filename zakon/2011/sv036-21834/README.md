@@ -13,6 +13,14 @@
 
 Act id: `zakon-2011-sv036-21834` (tags `zakon-2011-sv036-21834/<day>`; `python tools/on.py <day> zakon-2011-sv036-21834`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување на Законот за задолжување на Република Македонија со заем кај Европската банка за обнова и развој по Договорот за заем за Проектот за изградба на автопатот на Коридорот Х, на делницата Демир Капија - Смоквица („Службен весник на Република Македонија“ бр. 70/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=28374)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -12,6 +12,16 @@
 
 Act id: `zakon-2010-sv042-19126` (tags `zakon-2010-sv042-19126/<day>`; `python tools/on.py <day> zakon-2010-sv042-19126`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставен суд на Република Македонија, У. бр. 87/2017 од 21 февруари 2018 година („Службен весник на Република Македонија“ бр. 45/2018)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=42691)
+- [Одлука на Уставен суд на Република Северна Македонија, У. бр. 8/2022 од 1 март 2023 година („Службен весник на Република Северна Македонија“ бр. 51/2023)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=62323)
+- [Одлука на Уставен суд на Република Северна Македонија, У.бр.22/2026 од 17 јуни 2026 година („Службен весник на Република Северна Македонија“ бр. 137/2026)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=74078)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

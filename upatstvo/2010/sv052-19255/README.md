@@ -10,6 +10,14 @@
 
 Act id: `upatstvo-2010-sv052-19255` (tags `upatstvo-2010-sv052-19255/<day>`; `python tools/on.py <day> upatstvo-2010-sv052-19255`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Одлука на Уставниот суд на Република Македонија, У.бр.16/2011 од 21 септември 2011 година („Службен весник на Република Македонија“ бр. 132/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23344)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

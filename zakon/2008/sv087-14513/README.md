@@ -285,6 +285,29 @@
 
 Act id: `zakon-2008-sv087-14513` (tags `zakon-2008-sv087-14513/<day>`; `python tools/on.py <day> zakon-2008-sv087-14513`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за водите („Службен весник на Република Македонија“ бр. 6/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=16439)
+- [Закон за изменување на Законот за водите („Службен весник на Република Македонија“ бр. 161/2009)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18556)
+- [Закон за изменување на Законот за водите („Службен весник на Република Македонија“ бр. 83/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=19657)
+- [Закон за изменување и дополнување на Законот за водите („Службен весник на Република Македонија“ бр. 51/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=22174)
+- [Закон за изменување и дополнување на Законот за водите („Службен весник на Република Македонија“ бр. 44/2012)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=25003)
+- [Закон за изменување и дополнување на Законот за водите („Службен весник на Република Македонија“ бр. 23/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=27573)
+- [Закон за изменување и дополнување на Законот за водите („Службен весник на Република Македонија“ бр. 163/2013)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=29938)
+- [Закон за изменување и дополнување на Законот за водите („Службен весник на Република Македонија“ бр. 180/2014)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=34643)
+- [Закон за изменување и дополнување на Законот за водите („Службен весник на Република Македонија“ бр. 146/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=38355)
+- [Закон за изменување и дополнување на Законот за водите („Службен весник на Република Македонија“ бр. 52/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40918)
+- [Закон за изменување и дополнување на Законот за водите („Службен весник на Република Северна Македонија“ бр. 151/2021)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=56616)
+- [Закон за изменување на Законот за водите („Службен весник на Република Северна Македонија“ бр. 3/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=68962)
+
+Cited by:
+
+- [Закон за инспекциски надзор во животната средина („Службен весник на Република Северна Македонија“ бр. 99/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=59455)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

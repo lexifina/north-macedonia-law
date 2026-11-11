@@ -21,6 +21,20 @@
 
 Act id: `zakon-1996-sv019-4318` (tags `zakon-1996-sv019-4318/<day>`; `python tools/on.py <day> zakon-1996-sv019-4318`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за изменување и дополнување на Законот за таксата за привремен престој („Службен весник на Република Македонија“ бр. 26/2002)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=6908)
+- [Закон за изменување и дополнување на Законот за таксата за привремен престој („Службен весник на Република Македонија“ бр. 51/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=8299)
+- [Закон за изменување и дополнување на Законот за таксата за привремен престој („Службен весник на Република Македонија“ бр. 88/2008)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=14571)
+- [Закон за изменување и дополнување на Законот за таксата за привремен престој („Службен весник на Република Македонија“ бр. 17/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=21462)
+- [Закон за изменување и дополнување на Законот за таксата за привремен престој („Службен весник на Република Македонија“ бр. 192/2015)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=39312)
+- [Закон за изменување на Законот за таксата за привремен престој („Службен весник на Република Северна Македонија“ бр. 31/2020)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=51986)
+- [Закон за изменување на Законот за таксата за привремен престој („Службен весник на Република Северна Македонија“ бр. 16/2025)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=69127)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

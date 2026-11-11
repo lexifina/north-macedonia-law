@@ -132,6 +132,16 @@
 
 Act id: `zakon-2010-sv052-19258` (tags `zakon-2010-sv052-19258/<day>`; `python tools/on.py <day> zakon-2010-sv052-19258`).
 
+## Status
+
+**amended, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Закон за дополнување на Законот за здруженија и фондации („Службен весник на Република Македонија“ бр. 135/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23373)
+- [Закон за изменување и дополнување на Законот за здруженија и фондации („Службен весник на Република Македонија“ бр. 55/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=41006)
+- [Закон за изменување и дополнување на Законот за здруженија и фондации („Службен весник на Република Северна Македонија“ бр. 239/2022)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=61071)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.
