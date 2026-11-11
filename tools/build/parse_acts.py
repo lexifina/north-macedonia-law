@@ -88,7 +88,7 @@ SCOPE = set(OLD_KINDS) | NEW_KINDS
 # The Constitution (1991 text and Amendments I-XXXVI) is built by hand in ustav/ (corpus.json): its LDBIS records are
 # never published twice.
 CONSTITUTION_KINDS = {"Амандман на Уставот", "Устав"}
-IN_FORCE_ANY = re.compile(r"(?:Овој|Оваа|Ова|Овие|Овоj)\s+[а-шѓќјљњџѕ]+(?:\s+[а-шѓќјљњџѕ]+)?\s+влегува(?:ат)?\s+во\s+сила"
+IN_FORCE_ANY = re.compile(r"(?:Овој|Оваа|Ова|Овие|Овоj)\s+[а-шѓќјљњџѕ]+(?:\s+[а-шѓќјљњџѕ]+)?\s+(?:влегува(?:ат)?\s+во\s+сила|произведува\s+правно\s+дејство)"
                           r"\s+([^.]*?)(?:\.|,\s*а\s|$)", re.S)
 
 
@@ -313,7 +313,8 @@ def split(paras: list[dict], db_title: str = "", word: str = "ЗАКОН", new: 
     preamble = [] if is_law else texts[:start]
     if not is_law:
         # the enacting formula above the title, after the issuing body's name: "Врз основа на член ... донесе"
-        k0 = next((j for j, t in enumerate(preamble) if t.startswith(("Врз основа", "Согласно", "Врз основ"))), None)
+        k0 = next((j for j, t in enumerate(preamble) if t.startswith(("Врз основа", "Согласно", "Врз основ"))
+                   or (new and formula_inside(t))), None)
         if k0 is None:
             raise Hold("no_enacting_formula")
         preamble = preamble[k0:]
@@ -444,6 +445,8 @@ def own_in_force(units: dict, published: str, rx: re.Pattern = IN_FORCE) -> tupl
         return None, "none"
     c = clauses[-1].strip()
     p = date.fromisoformat(published)
+    if rx is IN_FORCE_ANY and re.match(r"^(?:со|од)\s+денот\s+на\s+(?:неговото\s+|нејзиното\s+)?објавувањето", c):
+        return published, "publication"
     if re.match(r"^со\s+денот\s+на\s+(?:неговото\s+)?објавувањето", c):
         return published, "publication"
     m = re.match(r"^(" + "|".join(ORD) + r")\s+ден\s+од\s+денот\s+на\s+(?:неговото\s+)?објавувањето", c)
@@ -474,6 +477,66 @@ UNCLEAN = [
 # (a regulator's licence under "Прилог") is the act's annex: the signature block ends at the signatory's "с.р.".
 SIGNATURE_ANY = re.compile(r"^(?:(?:УП\s?\d|О\.|У\.)\s*)?(?:[Бб]р\.|Број)\s*:?\s*\d")
 ANNEX_START = re.compile(r"^(?:Прилог|ПРИЛОГ|Анекс|АНЕКС)(?:\s+(?:бр\.\s*)?\S{1,6})?\.?$")
+
+
+def formula_inside(t: str) -> bool:
+    """(new kinds) A paragraph that names the issuing body and then gives the enacting formula in the same sentence:
+    "врз основа на член" within its first 400 characters, not a heading in capitals."""
+    return t != t.upper() and bool(re.search(r"\bврз\s+основа\s+на\s+(?:член|точка|одредб|Устав)", t[:400]))
+
+
+ARABIC_POINT = re.compile(r"^(\d{1,3})\.\s+\S")
+ROMAN_POINT = re.compile(r"^([IVX]{1,6})\.\s+\S")
+ROMAN = {r: i for i, r in enumerate(["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII",
+                                     "XIV", "XV", "XVI", "XVII", "XVIII", "XIX", "XX"], 1)}
+
+
+def point_units(body: list[str]) -> dict | None:
+    """(new kinds, rule 6) An act made of numbered points ("1. ...", "2. ..." or "I. ...", "II. ...") instead of
+    articles: one unit per point, when the text starts with point 1 (headings in capitals before it allowed), every
+    point number from 1 to N starts exactly one paragraph and no other paragraph starts with such a number (so a list
+    inside a point can never be taken for the next point). Headings in capitals between points ("II. ЗАВРШНИ
+    ОДРЕДБИ") are heading units. None when the text is not so made."""
+    first = next((j for j, t in enumerate(body) if t != t.upper() or not re.search(r"[А-Ш]", t)), None)
+    if first is None:
+        return None
+    m_a, m_r = ARABIC_POINT.match(body[first]), ROMAN_POINT.match(body[first])
+    if m_a and m_a.group(1) == "1":
+        rx, num = ARABIC_POINT, int
+    elif m_r and m_r.group(1) == "I":
+        rx, num = ROMAN_POINT, ROMAN.get
+    else:
+        return None
+
+    def is_heading(t: str) -> bool:
+        return t == t.upper() and bool(re.search(r"[А-Ш]{3}", t)) and len(t) < 200
+
+    starts = []
+    for j, t in enumerate(body):
+        m = rx.match(t)
+        if m and not is_heading(t):
+            n = num(m.group(1))
+            if n is None:
+                return None
+            starts.append((n, j))
+    nums = [n for n, _ in starts]
+    if len(nums) < 2 or nums != list(range(1, len(nums) + 1)):
+        return None
+    units: dict = {}
+    for k, t in enumerate(body[:first]):
+        units[f"0-heading-{k + 1}"] = {"label": t, "kind": "heading", "text": f"# {t}\n"}
+    for idx, (n, j) in enumerate(starts):
+        end = starts[idx + 1][1] if idx + 1 < len(starts) else len(body)
+        lines = body[j:end]
+        heads = []
+        while len(lines) > 1 and is_heading(lines[-1]) and idx + 1 < len(starts):
+            heads.insert(0, lines.pop())  # a heading printed above the next point
+        key = f"tocka-{n:03d}"
+        units[key] = {"label": f"Точка {n}" if rx is ARABIC_POINT else f"Точка {m_r.group(1) if n == 1 else [r for r, v in ROMAN.items() if v == n][0]}",
+                      "kind": "point", "text": "\n".join(lines) + "\n"}
+        for h, t in enumerate(heads, 1):
+            units[f"{key}-zz-heading-{h}"] = {"label": t, "kind": "heading", "text": f"# {t}\n"}
+    return units
 
 
 def sig_cut(lines: list[str], new: bool) -> tuple[int, list[str] | None]:
@@ -510,7 +573,8 @@ def flat_split(paras: list[dict], db_title: str, word: str, new: bool = False) -
     start = next((i for i, t in enumerate(texts) if starter.match(t) and t == t.upper()), None)
     if start is None:
         raise Hold("no_title_line")
-    k0 = next((j for j, t in enumerate(texts[:start]) if t.startswith(("Врз основа", "Согласно", "Врз основ"))), None)
+    k0 = next((j for j, t in enumerate(texts[:start]) if t.startswith(("Врз основа", "Согласно", "Врз основ"))
+               or (new and formula_inside(t))), None)
     if k0 is None:
         raise Hold("no_enacting_formula")
     preamble = texts[k0:start]
@@ -531,6 +595,15 @@ def flat_split(paras: list[dict], db_title: str, word: str, new: bool = False) -
         while cut > 1 and len(body[cut - 1]) < 60 and not re.search(r"[.,;:“”\"]$", body[cut - 1]):
             cut -= 1
     body = body[:cut]
+    if new and sum(len(x) for x in body) >= 100:
+        pts = point_units(body)
+        if pts is not None:
+            if any(len(re.sub(r"^\S+\s*", "", u["text"]).strip()) < 3 for u in pts.values() if u["kind"] == "point"):
+                raise Hold("empty_point")
+            units = {"uvod": {"label": "Вовед", "kind": "preamble", "text": "\n".join(preamble) + "\n"}, **pts}
+            if annex:
+                units["prilog-01"] = {"label": annex[0], "kind": "annex", "text": "\n".join([f"# {annex[0]}"] + annex[1:]) + "\n"}
+            return units, norm(title), None
     if annex:
         body = body + annex  # checked for cleanliness with the text, then split off below
     if sum(len(x) for x in body) < 100:
@@ -994,7 +1067,8 @@ def main():
             if hit.get("flat"):
                 # one text with no articles: its own in-force clause must be there and agree, which also shows the
                 # text runs to its end
-                own, how = own_in_force({"art-000": units["tekst"]}, pub, in_force_rx)
+                own, how = own_in_force({"art-000": {"text": "".join(u["text"] for k, u in units.items()
+                                                                     if u["kind"] in ("text", "point"))}}, pub, in_force_rx)
                 if not own:
                     raise Hold("flat_text_no_own_clause:" + how[:80])
                 if own != day:

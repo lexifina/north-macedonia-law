@@ -7,6 +7,14 @@
 
 Act id: `uredba-2011-sv169-23853` (tags `uredba-2011-sv169-23853/<day>`; `python tools/on.py <day> uredba-2011-sv169-23853`).
 
+## Status
+
+**corrected, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Исправка за Уредбата за изменување и дополнување на Уредбата за висината на цената на градежното земјиште сопственост на Република Македонија и висината на посебните трошоци за спроведување на постапките за отуѓување и давање под закуп („Службен весник на Република Македонија“ бр. 171/2011)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=23892)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -18,6 +18,14 @@
 
 Act id: `pravilnik-2009-sv158-18538` (tags `pravilnik-2009-sv158-18538/<day>`; `python tools/on.py <day> pravilnik-2009-sv158-18538`).
 
+## Status
+
+**corrected, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Исправка на Правилникот за изменување и дополнување на Правилникот за начинот на плаќањето на лабораториските испитувања во специјалистичко консултативната здравствена заштита по упат на избран лекар („Службен весник на Република Македонија“ бр. 2/2010)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=18606)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

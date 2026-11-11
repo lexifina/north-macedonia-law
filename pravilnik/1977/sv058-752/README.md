@@ -11,6 +11,14 @@
 
 Act id: `pravilnik-1977-sv058-752` (tags `pravilnik-1977-sv058-752/<day>`; `python tools/on.py <day> pravilnik-1977-sv058-752`).
 
+## Status
+
+**corrected, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Исправка на Правилникот за дополненија на Правилникот за квалитетот на кафето и сурогатите на кафе, чајот, зачините, концентратите за супа, пекарскиот кавсец, прашокот за печиво, прашокот за пудинг, диететските производи и адитивите („Службен весник на Република Македонија“ бр. 60/1977)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=758)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

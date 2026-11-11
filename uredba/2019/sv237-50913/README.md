@@ -12,6 +12,14 @@
 
 Act id: `uredba-2019-sv237-50913` (tags `uredba-2019-sv237-50913/<day>`; `python tools/on.py <day> uredba-2019-sv237-50913`).
 
+## Status
+
+**corrected, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Исправка на Уредбата за поблиските критериуми за директни плаќања, корисниците на средствата, максималните износи и начинот на директните плаќања за 2019 година („Службен весник на Република Северна Македонија“ бр. 243/2019)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=50979)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

@@ -15,6 +15,14 @@
 
 Act id: `uredba-2016-sv002-40238` (tags `uredba-2016-sv002-40238/<day>`; `python tools/on.py <day> uredba-2016-sv002-40238`).
 
+## Status
+
+**corrected, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Исправка на Уредбата за изменување и дополнување на Уредбата за мрежата на здравствени установи („Службен весник на Република Македонија“ бр. 5/2016)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=40132)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.

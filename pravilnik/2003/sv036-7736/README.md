@@ -7,6 +7,14 @@
 
 Act id: `pravilnik-2003-sv036-7736` (tags `pravilnik-2003-sv036-7736/<day>`; `python tools/on.py <day> pravilnik-2003-sv036-7736`).
 
+## Status
+
+**corrected, not consolidated**: the text here is the act as published; the official sources name later acts that change or cite it, and no official consolidated text exists.
+
+Amended or repealed by:
+
+- [Исправка на Правилникот за изменување и дополнување на Правилникот за начинот на водењето, формата и содржината на педагошката евиденција и документација во средните училишта („Службен весник на Република Македонија“ бр. 37/2003)](https://ldbis.pravda.gov.mk/PregledNaZakon.aspx?id=7747)
+
 ## Decisions made by hand
 
 - A law is published here as published in Службен весник, from the text the Ministry of Justice's database (LDBIS) serves for it; the promulgation decree (Указ) above it is not part of the law.
