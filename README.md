@@ -1,5 +1,10 @@
 # North Macedonia: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="North Macedonian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is North Macedonia's national law, which global-law reads at `north-macedonia/national/acts/`.
 
 The law of North Macedonia as a git history: one file per article, one commit per act or amendment on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; the tool below gives the text in force on any day. The texts are in Macedonian (Cyrillic), the official language.
