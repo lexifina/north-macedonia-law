@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Македонското право како git историја</text>
+<rect x="572.7" y="24.5" width="155" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="650.0" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">податоци до 11.11.2026</text>
+<rect x="735.4" y="24.5" width="121" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="795.7" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">ажурност: ажурно</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">20.064</text>
+<text x="40.0" y="106" font-size="12" fill="#59636e">прописи</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">22.823</text>
+<text x="206.4" y="106" font-size="12" fill="#59636e">измени, како commit-и</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">179.486</text>
+<text x="372.8" y="106" font-size="12" fill="#59636e">датотеки со одредби</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">20.565</text>
+<text x="539.2" y="106" font-size="12" fill="#59636e" textLength="142" lengthAdjust="spacingAndGlyphs">автори: прописи и издавачи</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">1952–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#59636e">години историја</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">Измени по година на влегување во сила</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
+<line x1="80.5" y1="280.5" x2="839.5" y2="280.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="284.5" font-size="11" text-anchor="end" fill="#59636e">1.000</text>
+<line x1="80.5" y1="230.5" x2="839.5" y2="230.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="234.5" font-size="11" text-anchor="end" fill="#59636e">2.000</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">3.000</text>
+<rect x="81.10" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1952: измени што влегле во сила: 1</title></rect>
+<rect x="91.22" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1953: измени што влегле во сила: 2</title></rect>
+<rect x="162.06" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1960: измени што влегле во сила: 1</title></rect>
+<text x="166.5" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1960</text>
+<rect x="202.54" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1964: измени што влегле во сила: 1</title></rect>
+<rect x="212.66" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1965: измени што влегле во сила: 3</title></rect>
+<rect x="222.78" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1966: измени што влегле во сила: 3</title></rect>
+<rect x="232.90" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1967: измени што влегле во сила: 3</title></rect>
+<rect x="243.02" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1968: измени што влегле во сила: 2</title></rect>
+<rect x="253.14" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1969: измени што влегле во сила: 3</title></rect>
+<rect x="263.26" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1970: измени што влегле во сила: 3</title></rect>
+<text x="267.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1970</text>
+<rect x="273.38" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1971: измени што влегле во сила: 1</title></rect>
+<rect x="283.50" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1972: измени што влегле во сила: 4</title></rect>
+<rect x="293.62" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1973: измени што влегле во сила: 5</title></rect>
+<rect x="303.74" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1974: измени што влегле во сила: 7</title></rect>
+<rect x="313.86" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1975: измени што влегле во сила: 7</title></rect>
+<rect x="323.98" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1976: измени што влегле во сила: 8</title></rect>
+<rect x="334.10" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1977: измени што влегле во сила: 8</title></rect>
+<rect x="344.22" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1978: измени што влегле во сила: 14</title></rect>
+<rect x="354.34" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1979: измени што влегле во сила: 7</title></rect>
+<rect x="364.46" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1980: измени што влегле во сила: 12</title></rect>
+<text x="368.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1980</text>
+<rect x="374.58" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1981: измени што влегле во сила: 8</title></rect>
+<rect x="384.70" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1982: измени што влегле во сила: 3</title></rect>
+<rect x="394.82" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1983: измени што влегле во сила: 9</title></rect>
+<rect x="404.94" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1984: измени што влегле во сила: 7</title></rect>
+<rect x="415.06" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1985: измени што влегле во сила: 4</title></rect>
+<rect x="425.18" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1986: измени што влегле во сила: 19</title></rect>
+<rect x="435.30" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1987: измени што влегле во сила: 15</title></rect>
+<rect x="445.42" y="328.4" width="8.92" height="2.0" rx="1.5" fill="#1f883d"><title>1988: измени што влегле во сила: 41</title></rect>
+<rect x="455.54" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1989: измени што влегле во сила: 28</title></rect>
+<rect x="465.66" y="328.9" width="8.92" height="1.6" rx="1.5" fill="#1f883d"><title>1990: измени што влегле во сила: 33</title></rect>
+<text x="470.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1990</text>
+<rect x="475.78" y="329.0" width="8.92" height="1.5" rx="1.5" fill="#1f883d"><title>1991: измени што влегле во сила: 21</title></rect>
+<rect x="485.90" y="326.4" width="8.92" height="4.2" rx="1.5" fill="#1f883d"><title>1992: измени што влегле во сила: 83</title></rect>
+<rect x="496.02" y="322.9" width="8.92" height="7.5" rx="1.5" fill="#1f883d"><title>1993: измени што влегле во сила: 151</title></rect>
+<rect x="506.14" y="325.0" width="8.92" height="5.5" rx="1.5" fill="#1f883d"><title>1994: измени што влегле во сила: 110</title></rect>
+<rect x="516.26" y="325.1" width="8.92" height="5.5" rx="1.5" fill="#1f883d"><title>1995: измени што влегле во сила: 109</title></rect>
+<rect x="526.38" y="323.4" width="8.92" height="7.0" rx="1.5" fill="#1f883d"><title>1996: измени што влегле во сила: 141</title></rect>
+<rect x="536.50" y="324.9" width="8.92" height="5.6" rx="1.5" fill="#1f883d"><title>1997: измени што влегле во сила: 112</title></rect>
+<rect x="546.62" y="323.6" width="8.92" height="6.9" rx="1.5" fill="#1f883d"><title>1998: измени што влегле во сила: 138</title></rect>
+<rect x="556.74" y="324.4" width="8.92" height="6.1" rx="1.5" fill="#1f883d"><title>1999: измени што влегле во сила: 122</title></rect>
+<rect x="566.86" y="320.2" width="8.92" height="10.3" rx="1.5" fill="#1f883d"><title>2000: измени што влегле во сила: 206</title></rect>
+<text x="571.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2000</text>
+<rect x="576.98" y="313.1" width="8.92" height="17.4" rx="1.5" fill="#1f883d"><title>2001: измени што влегле во сила: 347</title></rect>
+<rect x="587.10" y="310.1" width="8.92" height="20.4" rx="1.5" fill="#1f883d"><title>2002: измени што влегле во сила: 407</title></rect>
+<rect x="597.22" y="307.6" width="8.92" height="22.9" rx="1.5" fill="#1f883d"><title>2003: измени што влегле во сила: 459</title></rect>
+<rect x="607.34" y="308.9" width="8.92" height="21.6" rx="1.5" fill="#1f883d"><title>2004: измени што влегле во сила: 431</title></rect>
+<rect x="617.46" y="303.2" width="8.92" height="27.3" rx="1.5" fill="#1f883d"><title>2005: измени што влегле во сила: 546</title></rect>
+<rect x="627.58" y="298.5" width="8.92" height="32.0" rx="1.5" fill="#1f883d"><title>2006: измени што влегле во сила: 640</title></rect>
+<rect x="637.70" y="302.3" width="8.92" height="28.2" rx="1.5" fill="#1f883d"><title>2007: измени што влегле во сила: 564</title></rect>
+<rect x="647.82" y="277.8" width="8.92" height="52.7" rx="1.5" fill="#1f883d"><title>2008: измени што влегле во сила: 1.054</title></rect>
+<rect x="657.94" y="273.5" width="8.92" height="57.0" rx="1.5" fill="#1f883d"><title>2009: измени што влегле во сила: 1.140</title></rect>
+<rect x="668.06" y="257.1" width="8.92" height="73.4" rx="1.5" fill="#1f883d"><title>2010: измени што влегле во сила: 1.468</title></rect>
+<text x="672.5" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2010</text>
+<rect x="678.18" y="225.6" width="8.92" height="104.9" rx="1.5" fill="#1f883d"><title>2011: измени што влегле во сила: 2.098</title></rect>
+<text x="682.6" y="219.6" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">2.098 во 2011 г.</text>
+<rect x="688.30" y="239.4" width="8.92" height="91.0" rx="1.5" fill="#1f883d"><title>2012: измени што влегле во сила: 1.821</title></rect>
+<rect x="698.42" y="242.7" width="8.92" height="87.8" rx="1.5" fill="#1f883d"><title>2013: измени што влегле во сила: 1.757</title></rect>
+<rect x="708.54" y="270.9" width="8.92" height="59.6" rx="1.5" fill="#1f883d"><title>2014: измени што влегле во сила: 1.193</title></rect>
+<rect x="718.66" y="263.9" width="8.92" height="66.5" rx="1.5" fill="#1f883d"><title>2015: измени што влегле во сила: 1.331</title></rect>
+<rect x="728.78" y="289.3" width="8.92" height="41.2" rx="1.5" fill="#1f883d"><title>2016: измени што влегле во сила: 824</title></rect>
+<rect x="738.90" y="321.4" width="8.92" height="9.1" rx="1.5" fill="#1f883d"><title>2017: измени што влегле во сила: 182</title></rect>
+<rect x="749.02" y="306.9" width="8.92" height="23.6" rx="1.5" fill="#1f883d"><title>2018: измени што влегле во сила: 473</title></rect>
+<rect x="759.14" y="293.6" width="8.92" height="37.0" rx="1.5" fill="#1f883d"><title>2019: измени што влегле во сила: 739</title></rect>
+<rect x="769.26" y="292.1" width="8.92" height="38.4" rx="1.5" fill="#1f883d"><title>2020: измени што влегле во сила: 767</title></rect>
+<text x="773.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2020</text>
+<rect x="779.38" y="301.1" width="8.92" height="29.4" rx="1.5" fill="#1f883d"><title>2021: измени што влегле во сила: 587</title></rect>
+<rect x="789.50" y="311.1" width="8.92" height="19.4" rx="1.5" fill="#1f883d"><title>2022: измени што влегле во сила: 388</title></rect>
+<rect x="799.62" y="311.6" width="8.92" height="18.9" rx="1.5" fill="#1f883d"><title>2023: измени што влегле во сила: 379</title></rect>
+<rect x="809.74" y="304.6" width="8.92" height="25.9" rx="1.5" fill="#1f883d"><title>2024: измени што влегле во сила: 517</title></rect>
+<rect x="819.86" y="290.8" width="8.92" height="39.7" rx="1.5" fill="#1f883d"><title>2025: измени што влегле во сила: 794</title></rect>
+<rect x="829.98" y="307.4" width="8.92" height="23.1" rx="1.5" fill="#1f883d"><title>2026: измени што влегле во сила: 462</title></rect>
+<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">Измени датирани според денот на влегување во сила: 22.823. Вид на историја: in-force.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Целосност според официјалните извори на 12.11.2026</text>
+<text x="40.5" y="446.5" font-size="13" fill="#1f2328">Устав</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">во репозиториумот</text>
+<g><title>Устав: 100%</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="482.5" font-size="13" fill="#1f2328">Главни законици</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">удел на основните законици</text>
+<g><title>Главни законици: 67%</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="479.5" width="61.3" height="8" rx="4" fill="#9a6700"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">67%</text>
+<text x="40.5" y="518.5" font-size="13" fill="#1f2328">Национални прописи</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">прописи од официјалниот вкупен број</text>
+<g><title>Национални прописи: 50%</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="515.5" width="46.1" height="8" rx="4" fill="#9a6700"/></g>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">50%</text>
+<text x="456.0" y="446.5" font-size="13" fill="#1f2328">Регионални прописи</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">нема територијални единици со прописи</text>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">не се применува</text>
+<text x="456.0" y="482.5" font-size="13" fill="#1f2328">Судска пракса</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">опфатени највисоки судови</text>
+<g><title>Судска пракса: 0%</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0%</text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Точност на содржината</text>
+<text x="40.5" y="612.5" font-size="13" fill="#1f2328">Измени со датум на важење</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">удел на измени</text>
+<g><title>Измени со датум на важење: 100%</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="648.5" font-size="13" fill="#1f2328">Измени со официјален извор</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">ред Source или врска во commit-от</text>
+<g><title>Измени со официјален извор: 100%</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Проверено со официјалниот извор</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">репозиториум: 11.11.2026; следење на global-law: 09.11.2026</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">11.11.2026</text>
+<text x="456.0" y="612.5" font-size="13" fill="#1f2328">Корпуси за земјата во global-law</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">национални прописи: 1</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e" textLength="832" lengthAdjust="spacingAndGlyphs">lexifina/north-macedonia-law на 3a74606, изградено 2026-11-13. Без commit-и за документација. Опфат: 20064 acts, 22870 dated versions from 1952-04-23 to 2026-11-10</text>
+</svg>

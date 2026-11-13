@@ -1,80 +1,87 @@
-# North Macedonia: law history in git
+# Северна Македонија: историјата на правото во git
+
+**Македонски** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="North Macedonian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/mk/effort-dark.svg">
+<img alt="Прописите на Северна Македонија во овој репозиториум: што содржи, измени по година на влегување во сила, целосност во однос на официјалните извори и точност на содржината" src="data/mk/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is North Macedonia's national law, which global-law reads at `north-macedonia/national/acts/`.
+Дел од [lexifina/global-law](https://github.com/lexifina/global-law), единствена историја во git за правото на сите држави: ова е националното право на Северна Македонија, кое global-law го чита во `north-macedonia/national/acts/`.
 
-The law of North Macedonia as a git history: one file per article, one commit per act or amendment on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every paragraph; `git log` lists every change to an article; the tool below gives the text in force on any day. The texts are in Macedonian (Cyrillic), the official language.
+Правото на Северна Македонија како историја во git: по една датотека за секој член, по еден commit за секој пропис или измена на денот кога влегле во сила, а прописот што ја направил секоја промена е автор на commit-от. `git blame` го наведува прописот зад секој став; `git log` ги наведува сите измени на еден член; алатката подолу го дава текстот што важел на кој било ден. Текстовите се на македонски јазик (кирилица), службениот јазик.
 
-*На македонски: [подолу](#македонски).*
+**Што содржи.** Околу 13.500 прописи од правната база на податоци на Министерството за правда (LDBIS), секој како што е објавен во Службен весник: закони (`zakon/`), уредби на Владата (`uredba/`), правилници (`pravilnik/`), упатства (`upatstvo/`), наредби (`naredba/`), статути (`statut/`) и деловници (`delovnik/`), од 1952 година до денес, со престанокот на важење на прописите што LDBIS ги означува како неважечки. Два прописа имаат целосна историја на измените, изработена рачно: Уставот (`ustav/`, од 1991 година до Амандманите I-XXXVI) и Законот за заштита на личните податоци (`zakon-za-zastita-na-licnite-podatoci/`, од 2020 година до двата закона за негово изменување). [ACTS.md](ACTS.md) ги наведува сите прописи со нивната папка, статус и временски опфат.
 
-**What is in it.** About 13,500 acts from the Ministry of Justice's legal database (LDBIS), each as published in Службен весник (the Official Gazette): laws (`zakon/`), Government decrees (`uredba/`), rulebooks (`pravilnik/`), instructions (`upatstvo/`), orders (`naredba/`), statutes (`statut/`) and rules of procedure (`delovnik/`), from 1952 to today, with the end of validity of the acts LDBIS marks no longer valid. Two acts have a full amendment history built by hand: the Constitution (`ustav/`, 1991 through Amendments I-XXXVI) and the Law on Personal Data Protection (`zakon-za-zastita-na-licnite-podatoci/`, 2020 through both amending laws). [ACTS.md](ACTS.md) lists every act with its folder, status and span.
+## Структура
 
-## Layout
-
-| Where | What |
+| Каде | Што |
 | --- | --- |
-| `<kind>/<year>/sv<issue>-<id>/` | one act: `<kind>` as above, the year and Gazette issue it was published in, and its LDBIS id (`zakon/2006/sv013-11057/` is the Law on Tax Procedure, Службен весник 13/2006, LDBIS id 11057) |
-| `<act>/art-NNN.md` · `<act>/README.md` | one article per file (one paragraph per line) · the act's versions, status and official link |
-| `ustav/` | the Constitution, one file per article (`clen-NNN.md`) |
-| [ACTS.md](ACTS.md) · `data/` · `tools/` | the act list · tables (`data/acts.json`, `data/versions.json`, `data/laws.csv`, `data/paths.json`) · the tools below |
+| `<kind>/<year>/sv<issue>-<id>/` | еден пропис: `<kind>` како погоре, годината и бројот на Службен весник во кој е објавен и неговиот идентификатор во LDBIS (`zakon/2006/sv013-11057/` е Законот за даночна постапка, Службен весник 13/2006, идентификатор во LDBIS 11057) |
+| `<act>/art-NNN.md` · `<act>/README.md` | по еден член во датотека (по еден став во ред) · верзиите на прописот, неговиот статус и официјалниот линк |
+| `ustav/` | Уставот, по една датотека за секој член (`clen-NNN.md`) |
+| [ACTS.md](ACTS.md) · `data/` · `tools/` | списокот на прописи · табели (`data/acts.json`, `data/versions.json`, `data/laws.csv`, `data/paths.json`) · алатките подолу |
 
-## Use it
+## Користење
 
-| Question | Command |
+| Прашање | Команда |
 | --- | --- |
-| What did Article 4 of the Constitution say on 1 January 2010? | `python tools/on.py 2010-01-01 ustav clen-004` |
-| An act's article on a day | `python tools/on.py 2015-06-01 zakon/2006/sv013-11057 art-062` |
-| Which amendment wrote each paragraph of Article 3 of the Constitution? | `git blame ustav/clen-003.md` |
-| Every change to an article, word by word | `git log -p --word-diff ustav/clen-104.md` |
-| Is an act here current? | `python tools/freshness.py zakon/2006/sv013-11057` |
-| Acts held back, and why | `data/held.json` |
-| Acts published but not yet in force | `data/pending.json` |
+| Што гласел членот 4 од Уставот на 1 јануари 2010? | `python tools/on.py 2010-01-01 ustav clen-004` |
+| Член од пропис на одреден ден | `python tools/on.py 2015-06-01 zakon/2006/sv013-11057 art-062` |
+| Кој амандман го напишал секој став од членот 3 од Уставот? | `git blame ustav/clen-003.md` |
+| Секоја измена на член, збор по збор | `git log -p --word-diff ustav/clen-104.md` |
+| Дали прописот овде е ажурен? | `python tools/freshness.py zakon/2006/sv013-11057` |
+| Задржани прописи и зошто | `data/held.json` |
+| Прописи што се објавени, но сè уште не се во сила | `data/pending.json` |
 
-Read dates with the tools, not `git rev-list --before`: they pick each version by its `In-force:` trailer. After a rebuild, refresh tags with `git fetch --force --tags`.
+Датумите читајте ги со алатките, а не со `git rev-list --before`: тие ја избираат секоја верзија според полето `In-force:` во commit-от. По повторна изградба, освежете ги ознаките (tags) со `git fetch --force --tags`.
 
-## How current is it
+## Колку е ажурно
 
-Every version names the official page it was read from (its LDBIS record, `Source:` in the commit; `portal` in `data/acts.json`), so every act can be checked against its source.
+Секоја верзија ја наведува официјалната страница од која е прочитана (нејзиниот запис во LDBIS, `Source:` во commit-от; `portal` во `data/acts.json`), така што секој пропис може да се провери според неговиот извор.
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-09; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
+Проверено според официјалните извори: 2026-11-09; 100% од прописите проверени во последните 7 дена, 100% во последните 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
-`python tools/freshness.py <act>` gives an act's status, its last check and the official link. A refresh runs every day: it reads the records LDBIS has added, re-reads the record of every act here (laws and Government decrees within 7 days, other acts within 30), appends new acts and versions, and rewrites the freshness files. [data/status.json](data/status.json) says whether updates are running and whether LDBIS is answering. One row per act in `data/freshness/<kind>/<year>.csv`; statuses (`current`, `pending-change`, `stale`, `unverified`, `source-unavailable`) and fields are explained in `data/freshness.json`.
+`python tools/freshness.py <act>` ги дава статусот на прописот, неговата последна проверка и официјалниот линк. Освежувањето се извршува секој ден: ги чита записите што LDBIS ги додал, повторно го чита записот на секој пропис овде (законите и уредбите на Владата во рок од 7 дена, другите прописи во рок од 30), додава нови прописи и верзии и повторно ги запишува датотеките за ажурност. [data/status.json](data/status.json) покажува дали ажурирањата работат и дали LDBIS одговара. По еден ред за секој пропис во `data/freshness/<kind>/<year>.csv`; статусите (`current`, `pending-change`, `stale`, `unverified`, `source-unavailable`) и полињата се објаснети во `data/freshness.json`.
 
-## Dates, authors and limits
+## Датуми, автори и ограничувања
 
-- Each commit is dated on the day the change took effect; the author is the act that made it (an address that cannot exist, so `git log --author` names acts), the committer Lexifina. The in-force day is the one LDBIS records, checked against the act's own final article where that names a day; where the two differ, the act is held back.
-- An act LDBIS marks no longer valid gets a last version with no text, from its end-of-validity day, credited to the act that repealed it when that act's text names it.
-- **No official consolidated texts.** For almost every act the Official Gazette prints only the act as passed and each amending act; there is no official consolidated text to read. An act a later act amended is therefore published **as enacted** and marked `amended, not consolidated`, naming the amending acts and Constitutional Court decisions LDBIS links to it (`amended_by` in `data/acts.json`, with their official links); its text here does not include those amendments. An act later acts only cite is marked `cited later, not consolidated` (`cited_by`). Such acts are `pending-change` in the freshness files.
-- **Held back** (listed in `data/held.json` with the rule that holds each): acts whose PDF has no text layer or no text at all on LDBIS, whose text does not split cleanly into articles, whose in-force day disagrees with their own final article, which a correction (Исправка) names, or to which LDBIS links an official consolidated text not yet built as a version.
-- Not included: the promulgation decree (Указ) above each law, signatures, and decisions (Одлуки) and other acts outside the seven kinds above. Footnotes printed with an act are its `zz-fusnoti.md` file, not part of an article.
-- Only the text published in Службен весник is authoritative. This repository is a research aid, not legal advice and not an official publication.
+- Секој commit е датиран на денот кога промената влегла во сила; автор е прописот што ја направил (адреса што не може да постои, па `git log --author` ги наведува прописите), а committer е Lexifina. Денот на влегување во сила е оној што го евидентира LDBIS, проверен според последниот член на самиот пропис кога тој наведува ден; кога двата датума се разликуваат, прописот се задржува.
+- Пропис што LDBIS го означува како неважечки добива последна верзија без текст, од денот на престанокот на важење, припишана на прописот што го укинал, кога текстот на тој пропис го наведува.
+- **Нема службени пречистени текстови.** За речиси секој пропис Службен весник го објавува само прописот како што е донесен и секој пропис за негово изменување; нема службен пречистен текст што би можел да се прочита. Затоа пропис што подоцнежен пропис го изменил е објавен **во изворниот текст** и означен `amended, not consolidated`, со наведување на прописите за изменување и одлуките на Уставниот суд што LDBIS ги поврзува со него (`amended_by` во `data/acts.json`, со нивните официјални линкови); неговиот текст овде не ги вклучува тие измени. Пропис што подоцнежните прописи само го повикуваат е означен `cited later, not consolidated` (`cited_by`). Таквите прописи имаат статус `pending-change` во датотеките за ажурност.
+- **Задржани** (наведени во `data/held.json` со правилото поради кое е задржан секој од нив): прописи чиј PDF во LDBIS нема текстуален слој или воопшто нема текст, чиј текст не може чисто да се подели на членови, чиј ден на влегување во сила не се совпаѓа со нивниот последен член, што ги наведува некоја Исправка или со кои LDBIS поврзува службен пречистен текст што сè уште не е изработен како верзија.
+- Не се вклучени: указот за прогласување (Указ) над секој закон, потписите, ниту одлуките (Одлуки) и другите акти надвор од седумте видови наведени погоре. Фуснотите отпечатени со прописот се во неговата датотека `zz-fusnoti.md` и не се дел од член.
+- Автентичен е само текстот објавен во Службен весник. Овој репозиториум е помагало за истражување, а не правен совет ниту службена публикација.
 
-## How it is checked
+## Како се проверува
 
-- Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`) and must match the corpus; no merge commits on `main`, commit dates never go backwards, nothing is dated in the future, and every commit's trailers parse. Results are in [REPRODUCE.md](REPRODUCE.md).
-- The text of each act is its Gazette PDF's own text layer, split into articles by the layout (no OCR, no model). A sample of 220 acts re-read from LDBIS on 9 November 2026 served byte-identical PDFs.
-- Additions are append-only: a published commit is never rewritten. A text found to read differently later is corrected in a labelled correction commit (`Kind: correction`), both versions kept.
+- Секоја верзија повторно се чита од git на денот кога влегла во сила и на претходниот ден (`tools/check_repo.py`) и мора да се совпаѓа со корпусот; на `main` нема merge commit-и, датумите на commit-ите никогаш не одат наназад, ништо не е датирано во иднина, а полињата (trailers) на секој commit се читаат исправно. Резултатите се во [REPRODUCE.md](REPRODUCE.md).
+- Текстот на секој пропис е сопствениот текстуален слој на неговиот PDF од Службен весник, поделен на членови според распоредот на страницата (без OCR, без модел). За примерок од 220 прописи, повторно прочитани од LDBIS на 9 ноември 2026, LDBIS ги врати истите PDF-датотеки, идентични бајт по бајт.
+- Додавањето е само надоврзување: објавен commit никогаш не се препишува. Текст за кој подоцна ќе се утврди дека гласи поинаку се исправа со означен commit за исправка (`Kind: correction`), при што се зачувуваат двете верзии.
 
-## Sources
+## Извори
 
-| Source | What it gives | Used |
+| Извор | Што дава | Употреба |
 | --- | --- | --- |
-| [LDBIS](https://ldbis.pravda.gov.mk/) (Ministry of Justice) | each act's record: Gazette issue, publication, in-force, application and end-of-validity days, linked acts; and the act's Gazette PDF | Yes: every act except the two below |
-| [Службен весник](https://www.slvesnik.com.mk/) (Official Gazette) | every issue since 1945 (PDF) | The Constitution's amendments XIX-XXXVI and the data protection law |
-| [Собрание](https://www.sobranie.mk/) (Assembly) | the certified copy of the 1991 Constitution and Amendments I-XXXII | The Constitution's 1991 text and Amendments I-XVIII |
+| [LDBIS](https://ldbis.pravda.gov.mk/) (Министерство за правда) | записот за секој пропис: број на Службен весник, денови на објавување, влегување во сила, примена и престанок на важење, поврзани прописи; и PDF на прописот од Службен весник | Да: сите прописи освен двата подолу |
+| [Службен весник](https://www.slvesnik.com.mk/) | секој број од 1945 година (PDF) | Амандманите XIX-XXXVI на Уставот и Законот за заштита на личните податоци |
+| [Собрание](https://www.sobranie.mk/) | заверениот примерок на Уставот од 1991 година и Амандманите I-XXXII | Текстот на Уставот од 1991 година и Амандманите I-XVIII |
 
-## Licence
+## Лиценца
 
-The texts are official texts of the Republic of North Macedonia, which the Law on Copyright and Related Rights (Закон за авторското право и сродните права) excludes from copyright protection. Lexifina's arrangement, tables, commit messages and tools are dedicated to the public domain under CC0 1.0; see [LICENSE](LICENSE). No model wrote or changed legal text.
+Текстовите се службени текстови на Република Северна Македонија, кои Законот за авторското право и сродните права ги исклучува од авторскоправна заштита. Распоредот, табелите, пораките на commit-ите и алатките на Lexifina се ставени во јавен домен според CC0 1.0; видете [LICENSE](LICENSE). Ниту еден модел не напишал ниту изменил правен текст.
 
----
+Ова е превод на англиската верзија ([README.en.md](README.en.md)); ако се разликуваат, важи англиската верзија.
 
-## Македонски
+## Повеќе
 
-Правото на Република Северна Македонија како историја во git: една датотека по член, еден commit по пропис или измена, на денот кога влегле во сила, со прописот што ја направил промената како автор. Околу 13.500 прописи од базата LDBIS на Министерството за правда, секој како што е објавен во „Службен весник“: закони, уредби, правилници, упатства, наредби, статути и деловници. Пропис што подоцна е изменет, а за кој нема службен пречистен текст, е објавен во изворниот текст и означен „amended, not consolidated“, со измените што ги наведува LDBIS. Ова не е службено пречистен текст, ниту правен совет.
+Од репозиториумот [lexifina/global-law](https://github.com/lexifina/global-law) (на англиски):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): сите функции и што мора да поддржува секој корпус (`git blame`, `law.py`, MCP алатки)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): прашања и одговори · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): предлагање измени · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP сервер · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): како е изработен · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): колку е ажурен секој корпус · [Следење](https://github.com/lexifina/global-law/tree/main/monitoring): дали ажурирањата работат · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): како секој официјален извор се следи за измени
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): колку се брзи алатките, измерено
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): графикони и врски низ правото на целиот свет
+- [Ранливости](https://github.com/lexifina/global-law/tree/main/vulnerabilities): грешки во прописите онака како што се објавени
