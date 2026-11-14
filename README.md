@@ -22,7 +22,7 @@
 | `ustav/` | Уставот, по една датотека за секој член (`clen-NNN.md`) |
 | [ACTS.md](ACTS.md) · `data/` · `tools/` | списокот на прописи · табели (`data/acts.json`, `data/versions.json`, `data/laws.csv`, `data/paths.json`) · алатките подолу |
 
-## Користење
+## Прашања како git команди
 
 | Прашање | Команда |
 | --- | --- |
@@ -35,6 +35,14 @@
 | Прописи што се објавени, но сè уште не се во сила | `data/pending.json` |
 
 Датумите читајте ги со алатките, а не со `git rev-list --before`: тие ја избираат секоја верзија според полето `In-force:` во commit-от. По повторна изградба, освежете ги ознаките (tags) со `git fetch --force --tags`.
+
+**Или прашајте со обични зборови.** Истите податоци се бесплатни и без git, без сметка и без клуч:
+
+- **[Прашајте го Claude за македонското право](https://global-law.lexifina.com/v1/try_claude?country=north-macedonia&q=what%20does%20the%20Labour%20Relations%20Act%20%28%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D0%B8%29%20say%20about%20annual%20leave%20%28%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD%20%D0%BE%D0%B4%D0%BC%D0%BE%D1%80%29%20today%2C%20and%20how%20has%20its%20%D1%87%D0%BB%D0%B5%D0%BD%20137%20changed%20since%202005%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: со еден клик се отвора Claude со подготвено прво прашање (годишниот одмор во Законот за работните односи и како се менувал).
+- **[Прашајте го ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=north-macedonia&q=what%20does%20the%20Labour%20Relations%20Act%20%28%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D0%B8%29%20say%20about%20annual%20leave%20%28%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD%20%D0%BE%D0%B4%D0%BC%D0%BE%D1%80%29%20today%2C%20and%20how%20has%20its%20%D1%87%D0%BB%D0%B5%D0%BD%20137%20changed%20since%202005%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: истото прашање во ChatGPT.
+- **[Повикајте го API-то во прелистувач](https://global-law.lexifina.com/v1/search_law?query=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D0%B4%D0%BC%D0%BE%D1%80&jurisdictions=north-macedonia)**: пребарување на македонските прописи за „годишен одмор“, одговор во JSON. Без клуч: 5 повици во минута; [сите алатки](https://global-law.lexifina.com/v1), [клучеви и документација](https://lexifina.com/api).
+
+Асистентите ги читаат податоците преку бесплатниот конектор Global law (MCP, `https://global-law.lexifina.com/mcp`); првиот пат разговорот ја дава врската со која се додава. Во Claude изберете „Always allow“ за да не го потврдувате секој повик. Прашајте на македонски или на англиски.
 
 ## Колку е ажурно
 

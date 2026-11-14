@@ -22,7 +22,7 @@ The law of North Macedonia as a git history: one file per article, one commit pe
 | `ustav/` | the Constitution, one file per article (`clen-NNN.md`) |
 | [ACTS.md](ACTS.md) · `data/` · `tools/` | the act list · tables (`data/acts.json`, `data/versions.json`, `data/laws.csv`, `data/paths.json`) · the tools below |
 
-## Use it
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
@@ -35,6 +35,14 @@ The law of North Macedonia as a git history: one file per article, one commit pe
 | Acts published but not yet in force | `data/pending.json` |
 
 Read dates with the tools, not `git rev-list --before`: they pick each version by its `In-force:` trailer. After a rebuild, refresh tags with `git fetch --force --tags`.
+
+**Or ask in plain words.** The same record is free to use without git, an account or a key:
+
+- **[Ask Claude about Macedonian law](https://global-law.lexifina.com/v1/try_claude?country=north-macedonia&q=what%20does%20the%20Labour%20Relations%20Act%20%28%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D0%B8%29%20say%20about%20annual%20leave%20%28%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD%20%D0%BE%D0%B4%D0%BC%D0%BE%D1%80%29%20today%2C%20and%20how%20has%20its%20%D1%87%D0%BB%D0%B5%D0%BD%20137%20changed%20since%202005%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: one click opens Claude with a first question ready (annual leave in the Labour Relations Act, and how it has changed).
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=north-macedonia&q=what%20does%20the%20Labour%20Relations%20Act%20%28%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%B7%D0%B0%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BD%D0%B8%D1%82%D0%B5%20%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D0%B8%29%20say%20about%20annual%20leave%20%28%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD%20%D0%BE%D0%B4%D0%BC%D0%BE%D1%80%29%20today%2C%20and%20how%20has%20its%20%D1%87%D0%BB%D0%B5%D0%BD%20137%20changed%20since%202005%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D0%B4%D0%BC%D0%BE%D1%80&jurisdictions=north-macedonia)**: Macedonian law searched for "годишен одмор", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+
+The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. In Claude, choose "Always allow" so that each look-up is not asked about. Ask in Macedonian or in English.
 
 ## How current is it
 
