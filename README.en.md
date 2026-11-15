@@ -30,7 +30,8 @@ The text is in Macedonian (Cyrillic), as Службен весник prints it. 
 
 - **[Ask Claude about North Macedonian law](https://global-law.lexifina.com/v1/try_claude?country=north-macedonia)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=north-macedonia)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D0%B4%D0%BC%D0%BE%D1%80&jurisdictions=north-macedonia)**: a search of North Macedonian law for "годишен одмор", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search North Macedonian law on our site](https://lexifina.com/law?country=north-macedonia&q=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D0%B4%D0%BC%D0%BE%D1%80)**: a search for "годишен одмор", with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D0%B4%D0%BC%D0%BE%D1%80&jurisdiction=north-macedonia)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Macedonian or in English.
 

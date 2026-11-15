@@ -30,7 +30,8 @@
 
 - **[Прашајте го Claude за правото на Северна Македонија](https://global-law.lexifina.com/v1/try_claude?country=north-macedonia)**: го отвора Claude со подготвено прво прашање.
 - **[Прашајте го ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=north-macedonia)**: истото прашање во ChatGPT.
-- **[Повикајте го API-то во прелистувач](https://global-law.lexifina.com/v1/search_law?query=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D0%B4%D0%BC%D0%BE%D1%80&jurisdictions=north-macedonia)**: пребарување на правото на Северна Македонија за „годишен одмор“, одговор во JSON. Документацијата е [тука](https://lexifina.com/api/global-law).
+- **[Пребарувајте го правото на Северна Македонија на нашата страница](https://lexifina.com/law?country=north-macedonia&q=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D0%B4%D0%BC%D0%BE%D1%80)**: пребарување за „годишен одмор“, со текстот на секоја одредба и нејзините верзии, без сметка.
+- **[REST API за програмери](https://global-law.lexifina.com/v1/search_law?query=%D0%B3%D0%BE%D0%B4%D0%B8%D1%88%D0%B5%D0%BD+%D0%BE%D0%B4%D0%BC%D0%BE%D1%80&jurisdiction=north-macedonia)**: истото пребарување како JSON, без клуч. Документацијата е [тука](https://lexifina.com/api/global-law).
 
 Двата асистента го читаат записот преку бесплатниот конектор Global law (MCP, `https://global-law.lexifina.com/mcp`); првиот пат разговорот ви ја дава врската со која се додава. Прашајте на македонски или на англиски.
 
