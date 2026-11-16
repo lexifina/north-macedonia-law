@@ -88,6 +88,10 @@ python3 tools/law.py show 2026-01-01 north-macedonia/national/acts/ustav/clen-00
 
 Ова е превод на англиската верзија ([README.en.md](README.en.md)); ако се разликуваат, важи англиската верзија.
 
+## Визуелизации
+
+- [visualisations/](visualisations/): графикони нацртани од ова складиште. Сè уште не се нацртани.
+
 ## Повеќе
 
 Од репозиториумот [lexifina/global-law](https://github.com/lexifina/global-law) (на англиски):
