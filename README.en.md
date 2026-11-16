@@ -61,6 +61,7 @@ Each act's text is credited to the act itself, as the Gazette cites it; each cha
 - `tools/build/check_repo.py` reads every version back from git on the day it took effect and on the day before and compares it with the corpus the history is built from; it also checks that every commit's trailers parse, that `main` has no merge commits and that nothing is dated in the future. [`REPRODUCE.md`](REPRODUCE.md) says how the history is built.
 - Each act's text is its Gazette PDF's own text layer, split into articles by the page layout, with no OCR and no model; each amendment to the Constitution is applied by code to the provision its own instruction names.
 - History is append-only: a text later found to read differently is corrected in a labelled commit (`Kind: correction`, 47 so far), and both versions are kept.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in North Macedonian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
